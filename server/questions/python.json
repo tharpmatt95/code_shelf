@@ -1,82 +1,1402 @@
 [
-  {
-    "id": "py-001",
-    "title": "What does this code print?",
-    "code": "x = 5\nprint(type(x))",
-    "options": ["<class 'int'>", "<class 'float'>", "<class 'number'>", "int"],
-    "correctIndex": 0,
-    "explanation": "In Python, integers are instances of the built-in type 'int'."
-  },
-  {
-    "id": "py-002",
-    "title": "What is the value of 'result'?",
-    "code": "result = 10 // 3",
-    "options": ["3.33", "3", "4", "Error"],
-    "correctIndex": 1,
-    "explanation": "// is floor division; it returns the integer part only."
-  },
-  {
-    "id": "py-003",
-    "title": "What does this code print?",
-    "code": "nums = [1, 2, 3]\nprint(nums[-1])",
-    "options": ["1", "3", "IndexError", "None"],
-    "correctIndex": 1,
-    "explanation": "Negative indexing allows access from the end; −1 returns the last element."
-  },
-  {
-    "id": "py-004",
-    "title": "What is printed?",
-    "code": "def add(a, b=2):\n    return a + b\n\nprint(add(3))",
-    "options": ["2", "3", "5", "Error"],
-    "correctIndex": 2,
-    "explanation": "b defaults to 2 if not passed."
-  },
-  {
-    "id": "py-005",
-    "title": "What does this evaluate to?",
-    "code": "bool('hello')",
-    "options": ["True", "False", "None", "Error"],
-    "correctIndex": 0,
-    "explanation": "Any non-empty string is True in boolean context."
-  },
-  {
-    "id": "py-006",
-    "title": "What is printed?",
-    "code": "for i in range(3):\n    print(i)",
-    "options": ["1 2 3", "0 1 2", "0 1 2 3", "Error"],
-    "correctIndex": 1,
-    "explanation": "range(3) yields 0, 1, 2."
-  },
-  {
-    "id": "py-007",
-    "title": "What is the value of x?",
-    "code": "x = 'Python'[::-1]",
-    "options": ["nohtyP", "error", "['P', 'y', ...]", "None"],
-    "correctIndex": 0,
-    "explanation": "Reversing a string is done with slicing [::-1]."
-  },
-  {
-    "id": "py-008",
-    "title": "What is printed?",
-    "code": "x = { 'a': 1, 'b': 2 }\nprint(x.get('c'))",
-    "options": ["None", "0", "Error", "''"],
-    "correctIndex": 0,
-    "explanation": "dict.get() returns None when the key does not exist unless a default is provided."
-  },
-  {
-    "id": "py-009",
-    "title": "What happens?",
-    "code": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print('error')",
-    "options": ["Crash", "Nothing", "error", "0"],
-    "correctIndex": 2,
-    "explanation": "Division by zero raises ZeroDivisionError, which is caught."
-  },
-  {
-    "id": "py-010",
-    "title": "What does this return?",
-    "code": "len({'a': 1, 'b': 2, 'c': 3})",
-    "options": ["3", "6", "2", "Error"],
-    "correctIndex": 0,
-    "explanation": "len() on a dict returns the number of keys."
-  }
+{
+"id": "py-001",
+"title": "What does this code print?",
+"code": "x = 5\nprint(type(x))",
+"options": ["<class 'int'>", "<class 'float'>", "<class 'number'>", "int"],
+"correctIndex": 0,
+"explanation": "In Python, integers are instances of the built-in type 'int'."
+},
+{
+"id": "py-002",
+"title": "What is the value of 'result'?",
+"code": "result = 10 // 3",
+"options": ["3.33", "3", "4", "Error"],
+"correctIndex": 1,
+"explanation": "// is floor division; it returns the integer part only."
+},
+{
+"id": "py-003",
+"title": "What does this code print?",
+"code": "nums = [1, 2, 3]\nprint(nums[-1])",
+"options": ["1", "3", "IndexError", "None"],
+"correctIndex": 1,
+"explanation": "Negative indexing allows access from the end; −1 returns the last element."
+},
+{
+"id": "py-004",
+"title": "What is printed?",
+"code": "def add(a, b=2):\n    return a + b\n\nprint(add(3))",
+"options": ["2", "3", "5", "Error"],
+"correctIndex": 2,
+"explanation": "b defaults to 2 if not passed."
+},
+{
+"id": "py-005",
+"title": "What does this evaluate to?",
+"code": "bool('hello')",
+"options": ["True", "False", "None", "Error"],
+"correctIndex": 0,
+"explanation": "Any non-empty string is True in boolean context."
+},
+{
+"id": "py-006",
+"title": "What is printed?",
+"code": "for i in range(3):\n    print(i)",
+"options": ["1 2 3", "0 1 2", "0 1 2 3", "Error"],
+"correctIndex": 1,
+"explanation": "range(3) yields 0, 1, 2."
+},
+{
+"id": "py-007",
+"title": "What is the value of x?",
+"code": "x = 'Python'[::-1]",
+"options": ["nohtyP", "error", "['P', 'y', ...]", "None"],
+"correctIndex": 0,
+"explanation": "Reversing a string is done with slicing [::-1]."
+},
+{
+"id": "py-008",
+"title": "What is printed?",
+"code": "x = { 'a': 1, 'b': 2 }\nprint(x.get('c'))",
+"options": ["None", "0", "Error", "''"],
+"correctIndex": 0,
+"explanation": "dict.get() returns None when the key does not exist unless a default is provided."
+},
+{
+"id": "py-009",
+"title": "What happens?",
+"code": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print('error')",
+"options": ["Crash", "Nothing", "error", "0"],
+"correctIndex": 2,
+"explanation": "Division by zero raises ZeroDivisionError, which is caught."
+},
+{
+"id": "py-010",
+"title": "What does this return?",
+"code": "len({'a': 1, 'b': 2, 'c': 3})",
+"options": ["3", "6", "2", "Error"],
+"correctIndex": 0,
+"explanation": "len() on a dict returns the number of keys."
+},
+{
+"id": "py-011",
+"title": "What does this code print?",
+"code": "print(abs(-7))",
+"options": ["-7", "7", "1", "Error"],
+"correctIndex": 1,
+"explanation": "abs() returns the absolute value; abs(-7) is 7."
+},
+{
+"id": "py-012",
+"title": "What is the value of 'result'?",
+"code": "result = all([True, 1, 0])",
+"options": ["True", "False", "0", "1"],
+"correctIndex": 1,
+"explanation": "all() returns True only if all elements are truthy; 0 is falsy, so the result is False."
+},
+{
+"id": "py-013",
+"title": "What is the value of 'result'?",
+"code": "result = any([0, '', None])",
+"options": ["True", "False", "None", "Error"],
+"correctIndex": 1,
+"explanation": "any() returns True if at least one element is truthy; all given values are falsy, so it returns False."
+},
+{
+"id": "py-014",
+"title": "What does this code print?",
+"code": "print(bin(5))",
+"options": ["'5'", "'0b101'", "'101'", "0b5"],
+"correctIndex": 1,
+"explanation": "bin(5) returns the binary representation as the string '0b101'."
+},
+{
+"id": "py-015",
+"title": "What does this code print?",
+"code": "print(bool([]))",
+"options": ["True", "False", "[]", "Error"],
+"correctIndex": 1,
+"explanation": "Empty containers like [] are falsy, so bool([]) is False."
+},
+{
+"id": "py-016",
+"title": "What is printed?",
+"code": "print(chr(65))",
+"options": ["'A'", "'65'", "65", "Error"],
+"correctIndex": 0,
+"explanation": "chr(65) returns the character with Unicode code point 65, which is 'A'."
+},
+{
+"id": "py-017",
+"title": "What does this code print?",
+"code": "print(divmod(7, 3))",
+"options": ["(2, 1)", "(2, 3)", "(1, 2)", "Error"],
+"correctIndex": 0,
+"explanation": "divmod(7, 3) returns a tuple (quotient, remainder) = (2, 1)."
+},
+{
+"id": "py-018",
+"title": "What is printed?",
+"code": "print(float('3.5'))",
+"options": ["3.5", "'3.5'", "3", "Error"],
+"correctIndex": 0,
+"explanation": "float('3.5') converts the string to a float value 3.5."
+},
+{
+"id": "py-019",
+"title": "What does this evaluate to?",
+"code": "format(3.14159, '.2f')",
+"options": ["'3.14'", "'3.14159'", "3.14", "3.14159"],
+"correctIndex": 0,
+"explanation": "format(x, '.2f') returns a string with the number rounded to 2 decimal places."
+},
+{
+"id": "py-020",
+"title": "What is the value of 's'?",
+"code": "s = frozenset([1, 2, 2])\nprint(len(s))",
+"options": ["1", "2", "3", "Error"],
+"correctIndex": 1,
+"explanation": "frozenset removes duplicates; {1, 2} has length 2."
+},
+{
+"id": "py-021",
+"title": "What does this code print?",
+"code": "class A:\n x = 10\n\nobj = A()\nprint(getattr(obj, 'x', 0))",
+"options": ["10", "0", "None", "Error"],
+"correctIndex": 0,
+"explanation": "getattr(obj, 'x', 0) returns the attribute x since it exists, so 10 is printed."
+},
+{
+"id": "py-022",
+"title": "What does this code print?",
+"code": "class A:\n pass\n\nobj = A()\nprint(hasattr(obj, 'x'))",
+"options": ["True", "False", "None", "Error"],
+"correctIndex": 1,
+"explanation": "The object has no attribute 'x', so hasattr(obj, 'x') is False."
+},
+{
+"id": "py-023",
+"title": "What does this code print?",
+"code": "print(hex(255))",
+"options": ["'255'", "'0xff'", "255", "0xff"],
+"correctIndex": 1,
+"explanation": "hex(255) returns the hexadecimal string '0xff'."
+},
+{
+"id": "py-024",
+"title": "What is the value of 'n'?",
+"code": "n = int('10', 2)\nprint(n)",
+"options": ["2", "10", "8", "Error"],
+"correctIndex": 0,
+"explanation": "int('10', 2) interprets '10' as a base-2 number, which equals 2 in decimal."
+},
+{
+"id": "py-025",
+"title": "What does this evaluate to?",
+"code": "isinstance(3, bool)",
+"options": ["True", "False", "None", "Error"],
+"correctIndex": 1,
+"explanation": "3 is an int, not a bool, so isinstance(3, bool) is False."
+},
+{
+"id": "py-026",
+"title": "What is printed?",
+"code": "print(list(enumerate(['a', 'b'])))",
+"options": ["[(1, 'a'), (2, 'b')]", "[(0, 'a'), (1, 'b')]", "['a', 'b']", "['0a', '1b']"],
+"correctIndex": 1,
+"explanation": "enumerate by default starts at 0, so the pairs are (0, 'a') and (1, 'b')."
+},
+{
+"id": "py-027",
+"title": "What does this code print?",
+"code": "print(list(map(str, [1, 2, 3])))",
+"options": ["['1', '2', '3']", "[1, 2, 3]", "('1', '2', '3')", "Error"],
+"correctIndex": 0,
+"explanation": "map(str, [1, 2, 3]) converts each number to a string; list() makes a list of those strings."
+},
+{
+"id": "py-028",
+"title": "What is printed?",
+"code": "print(list(reversed([1, 2, 3])))",
+"options": ["[1, 2, 3]", "[3, 2, 1]", "(3, 2, 1)", "Error"],
+"correctIndex": 1,
+"explanation": "reversed() returns an iterator over the sequence in reverse; list() collects it into [3, 2, 1]."
+},
+{
+"id": "py-029",
+"title": "What is the value of 'total'?",
+"code": "total = sum([1, 2, 3])\nprint(total)",
+"options": ["3", "6", "7", "Error"],
+"correctIndex": 1,
+"explanation": "sum([1, 2, 3]) adds the elements: 1 + 2 + 3 = 6."
+},
+{
+"id": "py-030",
+"title": "What does this code print?",
+"code": "print(list(zip([1, 2], [3, 4])))",
+"options": ["[(1, 2), (3, 4)]", "[(1, 3), (2, 4)]", "[1, 2, 3, 4]", "[(1, 3, 2, 4)]"],
+"correctIndex": 1,
+"explanation": "zip pairs corresponding elements: (1, 3) and (2, 4), resulting in [(1, 3), (2, 4)]."
+},
+{
+"id": "py-031",
+"title": "What is printed?",
+"code": "rows = [\n ('alice', 'admin'),\n ('bob', 'editor'),\n ('carol', 'viewer'),\n]\n\nroles = dict(rows)\nroles['dave'] = 'guest'\nprint(len(roles), roles.get('bob'))",
+"options": ["3 editor", "4 editor", "4 guest", "3 guest"],
+"correctIndex": 1,
+"explanation": "dict() can build a dictionary from a list of (key, value) tuples. After adding 'dave', there are 4 entries and 'bob' still maps to 'editor', so the tuple printed is (4, 'editor')."
+},
+{
+"id": "py-032",
+"title": "What is printed after processing the response bytes?",
+"code": "response = b'OK 200'\nbuffer = bytearray(response)\n\n# Overwrite the status code text\nbuffer[:2] = b'NO'\ncode = buffer.split()[1].decode('ascii')\n\nprint(buffer.decode('ascii'), code)",
+"options": ["OK 200 200", "NO 200 200", "NO 200 20", "OK 200 20"],
+"correctIndex": 1,
+"explanation": "bytes is immutable, so we copy into a bytearray, mutate the first two bytes from b'OK' to b'NO', then split into [b'NO', b'200']. Decoding gives 'NO 200' and '200', so print outputs 'NO 200 200'."
+},
+{
+"id": "py-033",
+"title": "What is printed?",
+"code": "def send_email():\n return 'sent'\n\nactions = [send_email, 'retry', None]\nresults = [callable(a) for a in actions]\n\nprint(results.count(True), results)",
+"options": ["1 [True, False, False]", "2 [True, False, True]", "3 [True, True, True]", "0 [False, False, False]"],
+"correctIndex": 0,
+"explanation": "callable() returns True only for objects that can be called. Here, send_email is callable but the string and None are not, so results is [True, False, False] and the count of True values is 1."
+},
+{
+"id": "py-034",
+"title": "What does this code print?",
+"code": "sensor_readings = [complex(1, 2), complex(-3, 4), complex(0, -5)]\n\nmagnitudes = [abs(r) for r in sensor_readings]\nprint(round(max(magnitudes), 1))",
+"options": ["5", "5.0", "4.6", "2.2"],
+"correctIndex": 1,
+"explanation": "complex() constructs complex numbers. abs() on a complex number returns its magnitude. The magnitudes are √5, 5, and 5, so max is 5. round(5, 1) formats it as the float 5.0."
+},
+{
+"id": "py-035",
+"title": "What is printed?",
+"code": "class Config:\n def init(self):\n self.debug = True\n self.version = '1.0'\n\ncfg = Config()\ndelattr(cfg, 'debug')\n\nprint(hasattr(cfg, 'debug'), cfg.version)",
+"options": ["True 1.0", "False 1.0", "False True", "AttributeError"],
+"correctIndex": 1,
+"explanation": "delattr(obj, name) removes the named attribute from that instance. After deleting 'debug', hasattr(cfg, 'debug') is False, while cfg.version remains '1.0'."
+},
+{
+"id": "py-036",
+"title": "What is the value of 'result'?",
+"code": "expr = 'price * quantity - discount'\ncontext = {'price': 100, 'quantity': 3, 'discount': 50}\n\nresult = eval(expr, {}, context)\nprint(result)",
+"options": ["150", "250", "300", "350"],
+"correctIndex": 1,
+"explanation": "eval() evaluates the expression using the provided dictionaries as globals and locals. With price=100, quantity=3, discount=50, the expression is 100 * 3 - 50 = 250."
+},
+{
+"id": "py-037",
+"title": "What is printed?",
+"code": "namespace = {}\ncode = (\n 'total = 0\n'\n 'for n in [1, 2, 3]:\n'\n ' total += n\n'\n)\n\nexec(code, {}, namespace)\nprint(namespace['total'])",
+"options": ["0", "3", "6", "Error"],
+"correctIndex": 2,
+"explanation": "exec() executes the code string with the given globals and locals. The loop sums 1 + 2 + 3 into total, which ends up as 6 and is stored in the namespace dict."
+},
+{
+"id": "py-038",
+"title": "What is printed?",
+"code": "users = [\n {'name': 'Alice', 'active': True},\n {'name': 'Bob', 'active': False},\n {'name': 'Carol', 'active': True},\n]\n\nactive_names = [u['name'] for u in filter(lambda u: u['active'], users)]\nprint(active_names)",
+"options": ["['Alice']", "['Bob', 'Carol']", "['Alice', 'Carol']", "[]"],
+"correctIndex": 2,
+"explanation": "filter() keeps only items where the predicate is truthy. Only Alice and Carol have 'active': True, so the resulting list of names is ['Alice', 'Carol']."
+},
+{
+"id": "py-039",
+"title": "After calling 'increment' three times, what is printed?",
+"code": "counter = 0\n\ndef increment():\n g = globals()\n g['counter'] += 1\n\nfor _ in range(3):\n increment()\n\nprint(counter)",
+"options": ["0", "1", "2", "3"],
+"correctIndex": 3,
+"explanation": "globals() returns the dictionary of module-level variables. increment() looks up 'counter' there and increments it in-place. After three calls, counter is 3."
+},
+{
+"id": "py-040",
+"title": "What is printed?",
+"code": "config = {'debug': True}\nalias = config\n\nconfig['debug'] = False\n\nprint(id(config) == id(alias), alias['debug'])",
+"options": ["True True", "True False", "False True", "False False"],
+"correctIndex": 1,
+"explanation": "id() shows that config and alias reference the same object, so the IDs are equal (True). Updating config['debug'] also affects alias, so alias['debug'] is False."
+},
+{
+"id": "py-041",
+"title": "What does this code print?",
+"code": "class Animal:\n pass\n\nclass Dog(Animal):\n pass\n\nprint(issubclass(Dog, Animal), issubclass(Animal, Dog))",
+"options": ["True True", "False False", "True False", "False True"],
+"correctIndex": 2,
+"explanation": "issubclass(Dog, Animal) is True because Dog inherits from Animal. The reverse is not true, so issubclass(Animal, Dog) is False."
+},
+{
+"id": "py-042",
+"title": "What is printed?",
+"code": "data = iter([5, 10, 15])\n\nnext(data) # skip the first item\nprint(next(data), next(data))",
+"options": ["5 10", "5 15", "10 15", "StopIteration"],
+"correctIndex": 2,
+"explanation": "iter() creates an iterator. The first next(data) discards 5. The next two calls yield 10 and 15, so '10 15' is printed."
+},
+{
+"id": "py-043",
+"title": "What does this code print?",
+"code": "words = ['log', 'error', 'ok']\n\nprint(max(words, key=len), min(words, key=len))",
+"options": ["ok log", "log ok", "error ok", "ok error"],
+"correctIndex": 2,
+"explanation": "max(..., key=len) picks the longest word ('error'), and min(..., key=len) picks the shortest ('ok'), so the output is 'error ok'."
+},
+{
+"id": "py-044",
+"title": "Assuming the file operations succeed, what is printed?",
+"code": "with open('log.txt', 'w') as f:\n f.write('ok\nfailed\n')\n\nwith open('log.txt') as f:\n lines = [line.strip() for line in f]\n\nprint(len(lines), lines[1].upper())",
+"options": ["1 OK", "2 FAILED", "2 failed", "3 FAILED"],
+"correctIndex": 1,
+"explanation": "open() is used to write then read a small log file. After splitting into lines and stripping, lines is ['ok', 'failed'], so len(lines) is 2 and lines[1].upper() is 'FAILED'."
+},
+{
+"id": "py-045",
+"title": "What is the value of 'result'?",
+"code": "result = pow(5, 3, 13)\nprint(result)",
+"options": ["5", "8", "12", "125"],
+"correctIndex": 1,
+"explanation": "pow(a, b, c) computes ab % c. Here, 53 is 125; 125 % 13 is 8, so result is 8."
+},
+{
+"id": "py-046",
+"title": "What is printed?",
+"code": "class User:\n def init(self, name):\n self._name = name\n\n @property\n def name(self):\n return self._name.title()\n\nu = User('alice smith')\nprint(u.name)",
+"options": ["alice smith", "ALICE SMITH", "Alice smith", "Alice Smith"],
+"correctIndex": 3,
+"explanation": "The @property decorator makes name a computed attribute. str.title() capitalizes each word, so 'alice smith' becomes 'Alice Smith'."
+},
+{
+"id": "py-047",
+"title": "What is the value of 'pages'?",
+"code": "pages = list(range(5, 20, 5))\nprint(pages)",
+"options": ["[0, 5, 10, 15]", "[5, 10, 15]", "[5, 10, 15, 20]", "[10, 15, 20]"],
+"correctIndex": 1,
+"explanation": "range(start, stop, step) generates numbers start, start+step, ... up to but not including stop. With 5 to 20 by 5, the numbers are 5, 10, and 15."
+},
+{
+"id": "py-048",
+"title": "What does this code print?",
+"code": "scores = [\n ('alice', 90),\n ('bob', 75),\n ('carol', 90),\n]\n\ntop = sorted(scores, key=lambda s: (-s[1], s[0]))[0]\nprint(top)",
+"options": ["('alice', 90)", "('bob', 75)", "('carol', 90)", "[('alice', 90)]"],
+"correctIndex": 0,
+"explanation": "sorted() orders by the given key. Here we sort by score descending (−s[1]) and then by name ascending. Both alice and carol have 90, but 'alice' comes first, so the first element is ('alice', 90)."
+},
+{
+"id": "py-049",
+"title": "What is printed?",
+"code": "tags = ['python', 'ai', 'python', 'quiz']\nunique = sorted(set(tags))\n\nprint(len(unique), ', '.join(unique))",
+"options": ["3 python, ai, quiz", "4 ai, python, quiz", "3 ai, python, quiz", "2 ai, quiz"],
+"correctIndex": 2,
+"explanation": "set() removes duplicates, leaving {'python', 'ai', 'quiz'}. sorted() orders them as ['ai', 'python', 'quiz'], so len(unique) is 3 and the joined string is 'ai, python, quiz'."
+},
+{
+"id": "py-050",
+"title": "What is printed?",
+"code": "module_name = 'math'\nmath_mod = import(module_name)\n\nprint(math_mod.sqrt(16))",
+"options": ["2", "4", "4.0", "16"],
+"correctIndex": 2,
+"explanation": "import('math') returns the math module object. math.sqrt(16) returns the float 4.0, which is what gets printed."
+},
+{
+"id": "py-051",
+"title": "What happens when this code is executed?",
+"code": "False = 1\nprint(False)",
+"options": ["1", "False", "True", "SyntaxError"],
+"correctIndex": 3,
+"explanation": "Assignments to False, True, None, or debug are illegal. Python raises a SyntaxError before execution."
+},
+{
+"id": "py-052",
+"title": "What is printed?",
+"code": "def process(data=None):\n if data is None:\n return 'no data'\n return 'data received'\n\nprint(process(), process(5))",
+"options": ["no data data received", "None 5", "False True", "Error"],
+"correctIndex": 0,
+"explanation": "None is commonly used as a sentinel default. process() returns 'no data', and process(5) returns 'data received'."
+},
+{
+"id": "py-053",
+"title": "What happens when comparing two custom types?",
+"code": "class A:\n def eq(self, other):\n return NotImplemented\n\nprint(A() == 3)",
+"options": ["False", "True", "NotImplemented", "TypeError"],
+"correctIndex": 0,
+"explanation": "Returning NotImplemented tells Python to try the reflected comparison. Since 3.__eq__(A()) returns False, the result is False."
+},
+{
+"id": "py-054",
+"title": "What is printed?",
+"code": "try:\n if NotImplemented:\n print('yes')\nexcept Exception as e:\n print(type(e).name)",
+"options": ["yes", "TypeError", "ValueError", "NotImplemented"],
+"correctIndex": 1,
+"explanation": "As of Python 3.14, evaluating NotImplemented in a boolean context raises a TypeError."
+},
+{
+"id": "py-055",
+"title": "What is printed?",
+"code": "template = ...\nprint(type(template).name)",
+"options": ["ellipsis", "EllipsisType", "NoneType", "Error"],
+"correctIndex": 1,
+"explanation": "... is the Ellipsis literal. Its type name is 'EllipsisType'."
+},
+{
+"id": "py-056",
+"title": "What is the result?",
+"code": "val = ...\nprint(val is Ellipsis)",
+"options": ["True", "False", "TypeError", "SyntaxError"],
+"correctIndex": 0,
+"explanation": "The literal ... is the same object as Ellipsis. val is Ellipsis is True."
+},
+{
+"id": "py-057",
+"title": "What is printed?",
+"code": "print(debug)",
+"options": ["True", "False", "None", "Depends on environment"],
+"correctIndex": 3,
+"explanation": "debug is True unless Python is run with -O optimization enabled."
+},
+{
+"id": "py-058",
+"title": "What happens?",
+"code": "quit",
+"options": ["Nothing", "SystemExit", "Prints a message about quitting", "NameError"],
+"correctIndex": 2,
+"explanation": "The site module installs quit, which when printed or referenced displays a message about how to exit the interpreter."
+},
+{
+"id": "py-059",
+"title": "What happens when this code runs in a script?",
+"code": "exit(2)",
+"options": ["Does nothing", "Prints exit instructions", "Raises SystemExit with code 2", "SyntaxError"],
+"correctIndex": 2,
+"explanation": "exit() raises SystemExit with the given code. In scripts, this terminates the program."
+},
+{
+"id": "py-060",
+"title": "What does this code do?",
+"code": "print(help)",
+"options": ["Prints the help menu", "Calls the help system", "Prints a help-related message", "Raises an exception"],
+"correctIndex": 2,
+"explanation": "Printing help prints a message instructing the user to use help(). Accessing it without calling does not invoke help()."
+},
+{
+"id": "py-061",
+"title": "What happens in a script when calling copyright()?",
+"code": "copyright()",
+"options": ["Prints the copyright text", "Raises SystemExit", "Does nothing", "SyntaxError"],
+"correctIndex": 0,
+"explanation": "Calling copyright() prints the stored copyright text."
+},
+{
+"id": "py-062",
+"title": "What happens?",
+"code": "license",
+"options": ["Prints Python license instructions", "Shows full license immediately", "Raises SystemExit", "Nothing"],
+"correctIndex": 0,
+"explanation": "Printing or referencing license prints the message telling users to call license() to show license text."
+},
+{
+"id": "py-063",
+"title": "What is printed?",
+"code": "x = NotImplemented\nprint(x == NotImplemented, type(x).name)",
+"options": ["True NotImplementedType", "False NotImplementedType", "True bool", "Error"],
+"correctIndex": 0,
+"explanation": "NotImplemented is a singleton instance of NotImplementedType and compares identical to itself."
+},
+{
+"id": "py-064",
+"title": "What happens when this code runs?",
+"code": "None = 5",
+"options": ["None becomes 5", "RuntimeError", "SyntaxError", "NameError"],
+"correctIndex": 2,
+"explanation": "Assignments to None are prohibited and produce a SyntaxError before execution."
+},
+{
+"id": "py-065",
+"title": "What happens when evaluating this expression?",
+"code": "value = NotImplemented or True\nprint(value)",
+"options": ["True", "NotImplemented", "TypeError", "False"],
+"correctIndex": 2,
+"explanation": "As of Python 3.14, using NotImplemented in boolean evaluation raises TypeError."
+},
+{
+"id": "py-066",
+"title": "Which object is a singleton?",
+"code": "print(len({None, None, None}))",
+"options": ["1", "3", "0", "Error"],
+"correctIndex": 0,
+"explanation": "None is a singleton, so adding it repeatedly to a set yields only one element."
+},
+{
+"id": "py-067",
+"title": "What is printed?",
+"code": "def f(x):\n if x is Ellipsis:\n return 'placeholder'\n return 'value'\n\nprint(f(...))",
+"options": ["...", "placeholder", "value", "Error"],
+"correctIndex": 1,
+"explanation": "... is Ellipsis, so the condition matches, returning 'placeholder'."
+},
+{
+"id": "py-068",
+"title": "What is the output?",
+"code": "print(type(NotImplemented), type(Ellipsis), type(None))",
+"options": [
+"<class 'types.NotImplementedType'> <class 'types.EllipsisType'> <class 'NoneType'>",
+"<class 'object'> <class 'object'> <class 'object'>",
+"NotImplemented Ellipsis None",
+"TypeError"
+],
+"correctIndex": 0,
+"explanation": "Each constant has its own dedicated singleton type: NotImplementedType, EllipsisType, and NoneType."
+},
+{
+"id": "py-069",
+"title": "What happens in a normal script environment?",
+"code": "help('modules')",
+"options": ["Lists available modules", "Prints help object", "Raises SystemExit", "Does nothing"],
+"correctIndex": 0,
+"explanation": "Calling help() invokes the help system. help('modules') lists installed modules."
+},
+{
+"id": "py-070",
+"title": "What happens?",
+"code": "debug = False\nprint(debug)",
+"options": ["False", "True", "SyntaxError", "Depends on -O flag"],
+"correctIndex": 3,
+"explanation": "Assignments to debug are illegal, so Python raises a SyntaxError before runtime."
+},
+{
+"id": "py-071",
+"title": "What happens when this script is executed (not in an interactive shell)?",
+"code": "print(quit)",
+"options": [
+"It prints a message about how to exit the interpreter.",
+"It immediately exits the script.",
+"It raises SystemExit.",
+"It prints None."
+],
+"correctIndex": 0,
+"explanation": "Printing quit prints its help-style message. Calling it would raise SystemExit, but simply printing it does not exit."
+},
+{
+"id": "py-072",
+"title": "What happens inside a script when this code runs?",
+"code": "try:\n exit()\nexcept SystemExit:\n print('exiting')",
+"options": [
+"Nothing happens.",
+"It prints 'exiting'.",
+"It prints a quit message.",
+"It raises SyntaxError."
+],
+"correctIndex": 1,
+"explanation": "Calling exit() raises SystemExit. The exception is caught, so 'exiting' is printed."
+},
+{
+"id": "py-073",
+"title": "What is printed inside a script?",
+"code": "print(help)",
+"options": [
+"A message describing how to use help().",
+"Full help documentation.",
+"Nothing.",
+"A SystemExit exception is raised."
+],
+"correctIndex": 0,
+"explanation": "Printing help shows its short informational message. Calling help() would start the help system."
+},
+{
+"id": "py-074",
+"title": "What happens when running this code in a script?",
+"code": "try:\n help()\nexcept SystemExit:\n print('help closed')",
+"options": [
+"Help information appears.",
+"It prints 'help closed'.",
+"It raises SyntaxError.",
+"Nothing happens."
+],
+"correctIndex": 0,
+"explanation": "Calling help() launches the built-in help viewer. It does not raise SystemExit, so nothing in the except block executes."
+},
+{
+"id": "py-075",
+"title": "What is printed?",
+"code": "print(copyright)",
+"options": [
+"The full copyright text.",
+"A short message explaining how to view copyright info.",
+"Nothing.",
+"Raises SystemExit."
+],
+"correctIndex": 1,
+"explanation": "Printing copyright prints a short informational message. Calling copyright() prints the full text."
+},
+{
+"id": "py-076",
+"title": "What is printed?",
+"code": "print(credits)",
+"options": [
+"A list of contributors.",
+"A short message about viewing credits.",
+"It immediately prints the full credits text.",
+"It raises SystemExit."
+],
+"correctIndex": 1,
+"explanation": "Printing credits shows a message instructing the user how to view full credits. Calling credits() displays the full text."
+},
+{
+"id": "py-077",
+"title": "What happens when this code runs?",
+"code": "license()",
+"options": [
+"It prints a short message about viewing the license.",
+"It prints the entire license in a paginated view.",
+"It raises SystemExit.",
+"It prints nothing."
+],
+"correctIndex": 1,
+"explanation": "Calling license() displays the full license text in a pager-like viewer."
+},
+{
+"id": "py-078",
+"title": "What is printed inside a script?",
+"code": "print(license)",
+"options": [
+"The full license text.",
+"A short prompt instructing to call license().",
+"Nothing.",
+"Raises SystemExit."
+],
+"correctIndex": 1,
+"explanation": "Printing the license object prints a short message telling the user to call license() to see the full text."
+},
+{
+"id": "py-079",
+"title": "Which statement is true about site-module-added constants?",
+"code": "x = quit\nprint(callable(x))",
+"options": [
+"True, because quit is a function.",
+"False, because quit is not callable.",
+"True only inside the Python REPL.",
+"It depends on how Python was installed."
+],
+"correctIndex": 0,
+"explanation": "quit is implemented as a helper object, but it is callable and raises SystemExit when called."
+},
+{
+"id": "py-080",
+"title": "What happens when this script runs?",
+"code": "try:\n quit(5)\nexcept SystemExit as e:\n print(e.code)",
+"options": [
+"It prints '5'.",
+"It prints a quit instruction message.",
+"It does nothing.",
+"It prints 'None'."
+],
+"correctIndex": 0,
+"explanation": "Calling quit(5) raises SystemExit(5). The exception is caught and e.code is printed as 5."
+},
+{
+"id": "py-081",
+"title": "What does this code print?",
+"code": "value = []\nif value:\n print('non-empty')\nelse:\n print('empty')",
+"options": ["non-empty", "empty", "False", "Error"],
+"correctIndex": 1,
+"explanation": "An empty list has a truth value of False because its length is zero."
+},
+{
+"id": "py-082",
+"title": "What is printed?",
+"code": "from decimal import Decimal\nx = Decimal('0')\nprint(bool(x))",
+"options": ["True", "False", "0", "Error"],
+"correctIndex": 1,
+"explanation": "Decimal(0) is considered false because it is numerically zero."
+},
+{
+"id": "py-083",
+"title": "What does this code output?",
+"code": "data = {'items': []}\nif data['items']:\n print('has items')\nelse:\n print('no items')",
+"options": ["has items", "no items", "False", "Error"],
+"correctIndex": 1,
+"explanation": "An empty list evaluates to False, so the else branch prints 'no items'."
+},
+{
+"id": "py-084",
+"title": "What is printed?",
+"code": "text = ''\nprint(bool(text), text or 'default')",
+"options": ["False ''", "True default", "False default", "True ''"],
+"correctIndex": 2,
+"explanation": "An empty string is false. text or 'default' returns the first truthy operand, so 'default'."
+},
+{
+"id": "py-085",
+"title": "What is printed?",
+"code": "nums = range(0)\nprint(bool(nums))",
+"options": ["True", "False", "0", "Error"],
+"correctIndex": 1,
+"explanation": "range(0) creates an empty range object, which has a truth value of False."
+},
+{
+"id": "py-086",
+"title": "What is printed?",
+"code": "a = None\nb = False\nprint(bool(a), bool(b), a or 'x', b or 'y')",
+"options": ["False False x y", "False False None False", "True False x y", "False True x y"],
+"correctIndex": 0,
+"explanation": "None and False both evaluate to False. In boolean-or, the first truthy operand is returned, so 'x' and 'y'."
+},
+{
+"id": "py-087",
+"title": "What does this code print?",
+"code": "class Box:\n def len(self):\n return 0\n\nb = Box()\nprint(bool(b))",
+"options": ["True", "False", "Error", "0"],
+"correctIndex": 1,
+"explanation": "If len returns 0, the object is considered False in truth testing."
+},
+{
+"id": "py-088",
+"title": "What is the output?",
+"code": "class Flag:\n def bool(self):\n return False\n\nf = Flag()\nprint(f and 10, f or 10)",
+"options": ["10 0", "False 10", "False 0", "0 10"],
+"correctIndex": 1,
+"explanation": "f and 10 evaluates to f (False), and f or 10 evaluates to 10 because 10 is the first truthy operand."
+},
+{
+"id": "py-089",
+"title": "What is printed?",
+"code": "items = [1, 2, 3]\nprint(items and items[0])",
+"options": ["1", "True", "[1, 2, 3]", "Error"],
+"correctIndex": 0,
+"explanation": "and returns the second operand because the first operand (items) is truthy, so items[0] which is 1."
+},
+{
+"id": "py-090",
+"title": "What does this code print?",
+"code": "value = 0j\nprint(bool(value), value or 'complex zero')",
+"options": ["True 0j", "False complex zero", "False 0j", "Error"],
+"correctIndex": 1,
+"explanation": "0j is a zero-value complex number, so it evaluates to False. value or 'complex zero' returns the truthy fallback."
+},
+{
+"id": "py-091",
+"title": "What does the code print?",
+"code": "x = ''\ny = 'fallback'\nprint(x or y)",
+"options": ["''", "fallback", "True", "False"],
+"correctIndex": 1,
+"explanation": "Because x is false (empty string), x or y returns y due to short-circuit evaluation."
+},
+{
+"id": "py-092",
+"title": "What is printed?",
+"code": "a = 5\nb = 0\nprint(a and b)",
+"options": ["5", "0", "True", "False"],
+"correctIndex": 1,
+"explanation": "and returns the first false operand. Since a is true, evaluation continues and b is returned."
+},
+{
+"id": "py-093",
+"title": "What is the output?",
+"code": "a = 0\nb = 10\nprint(a and b)",
+"options": ["0", "10", "True", "False"],
+"correctIndex": 0,
+"explanation": "Since a is false, and short-circuits and returns a without evaluating b."
+},
+{
+"id": "py-094",
+"title": "What does this print?",
+"code": "flag = None\nprint(flag or True)",
+"options": ["None", "True", "False", "Error"],
+"correctIndex": 1,
+"explanation": "None is false, so flag or True evaluates to True."
+},
+{
+"id": "py-095",
+"title": "What is printed?",
+"code": "x = [1, 2]\ny = []\nprint(x and y)",
+"options": ["[1, 2]", "[]", "True", "False"],
+"correctIndex": 1,
+"explanation": "x is truthy, so and evaluates and returns y. An empty list is false but still returned as the operand."
+},
+{
+"id": "py-096",
+"title": "What is the output?",
+"code": "x = ''\nprint(not x)",
+"options": ["''", "True", "False", "Error"],
+"correctIndex": 1,
+"explanation": "x is false, so not x is True."
+},
+{
+"id": "py-097",
+"title": "What does this print?",
+"code": "a = 3\nb = 3\nprint(not a == b)",
+"options": ["True", "False", "SyntaxError", "Error"],
+"correctIndex": 1,
+"explanation": "not has lower precedence than ==, so it becomes not (a == b) which is not True, resulting in False."
+},
+{
+"id": "py-098",
+"title": "What happens when this code runs?",
+"code": "a = True\nb = False\nprint(a or b and False)",
+"options": ["True", "False", "None", "Error"],
+"correctIndex": 0,
+"explanation": "and has higher precedence than or, so expression becomes a or (b and False). b and False → False; then True or False → True."
+},
+{
+"id": "py-099",
+"title": "What is printed?",
+"code": "value = 0\nprint(value or value and 5)",
+"options": ["0", "5", "True", "False"],
+"correctIndex": 0,
+"explanation": "value is 0 (false), so value or ... immediately returns 0 due to short-circuiting and does not evaluate value and 5."
+},
+{
+"id": "py-100",
+"title": "Which expression is valid?",
+"code": "Choose the valid option:",
+"options": [
+"not a == b",
+"a == not b",
+"not(a ==) b",
+"a = not b"
+],
+"correctIndex": 0,
+"explanation": "not a == b is interpreted as not (a == b) and is valid. a == not b is a syntax error because not cannot appear directly after ==."
+},
+{
+"id": "py-101",
+"title": "What does this code print?",
+"code": "x = 2\ny = 3\nz = 5\n\nprint(x < y <= z)",
+"options": ["True", "False", "TypeError", "Depends on Python version"],
+"correctIndex": 0,
+"explanation": "The chained comparison x < y <= z is equivalent to x < y and y <= z with y evaluated only once. Here 2 < 3 and 3 <= 5 are both True."
+},
+{
+"id": "py-102",
+"title": "What is printed?",
+"code": "x = 10\nprint(0 < x < 10)",
+"options": ["True", "False", "TypeError", "SyntaxError"],
+"correctIndex": 1,
+"explanation": "The expression 0 < x < 10 means 0 < x and x < 10. Since x is 10, 0 < 10 is True but 10 < 10 is False, so the result is False."
+},
+{
+"id": "py-103",
+"title": "What does this code print?",
+"code": "a = [1, 2, 3]\nb = [1, 2, 3]\n\nprint(a == b, a is b)",
+"options": [
+"True True",
+"True False",
+"False True",
+"False False"
+],
+"correctIndex": 1,
+"explanation": "== compares values, so two lists with the same contents compare equal. is checks object identity; a and b are two different list objects, so a is b is False."
+},
+{
+"id": "py-104",
+"title": "What is printed?",
+"code": "a = ()\nb = a\n\nprint(a == b, a is b)",
+"options": [
+"True True",
+"True False",
+"False True",
+"False False"
+],
+"correctIndex": 0,
+"explanation": "b references the same object as a. They are equal in value and identical in identity, so both == and is are True."
+},
+{
+"id": "py-105",
+"title": "What does this code print?",
+"code": "x = 1\ny = True\n\nprint(x == y, x is y)",
+"options": [
+"True True",
+"True False",
+"False True",
+"False False"
+],
+"correctIndex": 1,
+"explanation": "Bool is a subclass of int, so 1 == True is True (numeric comparison). But they are distinct objects, so 1 is True is False."
+},
+{
+"id": "py-106",
+"title": "What happens when this code runs?",
+"code": "z = 3 + 4j\nprint(z < 10)",
+"options": [
+"True",
+"False",
+"TypeError",
+"0"
+],
+"correctIndex": 2,
+"explanation": "Ordering comparisons (<, <=, >, >=) are not defined for complex numbers. Attempting z < 10 raises a TypeError."
+},
+{
+"id": "py-107",
+"title": "What is printed?",
+"code": "class Point:\n def init(self, x):\n self.x = x\n\np1 = Point(1)\np2 = Point(1)\n\nprint(p1 == p2)",
+"options": ["True", "False", "TypeError", "Depends on x"],
+"correctIndex": 1,
+"explanation": "Without a custom eq method, instances of user-defined classes compare by identity. p1 and p2 are different objects, so they compare as non-equal."
+},
+{
+"id": "py-108",
+"title": "What does this code print?",
+"code": "class Item:\n def init(self, price):\n self.price = price\n def lt(self, other):\n return self.price < other.price\n\nitem1 = Item(10)\nitem2 = Item(20)\nprint(item1 < item2, item1 > item2)",
+"options": [
+"True True",
+"True False",
+"False True",
+"False False"
+],
+"correctIndex": 1,
+"explanation": "lt is defined based on price, so item1 < item2 is True. No gt is defined, so Python may fall back via lt; since item2 < item1 is False, item1 > item2 is False."
+},
+{
+"id": "py-109",
+"title": "What is printed?",
+"code": "name = 'alice'\nprint('a' in name, 'z' not in name)",
+"options": [
+"True True",
+"True False",
+"False True",
+"False False"
+],
+"correctIndex": 0,
+"explanation": "in and not in use sequence membership. 'a' is in 'alice', so True. 'z' is not in 'alice', so 'z' not in name is also True."
+},
+{
+"id": "py-110",
+"title": "What does this code print?",
+"code": "nums = [1, 2, 3]\nprint(2 in nums == True)",
+"options": [
+"True",
+"False",
+"TypeError",
+"Depends on Python version"
+],
+"correctIndex": 1,
+"explanation": "This is a chained comparison: 2 in nums == True is interpreted as (2 in nums) and (nums == True). 2 in nums is True, but nums == True is False, so the overall result is False."
+},
+{
+"id": "py-111",
+"title": "What does this code print?",
+"code": "x = 42\nprint(type(x), x.bit_length())",
+"options": [
+"<class 'int'> 6",
+"<class 'int'> 42",
+"<class 'float'> 6",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "Integers have unlimited precision. 42 requires 6 bits in binary (101010). The type is int, and bit_length() is 6."
+},
+{
+"id": "py-112",
+"title": "What is printed?",
+"code": "import sys\nprint(type(sys.float_info.max), sys.float_info.max > 1e300)",
+"options": [
+"<class 'int'> False",
+"<class 'float'> True",
+"<class 'float'> False",
+"Error"
+],
+"correctIndex": 1,
+"explanation": "sys.float_info.max is a float. It is larger than 1e300, so the comparison is True."
+},
+{
+"id": "py-113",
+"title": "What is printed?",
+"code": "z = 3 + 4j\nprint(z.real, z.imag, abs(z))",
+"options": [
+"3.0 4.0 5.0",
+"3 4 5",
+"(3, 4, 7)",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "A complex number stores real and imaginary parts as floats. abs(z) returns its magnitude, √(3²+4²) = 5.0."
+},
+{
+"id": "py-114",
+"title": "What happens in this mixed arithmetic?",
+"code": "x = 5\ny = 2.5\nprint(type(x + y), x + y)",
+"options": [
+"<class 'float'> 7.5",
+"<class 'int'> 7",
+"<class 'complex'> 7.5",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "Mixed arithmetic widens the narrower type. int + float → float, giving 7.5."
+},
+{
+"id": "py-115",
+"title": "What does this print?",
+"code": "print(float('nan'), float('inf'), float('-inf'))",
+"options": [
+"nan inf -inf",
+"0 1 -1",
+"Error",
+"nan nan nan"
+],
+"correctIndex": 0,
+"explanation": "float() accepts the strings 'nan', 'inf', and '-inf' and returns the corresponding special floating-point values."
+},
+{
+"id": "py-116",
+"title": "What is printed?",
+"code": "print(int(3.99), int(-3.99))",
+"options": [
+"3 -3",
+"4 -4",
+"4 -3",
+"3 -4"
+],
+"correctIndex": 0,
+"explanation": "int() truncates toward zero, discarding the fractional part. 3.99 → 3, -3.99 → -3."
+},
+{
+"id": "py-117",
+"title": "What is printed?",
+"code": "print(7 // 3, 7 / 3)",
+"options": [
+"2 2.333...",
+"2.0 2.333...",
+"3 2",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "// is floor division. For integers, 7 // 3 = 2. Normal division / produces a float: 2.333..."
+},
+{
+"id": "py-118",
+"title": "What is printed?",
+"code": "print((-1) // 2, 1 // -2)",
+"options": [
+"-1 -1",
+"0 -1",
+"-1 0",
+"0 0"
+],
+"correctIndex": 0,
+"explanation": "Floor division rounds toward −∞. (-1)//2 = -1. 1//(-2) = -1."
+},
+{
+"id": "py-119",
+"title": "What does this code print?",
+"code": "c = complex(2, -3)\nprint(c.conjugate())",
+"options": [
+"(2+3j)",
+"(2-3j)",
+"(-2+3j)",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "The conjugate of a + bj is a − bj. For 2 − 3j, the conjugate is 2 + 3j."
+},
+{
+"id": "py-120",
+"title": "What is printed?",
+"code": "import math\nx = -3.75\nprint(math.trunc(x), math.floor(x), math.ceil(x))",
+"options": [
+"-3 -4 -3",
+"-4 -4 -3",
+"-3 -3 -4",
+"Error"
+],
+"correctIndex": 0,
+"explanation": "math.trunc(x) truncates toward zero → -3. floor(x) is the greatest integer ≤ x → -4. ceil(x) is the least integer ≥ x → -3."
+},
+{
+"id": "py-121",
+"title": "Analyzing binary size requirements for secure key generation",
+"code": "key_value = 2**2048 - 1\n\n# A cryptographic system needs to know how many bits are required\n# to store the maximum possible key number.\nprint(key_value.bit_length())",
+"options": ["2047", "2048", "2050", "Depends on the CPU"],
+"correctIndex": 1,
+"explanation": "The number 2**2048 - 1 is the largest integer representable in 2048 bits. Its bit_length() is exactly 2048 because it has 2048 ones in binary."
+},
+{
+"id": "py-122",
+"title": "Counting set bits when compressing a bitmap",
+"code": "bitmap = 0b11101001011110001001\n\n# In a compression algorithm, the number of set bits determines\n# how many items are active in a data block.\nprint(bitmap.bit_count())",
+"options": ["9", "11", "13", "15"],
+"correctIndex": 2,
+"explanation": "bit_count() counts the number of 1 bits. The given bitmap contains 13 ones."
+},
+{
+"id": "py-123",
+"title": "Serializing an integer to network packets (big-endian)",
+"code": "msg_id = 1024\npacket = msg_id.to_bytes(4, byteorder='big')\nprint(packet)",
+"options": ["b'\\x00\\x00\\x04\\x00'", "b'\\x04\\x00\\x00\\x00'", "b'\\x00\\x04\\x00\\x00'", "OverflowError"],
+"correctIndex": 0,
+"explanation": "1024 = 0x0400. In a 4-byte big-endian array the representation is 00 00 04 00."
+},
+{
+"id": "py-124",
+"title": "Reading a little-endian device register",
+"code": "raw = b'\\x10\\x00\\x00\\x00'\nvalue = int.from_bytes(raw, byteorder='little')\nprint(value)",
+"options": ["16", "268435456", "4096", "65536"],
+"correctIndex": 0,
+"explanation": "Little-endian means the least significant byte is first. 0x10 is the LSB → decimal 16."
+},
+{
+"id": "py-125",
+"title": "Validating network message integrity using ratios",
+"code": "seq = 900\nnumerator, denom = seq.as_integer_ratio()\nprint(numerator, denom)",
+"options": ["900 1", "450 2", "900 900", "1 900"],
+"correctIndex": 0,
+"explanation": "Integers always return the ratio (self, 1)."
+},
+{
+"id": "py-126",
+"title": "Detecting if a float coming from a sensor is effectively an integer",
+"code": "reading = -12.0\nprint(reading.is_integer())",
+"options": ["True", "False", "Depends on rounding", "Raises ValueError"],
+"correctIndex": 0,
+"explanation": "Float.is_integer() returns True when the float is finite and integral."
+},
+{
+"id": "py-127",
+"title": "Converting calibrated sensor values to float using new float.from_number()",
+"code": "class SensorValue:\n    def __float__(self):\n        return 19.75\n\nvalue = SensorValue()\nprint(float.from_number(value))",
+"options": ["19.75", "19", "Error", "0.0"],
+"correctIndex": 0,
+"explanation": "float.from_number() delegates to __float__(), so it returns 19.75."
+},
+{
+"id": "py-128",
+"title": "Using hexadecimal float formats for precise serialization",
+"code": "x = 3740.0\nhex_repr = x.hex()\nroundtrip = float.fromhex(hex_repr)\nprint(hex_repr, roundtrip)",
+"options": [
+    "'0x1.d380000000000p+11' 3740.0",
+    "'3740' 3740.0",
+    "'0x3.a7p10' 3740.0",
+    "Error"
+],
+"correctIndex": 0,
+"explanation": "float.hex() produces an exact hexadecimal representation. Converting back preserves value exactly."
+},
+{
+"id": "py-129",
+"title": "Migrating complex coefficients from user-defined objects",
+"code": "class Coeff:\n    def __complex__(self):\n        return 5 + 12j\n\nc = complex.from_number(Coeff())\nprint(abs(c))",
+"options": ["13", "17", "12", "5"],
+"correctIndex": 0,
+"explanation": "complex.from_number() calls __complex__(). abs(5+12j)=√(25+144)=13."
+},
+{
+"id": "py-130",
+"title": "Understanding hash stability when storing large integers in a hash table",
+"code": "import sys\nx = 10**50\nprint(hash(x) == hash(int(str(x))))",
+"options": ["True", "False", "Depends on Python build", "OverflowError"],
+"correctIndex": 0,
+"explanation": "Equal integers must have equal hashes. The hashing algorithm ensures identical values hash identically."
+},
+{
+"id": "py-131",
+"title": "Hashing a Fraction-like rational number",
+"code": "import fractions\nx = fractions.Fraction(100, 6)\ny = fractions.Fraction(50, 3)\nprint(hash(x) == hash(y))",
+"options": ["True", "False", "TypeError", "Only on 64-bit platforms"],
+"correctIndex": 0,
+"explanation": "100/6 == 50/3 (both simplify to 25/1), and numeric hashing requires equal values have equal hashes."
+},
+{
+"id": "py-132",
+"title": "Hashing complex numbers for graph-node storage",
+"code": "import sys\nz1 = 3 + 4j\nz2 = complex(3.0, 4.0)\nprint(hash(z1) == hash(z2))",
+"options": ["True", "False", "Depends on float rounding", "TypeError"],
+"correctIndex": 0,
+"explanation": "Equal complex numbers must have equal hashes. The real and imaginary parts are hashed consistently."
+},
+{
+"id": "py-133",
+"title": "Overflow behavior when serializing integers to a single byte",
+"code": "try:\n    print((300).to_bytes())\nexcept Exception as e:\n    print(type(e).__name__)",
+"options": ["OverflowError", "ValueError", "TypeError", "IndexError"],
+"correctIndex": 0,
+"explanation": "Using default length=1 allows only numbers in 0–255. 300 is too large."
+},
+{
+"id": "py-134",
+"title": "Detecting negative values in raw two’s-complement fields",
+"code": "raw = b'\\xfc\\x00'  # device output\nprint(int.from_bytes(raw, 'big', signed=True))",
+"options": ["-1024", "64512", "252", "-255"],
+"correctIndex": 0,
+"explanation": "0xFC00 interpreted as signed two’s complement (16-bit) is -1024."
+},
+{
+"id": "py-135",
+"title": "Allocating minimal bytes for an integer before encryption",
+"code": "x = 1000\nlength = (x.bit_length() + 7) // 8\nprint(x.to_bytes(length, 'little'))",
+"options": ["b'\\xe8\\x03'", "b'\\x03\\xe8'", "b'\\x00\\xe8\\x03'", "OverflowError"],
+"correctIndex": 0,
+"explanation": "bit_length gives the bits needed; formula computes minimal bytes. 1000 = 0x03E8 → little-endian: e8 03."
+},
+{
+"id": "py-136",
+"title": "Checking whether values from a log file represent clean integer timestamps",
+"code": "timestamps = [10.0, 15.5, 20.0]\nresults = [t.is_integer() for t in timestamps]\nprint(results.count(True), results)",
+"options": ["2 [True, False, True]", "1 [False, True, False]", "3 [True, True, True]", "0 []"],
+"correctIndex": 0,
+"explanation": "Float.is_integer() identifies 10.0 and 20.0 as integer-valued."
+},
+{
+"id": "py-137",
+"title": "Interpreting a multi-byte configuration register from a little-endian system",
+"code": "register = bytes([0x34, 0x12, 0x00, 0x00])\nvalue = int.from_bytes(register, 'little')\nprint(hex(value))",
+"options": ["0x1234", "0x3412", "0x12340000", "0x34120000"],
+"correctIndex": 0,
+"explanation": "Little-endian: least significant byte first → value is 0x1234."
+},
+{
+"id": "py-138",
+"title": "Hashing float infinities in a simulation index",
+"code": "import sys, math\nx = float('inf')\nprint(hash(x) == sys.hash_info.inf)",
+"options": ["True", "False", "Raises OverflowError", "Depends on OS"],
+"correctIndex": 0,
+"explanation": "Positive infinity hashes to sys.hash_info.inf."
+},
+{
+"id": "py-139",
+"title": "Comparing float ratios in a financial calculation",
+"code": "import math\nx = 0.125\nnum, den = x.as_integer_ratio()\nprint(num, den, num/den == x)",
+"options": ["1 8 True", "125 1000 True", "0 1 False", "Error"],
+"correctIndex": 1,
+"explanation": "0.125 = 1/8, but due to binary representation float.as_integer_ratio() returns exact binary fraction → 1/8 is represented as 1 and 8 exactly."
+},
+{
+"id": "py-140",
+"title": "Converting calibrated configuration numbers to complex for DSP processing",
+"code": "class Params:\n    def __float__(self):\n        return 7.5\n\nz = complex.from_number(Params())\nprint(z.real, z.imag)",
+"options": ["7.5 0.0", "7 0", "0 7.5", "Error"],
+"correctIndex": 0,
+"explanation": "complex.from_number() falls back to __float__ when __complex__ is not defined, producing complex(7.5, 0)."
+},
+{
+"id": "py-141",
+"title": "Implementing an iterator for log file streaming",
+"code": "class LogStream:\n    def __init__(self, lines):\n        self.lines = lines\n        self.index = 0\n\n    def __iter__(self):\n        return self\n\n    def __next__(self):\n        if self.index >= len(self.lines):\n            raise StopIteration\n        line = self.lines[self.index]\n        self.index += 1\n        return line\n\nstream = LogStream(['INFO start', 'WARN low', 'INFO end'])\nprint([entry for entry in stream])",
+"options": [
+    "['INFO start', 'WARN low', 'INFO end']",
+    "['INFO start']",
+    "Raises StopIteration immediately",
+    "[]"
+],
+"correctIndex": 0,
+"explanation": "The custom iterator yields each element until index reaches the end, then raises StopIteration. A list comprehension consumes them all correctly."
+},
+{
+"id": "py-142",
+"title": "Ensuring StopIteration is persistent",
+"code": "it = iter([1, 2])\ntry:\n    print(next(it))\n    print(next(it))\n    print(next(it))  # first StopIteration\nexcept StopIteration:\n    pass\n\ntry:\n    print(next(it))  # check behavior after exhaustion\nexcept Exception as e:\n    print(type(e).__name__)",
+"options": [
+    "StopIteration",
+    "ValueError",
+    "Iterator resets automatically",
+    "TypeError"
+],
+"correctIndex": 0,
+"explanation": "Once an iterator raises StopIteration, future calls must also raise StopIteration. It cannot restart automatically."
+},
+{
+"id": "py-143",
+"title": "Supporting multiple iteration modes in a tree structure",
+"code": "class Node:\n    def __init__(self, value, children=None):\n        self.value = value\n        self.children = children or []\n\n    def __iter__(self):  # depth-first by default\n        yield self.value\n        for c in self.children:\n            yield from c\n\nroot = Node('A', [Node('B'), Node('C', [Node('D')])])\nprint(list(root))",
+"options": [
+    "['A', 'B', 'C', 'D']",
+    "['A', 'C', 'D', 'B']",
+    "['B', 'C', 'D']",
+    "['A']"
+],
+"correctIndex": 0,
+"explanation": "This iterator performs depth-first traversal, yielding A → B → C → D."
+},
+{
+"id": "py-144",
+"title": "Broken iterator: __next__ does not raise StopIteration",
+"code": "class BadIter:\n    def __iter__(self): return self\n    def __next__(self): return 1\n\nit = BadIter()\nvals = []\nfor i, x in enumerate(it):\n    vals.append(x)\n    if i > 3:\n        break\nprint(vals)",
+"options": [
+    "[1, 1, 1, 1, 1]",
+    "[]",
+    "Raises StopIteration",
+    "Infinite loop"
+],
+"correctIndex": 0,
+"explanation": "A broken iterator never stops unless externally controlled. The for-loop breaks manually after five iterations."
+},
+{
+"id": "py-145",
+"title": "Iterator that wraps another iterator for transformation",
+"code": "class UpperIter:\n    def __init__(self, iterable):\n        self.it = iter(iterable)\n\n    def __iter__(self): return self\n\n    def __next__(self):\n        return next(self.it).upper()\n\nprint(list(UpperIter(['a', 'b', 'c'])))",
+"options": [
+    "['A', 'B', 'C']",
+    "['a', 'b', 'c']",
+    "Error",
+    "['A']"
+],
+"correctIndex": 0,
+"explanation": "The iterator wraps another iterator and transforms each value to uppercase before yielding it."
+},
+{
+"id": "py-146",
+"title": "Creating a replayable container with fresh iterators",
+"code": "class Replay:\n    def __init__(self, data):\n        self.data = data\n    def __iter__(self):\n        return iter(self.data)\n\nr = Replay([1,2,3])\na = list(r)\nb = list(r)\nprint(a, b)",
+"options": [
+    "[1,2,3] [1,2,3]",
+    "[1,2,3] []",
+    "[] []",
+    "Raises StopIteration on second iteration"
+],
+"correctIndex": 0,
+"explanation": "Containers return a *new* iterator each time __iter__ is called, so both a and b receive the full list."
+},
+{
+"id": "py-147",
+"title": "Mis-implementing __iter__ with a non-iterator return",
+"code": "class Wrong:\n    def __iter__(self):\n        return 5\n\ntry:\n    for x in Wrong():\n        print(x)\nexcept Exception as e:\n    print(type(e).__name__)",
+"options": [
+    "TypeError",
+    "StopIteration",
+    "ValueError",
+    "AttributeError"
+],
+"correctIndex": 0,
+"explanation": "__iter__ must return an iterator with __next__. Returning 5 causes TypeError when iteration begins."
+},
+{
+"id": "py-148",
+"title": "A manual iterator consuming a generator once",
+"code": "gen = (i*i for i in range(3))\nprint(next(gen), next(gen))\ntry:\n    print(next(gen), next(gen))\nexcept StopIteration:\n    print('end')",
+"options": [
+    "0 1 end",
+    "0 1 4 end",
+    "0 1 StopIteration",
+    "0 1 4 9"
+],
+"correctIndex": 0,
+"explanation": "The generator yields 0, 1, 4. After consuming twice, the next two calls hit 4 then StopIteration. But the example calls next() twice after, so only the first yields 4, and the second raises StopIteration."
+},
+{
+"id": "py-149",
+"title": "Building an iterator for paginated API results",
+"code": "class APIResults:\n    def __init__(self, pages):\n        self.pages = pages\n        self.page_idx = 0\n        self.item_idx = 0\n\n    def __iter__(self): return self\n\n    def __next__(self):\n        if self.page_idx >= len(self.pages):\n            raise StopIteration\n        page = self.pages[self.page_idx]\n        if self.item_idx >= len(page):\n            self.page_idx += 1\n            self.item_idx = 0\n            return next(self)\n        item = page[self.item_idx]\n        self.item_idx += 1\n        return item\n\npages = [[1,2], [3], [], [4,5,6]]\nprint(list(APIResults(pages)))",
+"options": [
+    "[1,2,3,4,5,6]",
+    "[1,2,3]",
+    "Error due to empty page",
+    "[1,2,3,4]"
+],
+"correctIndex": 0,
+"explanation": "The iterator correctly advances pages and skips empty ones. It yields all items across all pages."
+},
+{
+"id": "py-150",
+"title": "Designing an iterable log reader that supports multiple passes",
+"code": "class LogReader:\n def init(self, path):\n self.path = path\n\n def iter(self):\n # Each iteration creates a new iterator over the file\n with open(self.path, 'r', encoding='utf-8') as f:\n for line in f:\n yield line.rstrip('\n')\n\n# Simulate a log file\npath = 'app.log'\nwith open(path, 'w', encoding='utf-8') as f:\n f.write('INFO start\n')\n f.write('WARN low disk\n')\n f.write('INFO stop\n')\n\nlogs = LogReader(path)\n\nfirst_pass = [line for line in logs if line.startswith('INFO')]\nsecond_pass = [line for line in logs if 'WARN' in line]\n\nprint(first_pass, second_pass)",
+"options": [
+"['INFO start', 'INFO stop'] ['WARN low disk']",
+"['INFO start', 'INFO stop'] []",
+"[] ['WARN low disk']",
+"[] []"
+],
+"correctIndex": 0,
+"explanation": "LogReader is a container-style iterable, not an iterator. Each time iter is called, it opens the file and yields lines from the beginning, so the object can be iterated over multiple times. The first comprehension filters lines starting with 'INFO', producing ['INFO start', 'INFO stop']. The second comprehension runs a completely new iteration over the same LogReader instance and selects lines containing 'WARN', producing ['WARN low disk']."
+}
 ]

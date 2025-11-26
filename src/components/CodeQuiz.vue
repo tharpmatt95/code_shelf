@@ -192,6 +192,15 @@ function nextQuestion() {
   border: 1px solid #333;
 }
 
+.code {
+  text-align: left !important;
+}
+
+.code code {
+  text-align: left !important;
+  display: block;
+}
+
 .options {
   list-style: none;
   padding: 0;
