@@ -1,28 +1,49 @@
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted } from 'vue'
+
+const questions = ref([])
 
 defineProps({
   msg: String,
 })
-
-const questions = ref([
-  {
-    id: 1,
-    title: 'What does this code log?',
-    code: `const arr = [1, 2, 3]
-console.log(arr.map(x => x * 2))`,
-    options: ['[1, 2, 3]', '[2, 4, 6]', 'Error', 'undefined'],
-    correctIndex: 1,
-    explanation: 'Array.map returns a new array with each value transformed.',
-  },
-])
 
 const currentIndex = ref(0)
 const selectedIndex = ref(null)
 const showAnswer = ref(false)
 const score = ref(0)
 
-const currentQuestion = computed(() => questions.value[currentIndex.value])
+const currentQuestion = computed(() =>
+  questions.value.length ? questions.value[currentIndex.value] : null
+)
+
+function pickRandomQuestion() {
+  if (!questions.value.length) return
+  const max = questions.value.length
+
+  // pick a random index; allow repeats across session
+  currentIndex.value = Math.floor(Math.random() * max)
+}
+
+onMounted(async () => {
+  const res = await fetch(
+    `http://localhost:4000/api/questions?language=python&_=${Date.now()}`,
+    {
+      cache: 'no-store',           // prevent browser cache
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        Pragma: 'no-cache',
+        Expires: '0'
+      }
+    }
+  )
+
+  questions.value = await res.json()
+
+  if (questions.value.length) {
+    pickRandomQuestion()
+  }
+})
+
 
 function selectOption(index) {
   if (showAnswer.value) return
@@ -38,10 +59,13 @@ function submitAnswer() {
 }
 
 function nextQuestion() {
-  currentIndex.value = 0
+  // pick a new random question
+  pickRandomQuestion()
   selectedIndex.value = null
   showAnswer.value = false
-  score.value = 0
+
+  // keep this if you DO want score reset on every question:
+  // score.value = 0
 }
 </script>
 
@@ -52,9 +76,9 @@ function nextQuestion() {
       <p class="score">Score: {{ score }}</p>
     </header>
 
-    <section class="question">
+    <section class="question" v-if="currentQuestion">
       <p class="question-title">
-        Q{{ currentIndex + 1 }}. {{ currentQuestion.title }}
+        {{ currentQuestion.title }}
       </p>
 
       <pre class="code"><code>{{ currentQuestion.code }}</code></pre>

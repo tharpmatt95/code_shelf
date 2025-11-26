@@ -1,0 +1,82 @@
+[
+  {
+    "id": "py-001",
+    "title": "What does this code print?",
+    "code": "x = 5\nprint(type(x))",
+    "options": ["<class 'int'>", "<class 'float'>", "<class 'number'>", "int"],
+    "correctIndex": 0,
+    "explanation": "In Python, integers are instances of the built-in type 'int'."
+  },
+  {
+    "id": "py-002",
+    "title": "What is the value of 'result'?",
+    "code": "result = 10 // 3",
+    "options": ["3.33", "3", "4", "Error"],
+    "correctIndex": 1,
+    "explanation": "// is floor division; it returns the integer part only."
+  },
+  {
+    "id": "py-003",
+    "title": "What does this code print?",
+    "code": "nums = [1, 2, 3]\nprint(nums[-1])",
+    "options": ["1", "3", "IndexError", "None"],
+    "correctIndex": 1,
+    "explanation": "Negative indexing allows access from the end; −1 returns the last element."
+  },
+  {
+    "id": "py-004",
+    "title": "What is printed?",
+    "code": "def add(a, b=2):\n    return a + b\n\nprint(add(3))",
+    "options": ["2", "3", "5", "Error"],
+    "correctIndex": 2,
+    "explanation": "b defaults to 2 if not passed."
+  },
+  {
+    "id": "py-005",
+    "title": "What does this evaluate to?",
+    "code": "bool('hello')",
+    "options": ["True", "False", "None", "Error"],
+    "correctIndex": 0,
+    "explanation": "Any non-empty string is True in boolean context."
+  },
+  {
+    "id": "py-006",
+    "title": "What is printed?",
+    "code": "for i in range(3):\n    print(i)",
+    "options": ["1 2 3", "0 1 2", "0 1 2 3", "Error"],
+    "correctIndex": 1,
+    "explanation": "range(3) yields 0, 1, 2."
+  },
+  {
+    "id": "py-007",
+    "title": "What is the value of x?",
+    "code": "x = 'Python'[::-1]",
+    "options": ["nohtyP", "error", "['P', 'y', ...]", "None"],
+    "correctIndex": 0,
+    "explanation": "Reversing a string is done with slicing [::-1]."
+  },
+  {
+    "id": "py-008",
+    "title": "What is printed?",
+    "code": "x = { 'a': 1, 'b': 2 }\nprint(x.get('c'))",
+    "options": ["None", "0", "Error", "''"],
+    "correctIndex": 0,
+    "explanation": "dict.get() returns None when the key does not exist unless a default is provided."
+  },
+  {
+    "id": "py-009",
+    "title": "What happens?",
+    "code": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print('error')",
+    "options": ["Crash", "Nothing", "error", "0"],
+    "correctIndex": 2,
+    "explanation": "Division by zero raises ZeroDivisionError, which is caught."
+  },
+  {
+    "id": "py-010",
+    "title": "What does this return?",
+    "code": "len({'a': 1, 'b': 2, 'c': 3})",
+    "options": ["3", "6", "2", "Error"],
+    "correctIndex": 0,
+    "explanation": "len() on a dict returns the number of keys."
+  }
+]
