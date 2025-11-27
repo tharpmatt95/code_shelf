@@ -1,8 +1,10 @@
 <script setup>
 import CodeQuiz from './components/CodeQuiz.vue'
+import AuthBox from './components/AuthBox.vue'
 </script>
 
 <template>
+  <AuthBox />
   <CodeQuiz msg="Code Quiz" />
 </template>
 
