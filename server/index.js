@@ -157,6 +157,16 @@ async function requireAuth(req, res, next) {
   }
 }
 
+app.get('/auth/me', requireAuth, async (req, res) => {
+  res.json({
+    email: req.user.email,
+    correctQuestions: req.user.correctQuestions,
+    createdAt: req.user.createdAt,
+    lastLoginAt: req.user.lastLoginAt
+  })
+})
+
+
 // --------------------------------------------------
 // 7) Test route (for debugging)
 // --------------------------------------------------

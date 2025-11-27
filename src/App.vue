@@ -1,25 +1,24 @@
 <script setup>
-import CodeQuiz from './components/CodeQuiz.vue'
-import AuthBox from './components/AuthBox.vue'
 </script>
 
 <template>
-  <AuthBox />
-  <CodeQuiz msg="Code Quiz" />
+  <el-container style="height: 100vh;">
+    <!-- TOP NAV BAR -->
+    <el-header height="60px" style="display: flex; align-items: center; background: #f5f5f5;">
+      <el-menu 
+        mode="horizontal" 
+        router
+        :default-active="$route.path"
+      >
+        <el-menu-item index="/">Quiz</el-menu-item>
+        <el-menu-item index="/login">Login</el-menu-item>
+        <el-menu-item index="/user">User</el-menu-item>
+      </el-menu>
+    </el-header>
+
+    <!-- MAIN PAGE CONTENT -->
+    <el-main>
+      <router-view />
+    </el-main>
+  </el-container>
 </template>
-
-
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>

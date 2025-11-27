@@ -93,6 +93,7 @@ async function logout() {
     <button @click="signup">Sign Up</button>
     <button @click="login">Log In</button>
     <button @click="logout">Log Out</button>
+    <el-button type="primary" @click="signup">Sign Up</el-button>
 
     <p>{{ message }}</p>
   </div>
