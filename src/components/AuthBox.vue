@@ -85,15 +85,14 @@ async function logout() {
   <div style="margin-bottom: 20px; padding: 10px; border: 1px solid #ccc;">
     <h3>Auth</h3>
 
-    <input v-model="email" type="email" placeholder="Email" />
+    <input v-model="email" type="email" placeholder="Username" />
     <br />
     <input v-model="password" type="password" placeholder="Password" />
     <br /><br />
 
-    <button @click="signup">Sign Up</button>
-    <button @click="login">Log In</button>
-    <button @click="logout">Log Out</button>
     <el-button type="primary" @click="signup">Sign Up</el-button>
+    <el-button @click="login">Log In</el-button>
+    <el-button @click="logout">Log Out</el-button>
 
     <p>{{ message }}</p>
   </div>

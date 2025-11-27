@@ -13,6 +13,7 @@
         <el-menu-item index="/">Quiz</el-menu-item>
         <el-menu-item index="/login">Login</el-menu-item>
         <el-menu-item index="/user">User</el-menu-item>
+        <el-menu-item index="/about">About</el-menu-item>
       </el-menu>
     </el-header>
 

@@ -1,85 +1,142 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import axios from 'axios'
 
 const questions = ref([])
-
-defineProps({
-  msg: String,
-})
-
-const currentIndex = ref(0)
 const selectedIndex = ref(null)
 const showAnswer = ref(false)
-const score = ref(0)
 
+// 🔥 Persistent correct count stored in MongoDB
+const totalCorrect = ref(0)
+
+// fallback for public users
+const selectedLang = 'python'
+
+// This always uses questions[0]
 const currentQuestion = computed(() =>
-  questions.value.length ? questions.value[currentIndex.value] : null
+  questions.value.length ? questions.value[0] : null
 )
 
-function pickRandomQuestion() {
-  if (!questions.value.length) return
-  const max = questions.value.length
 
-  // pick a random index; allow repeats across session
-  currentIndex.value = Math.floor(Math.random() * max)
-}
-
+// -----------------------------------------------------
+// INITIAL LOAD
+// -----------------------------------------------------
 onMounted(async () => {
-  const res = await fetch(
-    `http://localhost:4000/api/questions?language=python&_=${Date.now()}`,
-    {
-      cache: 'no-store',           // prevent browser cache
-      headers: {
-        'Cache-Control': 'no-cache, no-store, must-revalidate',
-        Pragma: 'no-cache',
-        Expires: '0'
-      }
-    }
-  )
-
-  questions.value = await res.json()
-
-  if (questions.value.length) {
-    pickRandomQuestion()
-  }
+  await loadUserCorrectCount()
+  await loadInitialQuestions()
 })
 
 
+// Load initial unseen questions (or fallback)
+async function loadInitialQuestions() {
+  try {
+    const res = await axios.get('/api/questions/new')
+    questions.value = shuffle(res.data)
+  } catch (_) {
+    const res = await axios.get(`/api/questions?language=${selectedLang}`)
+    questions.value = shuffle(res.data)
+  }
+}
+
+
+// -----------------------------------------------------
+// Shuffle Helper
+// -----------------------------------------------------
+function shuffle(arr) {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
+
+// -----------------------------------------------------
+// Load persistent correct count from server
+// -----------------------------------------------------
+async function loadUserCorrectCount() {
+  try {
+    const res = await axios.get('/auth/me')
+    totalCorrect.value = res.data.correctQuestions.length
+  } catch (_) {
+    totalCorrect.value = 0
+  }
+}
+
+
+// -----------------------------------------------------
+// Selecting an option
+// -----------------------------------------------------
 function selectOption(index) {
   if (showAnswer.value) return
   selectedIndex.value = index
 }
 
-function submitAnswer() {
-  if (selectedIndex.value === null || showAnswer.value) return
+
+// -----------------------------------------------------
+// Submit answer + update persistent correct count
+// -----------------------------------------------------
+async function submitAnswer() {
+  if (!currentQuestion.value) return
+
+  const isCorrect =
+    selectedIndex.value === currentQuestion.value.correctIndex
+
   showAnswer.value = true
-  if (selectedIndex.value === currentQuestion.value.correctIndex) {
-    score.value++
+
+  if (isCorrect) {
+    try {
+      // Mark correct on server
+      await axios.post('/api/questions/mark-correct', {
+        questionId: currentQuestion.value._id
+      })
+
+      // 🔥 Reload count from DB so it persists
+      await loadUserCorrectCount()
+
+    } catch (err) {
+      console.log('Failed to mark correct:', err)
+    }
   }
 }
 
-function nextQuestion() {
-  // pick a new random question
-  pickRandomQuestion()
+
+// -----------------------------------------------------
+// Load NEXT question
+// -----------------------------------------------------
+async function nextQuestion() {
+  // Remove the one just answered
+  questions.value.shift()
+
+  // If empty, reload unseen
+  if (questions.value.length === 0) {
+    try {
+      const res = await axios.get('/api/questions/new')
+      questions.value = shuffle(res.data)
+    } catch (err) {
+      const res = await axios.get(`/api/questions?language=${selectedLang}`)
+      questions.value = shuffle(res.data)
+    }
+  }
+
   selectedIndex.value = null
   showAnswer.value = false
-
-  // keep this if you DO want score reset on every question:
-  // score.value = 0
 }
 </script>
 
+
 <template>
-  <div class="quiz-card">
+  <div class="quiz-card" v-if="currentQuestion">
     <header class="quiz-header">
       <h2>Code Quiz</h2>
-      <p class="score">Score: {{ score }}</p>
+      <p class="score">
+        Correct: {{ totalCorrect }}
+      </p>
     </header>
 
-    <section class="question" v-if="currentQuestion">
-      <p class="question-title">
-        {{ currentQuestion.title }}
-      </p>
+    <section class="question">
+      <p class="question-title">{{ currentQuestion.title }}</p>
 
       <pre class="code"><code>{{ currentQuestion.code }}</code></pre>
 
@@ -89,16 +146,14 @@ function nextQuestion() {
           :key="index"
         >
           <button
-            type="button"
             class="option-btn"
             :class="{
               selected: selectedIndex === index,
-              correct:
-                showAnswer && index === currentQuestion.correctIndex,
+              correct: showAnswer && index === currentQuestion.correctIndex,
               incorrect:
                 showAnswer &&
                 selectedIndex === index &&
-                index !== currentQuestion.correctIndex,
+                index !== currentQuestion.correctIndex
             }"
             @click="selectOption(index)"
           >
@@ -109,7 +164,6 @@ function nextQuestion() {
 
       <div class="actions">
         <button
-          type="button"
           class="primary"
           @click="submitAnswer"
           :disabled="selectedIndex === null || showAnswer"
@@ -118,7 +172,6 @@ function nextQuestion() {
         </button>
 
         <button
-          type="button"
           class="secondary"
           @click="nextQuestion"
           :disabled="!showAnswer"
@@ -132,7 +185,8 @@ function nextQuestion() {
           Correct!
         </span>
         <span v-else>
-          Not quite. The correct answer is
+          Not quite.  
+          Correct answer:
           "{{ currentQuestion.options[currentQuestion.correctIndex] }}".
         </span>
       </p>
@@ -142,10 +196,15 @@ function nextQuestion() {
       </p>
     </section>
   </div>
+
+  <div v-else class="quiz-card">
+    <p>No questions left 🎉</p>
+  </div>
 </template>
 
+
 <style scoped>
-/* FULL DARK MODE (no light theme) */
+/* DARK THEME */
 
 .quiz-card {
   max-width: 640px;
@@ -187,18 +246,8 @@ function nextQuestion() {
   padding: 0.75rem 1rem;
   border-radius: 8px;
   overflow-x: auto;
-  font-size: 0.9rem;
   margin-bottom: 1rem;
   border: 1px solid #333;
-}
-
-.code {
-  text-align: left !important;
-}
-
-.code code {
-  text-align: left !important;
-  display: block;
 }
 
 .options {
@@ -252,28 +301,25 @@ function nextQuestion() {
   border-radius: 8px;
   border: none;
   cursor: pointer;
-  font-weight: 500;
 }
 
-.actions .primary {
+.primary {
   background: #4f46e5;
   color: white;
 }
 
-.actions .primary:disabled {
+.primary:disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
 
-.actions .secondary {
+.secondary {
   background: #333;
   color: #ddd;
 }
 
 .feedback {
-  font-weight: 600;
   margin-top: 0.25rem;
-  color: #e5e5e5;
 }
 
 .explanation {

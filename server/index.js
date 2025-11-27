@@ -84,7 +84,7 @@ app.post('/auth/signup', async (req, res) => {
 
     console.log('SIGNUP: checking existing')
     const existing = await User.findOne({ email })
-    if (existing) return res.status(400).json({ error: 'Email already exists' })
+    if (existing) return res.status(400).json({ error: 'Username already exists' })
 
     console.log('SIGNUP: hashing')
     const passwordHash = await bcrypt.hash(password, 10)
@@ -158,13 +158,18 @@ async function requireAuth(req, res, next) {
 }
 
 app.get('/auth/me', requireAuth, async (req, res) => {
+  // Load the user again, but with full questions populated
+  const user = await User.findById(req.user._id)
+    .populate('correctQuestions') // <— REQUIRED for titles
+
   res.json({
-    email: req.user.email,
-    correctQuestions: req.user.correctQuestions,
-    createdAt: req.user.createdAt,
-    lastLoginAt: req.user.lastLoginAt
+    email: user.email,
+    correctQuestions: user.correctQuestions, // now full objects
+    createdAt: user.createdAt,
+    lastLoginAt: user.lastLoginAt
   })
 })
+
 
 
 // --------------------------------------------------
