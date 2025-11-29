@@ -14,12 +14,11 @@ app.use(cors({
   origin: 'http://localhost:5173',
   credentials: true
 }))
-
 app.use(express.json())
 app.use(cookieParser())
 
 // --------------------------------------------------
-// 1) Connect to MongoDB
+// MongoDB
 // --------------------------------------------------
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://mongo:27017/code_quiz'
 const PORT = process.env.PORT || 4000
@@ -28,10 +27,12 @@ await mongoose.connect(MONGO_URI)
 console.log("Mongo connected")
 
 // --------------------------------------------------
-// 2) Question schema
+// Schemas (match seed.js EXACTLY)
 // --------------------------------------------------
-const questionSchema = new mongoose.Schema({
-  language: String,
+
+// Python Question (collection: "python")
+const pythonSchema = new mongoose.Schema({
+  id: String,
   title: String,
   code: String,
   options: [String],
@@ -39,19 +40,31 @@ const questionSchema = new mongoose.Schema({
   explanation: String
 })
 
-const Question = mongoose.model('Question', questionSchema)
+const Python = mongoose.model('Python', pythonSchema, 'python')
 
-// --------------------------------------------------
-// 3) User schema
-// --------------------------------------------------
+// Movie Question (collection: "movies")
+const movieSchema = new mongoose.Schema({
+  id: String,
+  title: String,
+  code: String,
+  options: [String],
+  correctIndex: Number,
+  explanation: String
+})
+
+const Movie = mongoose.model('Movie', movieSchema, 'movies')
+
+// User Schema (refs Python + Movie)
 const userSchema = new mongoose.Schema({
-  googleId: { type: String, index: true },
-
   email: { type: String, unique: true },
-  passwordHash: { type: String },
+  passwordHash: String,
 
-  correctQuestions: [
-    { type: mongoose.Schema.Types.ObjectId, ref: 'Question' }
+  correctPython: [
+    { type: mongoose.Schema.Types.ObjectId, ref: 'Python' }
+  ],
+
+  correctMovies: [
+    { type: mongoose.Schema.Types.ObjectId, ref: 'Movie' }
   ],
 
   createdAt: { type: Date, default: Date.now },
@@ -61,7 +74,7 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model('User', userSchema)
 
 // --------------------------------------------------
-// 4) JWT helper
+// Helpers
 // --------------------------------------------------
 function createJwt(userId) {
   return jwt.sign(
@@ -71,43 +84,45 @@ function createJwt(userId) {
   )
 }
 
-// --------------------------------------------------
-// 5) Auth routes (must be above other routes)
-// --------------------------------------------------
+// Auth middleware
+async function requireAuth(req, res, next) {
+  try {
+    const token = req.cookies.session
+    if (!token) return res.status(401).json({ error: 'Not logged in' })
 
-// Signup
+    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'dev_secret')
+    const user = await User.findById(decoded.userId)
+
+    if (!user) return res.status(401).json({ error: 'Invalid user' })
+
+    req.user = user
+    next()
+  } catch (_) {
+    return res.status(401).json({ error: 'Invalid session' })
+  }
+}
+
+// --------------------------------------------------
+// Auth Routes
+// --------------------------------------------------
 app.post('/auth/signup', async (req, res) => {
-  console.log('SIGNUP: start')
-
   try {
     const { email, password } = req.body
-
-    console.log('SIGNUP: checking existing')
     const existing = await User.findOne({ email })
-    if (existing) return res.status(400).json({ error: 'Username already exists' })
+    if (existing) return res.status(400).json({ error: 'Email already exists' })
 
-    console.log('SIGNUP: hashing')
     const passwordHash = await bcrypt.hash(password, 10)
-
-    console.log('SIGNUP: creating user')
     const user = await User.create({ email, passwordHash })
 
-    console.log('SIGNUP: making token')
     const token = createJwt(user._id)
-
-    console.log('SIGNUP: sending cookie')
     res.cookie('session', token, { httpOnly: true, sameSite: 'lax' })
 
-    console.log('SIGNUP: done')
     res.json({ success: true })
-
   } catch (err) {
-    console.log('SIGNUP ERROR:', err)
     res.status(500).json({ error: 'Signup failed' })
   }
 })
 
-// Login
 app.post('/auth/login', async (req, res) => {
   try {
     const { email, password } = req.body
@@ -122,87 +137,55 @@ app.post('/auth/login', async (req, res) => {
     await user.save()
 
     const token = createJwt(user._id)
-
     res.cookie('session', token, { httpOnly: true, sameSite: 'lax' })
-    res.json({ success: true })
 
+    res.json({ success: true })
   } catch (err) {
     res.status(500).json({ error: 'Login failed' })
   }
 })
 
-// Logout
 app.post('/auth/logout', (req, res) => {
   res.clearCookie('session')
   res.json({ success: true })
 })
 
-// --------------------------------------------------
-// 6) Auth middleware
-// --------------------------------------------------
-async function requireAuth(req, res, next) {
-  try {
-    const token = req.cookies.session
-    if (!token) return res.status(401).json({ error: 'Not logged in' })
-
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'dev_secret')
-    const user = await User.findById(decoded.userId)
-    if (!user) return res.status(401).json({ error: 'User not found' })
-
-    req.user = user
-    next()
-
-  } catch (err) {
-    return res.status(401).json({ error: 'Invalid session' })
-  }
-}
-
 app.get('/auth/me', requireAuth, async (req, res) => {
-  // Load the user again, but with full questions populated
   const user = await User.findById(req.user._id)
-    .populate('correctQuestions') // <— REQUIRED for titles
+    .populate('correctPython')
+    .populate('correctMovies')
 
   res.json({
     email: user.email,
-    correctQuestions: user.correctQuestions, // now full objects
+    correctPython: user.correctPython,
+    correctMovies: user.correctMovies,
     createdAt: user.createdAt,
     lastLoginAt: user.lastLoginAt
   })
 })
 
-
-
 // --------------------------------------------------
-// 7) Test route (for debugging)
+// PYTHON QUIZ ROUTES
 // --------------------------------------------------
-app.post('/test', (req, res) => {
-  console.log('HIT TEST ROUTE')
-  res.json({ ok: true })
+app.get('/api/python', async (req, res) => {
+  const items = await Python.find().lean()
+  res.json(items)
 })
 
-// --------------------------------------------------
-// 8) New questions (only unseen)
-// --------------------------------------------------
-app.get('/api/questions/new', requireAuth, async (req, res) => {
-  const correctIds = req.user.correctQuestions
-
-  const questions = await Question.find({
-    _id: { $nin: correctIds }
+app.get('/api/python/new', requireAuth, async (req, res) => {
+  const items = await Python.find({
+    _id: { $nin: req.user.correctPython }
   }).lean()
 
-  res.json(questions)
+  res.json(items)
 })
 
-// --------------------------------------------------
-// 9) Mark correct
-// --------------------------------------------------
-app.post('/api/questions/mark-correct', requireAuth, async (req, res) => {
+app.post('/api/python/mark-correct', requireAuth, async (req, res) => {
   const { questionId } = req.body
-
   if (!questionId) return res.status(400).json({ error: 'questionId required' })
 
-  if (!req.user.correctQuestions.includes(questionId)) {
-    req.user.correctQuestions.push(questionId)
+  if (!req.user.correctPython.includes(questionId)) {
+    req.user.correctPython.push(questionId)
     await req.user.save()
   }
 
@@ -210,17 +193,35 @@ app.post('/api/questions/mark-correct', requireAuth, async (req, res) => {
 })
 
 // --------------------------------------------------
-// 10) Get questions (base)
+// MOVIE QUIZ ROUTES
 // --------------------------------------------------
-app.get('/api/questions', async (req, res) => {
-  const { language } = req.query
-  const query = language ? { language } : {}
-  const questions = await Question.find(query).lean()
-  res.json(questions)
+app.get('/api/movies', async (req, res) => {
+  const items = await Movie.find().lean()
+  res.json(items)
+})
+
+app.get('/api/movies/new', requireAuth, async (req, res) => {
+  const items = await Movie.find({
+    _id: { $nin: req.user.correctMovies }
+  }).lean()
+
+  res.json(items)
+})
+
+app.post('/api/movies/mark-correct', requireAuth, async (req, res) => {
+  const { movieId } = req.body
+  if (!movieId) return res.status(400).json({ error: 'movieId required' })
+
+  if (!req.user.correctMovies.includes(movieId)) {
+    req.user.correctMovies.push(movieId)
+    await req.user.save()
+  }
+
+  res.json({ success: true })
 })
 
 // --------------------------------------------------
-// 11) Start server
+// Start server
 // --------------------------------------------------
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`API running on http://0.0.0.0:${PORT}`)

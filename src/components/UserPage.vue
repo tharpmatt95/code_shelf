@@ -1,7 +1,6 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import axios from 'axios'
-import { ElMessage } from 'element-plus'
 
 const user = ref(null)
 const loading = ref(true)
@@ -11,7 +10,7 @@ onMounted(async () => {
     const res = await axios.get('/auth/me')
     user.value = res.data
   } catch (err) {
-    ElMessage.error('You are not logged in')
+    console.log('Not logged in')
   } finally {
     loading.value = false
   }
@@ -33,9 +32,9 @@ onMounted(async () => {
         <el-empty description="Not logged in" />
       </template>
 
-      <!-- User data -->
+      <!-- Logged-in user -->
       <template v-else>
-        
+
         <h2>User Profile</h2>
 
         <el-descriptions border column="2" size="large" class="left-text">
@@ -43,8 +42,12 @@ onMounted(async () => {
             {{ user.email }}
           </el-descriptions-item>
 
-          <el-descriptions-item label="Correct Questions">
-            {{ user.correctQuestions.length }}
+          <el-descriptions-item label="Python Correct">
+            {{ user.correctPython.length }}
+          </el-descriptions-item>
+
+          <el-descriptions-item label="Movies Correct">
+            {{ user.correctMovies.length }}
           </el-descriptions-item>
 
           <el-descriptions-item label="Joined">
@@ -58,53 +61,82 @@ onMounted(async () => {
 
         <h3>Correctly Answered Questions</h3>
 
-        <el-empty
-          v-if="user.correctQuestions.length === 0"
-          description="No correct questions yet"
-        />
+        <el-tabs type="border-card" class="left-text">
 
-        <el-collapse v-else accordion class="left-text">
-          <el-collapse-item
-            v-for="q in user.correctQuestions"
-            :key="q._id"
-            :title="q.title"
-          >
-            <div class="item-block">
-              <strong>Language:</strong> {{ q.language }}
-            </div>
+          <!-- PYTHON TAB -->
+          <el-tab-pane label="Python">
+            <template v-if="user.correctPython.length === 0">
+              <el-empty description="No Python questions yet" />
+            </template>
 
-            <div class="item-block">
-              <strong>Code:</strong>
-              <pre class="code-block">{{ q.code }}</pre>
-            </div>
-
-            <div class="item-block">
-              <strong>Options:</strong>
-              <ul class="options-list">
-                <li
-                  v-for="(opt, i) in q.options"
-                  :key="i"
+            <template v-else>
+              <el-collapse accordion>
+                <el-collapse-item
+                  v-for="q in user.correctPython"
+                  :key="q._id"
+                  :title="q.title"
                 >
-                  <span
-                    :class="{
-                      correct: i === q.correctIndex,
-                      normal: i !== q.correctIndex
-                    }"
-                  >
-                    {{ opt }}
-                    <span v-if="i === q.correctIndex">(correct)</span>
-                  </span>
-                </li>
-              </ul>
-            </div>
+                  <div class="item-block">
+                    <strong>Code:</strong>
+                    <pre class="code-block">{{ q.code }}</pre>
+                  </div>
 
-            <div class="item-block">
-              <strong>Explanation:</strong>
-              <p>{{ q.explanation }}</p>
-            </div>
+                  <div class="item-block">
+                    <strong>Options:</strong>
+                    <ul class="options-list">
+                      <li v-for="(opt, i) in q.options" :key="i">
+                        <span :class="{ correct: i === q.correctIndex }">
+                          {{ opt }}
+                          <span v-if="i === q.correctIndex">(correct)</span>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
 
-          </el-collapse-item>
-        </el-collapse>
+                  <div class="item-block">
+                    <strong>Explanation:</strong>
+                    <p>{{ q.explanation }}</p>
+                  </div>
+                </el-collapse-item>
+              </el-collapse>
+            </template>
+          </el-tab-pane>
+
+          <!-- MOVIES TAB -->
+          <el-tab-pane label="Movies">
+            <template v-if="user.correctMovies.length === 0">
+              <el-empty description="No movie questions yet" />
+            </template>
+
+            <template v-else>
+              <el-collapse accordion>
+                <el-collapse-item
+                  v-for="q in user.correctMovies"
+                  :key="q._id"
+                  :title="q.title"
+                >
+                  <div class="item-block">
+                    <strong>Options:</strong>
+                    <ul class="options-list">
+                      <li v-for="(opt, i) in q.options" :key="i">
+                        <span :class="{ correct: i === q.correctIndex }">
+                          {{ opt }}
+                          <span v-if="i === q.correctIndex">(correct)</span>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="item-block">
+                    <strong>Explanation:</strong>
+                    <p>{{ q.explanation }}</p>
+                  </div>
+                </el-collapse-item>
+              </el-collapse>
+            </template>
+          </el-tab-pane>
+
+        </el-tabs>
 
       </template>
     </el-card>
@@ -113,24 +145,20 @@ onMounted(async () => {
 </template>
 
 <style scoped>
-/* Main container */
 .container {
   max-width: 900px;
   margin: 2rem auto;
 }
 
-/* Force ALL content left */
 .left-text {
   text-align: left !important;
 }
 
-/* Collapse item spacing */
 .item-block {
   margin-bottom: 1rem;
   text-align: left;
 }
 
-/* Code block styling */
 .code-block {
   background: #111;
   color: #eee;
@@ -142,7 +170,6 @@ onMounted(async () => {
   border: 1px solid #333;
 }
 
-/* Options list */
 .options-list {
   margin-top: 0.5rem;
   padding-left: 1.2rem;
@@ -151,9 +178,5 @@ onMounted(async () => {
 .correct {
   color: #4ade80;
   font-weight: 600;
-}
-
-.normal {
-  color: #ddd;
 }
 </style>

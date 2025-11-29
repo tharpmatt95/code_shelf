@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mv-001",
+    "title": "Which 1975 thriller about a killer shark was directed by Steven Spielberg?",
+    "code": "",
+    "options": ["Close Encounters of the Third Kind", "Jaws", "E.T. the Extra-Terrestrial", "Poltergeist"],
+    "correctIndex": 1,
+    "explanation": "Jaws is a 1975 American thriller film directed by Steven Spielberg about a great white shark terrorizing a beach town."
+  },
+  {
+    "id": "mv-002",
+    "title": "Which 1977 film introduced audiences to the character Darth Vader?",
+    "code": "",
+    "options": ["Close Encounters of the Third Kind", "Superman", "Star Wars", "Star Trek: The Motion Picture"],
+    "correctIndex": 2,
+    "explanation": "Darth Vader first appeared in the 1977 film Star Wars, later retitled Star Wars: Episode IV – A New Hope."
+  },
+  {
+    "id": "mv-003",
+    "title": "Which actor played Indiana Jones in the 1981 film 'Raiders of the Lost Ark'?",
+    "code": "",
+    "options": ["Tom Selleck", "Harrison Ford", "Michael Douglas", "Kurt Russell"],
+    "correctIndex": 1,
+    "explanation": "Harrison Ford stars as the archaeologist-adventurer Indiana Jones in Raiders of the Lost Ark."
+  },
+  {
+    "id": "mv-004",
+    "title": "Which 1985 film features a time machine built from a DeLorean sports car?",
+    "code": "",
+    "options": ["The Terminator", "Tron", "Bill & Ted's Excellent Adventure", "Back to the Future"],
+    "correctIndex": 3,
+    "explanation": "Back to the Future (1985) features a time machine built from a modified DeLorean car."
+  },
+  {
+    "id": "mv-005",
+    "title": "Which animated movie was Pixar’s first feature-length film, released in 1995?",
+    "code": "",
+    "options": ["Toy Story", "A Bug's Life", "Finding Nemo", "Monsters, Inc."],
+    "correctIndex": 0,
+    "explanation": "Toy Story (1995) was Pixar’s first full-length feature film and the first entirely computer-animated feature."
+  },
+  {
+    "id": "mv-006",
+    "title": "Which 1994 film stars Tom Hanks as a man who unwittingly witnesses and influences key moments in U.S. history?",
+    "code": "",
+    "options": ["Apollo 13", "Saving Private Ryan", "Forrest Gump", "Philadelphia"],
+    "correctIndex": 2,
+    "explanation": "Forrest Gump (1994) stars Tom Hanks as Forrest, whose life intersects with many major historical events."
+  },
+  {
+    "id": "mv-007",
+    "title": "In which 2001 fantasy film does the elf Legolas first appear on the big screen?",
+    "code": "",
+    "options": ["Harry Potter and the Sorcerer’s Stone", "The Two Towers", "The Fellowship of the Ring", "The Return of the King"],
+    "correctIndex": 2,
+    "explanation": "Legolas is introduced in The Lord of the Rings: The Fellowship of the Ring (2001), portrayed by Orlando Bloom."
+  },
+  {
+    "id": "mv-008",
+    "title": "Which 2008 superhero movie launched the Marvel Cinematic Universe (MCU)?",
+    "code": "",
+    "options": ["The Incredible Hulk", "Iron Man", "Thor", "Captain America: The First Avenger"],
+    "correctIndex": 1,
+    "explanation": "Iron Man (2008) is the first film in the Marvel Cinematic Universe."
+  },
+  {
+    "id": "mv-009",
+    "title": "Which 2010 science-fiction film centers on thieves who enter dreams to implant ideas?",
+    "code": "",
+    "options": ["Shutter Island", "Source Code", "Interstellar", "Inception"],
+    "correctIndex": 3,
+    "explanation": "Inception (2010) follows a team that performs corporate espionage by entering and manipulating layered dreams."
+  },
+  {
+    "id": "mv-010",
+    "title": "Which 2019 superhero film briefly became the highest-grossing movie of all time before 'Avatar' reclaimed the record?",
+    "code": "",
+    "options": ["Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: No Way Home", "Star Wars: The Force Awakens"],
+    "correctIndex": 1,
+    "explanation": "Avengers: Endgame (2019) surpassed Avatar in 2019 to become the highest-grossing film, before Avatar retook the top spot after a 2021 re-release."
+  }
+]

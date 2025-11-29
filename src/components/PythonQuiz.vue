@@ -6,13 +6,13 @@ const questions = ref([])
 const selectedIndex = ref(null)
 const showAnswer = ref(false)
 
-// 🔥 Persistent correct count stored in MongoDB
+// Persistent correct count stored in MongoDB
 const totalCorrect = ref(0)
 
-// fallback for public users
+// Default language
 const selectedLang = 'python'
 
-// This always uses questions[0]
+// Always shows first question
 const currentQuestion = computed(() =>
   questions.value.length ? questions.value[0] : null
 )
@@ -27,13 +27,21 @@ onMounted(async () => {
 })
 
 
+// -----------------------------------------------------
 // Load initial unseen questions (or fallback)
+// UPDATED to use languageId
+// -----------------------------------------------------
 async function loadInitialQuestions() {
   try {
-    const res = await axios.get('/api/questions/new')
+    const res = await axios.get('/api/python/new', {
+      params: { languageId: selectedLang }
+    })
     questions.value = shuffle(res.data)
   } catch (_) {
-    const res = await axios.get(`/api/questions?language=${selectedLang}`)
+    // fallback if /new not available
+    const res = await axios.get('/api/python', {
+      params: { languageId: selectedLang }
+    })
     questions.value = shuffle(res.data)
   }
 }
@@ -53,7 +61,7 @@ function shuffle(arr) {
 
 
 // -----------------------------------------------------
-// Load persistent correct count from server
+// Load user correct count
 // -----------------------------------------------------
 async function loadUserCorrectCount() {
   try {
@@ -66,7 +74,7 @@ async function loadUserCorrectCount() {
 
 
 // -----------------------------------------------------
-// Selecting an option
+// Option selection
 // -----------------------------------------------------
 function selectOption(index) {
   if (showAnswer.value) return
@@ -75,7 +83,7 @@ function selectOption(index) {
 
 
 // -----------------------------------------------------
-// Submit answer + update persistent correct count
+// Submit answer + update persistent score
 // -----------------------------------------------------
 async function submitAnswer() {
   if (!currentQuestion.value) return
@@ -87,14 +95,11 @@ async function submitAnswer() {
 
   if (isCorrect) {
     try {
-      // Mark correct on server
-      await axios.post('/api/questions/mark-correct', {
+      await axios.post('/api/python/mark-correct', {
         questionId: currentQuestion.value._id
       })
 
-      // 🔥 Reload count from DB so it persists
       await loadUserCorrectCount()
-
     } catch (err) {
       console.log('Failed to mark correct:', err)
     }
@@ -106,16 +111,18 @@ async function submitAnswer() {
 // Load NEXT question
 // -----------------------------------------------------
 async function nextQuestion() {
-  // Remove the one just answered
   questions.value.shift()
 
-  // If empty, reload unseen
   if (questions.value.length === 0) {
     try {
-      const res = await axios.get('/api/questions/new')
+      const res = await axios.get('/api/python/new', {
+        params: { languageId: selectedLang }
+      })
       questions.value = shuffle(res.data)
     } catch (err) {
-      const res = await axios.get(`/api/questions?language=${selectedLang}`)
+      const res = await axios.get('/api/python', {
+        params: { languageId: selectedLang }
+      })
       questions.value = shuffle(res.data)
     }
   }
@@ -124,6 +131,7 @@ async function nextQuestion() {
   showAnswer.value = false
 }
 </script>
+
 
 
 <template>

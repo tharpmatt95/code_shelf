@@ -1,16 +1,22 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 // Pages / Components
-import CodeQuiz from './components/CodeQuiz.vue'
+import PythonQuiz from './components/PythonQuiz.vue'
+import MovieQuiz from './components/MovieQuiz.vue'
 import AuthBox from './components/AuthBox.vue'
 import UserPage from './components/UserPage.vue'
 import AboutPage from './components/AboutPage.vue'
 
 const routes = [
   {
-    path: '/',
-    name: 'Home',
-    component: CodeQuiz
+    path: '/movies',
+    name: 'Movies',
+    component: MovieQuiz
+  },
+  {
+    path: '/python',
+    name: 'Python',
+    component: PythonQuiz
   },
   {
     path: '/login',
