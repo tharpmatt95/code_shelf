@@ -304,4 +304,8 @@ async function nextMovie() {
   margin-top: 0.25rem;
   color: #bbbbbb;
 }
+
+.quiz-card {
+  text-align: left;
+}
 </style>

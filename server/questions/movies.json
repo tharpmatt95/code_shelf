@@ -390,5 +390,741 @@
     "options": ["A desert ashram", "A mountain monastery", "The countryside for mourning", "A remote island"],
     "correctIndex": 2,
     "explanation": "He must complete a 10-day mourning period in rural western India."
-  }
+  },
+  {
+  "id": "mv-051",
+  "title": "In Past Lives (2023), what separates Nora and Hae Sung as children?",
+  "code": "",
+  "options": ["A family feud", "Nora’s emigration to Canada and later the U.S.", "A school transfer", "An arranged marriage"],
+  "correctIndex": 1,
+  "explanation": "Nora’s family emigrates from South Korea, ending their childhood proximity."
+},
+{
+  "id": "mv-052",
+  "title": "In Trenque Lauquen Parte I (2023), what discovery sets the investigation in motion?",
+  "code": "",
+  "options": ["A stolen car", "A hidden set of love letters", "A missing child", "A mysterious illness"],
+  "correctIndex": 1,
+  "explanation": "Secret love letters found in library books lead to revelations about Laura’s disappearance."
+},
+{
+  "id": "mv-053",
+  "title": "In Trenque Lauquen Parte II (2023), what theme drives the second half of the story?",
+  "code": "",
+  "options": ["A police pursuit", "Uncovering multiple narrative mysteries around Laura", "A political conspiracy", "Time travel"],
+  "correctIndex": 1,
+  "explanation": "The film deepens the exploration of interconnected mysteries surrounding Laura."
+},
+{
+  "id": "mv-054",
+  "title": "Our Body (2023) documents which type of medical setting?",
+  "code": "",
+  "options": ["Pediatrics ward", "Gynecological ward", "Emergency trauma unit", "Geriatric care facility"],
+  "correctIndex": 1,
+  "explanation": "The film observes the workings of a public hospital’s gynecological ward."
+},
+{
+  "id": "mv-055",
+  "title": "De Humani Corporis Fabrica (2023) primarily offers unprecedented cinematic access to what?",
+  "code": "",
+  "options": ["Outer space", "Political trials", "The interior of the human body", "Natural disasters"],
+  "correctIndex": 2,
+  "explanation": "The documentary reveals internal human landscapes through surgical and clinical imagery."
+},
+{
+  "id": "mv-056",
+  "title": "What is the central setting in The Zone of Interest (2023)?",
+  "code": "",
+  "options": ["A French suburb", "A POW camp in Italy", "The commandant’s home beside Auschwitz", "A bunker in Berlin"],
+  "correctIndex": 2,
+  "explanation": "The film portrays the Höss family household located directly next to Auschwitz."
+},
+{
+  "id": "mv-057",
+  "title": "Menus Plaisirs – Les Troisgros (2023) focuses on which famous restaurant tradition?",
+  "code": "",
+  "options": ["A century-old Spanish winery", "A multi-generational French Michelin-starred family restaurant", "A Tokyo sushi apprenticeship lineage", "A New York fusion kitchen"],
+  "correctIndex": 1,
+  "explanation": "It documents day-to-day operations of the Troisgros family’s Michelin-starred establishments."
+},
+{
+  "id": "mv-058",
+  "title": "In Saint Omer (2023), the protagonist Rama attends what event?",
+  "code": "",
+  "options": ["A political rally", "A university lecture", "A murder trial", "A literary festival"],
+  "correctIndex": 2,
+  "explanation": "Rama observes the murder trial of Laurence Coly, which challenges her assumptions."
+},
+{
+  "id": "mv-059",
+  "title": "In The Boy and the Heron (2023), Mahito enters a world where what occurs?",
+  "code": "",
+  "options": ["Animals talk", "Life and death merge and transform", "Time moves backward", "Humans become spirits permanently"],
+  "correctIndex": 1,
+  "explanation": "He enters a realm where the boundaries of life and death dissolve."
+},
+{
+  "id": "mv-060",
+  "title": "What is the thematic focus of 32 Sounds (2023)?",
+  "code": "",
+  "options": ["Historical reenactments", "Physics experiments", "The nature and experience of sound", "Ancient musical instruments"],
+  "correctIndex": 2,
+  "explanation": "It is a sensory documentary exploring how sound shapes memory and perception."
+},
+{
+  "id": "mv-061",
+  "title": "In All of Us Strangers (2023), what unusual discovery does Adam make when revisiting his childhood home?",
+  "code": "",
+  "options": ["His parents are still alive exactly as they were decades earlier", "The house is abandoned", "His friend lives there now", "A hidden family diary"],
+  "correctIndex": 0,
+  "explanation": "Adam finds his parents appearing unchanged and living as if they never died."
+},
+{
+  "id": "mv-062",
+  "title": "Oppenheimer (2023) centers on what historical project?",
+  "code": "",
+  "options": ["Apollo Program", "Manhattan Project", "Bay of Pigs", "Marshall Plan"],
+  "correctIndex": 1,
+  "explanation": "The film dramatizes Oppenheimer’s leadership of the Manhattan Project."
+},
+{
+  "id": "mv-063",
+  "title": "Killers of the Flower Moon (2023) depicts crimes committed against which community?",
+  "code": "",
+  "options": ["Cherokee Nation", "Navajo Nation", "Osage Nation", "Lakota Sioux"],
+  "correctIndex": 2,
+  "explanation": "The story follows the murders targeting wealthy Osage people in the 1920s."
+},
+{
+  "id": "mv-064",
+  "title": "Ear for Eye (2023) examines experiences of which groups?",
+  "code": "",
+  "options": ["Immigrant workers", "British and American Black individuals", "Rural farmers", "Journalists under censorship"],
+  "correctIndex": 1,
+  "explanation": "The film follows Black characters in the UK and US navigating contemporary racial realities."
+},
+{
+  "id": "mv-065",
+  "title": "In Poor Things (2023), how is Bella Baxter brought into the world?",
+  "code": "",
+  "options": ["Through a technological cloning device", "Through resurrection by an eccentric scientist", "Through a royal adoption", "Through a magical ritual"],
+  "correctIndex": 1,
+  "explanation": "Dr. Godwin Baxter resurrects Bella, who then seeks worldly experience."
+},
+{
+  "id": "mv-066",
+  "title": "In Our Father, the Devil (2023), what shocks Marie upon meeting the new priest?",
+  "code": "",
+  "options": ["He is her lost brother", "He is the man who saved her life", "He is the warlord who destroyed her family", "He speaks her native language fluently"],
+  "correctIndex": 2,
+  "explanation": "Marie recognizes him as the warlord responsible for her family’s killing."
+},
+{
+  "id": "mv-067",
+  "title": "Mami Wata (2023) depicts conflict in a village devoted to which deity?",
+  "code": "",
+  "options": ["Ogun", "Mami Wata", "Shango", "Eshu"],
+  "correctIndex": 1,
+  "explanation": "The story unfolds in a community centered around the water spirit Mami Wata."
+},
+{
+  "id": "mv-068",
+  "title": "Robot Dreams (2023) follows the friendship between which characters?",
+  "code": "",
+  "options": ["A boy and a dragon", "A dog and a robot he builds", "A chef and a stray cat", "Two androids in NYC"],
+  "correctIndex": 1,
+  "explanation": "Dog builds Robot to cure his loneliness, forming a deep bond."
+},
+{
+  "id": "mv-069",
+  "title": "In Walk Up (2023), Byungsoo visits a building owned by whom?",
+  "code": "",
+  "options": ["His sister", "A famous actor", "An old friend who is an established designer", "A real estate agent"],
+  "correctIndex": 2,
+  "explanation": "He and his daughter tour a multi-purpose building owned by a designer friend."
+},
+{
+  "id": "mv-070",
+  "title": "All Dirt Roads Taste of Salt (2023) spans what setting?",
+  "code": "",
+  "options": ["Rural Mississippi over decades", "Urban Chicago in one year", "A single Louisiana town during the 1950s", "New York coastlines"],
+  "correctIndex": 0,
+  "explanation": "The film traces a woman’s life across generations in Mississippi."
+},
+{
+  "id": "mv-071",
+  "title": "Blue Jean (2023) centers on what political moment in the UK?",
+  "code": "",
+  "options": ["The Brexit referendum", "The introduction of Section 28", "The miners’ strike", "The 2012 Olympics"],
+  "correctIndex": 1,
+  "explanation": "Jean struggles with her identity as Thatcher’s government passes Section 28 targeting LGBTQ people."
+},
+{
+  "id": "mv-072",
+  "title": "Renaissance: A Film by Beyoncé (2023) documents what?",
+  "code": "",
+  "options": ["The making of Lemonade", "The Renaissance World Tour from conception to finale", "A studio recording session", "Beyoncé’s early life"],
+  "correctIndex": 1,
+  "explanation": "The film presents the creation and execution of the Renaissance World Tour."
+},
+{
+  "id": "mv-073",
+  "title": "Anatomy of a Fall (2023) revolves around determining what?",
+  "code": "",
+  "options": ["The legitimacy of a will", "Whether Samuel’s death was suicide or murder", "A child custody dispute", "A missing person case"],
+  "correctIndex": 1,
+  "explanation": "Sandra becomes the prime suspect when her husband is found dead outside their chalet."
+},
+{
+  "id": "mv-074",
+  "title": "Fallen Leaves (2023) depicts a romance between two what?",
+  "code": "",
+  "options": ["Teenagers", "Middle-aged strangers in Helsinki", "Elderly widowers", "Musicians"],
+  "correctIndex": 1,
+  "explanation": "Two lonely, working-class strangers attempt to build a connection in modern-day Helsinki."
+},
+{
+  "id": "mv-075",
+  "title": "In Aftersun (2022), what is Sophie trying to reconcile?",
+  "code": "",
+  "options": ["Her parents’ divorce", "The father she knew with the man she didn’t", "Her desire to leave home", "Her lost childhood memories"],
+  "correctIndex": 1,
+  "explanation": "Sophie reflects on holiday memories as she tries to understand the father she only partly knew."
+},
+{
+  "id": "mv-076",
+  "title": "TÁR (2022) follows Lydia Tár, who holds what historic distinction?",
+  "code": "",
+  "options": ["First woman to win a Pulitzer", "First female chief conductor of a major German orchestra", "First female composer of a national anthem", "First woman to direct the Vienna Opera"],
+  "correctIndex": 1,
+  "explanation": "Lydia Tár is portrayed as the first female chief conductor of a major German orchestra."
+},
+{
+  "id": "mv-077",
+  "title": "No Bears (2022) features what central narrative device?",
+  "code": "",
+  "options": ["Two parallel love stories", "A political campaign", "A courtroom drama", "A time-loop romance"],
+  "correctIndex": 0,
+  "explanation": "The film presents two parallel love stories shaped by power structures and superstition."
+},
+{
+  "id": "mv-078",
+  "title": "All the Beauty and the Bloodshed (2022) centers on which activist figure?",
+  "code": "",
+  "options": ["Ai Weiwei", "Nan Goldin", "Marina Abramović", "Barbara Kruger"],
+  "correctIndex": 1,
+  "explanation": "The documentary follows Nan Goldin’s art, activism, and fight against the Sackler family."
+},
+{
+  "id": "mv-079",
+  "title": "Hit the Road (2022) follows what type of journey?",
+  "code": "",
+  "options": ["A pilgrimage", "A smuggling route", "A family road trip across Iran", "A political escape"],
+  "correctIndex": 2,
+  "explanation": "A family of four travels across the Iranian countryside, bonding and confronting uncertainty."
+},
+{
+  "id": "mv-080",
+  "title": "The Worst Person in the World (2022) tells the story in how many chapters?",
+  "code": "",
+  "options": ["Three", "Seven", "Twelve", "Twenty"],
+  "correctIndex": 2,
+  "explanation": "Julie’s story unfolds in twelve chapters covering several years of her life."
+},
+{
+  "id": "mv-081",
+  "title": "Great Freedom (2022) revolves around Hans, who is repeatedly imprisoned under which law?",
+  "code": "",
+  "options": ["Paragraph 175 criminalizing homosexuality", "A sedition act", "A political dissent law", "A military desertion code"],
+  "correctIndex": 0,
+  "explanation": "Hans is imprisoned again and again under Paragraph 175 in postwar Germany."
+},
+{
+  "id": "mv-082",
+  "title": "Mr. Bachmann and His Class (2022) documents the work of a teacher in what kind of setting?",
+  "code": "",
+  "options": ["A remote village", "A multilingual, immigrant-rich German classroom", "A private academy", "A rural vocational school"],
+  "correctIndex": 1,
+  "explanation": "The teacher works with students from many countries in a diverse German city."
+},
+{
+  "id": "mv-083",
+  "title": "In The Quiet Girl (2022), where is Cait sent for the summer?",
+  "code": "",
+  "options": ["A boarding school", "A religious retreat", "Foster parents in rural Ireland", "Her aunt’s city home"],
+  "correctIndex": 2,
+  "explanation": "Cait is sent to live with foster parents, where she begins to thrive."
+},
+{
+  "id": "mv-084",
+  "title": "Three Minutes: A Lengthening (2022) expands on footage shot in which year?",
+  "code": "",
+  "options": ["1921", "1938", "1945", "1953"],
+  "correctIndex": 1,
+  "explanation": "The documentary dissects three minutes of 1938 footage of the Jewish residents of Nasielsk."
+},
+{
+  "id": "mv-085",
+  "title": "Aftershock (2022) responds to what pressing crisis?",
+  "code": "",
+  "options": ["Gun violence", "Climate disasters", "The U.S. maternal health crisis", "Hospital corruption"],
+  "correctIndex": 2,
+  "explanation": "The film confronts the maternal mortality crisis following two preventable deaths."
+},
+{
+  "id": "mv-086",
+  "title": "A Night of Knowing Nothing (2022) reveals social unrest through what narrative device?",
+  "code": "",
+  "options": ["A video diary", "Fictional love letters", "A police investigation", "Radio broadcasts"],
+  "correctIndex": 1,
+  "explanation": "The story unfolds through fictional letters found in a film-school cupboard."
+},
+{
+  "id": "mv-087",
+  "title": "Return to Seoul (2022) follows Freddie as she returns to which country?",
+  "code": "",
+  "options": ["Japan", "South Korea", "China", "Vietnam"],
+  "correctIndex": 1,
+  "explanation": "Freddie returns to South Korea, where she was born before her adoption."
+},
+{
+  "id": "mv-088",
+  "title": "All That Breathes (2022) focuses on the rescue of which bird?",
+  "code": "",
+  "options": ["Snowy owl", "Flamingo", "Black kite", "Red-tailed hawk"],
+  "correctIndex": 2,
+  "explanation": "Two brothers run a makeshift bird hospital to save black kites in New Delhi."
+},
+{
+  "id": "mv-089",
+  "title": "Descendant (2022) investigates the legacy of which ship?",
+  "code": "",
+  "options": ["La Amistad", "The Mayflower", "The Clotilda", "The Wanderer"],
+  "correctIndex": 2,
+  "explanation": "The Clotilda was the last illegal slave ship to reach the U.S., central to the film’s inquiry."
+},
+{
+  "id": "mv-090",
+  "title": "The Banshees of Inisherin (2022) begins with what shocking event?",
+  "code": "",
+  "options": ["Colm ending his friendship with Padraic", "A village murder", "A church burning", "A shipwreck"],
+  "correctIndex": 0,
+  "explanation": "Colm abruptly ends the lifelong friendship, triggering escalating conflict."
+},
+{
+  "id": "mv-091",
+  "title": "Playground (2022) primarily explores what theme?",
+  "code": "",
+  "options": ["Political indoctrination", "Sibling loyalty amid school bullying", "Substance abuse", "Teacher misconduct"],
+  "correctIndex": 1,
+  "explanation": "Nora watches her brother Abel being bullied and faces pressure to remain silent."
+},
+{
+  "id": "mv-092",
+  "title": "Happening (2022) follows Anne as she attempts what in 1963 France?",
+  "code": "",
+  "options": ["To flee the country", "To obtain a clandestine abortion", "To track down her birth parents", "To join a political movement"],
+  "correctIndex": 1,
+  "explanation": "Anne risks shame, pain, and prison seeking an abortion to save her future."
+},
+{
+  "id": "mv-093",
+  "title": "My Imaginary Country (2022) covers massive protests in which city?",
+  "code": "",
+  "options": ["Buenos Aires", "Madrid", "Santiago, Chile", "Bogotá"],
+  "correctIndex": 2,
+  "explanation": "Patricio Guzmán documents the Chilean uprising in Santiago."
+},
+{
+  "id": "mv-094",
+  "title": "One Fine Morning (2022) centers on Sandra juggling what two major challenges?",
+  "code": "",
+  "options": ["Motherhood and a new job", "Illness and immigration problems", "Caring for her sick father and an affair", "Financial struggles and a legal battle"],
+  "correctIndex": 2,
+  "explanation": "Sandra cares for her ailing father while entering a relationship with a married friend."
+},
+{
+  "id": "mv-095",
+  "title": "In Front of Your Face (2022) follows Sangok as she returns to which city?",
+  "code": "",
+  "options": ["Tokyo", "Sydney", "Busan", "Seoul"],
+  "correctIndex": 3,
+  "explanation": "Sangok returns to Seoul after living abroad and confronts hidden truths."
+},
+{
+  "id": "mv-096",
+  "title": "Decision to Leave (2022) begins with the death of a man who fell from where?",
+  "code": "",
+  "options": ["A lighthouse", "A mountain peak", "A construction crane", "A seaside cliff"],
+  "correctIndex": 1,
+  "explanation": "Detective Hae-joon investigates after a man falls from a mountain summit."
+},
+{
+  "id": "mv-097",
+  "title": "The Fabelmans (2022) centers on Sammy Fabelman’s passion for what?",
+  "code": "",
+  "options": ["Physics", "Filmmaking", "Astronomy", "Architecture"],
+  "correctIndex": 1,
+  "explanation": "Sammy’s love for filmmaking drives the coming-of-age story."
+},
+{
+  "id": "mv-098",
+  "title": "Quo Vadis, Aida? (2021) is set during which historical event?",
+  "code": "",
+  "options": ["The Kosovo War", "The Siege of Sarajevo", "The Srebrenica genocide", "The Croatian War of Independence"],
+  "correctIndex": 2,
+  "explanation": "The film is set in Srebrenica in July 1995, leading up to the genocide."
+},
+{
+  "id": "mv-099",
+  "title": "Summer of Soul (2021) centers on which long-unseen event?",
+  "code": "",
+  "options": ["The Newport Folk Festival", "The Harlem Cultural Festival", "The Detroit Jazz Festival", "The Monterey Pop Festival"],
+  "correctIndex": 1,
+  "explanation": "The documentary showcases the 1969 Harlem Cultural Festival, whose footage sat unseen for 50 years."
+},
+{
+  "id": "mv-100",
+  "title": "Rocks (2021) follows a teenage girl who must care for whom?",
+  "code": "",
+  "options": ["Her grandmother", "Her younger brother", "Her baby daughter", "Her cousin"],
+  "correctIndex": 1,
+  "explanation": "Rocks suddenly becomes responsible for her younger brother after their mother disappears."
+},
+{
+  "id": "mv-101",
+  "title": "Petite Maman (2021) begins after Nelly experiences which loss?",
+  "code": "",
+  "options": ["Her dog", "Her mother", "Her grandmother", "Her best friend"],
+  "correctIndex": 2,
+  "explanation": "Nelly has just lost her grandmother and is helping clean out her mother’s childhood home."
+},
+{
+  "id": "mv-102",
+  "title": "In Memoria (2021), what triggers Jessica’s strange experiences?",
+  "code": "",
+  "options": ["A recurring dream", "A mysterious loud bang at dawn", "A vision in the jungle", "A near-death experience"],
+  "correctIndex": 1,
+  "explanation": "A loud bang heard at daybreak sparks a chain of sensory disturbances."
+},
+{
+  "id": "mv-103",
+  "title": "Days (2021) centers on the meeting between Kang and Non under what circumstances?",
+  "code": "",
+  "options": ["A political protest", "A spiritual retreat", "Illness and loneliness abroad", "A chance reunion between old friends"],
+  "correctIndex": 2,
+  "explanation": "Kang, adrift from illness, meets Non in a foreign country, providing each other brief consolation."
+},
+{
+  "id": "mv-104",
+  "title": "Drive My Car (2021) features Misaki Watari in what role?",
+  "code": "",
+  "options": ["Stage actress", "Choreographer", "Yusuke’s driver", "Festival director"],
+  "correctIndex": 2,
+  "explanation": "Misaki is assigned to chauffeur Yusuke Kafuku in his red Saab 900."
+},
+{
+  "id": "mv-105",
+  "title": "Flee (2021) recounts Amin's story primarily through what medium?",
+  "code": "",
+  "options": ["Live-action reenactments", "Claymation", "Narration over still photos", "Animation"],
+  "correctIndex": 3,
+  "explanation": "The film uses animation to tell Amin’s refugee story."
+},
+{
+  "id": "mv-106",
+  "title": "This Is Not a Burial, It’s a Resurrection (2021) features Mantoa fighting against what threat?",
+  "code": "",
+  "options": ["A mining company", "A dam project that would flood her village", "A military occupation", "A corrupt mayor"],
+  "correctIndex": 1,
+  "explanation": "A planned dam would displace her community and destroy the burial grounds."
+},
+{
+  "id": "mv-107",
+  "title": "Licorice Pizza (2021) is set in which decade?",
+  "code": "",
+  "options": ["1950s", "1960s", "1970s", "1980s"],
+  "correctIndex": 2,
+  "explanation": "The story follows Alana and Gary in the San Fernando Valley in 1973."
+},
+{
+  "id": "mv-108",
+  "title": "Procession (2021) follows six men using what process to confront trauma?",
+  "code": "",
+  "options": ["Hypnosis", "Drama therapy and reenactments", "Silent meditation", "Group painting sessions"],
+  "correctIndex": 1,
+  "explanation": "The survivors create dramatic scenes to process their childhood abuse by clergy."
+},
+{
+  "id": "mv-109",
+  "title": "Wojnarowicz (2021) documents the work of an artist active during which crisis?",
+  "code": "",
+  "options": ["Vietnam War", "AIDS epidemic", "Cold War", "Civil Rights Movement"],
+  "correctIndex": 1,
+  "explanation": "David Wojnarowicz’s activism was central during the AIDS epidemic in 1980s New York."
+},
+{
+  "id": "mv-110",
+  "title": "The Souvenir: Part II (2021) follows Julie as she creates what?",
+  "code": "",
+  "options": ["A documentary about her family", "A graduation film processing her past relationship", "A script about her childhood", "A theatre adaptation"],
+  "correctIndex": 1,
+  "explanation": "Julie turns to filmmaking to untangle the truth of her painful relationship."
+},
+{
+  "id": "mv-111",
+  "title": "The Power of the Dog (2021) centers on Phil Burbank, who is known for what demeanor?",
+  "code": "",
+  "options": ["Generosity", "Fear and awe he inspires", "Academic brilliance", "Political ambition"],
+  "correctIndex": 1,
+  "explanation": "Phil’s charisma is intimidating and manipulative, shaping the ranch’s emotional landscape."
+},
+{
+  "id": "mv-112",
+  "title": "Azor (2021) follows a banker traveling to which country during a dictatorship?",
+  "code": "",
+  "options": ["Brazil", "Chile", "Argentina", "Paraguay"],
+  "correctIndex": 2,
+  "explanation": "A Swiss private banker arrives in Argentina to investigate his partner’s disappearance."
+},
+{
+  "id": "mv-113",
+  "title": "The Father (2021) uses what technique to depict Anthony’s condition?",
+  "code": "",
+  "options": ["Multiple narrators", "A nonlinear environment shifting with his memory", "Flashback voiceovers", "Fantasy sequences"],
+  "correctIndex": 1,
+  "explanation": "Rooms, people, and timelines subtly shift to reflect Anthony’s unraveling memory."
+},
+{
+  "id": "mv-114",
+  "title": "Parallel Mothers (2021) begins with Janis and Ana meeting where?",
+  "code": "",
+  "options": ["A photography studio", "A prison", "A hospital maternity ward", "A train station"],
+  "correctIndex": 2,
+  "explanation": "The women meet in the maternity ward as they prepare to give birth."
+},
+{
+  "id": "mv-115",
+  "title": "The Human Voice (2021) centers on a woman waiting for what?",
+  "code": "",
+  "options": ["Her son’s return", "A job interview", "Her ex-lover to pick up his suitcases", "A court verdict"],
+  "correctIndex": 2,
+  "explanation": "She waits beside her ex-lover’s suitcases, though he never arrives."
+},
+{
+  "id": "mv-116",
+  "title": "The Velvet Underground (2021) explores the rise of what?",
+  "code": "",
+  "options": ["New York punk clubs", "The American folk revival", "One of rock’s most influential avant-garde bands", "The disco movement"],
+  "correctIndex": 2,
+  "explanation": "Todd Haynes documents the avant-garde band’s formation and cultural impact."
+},
+{
+  "id": "mv-117",
+  "title": "Attica (2021) recounts the 1971 uprising at what institution?",
+  "code": "",
+  "options": ["San Quentin", "Attica Correctional Facility", "Rikers Island", "Sing Sing"],
+  "correctIndex": 1,
+  "explanation": "The film revisits the Attica prison uprising and its lasting implications."
+},
+{
+  "id": "mv-118",
+  "title": "Can You Bring It: Bill T. Jones and D-Man in the Waters (2021) explores the legacy of which art form?",
+  "code": "",
+  "options": ["Opera", "Contemporary dance", "Street graffiti", "Experimental theatre"],
+  "correctIndex": 1,
+  "explanation": "The documentary examines the creation and legacy of Bill T. Jones’ iconic dance work."
+},
+{
+  "id": "mv-119",
+  "title": "About Endlessness (2021) uses what narrative style?",
+  "code": "",
+  "options": ["A single continuous take", "Dreamlike vignettes narrated as fables", "Found-footage montage", "Traditional three-act drama"],
+  "correctIndex": 1,
+  "explanation": "The film unfolds through poetic, dreamlike tableaux linked by a narrator."
+},
+{
+  "id": "mv-120",
+  "title": "Hope (2021) follows Anja and Tomas as they confront what crisis?",
+  "code": "",
+  "options": ["Financial ruin", "Infertility", "A terminal cancer diagnosis", "A missing child"],
+  "correctIndex": 2,
+  "explanation": "Anja’s terminal diagnosis forces the couple to rebuild trust and face mortality together."
+},
+{
+  "id": "mv-121",
+  "title": "Small Axe: Lovers Rock (2020) is set during what event?",
+  "code": "",
+  "options": ["A reggae festival", "A house party in 1980s West London", "A street protest", "A wedding celebration"],
+  "correctIndex": 1,
+  "explanation": "The film takes place over one night at a house party filled with romance, tension, and music."
+},
+{
+  "id": "mv-122",
+  "title": "Collective (2020) begins investigating corruption after what incident?",
+  "code": "",
+  "options": ["A political assassination", "A train explosion", "A deadly nightclub fire", "A hospital collapse"],
+  "correctIndex": 2,
+  "explanation": "A nightclub fire exposes dysfunction and corruption that journalists uncover at a national scale."
+},
+{
+  "id": "mv-123",
+  "title": "David Byrne’s American Utopia (2020) documents which performance?",
+  "code": "",
+  "options": ["A farewell concert", "A reunion tour", "A Broadway stage show by David Byrne", "A Carnegie Hall retrospective"],
+  "correctIndex": 2,
+  "explanation": "Spike Lee directs the filmed version of Byrne’s acclaimed Broadway production."
+},
+{
+  "id": "mv-124",
+  "title": "Never Rarely Sometimes Always (2020) follows Autumn as she travels to New York City for what purpose?",
+  "code": "",
+  "options": ["A job interview", "Medical care for her friend", "An abortion unavailable in her home state", "A scholarship audition"],
+  "correctIndex": 2,
+  "explanation": "Autumn and Skylar cross state lines to obtain an abortion and navigate a difficult system."
+},
+{
+  "id": "mv-125",
+  "title": "Time (2020) focuses on Fox Rich’s decades-long fight to free whom?",
+  "code": "",
+  "options": ["Her brother", "Her eldest son", "Her husband Rob", "Her father"],
+  "correctIndex": 2,
+  "explanation": "Fox Rich campaigns for her husband Rob’s release from a 60-year sentence."
+},
+{
+  "id": "mv-126",
+  "title": "First Cow (2020) centers on a business venture reliant on what?",
+  "code": "",
+  "options": ["Illegal moonshine", "Conflict-free beaver pelts", "Secretly stealing milk from a landowner’s prized cow", "Smuggling gold dust"],
+  "correctIndex": 2,
+  "explanation": "The men build a business using milk taken covertly from a wealthy landowner’s cow."
+},
+{
+  "id": "mv-127",
+  "title": "Small Axe: Mangrove (2020) tells the story of which real trial?",
+  "code": "",
+  "options": ["The Brixton 12", "The Notting Hill Nine", "The Mangrove Nine", "The Tottenham Three"],
+  "correctIndex": 2,
+  "explanation": "The Mangrove Nine trial followed arrests after protests against police harassment."
+},
+{
+  "id": "mv-128",
+  "title": "Minari (2020) follows a Korean-American family trying to farm where?",
+  "code": "",
+  "options": ["Rural California", "Northern Texas", "The Ozarks in Arkansas", "Georgia farmland"],
+  "correctIndex": 2,
+  "explanation": "The Yi family moves to rural Arkansas to build their own farm and future."
+},
+{
+  "id": "mv-129",
+  "title": "Gunda (2020) focuses primarily on what?",
+  "code": "",
+  "options": ["A tiger reserve", "A scientific expedition", "Daily life of farm animals filmed in black-and-white", "Urban wildlife in Europe"],
+  "correctIndex": 2,
+  "explanation": "The film observes pigs, chickens, and cows with meditative intimacy."
+},
+{
+  "id": "mv-130",
+  "title": "Dick Johnson Is Dead (2020) presents imaginative scenes depicting what?",
+  "code": "",
+  "options": ["A future society", "Kirsten Johnson’s childhood memories", "Her father’s staged, fantastical deaths", "Dreams recorded during sleep experiments"],
+  "correctIndex": 2,
+  "explanation": "The filmmaker stages elaborate fictional deaths for her father as a way to cope with loss."
+},
+{
+  "id": "mv-131",
+  "title": "City Hall (2020) documents what institution’s daily work?",
+  "code": "",
+  "options": ["New York State Legislature", "Chicago police department", "Boston city government", "U.S. Congress"],
+  "correctIndex": 2,
+  "explanation": "Frederick Wiseman chronicles Boston’s municipal government and civic services."
+},
+{
+  "id": "mv-132",
+  "title": "Hamilton (2020) is a filmed version of what?",
+  "code": "",
+  "options": ["A touring production", "A Hollywood adaptation", "The original Broadway cast performance", "A live concert tribute"],
+  "correctIndex": 2,
+  "explanation": "The movie captures the original Broadway cast filmed live at the Richard Rodgers Theatre."
+},
+{
+  "id": "mv-133",
+  "title": "Wolfwalkers (2020) features Robyn befriending whom?",
+  "code": "",
+  "options": ["A witch", "A forest spirit", "A girl from a wolf-transforming tribe", "A runaway prince"],
+  "correctIndex": 2,
+  "explanation": "Robyn bonds with Mebh, a girl whose people transform into wolves at night."
+},
+{
+  "id": "mv-134",
+  "title": "Ma Rainey’s Black Bottom (2020) is set during what type of event?",
+  "code": "",
+  "options": ["A national tour", "A recording session in 1920s Chicago", "A courtroom hearing", "Ma Rainey’s retirement show"],
+  "correctIndex": 1,
+  "explanation": "The story unfolds over one intense recording session where conflicts erupt."
+},
+{
+  "id": "mv-135",
+  "title": "Small Axe: Education (2020) focuses on what injustice?",
+  "code": "",
+  "options": ["Housing discrimination", "Police brutality", "Educational segregation of Black children", "Unlawful deportations"],
+  "correctIndex": 2,
+  "explanation": "Kingsley is wrongly sent to a school for 'special needs' children under a discriminatory policy."
+},
+{
+  "id": "mv-136",
+  "title": "Nomadland (2020) follows Fern as she adopts what lifestyle?",
+  "code": "",
+  "options": ["Wilderness hermit", "Cross-country van-dwelling nomad", "Gold prospector", "Park ranger"],
+  "correctIndex": 1,
+  "explanation": "After losing her town and job, Fern travels the American West in her van."
+},
+{
+  "id": "mv-137",
+  "title": "Rewind (2020) is constructed using what source?",
+  "code": "",
+  "options": ["Police files", "Court transcripts", "A vast archive of family home videos", "Anonymous interviews"],
+  "correctIndex": 2,
+  "explanation": "The filmmaker pieces together his childhood trauma through his father’s video recordings."
+},
+{
+  "id": "mv-138",
+  "title": "What the Constitution Means to Me (2020) documents what?",
+  "code": "",
+  "options": ["A Senate trial", "A high school debate championship", "A filmed Broadway play by Heidi Schreck", "A constitutional law class"],
+  "correctIndex": 2,
+  "explanation": "It is a filmed version of Heidi Schreck’s acclaimed Broadway play."
+},
+{
+  "id": "mv-139",
+  "title": "The Wolf House (2020) uses animation to depict Maria’s escape from what?",
+  "code": "",
+  "options": ["A political prison", "A mining colony", "A sect inspired by Colonia Dignidad", "A military camp"],
+  "correctIndex": 2,
+  "explanation": "Maria flees a cult modeled on the real Colonia Dignidad and enters a nightmarish house."
+},
+{
+  "id": "mv-140",
+  "title": "Divine Love (2020) portrays Joana working in what unusual future setting?",
+  "code": "",
+  "options": ["A floating city", "A virtual court", "A bureaucratic office in 2027 Brazil influencing marriages", "A religious tribunal on Mars"],
+  "correctIndex": 2,
+  "explanation": "Joana uses her government post to steer couples toward reconciliation through a religious cult."
+},
+{
+  "id": "mv-141",
+  "title": "Welcome to Chechnya (2020) follows activists protecting whom?",
+  "code": "",
+  "options": ["Political dissidents", "Writers facing censorship", "LGBTQ+ Chechens fleeing persecution", "Journalists under threat"],
+  "correctIndex": 2,
+  "explanation": "The film documents activists rescuing LGBTQ+ people from the region’s ongoing pogrom."
+},
+{
+  "id": "mv-142",
+  "title": "Vitalina Varela (2020) follows the title character arriving in Lisbon only to discover what?",
+  "code": "",
+  "options": ["Her husband has remarried", "Her documents are invalid", "Her husband died days earlier", "Her home has been destroyed"],
+  "correctIndex": 2,
+  "explanation": "Vitalina arrives after decades apart, only to learn her husband has just been buried."
+}
 ]
