@@ -3524,5 +3524,215 @@
     "options": ["School lessons", "Community meetings", "Medical consultations", "Workplace interviews"],
     "correctIndex": 0,
     "explanation": "Adi’s optometry exams serve as a setting for moral confrontation."
+  },
+  {
+    "id": "mv-467",
+    "title": "Boyhood (2014) primarily follows which character as he grows up over 12 years?",
+    "options": ["Ethan", "Mason", "Gus", "Charlie"],
+    "correctIndex": 1,
+    "explanation": "The film chronicles Mason’s life from childhood to adulthood."
+  },
+  {
+    "id": "mv-468",
+    "title": "Mr. Turner (2014) depicts the painter engaging in which unusual act for artistic inspiration?",
+    "options": ["Living in a cave", "Climbing a cathedral tower", "Being strapped to a ship’s mast", "Painting underwater"],
+    "correctIndex": 2,
+    "explanation": "Turner has himself tied to a ship’s mast to study a snowstorm."
+  },
+  {
+    "id": "mv-469",
+    "title": "In Leviathan (2014), what does Kolia refuse to give up?",
+    "options": ["His fishing license", "His father’s inheritance", "His land and auto shop", "His political office"],
+    "correctIndex": 2,
+    "explanation": "The mayor attempts to seize his house and auto-repair shop."
+  },
+  {
+    "id": "mv-470",
+    "title": "A Summer’s Tale (2014) shows Gaspard entangled in relationships partly due to guidance from whom?",
+    "options": ["His professor", "His ex-girlfriend", "Margot", "His mother"],
+    "correctIndex": 2,
+    "explanation": "Margot encourages him to pursue a summer romance."
+  },
+  {
+    "id": "mv-471",
+    "title": "In Ida (2014), Anna learns a family secret connected to which historical period?",
+    "options": ["The Cold War", "World War I", "The Nazi occupation", "The Polish–Soviet War"],
+    "correctIndex": 2,
+    "explanation": "She discovers truths dating back to the Nazi occupation of Poland."
+  },
+  {
+    "id": "mv-472",
+    "title": "Big Men (2014) investigates corruption in which industry?",
+    "options": ["Mining", "Oil", "Telecommunications", "Agriculture"],
+    "correctIndex": 1,
+    "explanation": "The documentary focuses on Ghana’s and Nigeria’s oil sectors."
+  },
+  {
+    "id": "mv-473",
+    "title": "The Overnighters (2014) centers on migrants arriving in North Dakota for what opportunity?",
+    "options": ["Timber work", "Oil boom jobs", "Tech industry growth", "Railroad construction"],
+    "correctIndex": 1,
+    "explanation": "Thousands arrive seeking employment in the oil boom."
+  },
+  {
+    "id": "mv-474",
+    "title": "Whiplash (2014) focuses on a young musician mastering which instrument?",
+    "options": ["Trumpet", "Piano", "Drums", "Bass"],
+    "correctIndex": 2,
+    "explanation": "Andrew Neyman is a jazz drummer."
+  },
+  {
+    "id": "mv-475",
+    "title": "Two Days, One Night (2014) shows Sandra trying to keep her job by asking coworkers to give up what?",
+    "options": ["Vacation days", "Health benefits", "Bonuses", "Overtime pay"],
+    "correctIndex": 2,
+    "explanation": "They must vote to keep their bonuses or keep her employed."
+  },
+  {
+    "id": "mv-476",
+    "title": "National Gallery (2014) explores life inside which cultural institution?",
+    "options": ["The Louvre", "The Rijksmuseum", "The National Gallery, London", "The Prado"],
+    "correctIndex": 2,
+    "explanation": "It examines the workings of London’s National Gallery."
+  },
+  {
+    "id": "mv-477",
+    "title": "The Tale of the Princess Kaguya (2014) begins with the princess being discovered where?",
+    "options": ["Inside a river stone", "In a palace garden", "Inside a bamboo stalk", "Under a cherry tree"],
+    "correctIndex": 2,
+    "explanation": "She is found as a tiny girl inside a glowing bamboo stalk."
+  },
+  {
+    "id": "mv-478",
+    "title": "Manuscripts Don’t Burn (2014) depicts an oppressive regime inspired by real attempts to silence whom?",
+    "options": ["Student protesters", "Prominent writers", "Foreign diplomats", "Business leaders"],
+    "correctIndex": 1,
+    "explanation": "It draws from an attempted killing of Iranian writers and intellectuals."
+  },
+  {
+    "id": "mv-479",
+    "title": "The Grand Budapest Hotel (2014) features M. Gustave involved in the theft of what?",
+    "options": ["A rare diamond", "A priceless painting", "A royal necklace", "A secret manuscript"],
+    "correctIndex": 1,
+    "explanation": "A Renaissance painting becomes central to the plot."
+  },
+  {
+    "id": "mv-480",
+    "title": "Winter Sleep (2014) is set primarily in what kind of establishment?",
+    "options": ["A restaurant", "A rural clinic", "A hotel", "A schoolhouse"],
+    "correctIndex": 2,
+    "explanation": "Aydin runs a small hotel in central Anatolia."
+  },
+  {
+    "id": "mv-481",
+    "title": "Citizenfour (2014) documents the first meetings with which whistleblower?",
+    "options": ["Daniel Ellsberg", "Chelsea Manning", "Edward Snowden", "Reality Winner"],
+    "correctIndex": 2,
+    "explanation": "Laura Poitras films her encounters with Edward Snowden."
+  },
+  {
+    "id": "mv-482",
+    "title": "Birdman (2014) centers on an actor famous for playing what?",
+    "options": ["A detective", "A superhero", "A king", "A musician"],
+    "correctIndex": 1,
+    "explanation": "Riggan Thomson once portrayed an iconic superhero character."
+  },
+  {
+    "id": "mv-483",
+    "title": "Level Five (2014 U.S. release) concerns Laura completing a video game about which WWII battle?",
+    "options": ["Iwo Jima", "Stalingrad", "Okinawa", "El Alamein"],
+    "correctIndex": 2,
+    "explanation": "She works on a game depicting the Battle of Okinawa."
+  },
+  {
+    "id": "mv-484",
+    "title": "We Are the Best! (2014) follows three girls forming which type of band?",
+    "options": ["Metal", "Punk", "Pop", "Jazz"],
+    "correctIndex": 1,
+    "explanation": "They start a punk band in 1980s Stockholm."
+  },
+  {
+    "id": "mv-485",
+    "title": "Particle Fever (2014) documents scientists searching for which particle?",
+    "options": ["Graviton", "Muon", "Higgs boson", "Top quark"],
+    "correctIndex": 2,
+    "explanation": "They follow the launch of the LHC to detect the Higgs boson."
+  },
+  {
+    "id": "mv-486",
+    "title": "Life Itself (2014) is based on the memoir of which critic?",
+    "options": ["Pauline Kael", "Roger Ebert", "Andrew Sarris", "Richard Roeper"],
+    "correctIndex": 1,
+    "explanation": "It chronicles the life and legacy of Roger Ebert."
+  },
+  {
+    "id": "mv-487",
+    "title": "The King and the Mockingbird (2014 U.S. release) originated from work begun in which decade?",
+    "options": ["1920s", "1940s", "1960s", "1980s"],
+    "correctIndex": 1,
+    "explanation": "The film’s beginnings trace back to 1947."
+  },
+  {
+    "id": "mv-488",
+    "title": "Force Majeure (2014) revolves around a crisis triggered by what event?",
+    "options": ["A hotel fire", "An avalanche scare", "A skiing accident", "A lost child"],
+    "correctIndex": 1,
+    "explanation": "A controlled avalanche frightens diners, shaking a family’s dynamics."
+  },
+  {
+    "id": "mv-489",
+    "title": "Stand Clear of the Closing Doors (2014) follows Ricky exploring which environment?",
+    "options": ["The coastline", "The subway system", "An abandoned factory", "A historic museum"],
+    "correctIndex": 1,
+    "explanation": "Ricky wanders New York’s subway for days."
+  },
+  {
+    "id": "mv-490",
+    "title": "Last Days in Vietnam (2014) documents events surrounding which conflict’s conclusion?",
+    "options": ["Korean War", "Vietnam War", "Gulf War", "Iran–Iraq War"],
+    "correctIndex": 1,
+    "explanation": "It captures the chaotic final period of the Vietnam War."
+  },
+  {
+    "id": "mv-491",
+    "title": "Boyhood (2014) features Patricia Arquette and Ethan Hawke playing which roles?",
+    "options": ["Teachers", "Grandparents", "Parents", "Neighbors"],
+    "correctIndex": 2,
+    "explanation": "They portray Mason’s divorced parents."
+  },
+  {
+    "id": "mv-492",
+    "title": "Mr. Turner (2014) depicts the artist forming a close bond with whom later in life?",
+    "options": ["A gallery owner", "A seaside landlady", "A fellow painter", "His estranged daughter"],
+    "correctIndex": 1,
+    "explanation": "He lives incognito with a landlady in Chelsea."
+  },
+  {
+    "id": "mv-493",
+    "title": "Ida (2014) begins with Anna preparing to take what step in her life?",
+    "options": ["Join the army", "Take her vows as a nun", "Start university", "Become a teacher"],
+    "correctIndex": 1,
+    "explanation": "She is an 18-year-old novitiate about to take her vows."
+  },
+  {
+    "id": "mv-494",
+    "title": "The Overnighters (2014) shows Pastor Jay Reinke turning his church into what?",
+    "options": ["A food pantry", "A day school", "A shelter for migrants", "A medical clinic"],
+    "correctIndex": 2,
+    "explanation": "He opens the church to house job seekers lacking shelter."
+  },
+  {
+    "id": "mv-495",
+    "title": "Whiplash (2014) portrays Terence Fletcher as a teacher known for what?",
+    "options": ["Gentle coaching", "Fearsome discipline", "Encouraging improvisation", "Teaching classical music"],
+    "correctIndex": 1,
+    "explanation": "Fletcher is notorious for brutal, unforgiving methods."
+  },
+  {
+    "id": "mv-496",
+    "title": "Two Days, One Night (2014) unfolds primarily over which time span?",
+    "options": ["A school semester", "A weekend", "Two months", "A single evening"],
+    "correctIndex": 1,
+    "explanation": "Sandra has the weekend to visit coworkers before Monday’s vote."
   }
 ]
