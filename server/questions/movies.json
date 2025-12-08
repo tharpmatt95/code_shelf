@@ -3734,5 +3734,166 @@
     "options": ["A school semester", "A weekend", "Two months", "A single evening"],
     "correctIndex": 1,
     "explanation": "Sandra has the weekend to visit coworkers before Monday’s vote."
+  },
+  {
+    "id": "mv-497",
+    "title": "12 Years a Slave (2013) depicts Solomon Northup being abducted from which U.S. state?",
+    "options": ["Virginia", "Georgia", "New York", "Maryland"],
+    "correctIndex": 2,
+    "explanation": "Northup was a free Black man living in New York before being kidnapped and sold into slavery."
+  },
+  {
+    "id": "mv-498",
+    "title": "Gravity (2013) follows astronauts stranded after debris destroys what?",
+    "options": ["Their shuttle", "The ISS", "Their oxygen supply", "Their communications array"],
+    "correctIndex": 0,
+    "explanation": "A debris cascade obliterates the shuttle, leaving Stone and Kowalski drifting in space."
+  },
+  {
+    "id": "mv-499",
+    "title": "Before Midnight (2013) continues Jesse and Celine’s story primarily in what setting?",
+    "options": ["A train cabin", "A French apartment", "A New York café", "A Greek seaside town"],
+    "correctIndex": 3,
+    "explanation": "The film takes place in Greece, where the couple is vacationing with friends and family."
+  },
+  {
+    "id": "mv-500",
+    "title": "Inside Llewyn Davis (2013) begins with Llewyn performing at which New York venue?",
+    "options": ["The Bitter End", "Gaslight Café", "Café Wha?", "The Village Vanguard"],
+    "correctIndex": 1,
+    "explanation": "Llewyn plays at the Gaslight Café, central to the early-'60s folk scene."
+  },
+  {
+    "id": "mv-501",
+    "title": "Tristana (2013 re-release) focuses on Tristana’s conflicted relationship with which guardian?",
+    "options": ["A local priest", "Don Lope", "Her teacher", "A distant uncle"],
+    "correctIndex": 1,
+    "explanation": "Don Lope becomes both her guardian and lover, complicating her sense of freedom."
+  },
+  {
+    "id": "mv-502",
+    "title": "The Act of Killing (2013) has former death-squad leaders reenact atrocities in which style?",
+    "options": ["Documentary realism", "Silent-film pastiche", "Historical stage drama", "Multiple cinematic genres"],
+    "correctIndex": 3,
+    "explanation": "They restage killings in noir, western, musical, and other stylized genres."
+  },
+  {
+    "id": "mv-503",
+    "title": "Stories We Tell (2013) centers on Sarah Polley uncovering surprising truths about whom?",
+    "options": ["Her mother", "Her sister", "Her grandfather", "Her acting coach"],
+    "correctIndex": 0,
+    "explanation": "Polley investigates the life and secrets of her late mother, Diane."
+  },
+  {
+    "id": "mv-504",
+    "title": "Her (2013) features Theodore developing a relationship with an operating system named what?",
+    "options": ["Evelyn", "Aura", "Samantha", "Nova"],
+    "correctIndex": 2,
+    "explanation": "The AI ‘Samantha,’ voiced by Scarlett Johansson, becomes Theodore’s romantic partner."
+  },
+  {
+    "id": "mv-505",
+    "title": "The Gatekeepers (2013) interviews former leaders of which Israeli organization?",
+    "options": ["Mossad", "Aman", "IDF Central Command", "Shin Bet"],
+    "correctIndex": 3,
+    "explanation": "Six ex-heads of Shin Bet discuss intelligence, counter-terrorism, and policy."
+  },
+  {
+    "id": "mv-506",
+    "title": "Blue Is the Warmest Color (2013) begins with Adèle first noticing Emma because of what feature?",
+    "options": ["Her tattoos", "Her height", "Her blue hair", "Her painting style"],
+    "correctIndex": 1,
+    "explanation": "Emma’s unmistakable blue hair captures Adèle’s imagination and sparks their connection."
+  },
+  {
+    "id": "mv-507",
+    "title": "American Hustle (2013) centers on Irving Rosenfeld, who primarily works as what?",
+    "options": ["A con artist", "A nightclub manager", "A politician", "A real-estate tycoon"],
+    "correctIndex": 0,
+    "explanation": "Irving is a seasoned con artist drawn into an FBI sting operation."
+  },
+  {
+    "id": "mv-508",
+    "title": "The Missing Picture (2013) uses what artistic element to portray Khmer Rouge atrocities?",
+    "options": ["Painted scrolls", "Puppetry", "Clay figurines", "Shadow theatre"],
+    "correctIndex": 2,
+    "explanation": "Rithy Panh employs handcrafted clay figures to visualize lost or censored history."
+  },
+  {
+    "id": "mv-509",
+    "title": "All Is Lost (2013) features Robert Redford as a sailor struggling to survive after what?",
+    "options": ["A hurricane strike", "A collision with a cargo container", "A mutiny", "A medical emergency"],
+    "correctIndex": 1,
+    "explanation": "His yacht is damaged after hitting a drifting shipping container."
+  },
+  {
+    "id": "mv-510",
+    "title": "Gideon’s Army (2013) follows which group of legal professionals?",
+    "options": ["Civil rights litigators", "Public defenders", "Corporate lawyers", "Military judges"],
+    "correctIndex": 3,
+    "explanation": "The film examines three young public defenders working under crushing caseloads."
+  },
+  {
+    "id": "mv-511",
+    "title": "Nebraska (2013) depicts Woody Grant traveling to claim what prize?",
+    "options": ["A lottery jackpot", "A free car", "A million-dollar sweepstakes reward", "A veterans benefit"],
+    "correctIndex": 2,
+    "explanation": "Woody believes a sweepstakes letter promises him a million dollars."
+  },
+  {
+    "id": "mv-512",
+    "title": "Drug War (2013) involves a cartel boss assisting authorities after what event?",
+    "options": ["His lab is raided", "His son is kidnapped", "A rival cartel attacks", "His cover is blown"],
+    "correctIndex": 0,
+    "explanation": "He agrees to cooperate after being captured in a police raid."
+  },
+  {
+    "id": "mv-513",
+    "title": "The Great Beauty (2013) follows Jep Gambardella, who is best known for what?",
+    "options": ["His political work", "His journalism", "Hosting television debates", "A novel he wrote decades earlier"],
+    "correctIndex": 3,
+    "explanation": "Jep is celebrated for a novel from his youth, a success he never repeated."
+  },
+  {
+    "id": "mv-514",
+    "title": "Let the Fire Burn (2013) recounts a fatal confrontation between Philadelphia officials and which group?",
+    "options": ["Weather Underground", "MOVE", "Black Panthers", "Earth Liberation Front"],
+    "correctIndex": 1,
+    "explanation": "The 1985 police bombing targeted the Black liberation group MOVE."
+  },
+  {
+    "id": "mv-515",
+    "title": "The Past (2013) begins with Ahmad returning to Paris for what purpose?",
+    "options": ["To sell property", "To finalize a divorce", "To attend a funeral", "To see his daughter"],
+    "correctIndex": 0,
+    "explanation": "He visits Paris to finalize divorce proceedings with Marie."
+  },
+  {
+    "id": "mv-516",
+    "title": "Fruitvale Station (2013) portrays the final day of which real-life figure?",
+    "options": ["Trayvon Martin", "Oscar Grant", "Jordan Davis", "Amadou Diallo"],
+    "correctIndex": 2,
+    "explanation": "The film recounts Oscar Grant’s last day before his killing by transit police."
+  },
+  {
+    "id": "mv-517",
+    "title": "The Wind Rises (2013) fictionalizes the life of Jiro Horikoshi, known for designing what?",
+    "options": ["Commercial airliners", "Experimental gliders", "Fighter aircraft", "Maritime bombers"],
+    "correctIndex": 2,
+    "explanation": "Horikoshi designed several Japanese fighter aircraft, including the A6M Zero."
+  },
+  {
+    "id": "mv-518",
+    "title": "The Square (2013) documents protests centered in which Cairo location?",
+    "options": ["Giza Square", "Ramses Square", "Tahrir Square", "Sadat Square"],
+    "correctIndex": 3,
+    "explanation": "The film focuses on activists organizing in Tahrir Square."
+  },
+  {
+    "id": "mv-519",
+    "title": "Museum Hours (2013) features a museum guard forming a friendship with a visitor from where?",
+    "options": ["Canada", "Belgium", "United States", "Germany"],
+    "correctIndex": 0,
+    "explanation": "A Canadian woman befriends a guard at Vienna’s Kunsthistorisches Museum."
   }
 ]
