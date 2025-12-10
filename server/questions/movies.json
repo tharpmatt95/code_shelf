@@ -3895,5 +3895,215 @@
     "options": ["Canada", "Belgium", "United States", "Germany"],
     "correctIndex": 0,
     "explanation": "A Canadian woman befriends a guard at Vienna’s Kunsthistorisches Museum."
+  },
+  {
+    "id": "mv-520",
+    "title": "In Children of Paradise (1945), which Parisian milieu forms the backdrop for the intersecting stories?",
+    "options": ["Bohemian Montmartre", "Left Bank cafés", "Aristocratic salons", "The theatrical boulevard du Crime"],
+    "correctIndex": 3,
+    "explanation": "The film is set around the bustling boulevard du Crime, home to theaters and street performers."
+  },
+  {
+    "id": "mv-521",
+    "title": "In Amour (2012), Georges and Anne spent their professional lives teaching what?",
+    "options": ["Philosophy", "Music", "Literature", "Art"],
+    "correctIndex": 1,
+    "explanation": "They are retired music teachers whose relationship is tested by illness."
+  },
+  {
+    "id": "mv-522",
+    "title": "Zero Dark Thirty (2012) follows operatives searching for whom?",
+    "options": ["Osama bin Laden", "Saddam Hussein", "Ayman al-Zawahiri", "An anonymous informant"],
+    "correctIndex": 0,
+    "explanation": "The narrative centers on the decade-long hunt for Osama bin Laden."
+  },
+  {
+    "id": "mv-523",
+    "title": "In It's Such a Beautiful Day (2012), Bill primarily struggles with what?",
+    "options": ["A failing relationship", "Unemployment", "His deteriorating mental state", "A terminal physical illness"],
+    "correctIndex": 2,
+    "explanation": "The film explores Bill’s fractured sense of reality and memory."
+  },
+  {
+    "id": "mv-524",
+    "title": "This Is Not a Film (2012) was created during Jafar Panahi’s what?",
+    "options": ["Voluntary exile", "Film-school residency", "House arrest and filmmaking ban", "Underground festival tour"],
+    "correctIndex": 2,
+    "explanation": "Panahi was under house arrest and barred from filmmaking."
+  },
+  {
+    "id": "mv-525",
+    "title": "Lincoln (2012) focuses on which of Abraham Lincoln’s major political efforts?",
+    "options": ["Military strategy", "Financial reconstruction", "Westward expansion", "Passing the 13th Amendment"],
+    "correctIndex": 3,
+    "explanation": "The film dramatizes Lincoln’s push to pass the 13th Amendment to abolish slavery."
+  },
+  {
+    "id": "mv-526",
+    "title": "In Elena (2012), Vladimir’s sudden hospitalization prompts what central conflict?",
+    "options": ["A custody battle", "An inheritance crisis", "A criminal investigation", "A family reconciliation"],
+    "correctIndex": 1,
+    "explanation": "Elena must make drastic choices related to securing inheritance for her son’s family."
+  },
+  {
+    "id": "mv-527",
+    "title": "In The Kid with a Bike (2012), what object symbolizes Cyril’s hope for his father’s return?",
+    "options": ["A baseball glove", "A backpack", "His bicycle", "A childhood note"],
+    "correctIndex": 0,
+    "explanation": "Cyril’s determination to recover his bicycle reflects his belief his father still cares."
+  },
+  {
+    "id": "mv-528",
+    "title": "Gregory Crewdson: Brief Encounters (2012) documents the creation of which artist’s elaborate photographs?",
+    "options": ["Nan Goldin", "Cindy Sherman", "Richard Avedon", "Gregory Crewdson"],
+    "correctIndex": 3,
+    "explanation": "The film chronicles Crewdson’s meticulous, cinematic photography process."
+  },
+  {
+    "id": "mv-529",
+    "title": "How to Survive a Plague (2012) centers on activism surrounding what?",
+    "options": ["Cancer drug access", "Environmental reform", "HIV/AIDS treatment advocacy", "Prison conditions"],
+    "correctIndex": 1,
+    "explanation": "It follows ACT UP and TAG activists fighting for HIV/AIDS medication and policy change."
+  },
+  {
+    "id": "mv-530",
+    "title": "In Barbara (2012), the protagonist is exiled to a rural hospital because she requested what?",
+    "options": ["A research grant", "A transfer to Berlin", "An exit visa", "A political hearing"],
+    "correctIndex": 2,
+    "explanation": "Her application for an exit visa labels her politically untrustworthy."
+  },
+  {
+    "id": "mv-531",
+    "title": "Argo (2012) dramatizes a covert operation during which real event?",
+    "options": ["The Gulf War", "The Suez Crisis", "The Iran Hostage Crisis", "The Beirut barracks bombing"],
+    "correctIndex": 0,
+    "explanation": "The mission takes place during the 1979–1981 Iran Hostage Crisis."
+  },
+  {
+    "id": "mv-532",
+    "title": "In The Master (2012), Freddie Quell becomes involved with a movement founded by whom?",
+    "options": ["A philosopher", "A religious prophet", "A charismatic intellectual leader", "A political theorist"],
+    "correctIndex": 1,
+    "explanation": "Lancaster Dodd, the leader Freddie follows, is a charismatic, quasi-religious figure."
+  },
+  {
+    "id": "mv-533",
+    "title": "Beasts of the Southern Wild (2012) is set in which isolated community?",
+    "options": ["The Delta Plains", "The Bathtub", "The Iron Marsh", "The Blue Bayou Settlement"],
+    "correctIndex": 3,
+    "explanation": "Hushpuppy lives in the Bathtub, a fictional bayou cut off from the mainland."
+  },
+  {
+    "id": "mv-534",
+    "title": "Wake in Fright (1971/2012 restoration) follows a teacher trapped where?",
+    "options": ["A coastal whaling town", "A remote mining outpost", "An outback pub settlement", "A desert border station"],
+    "correctIndex": 2,
+    "explanation": "He becomes stranded among violent, hard-drinking locals in an outback settlement."
+  },
+  {
+    "id": "mv-535",
+    "title": "Holy Motors (2012) revolves around Monsieur Oscar performing what throughout the day?",
+    "options": ["Religious rites", "Corporate negotiations", "Multiple identity-shifting ‘appointments’", "Street theater activism"],
+    "correctIndex": 2,
+    "explanation": "He adopts numerous personas for mysterious ‘appointments’ around Paris."
+  },
+  {
+    "id": "mv-536",
+    "title": "Moonrise Kingdom (2012) begins when two children decide to do what?",
+    "options": ["Run away together", "Build a treehouse", "Start a secret club", "Write a pact"],
+    "correctIndex": 0,
+    "explanation": "Sam and Suzy run away, prompting a community-wide search."
+  },
+  {
+    "id": "mv-537",
+    "title": "Oslo, August 31st (2012) follows Anders as he leaves rehab for what purpose?",
+    "options": ["A court date", "A farewell gathering", "A job interview", "A family reunion"],
+    "correctIndex": 0,
+    "explanation": "He visits Oslo primarily for a job interview but drifts toward old acquaintances."
+  },
+  {
+    "id": "mv-538",
+    "title": "In Looper (2012), Joe’s life unravels when the mob sends back whom as his target?",
+    "options": ["A rival looper", "His estranged brother", "His future self", "A corrupt official"],
+    "correctIndex": 2,
+    "explanation": "Joe must confront and kill his older self to ‘close the loop.’"
+  },
+  {
+    "id": "mv-539",
+    "title": "The Waiting Room (2012) documents life inside what institution?",
+    "options": ["A mental-health clinic", "A public emergency room", "A federal housing office", "A free legal-aid center"],
+    "correctIndex": 1,
+    "explanation": "It portrays the pressures and human stories inside Oakland’s Highland Hospital ER."
+  },
+  {
+    "id": "mv-540",
+    "title": "The Day He Arrives (2012) repeatedly shows Seongjun doing what?",
+    "options": ["Teaching film theory", "Wandering Seoul and drinking with acquaintances", "Filming a documentary", "Auditioning actors"],
+    "correctIndex": 2,
+    "explanation": "He revisits similar encounters in a looping pattern of wandering and drinking."
+  },
+  {
+    "id": "mv-541",
+    "title": "The Flat (2012) begins after whose death?",
+    "options": ["The filmmaker’s father", "His grandmother", "His cousin", "A former neighbor"],
+    "correctIndex": 3,
+    "explanation": "The death of the filmmaker’s grandmother leads to discoveries while clearing her apartment."
+  },
+  {
+    "id": "mv-542",
+    "title": "Footnote (2012) depicts a rivalry between whom?",
+    "options": ["Two historians", "A mother and daughter", "A father and son Talmudic scholars", "Competing linguists"],
+    "correctIndex": 1,
+    "explanation": "A father and son both work in Talmudic Studies, creating tension over recognition."
+  },
+  {
+    "id": "mv-543",
+    "title": "Children of Paradise is often compared to what type of production due to its scale?",
+    "options": ["A chamber play", "An intimate avant-garde piece", "A grand theatrical epic", "A minimalist stage drama"],
+    "correctIndex": 3,
+    "explanation": "Its large cast, sets, and scope resemble a theatrical epic."
+  },
+  {
+    "id": "mv-544",
+    "title": "In Amour, the couple’s daughter lives where?",
+    "options": ["Paris", "Berlin", "London", "Abroad in an unspecified country"],
+    "correctIndex": 1,
+    "explanation": "She lives abroad, separated from their day-to-day struggles."
+  },
+  {
+    "id": "mv-545",
+    "title": "Zero Dark Thirty begins after which major event?",
+    "options": ["The 1993 WTC bombing", "The invasion of Iraq", "The September 11 attacks", "The USS Cole bombing"],
+    "correctIndex": 3,
+    "explanation": "The film’s narrative grows from intelligence efforts launched after 9/11."
+  },
+  {
+    "id": "mv-546",
+    "title": "In It’s Such a Beautiful Day, Don Hertzfeldt uses what animation style?",
+    "options": ["Stop-motion models", "3D rendering", "Hand-drawn stick-figure minimalism", "Cut-paper collage"],
+    "correctIndex": 2,
+    "explanation": "His signature stick-figure drawings convey Bill’s psychological fragility."
+  },
+  {
+    "id": "mv-547",
+    "title": "This Is Not a Film largely unfolds inside what space?",
+    "options": ["A film studio", "A courtroom", "Panahi’s apartment", "A moving car"],
+    "correctIndex": 2,
+    "explanation": "Panahi’s apartment becomes both setting and metaphor for restriction."
+  },
+  {
+    "id": "mv-548",
+    "title": "Lincoln highlights political negotiations occurring primarily where?",
+    "options": ["Senate floor", "White House offices", "Gettysburg battlefield", "Union military camps"],
+    "correctIndex": 0,
+    "explanation": "Key strategy scenes occur within the White House and congressional networks."
+  },
+  {
+    "id": "mv-549",
+    "title": "Elena explores class tensions most visible through what contrast?",
+    "options": ["Urban vs. rural life", "Old wealth vs. new wealth", "Vladimir’s luxury vs. Elena’s son’s poverty", "Corporate vs. academic culture"],
+    "correctIndex": 1,
+    "explanation": "Elena’s working-class roots and her son’s financial struggles clash with Vladimir’s wealth."
   }
 ]
