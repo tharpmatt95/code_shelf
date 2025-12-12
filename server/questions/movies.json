@@ -4105,5 +4105,215 @@
     "options": ["Urban vs. rural life", "Old wealth vs. new wealth", "Vladimir’s luxury vs. Elena’s son’s poverty", "Corporate vs. academic culture"],
     "correctIndex": 1,
     "explanation": "Elena’s working-class roots and her son’s financial struggles clash with Vladimir’s wealth."
+  },
+  {
+    "id": "mv-550",
+    "title": "In A Separation (2011), which value is most severely tested as the story unfolds?",
+    "options": ["Political loyalty", "Truth versus self-interest", "Religious obedience", "National identity"],
+    "correctIndex": 1,
+    "explanation": "Nearly every character compromises honesty to protect personal interests."
+  },
+  {
+    "id": "mv-551",
+    "title": "We Were Here (2011) documents the AIDS crisis through the lens of which community?",
+    "options": ["Medical researchers", "Federal policymakers", "San Francisco’s gay community", "International aid workers"],
+    "correctIndex": 2,
+    "explanation": "The film focuses on gay men, nurses, and activists in San Francisco."
+  },
+  {
+    "id": "mv-552",
+    "title": "In Nostalgia for the Light (2011), astronomical research is juxtaposed with what earthly search?",
+    "options": ["Lost civilizations", "Disappeared political victims", "Buried treasure", "Ancient fossils"],
+    "correctIndex": 1,
+    "explanation": "Women search the desert for remains of relatives lost under Pinochet."
+  },
+  {
+    "id": "mv-553",
+    "title": "My Perestroika (2011) follows individuals whose lives are shaped by which historical collapse?",
+    "options": ["Imperial Russia", "The Warsaw Pact", "The Soviet Union", "The Eastern Bloc"],
+    "correctIndex": 2,
+    "explanation": "The film centers on those who came of age during the USSR’s dissolution."
+  },
+  {
+    "id": "mv-554",
+    "title": "The Artist (2011) recreates the transition between which two cinematic eras?",
+    "options": ["Black-and-white and color", "Silent film and sound cinema", "Studio and independent film", "Film and digital"],
+    "correctIndex": 1,
+    "explanation": "Its drama is driven by the arrival of synchronized sound."
+  },
+  {
+    "id": "mv-555",
+    "title": "In The Arbor (2011), interviews are presented using what distinctive method?",
+    "options": ["Direct-to-camera confessionals", "Actors lip-syncing recorded audio", "Animated rotoscoping", "Archival footage only"],
+    "correctIndex": 1,
+    "explanation": "Actors precisely reproduce the speech patterns of real interviewees."
+  },
+  {
+    "id": "mv-556",
+    "title": "Poetry (2011) portrays self-discovery emerging through participation in what activity?",
+    "options": ["Community theater", "Literacy classes", "Volunteer work", "A poetry course"],
+    "correctIndex": 3,
+    "explanation": "The class gives the protagonist moral clarity and purpose."
+  },
+  {
+    "id": "mv-557",
+    "title": "Uncle Boonmee Who Can Recall His Past Lives (2011) reflects ideas most associated with which worldview?",
+    "options": ["Existentialism", "Buddhist reincarnation", "Animist folklore", "Catholic mysticism"],
+    "correctIndex": 1,
+    "explanation": "Rebirth and karma structure the film’s spiritual logic."
+  },
+  {
+    "id": "mv-558",
+    "title": "The Autobiography of Nicolae Ceaușescu (2011) tells its story using what primary material?",
+    "options": ["Dramatized reenactments", "Personal diaries", "Archival state footage", "Contemporary interviews"],
+    "correctIndex": 2,
+    "explanation": "The film relies almost entirely on official archival images."
+  },
+  {
+    "id": "mv-559",
+    "title": "Moneyball (2011) argues that competitive advantage can be gained through what approach?",
+    "options": ["Player charisma", "Traditional scouting instincts", "Statistical analysis", "High payroll spending"],
+    "correctIndex": 2,
+    "explanation": "Sabermetrics challenge baseball orthodoxy."
+  },
+  {
+    "id": "mv-560",
+    "title": "Cave of Forgotten Dreams (2011) explores artwork created in which prehistoric period?",
+    "options": ["Neolithic era", "Bronze Age", "Upper Paleolithic", "Mesolithic era"],
+    "correctIndex": 2,
+    "explanation": "The Chauvet paintings date back over 30,000 years."
+  },
+  {
+    "id": "mv-561",
+    "title": "Of Gods and Men (2011) centers on monks living in which geopolitical context?",
+    "options": ["Post-war Lebanon", "Colonial Morocco", "1990s Algeria", "Modern-day Egypt"],
+    "correctIndex": 2,
+    "explanation": "The story is based on the Tibhirine monks in Algeria."
+  },
+  {
+    "id": "mv-562",
+    "title": "In The Interrupters (2011), violence prevention depends primarily on what strategy?",
+    "options": ["Increased policing", "Legal reform", "Community-based intervention", "Youth incarceration"],
+    "correctIndex": 2,
+    "explanation": "Former offenders intervene directly to stop conflicts."
+  },
+  {
+    "id": "mv-563",
+    "title": "Harry Potter and the Deathly Hallows: Part 2 (2011) culminates in what decisive outcome?",
+    "options": ["The destruction of Hogwarts", "Harry’s exile", "Voldemort’s defeat", "The end of magic"],
+    "correctIndex": 2,
+    "explanation": "The final confrontation ends Voldemort’s reign."
+  },
+  {
+    "id": "mv-564",
+    "title": "Take Shelter (2011) uses apocalyptic visions to explore which underlying theme?",
+    "options": ["Religious prophecy", "Economic collapse", "Mental illness and fear", "Environmental activism"],
+    "correctIndex": 2,
+    "explanation": "The visions may reflect psychological breakdown rather than literal danger."
+  },
+  {
+    "id": "mv-565",
+    "title": "City of Life and Death (2011) dramatizes which historical atrocity?",
+    "options": ["The Korean War", "The Hiroshima bombing", "The Nanking Massacre", "The Cultural Revolution"],
+    "correctIndex": 2,
+    "explanation": "The film depicts the 1937 atrocities in Nanking."
+  },
+  {
+    "id": "mv-566",
+    "title": "Tinker Tailor Soldier Spy (2011) is structured around uncovering what hidden threat?",
+    "options": ["A double agent", "A rogue general", "A stolen weapon", "A failed mission"],
+    "correctIndex": 0,
+    "explanation": "The plot revolves around identifying a mole within MI6."
+  },
+  {
+    "id": "mv-567",
+    "title": "The Wages of Fear (1953) derives its suspense from transporting which dangerous cargo?",
+    "options": ["Explosives", "Chemical weapons", "Radioactive waste", "Poison gas"],
+    "correctIndex": 0,
+    "explanation": "Nitroglycerin makes every bump potentially fatal."
+  },
+  {
+    "id": "mv-568",
+    "title": "The Tree of Life (2011) contrasts human experience with imagery drawn from what scale?",
+    "options": ["National history", "Cosmic evolution", "Technological progress", "Mythological cycles"],
+    "correctIndex": 1,
+    "explanation": "The film spans from family life to the origins of the universe."
+  },
+  {
+    "id": "mv-569",
+    "title": "Meek’s Cutoff (2011) places settlers in danger primarily because of what failure?",
+    "options": ["Broken supplies", "Harsh weather", "An unreliable guide", "Internal betrayal"],
+    "correctIndex": 2,
+    "explanation": "Stephen Meek leads the group astray."
+  },
+  {
+    "id": "mv-570",
+    "title": "The Descendants (2011) forces its protagonist to confront responsibility through which decision?",
+    "options": ["Adopting a child", "Selling inherited land", "Leaving Hawaii", "Running for office"],
+    "correctIndex": 1,
+    "explanation": "The land sale symbolizes moral and familial accountability."
+  },
+  {
+    "id": "mv-571",
+    "title": "13 Assassins (2011) builds toward its climax through what defining genre element?",
+    "options": ["Court intrigue", "Naval warfare", "Extended battle sequence", "Political negotiation"],
+    "correctIndex": 2,
+    "explanation": "The film culminates in a prolonged, violent showdown."
+  },
+  {
+    "id": "mv-572",
+    "title": "Project Nim (2011) ultimately questions what assumption?",
+    "options": ["Human uniqueness", "Animal loyalty", "Scientific objectivity", "Language acquisition ethics"],
+    "correctIndex": 3,
+    "explanation": "The experiment exposes ethical failures in teaching language to animals."
+  },
+  {
+    "id": "mv-573",
+    "title": "Zero Dark Thirty (2012) begins its narrative in the aftermath of which event?",
+    "options": ["The USS Cole bombing", "The invasion of Iraq", "The 1993 WTC bombing", "The September 11 attacks"],
+    "correctIndex": 3,
+    "explanation": "The intelligence hunt for bin Laden grows from 9/11."
+  },
+  {
+    "id": "mv-574",
+    "title": "It’s Such a Beautiful Day (2012) is visually defined by which animation style?",
+    "options": ["Stop-motion puppets", "Cut-paper collage", "Minimalist stick figures", "3D animation"],
+    "correctIndex": 2,
+    "explanation": "Don Hertzfeldt uses stark stick-figure drawings."
+  },
+  {
+    "id": "mv-575",
+    "title": "This Is Not a Film (2011) unfolds almost entirely within what confined setting?",
+    "options": ["A courtroom", "A film studio", "An apartment", "A moving car"],
+    "correctIndex": 2,
+    "explanation": "Panahi’s apartment becomes both setting and symbol."
+  },
+  {
+    "id": "mv-576",
+    "title": "Lincoln (2012) emphasizes political maneuvering surrounding which amendment?",
+    "options": ["The First", "The Thirteenth", "The Fourteenth", "The Fifteenth"],
+    "correctIndex": 1,
+    "explanation": "The film centers on abolishing slavery."
+  },
+  {
+    "id": "mv-577",
+    "title": "Elena (2011) exposes class tension through conflict between which two forces?",
+    "options": ["City and countryside", "Old money and new money", "Wealth and poverty within a family", "Labor and management"],
+    "correctIndex": 2,
+    "explanation": "Elena’s son’s poverty clashes with her husband’s wealth."
+  },
+  {
+    "id": "mv-578",
+    "title": "The Artist (2011) portrays professional decline caused by what technological shift?",
+    "options": ["Color film", "Digital projection", "Sound cinema", "Television"],
+    "correctIndex": 2,
+    "explanation": "Silent stars struggle when sound arrives."
+  },
+  {
+    "id": "mv-579",
+    "title": "Uncle Boonmee Who Can Recall His Past Lives (2011) treats death primarily as what?",
+    "options": ["A final ending", "A spiritual punishment", "A transition between lives", "A narrative mystery"],
+    "correctIndex": 2,
+    "explanation": "Death is portrayed as part of an ongoing cycle."
   }
 ]
