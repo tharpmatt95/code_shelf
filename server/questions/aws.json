@@ -1157,28 +1157,10 @@
     "explanation": "ElastiCache natively supports schemaless JSON storage."
   },
   {
-    "id": "aws-0090",
-    "title": "What feature allows querying parts of JSON documents in ElastiCache?",
-    "code": "",
-    "options": [
-      "JSONPath queries",
-      "XPath",
-      "SQL views",
-      "GraphQL"
-    ],
-    "correctIndex": 0,
-    "explanation": "JSONPath queries allow efficient access to parts of JSON documents."
-  },
-  {
     "id": "aws-0091",
     "title": "What is the primary purpose of DevOps Guru?",
     "code": "",
-    "options": [
-      "Provision infrastructure",
-      "Aggregate logs",
-      "Detect operational anomalies using ML",
-      "Manage IAM permissions"
-    ],
+    "options": ["Provision infrastructure", "Aggregate logs", "Detect operational anomalies using ML", "Manage IAM permissions"],
     "correctIndex": 2,
     "explanation": "DevOps Guru uses machine learning to detect abnormal operational patterns."
   },
@@ -1186,12 +1168,7 @@
     "id": "aws-0092",
     "title": "What type of insights does DevOps Guru generate?",
     "code": "",
-    "options": [
-      "Reactive and proactive insights",
-      "Only cost insights",
-      "Only security insights",
-      "Only performance metrics"
-    ],
+    "options": ["Reactive and proactive insights", "Only cost insights", "Only security insights", "Only performance metrics"],
     "correctIndex": 0,
     "explanation": "DevOps Guru generates both reactive and proactive insights."
   },
@@ -1199,12 +1176,7 @@
     "id": "aws-0093",
     "title": "What must be defined when enabling DevOps Guru?",
     "code": "",
-    "options": [
-      "VPC CIDR blocks",
-      "Subnet routes",
-      "Billing alarms",
-      "Which AWS resources DevOps Guru monitors"
-    ],
+    "options": ["VPC CIDR blocks", "Subnet routes", "Billing alarms", "Which AWS resources DevOps Guru monitors"],
     "correctIndex": 3,
     "explanation": "You define the resources DevOps Guru analyzes via a coverage boundary."
   },
@@ -1212,12 +1184,7 @@
     "id": "aws-0094",
     "title": "Which data sources does DevOps Guru analyze?",
     "code": "",
-    "options": [
-      "Only logs",
-      "Metrics, logs, and operational events",
-      "Only metrics",
-      "Only traces"
-    ],
+    "options": ["Only logs", "Metrics, logs, and operational events", "Only metrics", "Only traces"],
     "correctIndex": 1,
     "explanation": "DevOps Guru analyzes metrics, logs, and events."
   },
@@ -1225,12 +1192,7 @@
     "id": "aws-0095",
     "title": "What can DevOps Guru do when an insight is generated?",
     "code": "",
-    "options": [
-      "Send notifications and create OpsItems",
-      "Restart EC2 instances",
-      "Patch applications",
-      "Scale resources automatically"
-    ],
+    "options": ["Send notifications and create OpsItems", "Restart EC2 instances", "Patch applications", "Scale resources automatically"],
     "correctIndex": 0,
     "explanation": "Insights can trigger notifications and optional OpsItems."
   },
@@ -1238,12 +1200,7 @@
     "id": "aws-0096",
     "title": "Which AWS service can receive OpsItems from DevOps Guru?",
     "code": "",
-    "options": [
-      "Amazon SNS",
-      "AWS CloudFormation",
-      "AWS Config",
-      "AWS Systems Manager"
-    ],
+    "options": ["Amazon SNS", "AWS CloudFormation", "AWS Config", "AWS Systems Manager"],
     "correctIndex": 3,
     "explanation": "DevOps Guru integrates with Systems Manager OpsItems."
   },
@@ -1251,12 +1208,7 @@
     "id": "aws-0097",
     "title": "How are DevOps Guru insights categorized?",
     "code": "",
-    "options": [
-      "Cost and security",
-      "Reactive and proactive",
-      "Compute and storage",
-      "Critical and warning"
-    ],
+    "options": ["Cost and security", "Reactive and proactive", "Compute and storage", "Critical and warning"],
     "correctIndex": 1,
     "explanation": "Insights are classified as reactive or proactive."
   },
@@ -1264,25 +1216,15 @@
     "id": "aws-0098",
     "title": "Which AWS service provides metrics analyzed by DevOps Guru?",
     "code": "",
-    "options": [
-      "AWS CloudTrail",
-      "Amazon CloudWatch",
-      "AWS Config",
-      "AWS X-Ray"
-    ],
-    "correctIndex": 2,
+    "options": ["AWS CloudTrail", "Amazon CloudWatch", "AWS Config", "AWS X-Ray"],
+    "correctIndex": 1,
     "explanation": "DevOps Guru uses CloudWatch metrics."
   },
   {
     "id": "aws-0099",
     "title": "What controls access to DevOps Guru data?",
     "code": "",
-    "options": [
-      "IAM policies",
-      "Security groups",
-      "NACLs",
-      "Route tables"
-    ],
+    "options": ["IAM policies", "Security groups", "NACLs", "Route tables"],
     "correctIndex": 0,
     "explanation": "Access is controlled through IAM policies."
   },
@@ -1290,52 +1232,31 @@
     "id": "aws-0100",
     "title": "What coverage options can DevOps Guru use?",
     "code": "",
-    "options": [
-      "Availability zones",
-      "Regions only",
-      "IAM users",
-      "Accounts, CloudFormation stacks, or tags"
-    ],
+    "options": ["Availability zones", "Regions only", "IAM users", "Accounts, CloudFormation stacks, or tags"],
     "correctIndex": 3,
     "explanation": "Coverage boundaries define which resources are analyzed."
   },
-
   {
     "id": "aws-0101",
     "title": "What happens if no coverage boundary is specified in DevOps Guru?",
     "code": "",
-    "options": [
-      "All supported resources are analyzed",
-      "Only EC2 is analyzed",
-      "Only tagged resources are analyzed",
-      "Nothing is analyzed"
-    ],
-    "correctIndex": 1,
+    "options": ["All supported resources are analyzed", "Only EC2 is analyzed", "Only tagged resources are analyzed", "Nothing is analyzed"],
+    "correctIndex": 0,
     "explanation": "DevOps Guru analyzes all supported resources by default."
   },
   {
     "id": "aws-0102",
     "title": "Which databases are analyzed by DevOps Guru?",
     "code": "",
-    "options": [
-      "Amazon RDS and Redshift",
-      "Amazon S3",
-      "Amazon Neptune",
-      "Amazon QLDB"
-    ],
-    "correctIndex": 2,
+    "options": ["Amazon RDS and Redshift", "Amazon S3", "Amazon Neptune", "Amazon QLDB"],
+    "correctIndex": 0,
     "explanation": "DevOps Guru analyzes relational databases like RDS and Redshift."
   },
   {
     "id": "aws-0103",
     "title": "What additional data does DevOps Guru analyze for supported RDS engines?",
     "code": "",
-    "options": [
-      "Performance Insights data",
-      "Query logs only",
-      "Binary logs",
-      "Snapshots"
-    ],
+    "options": ["Performance Insights data", "Query logs only", "Binary logs", "Snapshots"],
     "correctIndex": 0,
     "explanation": "Performance Insights data is used to detect anomalies."
   },
@@ -1343,52 +1264,31 @@
     "id": "aws-0104",
     "title": "Which issues can DevOps Guru detect in databases?",
     "code": "",
-    "options": [
-      "Backup corruption",
-      "Lock contention and missing indexes",
-      "Unauthorized access",
-      "Schema drift"
-    ],
-    "correctIndex": 3,
-    "explanation": "DevOps Guru detects contention, misconfigurations, and inefficiencies."
+    "options": ["Backup corruption", "Lock contention and missing indexes", "Unauthorized access", "Schema drift"],
+    "correctIndex": 1,
+    "explanation": "DevOps Guru detects contention, missing indexes, and misconfigurations."
   },
   {
     "id": "aws-0105",
     "title": "Which NoSQL service is analyzed by DevOps Guru?",
     "code": "",
-    "options": [
-      "Amazon DynamoDB",
-      "Amazon Neptune",
-      "Amazon Keyspaces",
-      "Amazon QLDB"
-    ],
-    "correctIndex": 1,
-    "explanation": "DevOps Guru analyzes DynamoDB capacity and throttling."
+    "options": ["Amazon DynamoDB", "Amazon Neptune", "Amazon Keyspaces", "Amazon QLDB"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru analyzes DynamoDB capacity, throttling, and transaction failures."
   },
-
   {
     "id": "aws-0106",
     "title": "Which service enables DevOps Guru event automation?",
     "code": "",
-    "options": [
-      "Amazon EventBridge",
-      "Amazon SNS",
-      "AWS Lambda",
-      "AWS Step Functions"
-    ],
-    "correctIndex": 2,
+    "options": ["Amazon EventBridge", "Amazon SNS", "AWS Lambda", "AWS Step Functions"],
+    "correctIndex": 0,
     "explanation": "DevOps Guru integrates with EventBridge."
   },
   {
     "id": "aws-0107",
     "title": "What IAM action allows DevOps Guru to list monitored resources?",
     "code": "",
-    "options": [
-      "ListMonitoredResources",
-      "DescribeInstances",
-      "GetInsightResults",
-      "ListTagsForResource"
-    ],
+    "options": ["ListMonitoredResources", "DescribeInstances", "GetInsightResults", "ListTagsForResource"],
     "correctIndex": 0,
     "explanation": "DevOps Guru relies on ListMonitoredResources."
   },
@@ -1396,173 +1296,105 @@
     "id": "aws-0108",
     "title": "How can DevOps Guru costs be controlled?",
     "code": "",
-    "options": [
-      "Disable resource analysis",
-      "Lower CloudWatch retention",
-      "Disable CloudTrail",
-      "Remove SNS topics"
-    ],
-    "correctIndex": 1,
+    "options": ["Disable resource analysis", "Lower CloudWatch retention", "Disable CloudTrail", "Remove SNS topics"],
+    "correctIndex": 0,
     "explanation": "Resource analysis can be disabled per account or Region."
   },
   {
     "id": "aws-0109",
     "title": "What may still incur charges after disabling DevOps Guru analysis?",
     "code": "",
-    "options": [
-      "API access to existing DevOps Guru insights",
-      "CloudWatch metrics",
-      "SNS notifications",
-      "EventBridge rules"
-    ],
-    "correctIndex": 3,
-    "explanation": "Accessing existing insights via API can still incur minor charges."
+    "options": ["API access to existing DevOps Guru insights", "CloudWatch metrics", "SNS notifications", "EventBridge rules"],
+    "correctIndex": 0,
+    "explanation": "Accessing previously generated insights via API calls can still incur minor charges."
   },
-
   {
     "id": "aws-0110",
     "title": "How does DevOps Guru group analyzed resources?",
     "code": "",
-    "options": [
-      "Into applications",
-      "Into VPCs",
-      "Into availability zones",
-      "Into accounts only"
-    ],
-    "correctIndex": 2,
-    "explanation": "Resources are grouped into applications for analysis."
+    "options": ["Into applications", "Into VPCs", "Into availability zones", "Into accounts only"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru groups resources into applications within a coverage boundary."
   },
   {
     "id": "aws-0111",
     "title": "Which feature enables DevOps Guru OpsItem creation?",
     "code": "",
-    "options": [
-      "Systems Manager integration",
-      "CloudTrail integration",
-      "EventBridge rules",
-      "SNS subscriptions"
-    ],
+    "options": ["Systems Manager integration", "CloudTrail integration", "EventBridge rules", "SNS subscriptions"],
     "correctIndex": 0,
     "explanation": "OpsItems are created through Systems Manager integration."
   },
   {
     "id": "aws-0112",
-    "title": "Which resource types can DevOps Guru monitor?",
+    "title": "Which types of AWS resources can DevOps Guru analyze within its coverage boundary?",
     "code": "",
-    "options": [
-      "Compute, database, and storage resources",
-      "Only EC2 instances",
-      "Only containers",
-      "Only serverless services"
-    ],
-    "correctIndex": 3,
-    "explanation": "DevOps Guru monitors a wide range of supported AWS resources."
+    "options": ["Supported AWS resources (for example compute, databases, and storage)", "Only EC2 instances", "Only containers", "Only serverless services"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru analyzes supported AWS resources within the configured coverage boundary."
   },
-
   {
     "id": "aws-0113",
     "title": "What happens if DevOps Guru ListMonitoredResources is denied?",
     "code": "",
-    "options": [
-      "Analysis stops",
-      "Insights are deleted",
-      "Costs increase",
-      "Notifications stop only"
-    ],
-    "correctIndex": 1,
-    "explanation": "Denying the action prevents resource listing and analysis."
+    "options": ["DevOps Guru can’t list resources, so analysis/visibility is blocked", "Insights are deleted", "Costs increase", "Notifications stop only"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru uses ListMonitoredResources for grouping/analysis; denying it blocks visibility."
   },
   {
     "id": "aws-0114",
     "title": "What encryption option does DevOps Guru support?",
     "code": "",
-    "options": [
-      "AWS-managed or customer-managed KMS keys",
-      "Client-side only",
-      "No encryption",
-      "TLS only"
-    ],
-    "correctIndex": 2,
-    "explanation": "DevOps Guru supports encryption using AWS KMS."
+    "options": ["AWS KMS keys (AWS-managed or customer-managed)", "Client-side only", "No encryption", "TLS only"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru supports encryption using AWS KMS keys."
   },
   {
     "id": "aws-0115",
     "title": "Which AWS service delivers DevOps Guru notifications?",
     "code": "",
-    "options": [
-      "Amazon SNS",
-      "Amazon SQS",
-      "AWS Lambda",
-      "AWS Step Functions"
-    ],
+    "options": ["Amazon SNS", "Amazon SQS", "AWS Lambda", "AWS Step Functions"],
     "correctIndex": 0,
     "explanation": "DevOps Guru publishes notifications to SNS topics."
   },
-
   {
     "id": "aws-0116",
-    "title": "What type of ML does DevOps Guru use?",
+    "title": "What kind of analysis approach does DevOps Guru use to detect anomalies?",
     "code": "",
-    "options": [
-      "Supervised learning",
-      "Unsupervised pattern detection",
-      "Rule-based logic",
-      "Static thresholds"
-    ],
-    "correctIndex": 3,
-    "explanation": "DevOps Guru uses ML to detect anomalies beyond static thresholds."
+    "options": ["Supervised learning only", "Unsupervised ML-based anomaly detection", "Rule-based logic only", "Static thresholds only"],
+    "correctIndex": 1,
+    "explanation": "DevOps Guru uses ML to detect abnormal patterns beyond static thresholds."
   },
   {
     "id": "aws-0117",
-    "title": "What is required for DevOps Guru notifications?",
+    "title": "What is required to receive DevOps Guru insight notifications?",
     "code": "",
-    "options": [
-      "An SNS topic with publish permissions",
-      "An SQS queue",
-      "A Lambda function",
-      "An EventBridge rule"
-    ],
-    "correctIndex": 2,
-    "explanation": "SNS topics are required for insight notifications."
+    "options": ["An SNS topic that DevOps Guru can publish to", "An SQS queue", "A Lambda function", "An EventBridge rule"],
+    "correctIndex": 0,
+    "explanation": "You configure an SNS topic for DevOps Guru notifications with the right publish permissions."
   },
   {
     "id": "aws-0118",
     "title": "What is a proactive insight in DevOps Guru?",
     "code": "",
-    "options": [
-      "Predicts issues before they occur",
-      "Reports resolved issues",
-      "Summarizes costs",
-      "Shows historical logs"
-    ],
-    "correctIndex": 1,
-    "explanation": "Proactive insights predict future operational issues."
+    "options": ["An insight that predicts issues before they occur", "An insight that only reports resolved issues", "An insight that summarizes costs", "An insight that shows historical logs only"],
+    "correctIndex": 0,
+    "explanation": "Proactive insights predict issues before they happen."
   },
   {
     "id": "aws-0119",
     "title": "What does disabling DevOps Guru resource analysis prevent?",
     "code": "",
-    "options": [
-      "New insight generation",
-      "Existing insight access",
-      "IAM access",
-      "SNS delivery"
-    ],
+    "options": ["New insight generation for resources (analysis stops)", "Existing insight access", "IAM access", "SNS delivery"],
     "correctIndex": 0,
-    "explanation": "Disabling analysis stops new insights from being generated."
+    "explanation": "Disabling analysis stops new insights from being generated for resources."
   },
   {
     "id": "aws-0120",
-    "title": "What permission is required to control DevOps Guru visibility?",
+    "title": "Which IAM action is key for DevOps Guru to have visibility into monitored resources?",
     "code": "",
-    "options": [
-      "ListMonitoredResources",
-      "GetMetricData",
-      "DescribeEvents",
-      "PutInsight"
-    ],
-    "correctIndex": 3,
-    "explanation": "Visibility depends on permissions controlling monitored resources."
+    "options": ["ListMonitoredResources", "GetMetricData", "DescribeEvents", "PutInsight"],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru visibility/grouping depends on permission for ListMonitoredResources."
   },
   {
     "id": "aws-0121",
@@ -1665,7 +1497,7 @@
       "IAM permission management",
       "Cost allocation"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "StackSets deploy stacks across multiple accounts and Regions."
   },
   {
@@ -1704,7 +1536,7 @@
       "Encrypting templates",
       "Monitoring costs"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Git sync connects CloudFormation to a Git repo to manage stacks."
   },
   {
@@ -1743,7 +1575,7 @@
       "Track costs",
       "Monitor stack drift"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The registry manages CloudFormation extensions."
   },
   {
@@ -1769,7 +1601,7 @@
       "Change sets",
       "Stack policies"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": "Modules package reusable CloudFormation logic."
   },
   {
@@ -1834,7 +1666,7 @@
       "AWS Config",
       "AWS CloudTrail"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "EventBridge provides predefined CloudFormation event patterns."
   },
   {
@@ -1847,7 +1679,7 @@
       "IAM policies",
       "Template syntax"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "EventBridge evaluates event attributes to match rules."
   },
   {
@@ -1860,7 +1692,7 @@
       "Drift detection",
       "Stack policies"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Versioned templates allow tracking configuration changes."
   },
   {
@@ -1873,7 +1705,7 @@
       "The update is rolled back",
       "The template is locked"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": "CloudFormation automatically rolls back failed updates."
   },
   {
@@ -1899,7 +1731,7 @@
       "Static website hosting",
       "Cross-Region replication"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "S3 versioning is required for pipeline artifacts."
   },
   {
@@ -1912,7 +1744,7 @@
       "Change sets",
       "Modules"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Hooks can enforce best practices and compliance."
   },
   {
