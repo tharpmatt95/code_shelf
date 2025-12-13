@@ -4315,5 +4315,215 @@
     "options": ["A final ending", "A spiritual punishment", "A transition between lives", "A narrative mystery"],
     "correctIndex": 2,
     "explanation": "Death is portrayed as part of an ongoing cycle."
+  },
+  {
+    "id": "mv-580",
+    "title": "The Social Network (2010) primarily explores the cost of what kind of success?",
+    "options": ["Entrepreneurial ambition", "Political influence", "Artistic fame", "Inherited wealth"],
+    "correctIndex": 0,
+    "explanation": "The film examines ambition-driven success and its personal consequences."
+  },
+  {
+    "id": "mv-581",
+    "title": "Carlos (2010) situates its narrative within which global context?",
+    "options": ["Cold War espionage", "Religious extremism", "International terrorism", "Drug trafficking"],
+    "correctIndex": 2,
+    "explanation": "It follows a notorious international terrorist across decades."
+  },
+  {
+    "id": "mv-582",
+    "title": "Toy Story 3 (2010) centers emotionally on which theme?",
+    "options": ["Rivalry", "Letting go", "Revenge", "Escape"],
+    "correctIndex": 1,
+    "explanation": "The toys confront change and the end of childhood."
+  },
+  {
+    "id": "mv-583",
+    "title": "Winter's Bone (2010) depicts survival within which setting?",
+    "options": ["Urban housing projects", "Southern bayou towns", "Midwestern farmland", "Ozark backcountry"],
+    "correctIndex": 3,
+    "explanation": "The story unfolds in the impoverished Ozark Mountains."
+  },
+  {
+    "id": "mv-584",
+    "title": "A Prophet (2010) traces the rise of its protagonist through what environment?",
+    "options": ["Corporate offices", "Military boot camp", "Prison system", "Political institutions"],
+    "correctIndex": 2,
+    "explanation": "The main character gains power within the prison hierarchy."
+  },
+  {
+    "id": "mv-585",
+    "title": "A Film Unfinished (2010) examines which historical manipulation?",
+    "options": ["Nazi propaganda filmmaking", "Cold War newsreels", "Soviet montage theory", "Colonial travelogues"],
+    "correctIndex": 0,
+    "explanation": "It analyzes a Nazi-produced film about the Warsaw Ghetto."
+  },
+  {
+    "id": "mv-586",
+    "title": "Inside Job (2010) investigates the causes of which crisis?",
+    "options": ["Dot-com crash", "2008 financial collapse", "Great Depression", "Asian currency crisis"],
+    "correctIndex": 1,
+    "explanation": "The documentary focuses on the global financial crisis of 2008."
+  },
+  {
+    "id": "mv-587",
+    "title": "The King's Speech (2010) centers on overcoming which personal obstacle?",
+    "options": ["Illiteracy", "Physical disability", "Political opposition", "Speech impediment"],
+    "correctIndex": 3,
+    "explanation": "King George VI struggles with a debilitating stammer."
+  },
+  {
+    "id": "mv-588",
+    "title": "45365 (2010) aims to capture what aspect of American life?",
+    "options": ["Celebrity culture", "Political campaigning", "Everyday experiences", "Corporate workplaces"],
+    "correctIndex": 2,
+    "explanation": "The film documents ordinary moments across the U.S."
+  },
+  {
+    "id": "mv-589",
+    "title": "The Tillman Story (2010) challenges which narrative?",
+    "options": ["Military heroism", "Sports celebrity", "Media sensationalism", "Political ideology"],
+    "correctIndex": 0,
+    "explanation": "It questions the official heroic portrayal of Pat Tillman’s death."
+  },
+  {
+    "id": "mv-590",
+    "title": "The Kids Are All Right (2010) explores which family dynamic?",
+    "options": ["Adoption reunion", "Same-sex parenting", "Generational conflict", "Blended families"],
+    "correctIndex": 1,
+    "explanation": "The film centers on a lesbian couple and their children."
+  },
+  {
+    "id": "mv-591",
+    "title": "Last Train Home (2010) highlights tension between which forces?",
+    "options": ["Tradition and religion", "Youth and authority", "Rural families and industrial labor", "Education and poverty"],
+    "correctIndex": 2,
+    "explanation": "It focuses on migrant labor separating families in China."
+  },
+  {
+    "id": "mv-592",
+    "title": "Lebanon (2010) restricts its perspective primarily to what location?",
+    "options": ["Command headquarters", "Civilian homes", "Battlefield trenches", "Inside a tank"],
+    "correctIndex": 3,
+    "explanation": "Most of the film unfolds inside a single military tank."
+  },
+  {
+    "id": "mv-593",
+    "title": "Exit Through the Gift Shop (2010) questions the authenticity of what?",
+    "options": ["Street art culture", "Political protest", "Documentary filmmaking", "Museum curation"],
+    "correctIndex": 0,
+    "explanation": "It critiques commercialization within street art."
+  },
+  {
+    "id": "mv-594",
+    "title": "Vincere (2010) reveals a hidden story connected to which leader?",
+    "options": ["Adolf Hitler", "Benito Mussolini", "Francisco Franco", "Joseph Stalin"],
+    "correctIndex": 1,
+    "explanation": "The film uncovers Mussolini’s secret family."
+  },
+  {
+    "id": "mv-595",
+    "title": "Restrepo (2010) is structured to emphasize what experience?",
+    "options": ["Strategic planning", "Political debate", "Soldiers’ daily combat life", "Post-war recovery"],
+    "correctIndex": 2,
+    "explanation": "The documentary immerses viewers in frontline deployment."
+  },
+  {
+    "id": "mv-596",
+    "title": "Boxing Gym (2010) portrays the gym as what kind of space?",
+    "options": ["Economic equalizer", "Elite training center", "Youth detention alternative", "Professional league pipeline"],
+    "correctIndex": 0,
+    "explanation": "It presents the gym as a cross-class community."
+  },
+  {
+    "id": "mv-597",
+    "title": "Guy and Madeline on a Park Bench (2010) is stylistically inspired by what era?",
+    "options": ["Rock operas", "Broadway revivals", "Classic Hollywood musicals", "Music videos"],
+    "correctIndex": 2,
+    "explanation": "The film evokes classic black-and-white musicals."
+  },
+  {
+    "id": "mv-598",
+    "title": "Neil Young Trunk Show (2010) emphasizes which aspect of the musician?",
+    "options": ["Commercial success", "Political activism", "Personal and artistic identity", "Studio production"],
+    "correctIndex": 2,
+    "explanation": "It focuses on Neil Young’s creative spirit and persona."
+  },
+  {
+    "id": "mv-599",
+    "title": "Animal Kingdom (2010) centers on survival within what structure?",
+    "options": ["Political dynasty", "Criminal family", "Rural commune", "Street gang"],
+    "correctIndex": 1,
+    "explanation": "The protagonist navigates a violent crime family."
+  },
+  {
+    "id": "mv-600",
+    "title": "Hadewijch (2010) examines extremism through what lens?",
+    "options": ["Political ideology", "National identity", "Religious devotion", "Social rebellion"],
+    "correctIndex": 2,
+    "explanation": "The film explores intense religious faith and radicalization."
+  },
+  {
+    "id": "mv-601",
+    "title": "Ajami (2010) depicts conflict arising from what reality?",
+    "options": ["Economic collapse", "Cultural coexistence", "Colonial history", "Urban redevelopment"],
+    "correctIndex": 1,
+    "explanation": "It portrays intersecting lives across cultural and religious lines."
+  },
+  {
+    "id": "mv-602",
+    "title": "127 Hours (2010) focuses on which human struggle?",
+    "options": ["Moral dilemma", "Social isolation", "Survival against nature", "Psychological warfare"],
+    "correctIndex": 2,
+    "explanation": "The film dramatizes a fight for survival in the wilderness."
+  },
+  {
+    "id": "mv-603",
+    "title": "The Social Network portrays legal conflict primarily over what?",
+    "options": ["Patent theft", "Breach of contract", "Intellectual ownership", "Corporate fraud"],
+    "correctIndex": 2,
+    "explanation": "Disputes arise over ownership of Facebook."
+  },
+  {
+    "id": "mv-604",
+    "title": "Toy Story 3 uses the daycare setting mainly as what?",
+    "options": ["Comic relief", "A dystopian threat", "Educational satire", "Background realism"],
+    "correctIndex": 1,
+    "explanation": "The daycare becomes an oppressive environment for the toys."
+  },
+  {
+    "id": "mv-605",
+    "title": "Winter's Bone emphasizes resilience through which character?",
+    "options": ["A local sheriff", "A criminal patriarch", "A teenage girl", "A missing father"],
+    "correctIndex": 2,
+    "explanation": "Ree Dolly drives the narrative through her determination."
+  },
+  {
+    "id": "mv-606",
+    "title": "Inside Job assigns responsibility for the crisis primarily to whom?",
+    "options": ["Consumers", "Government regulators", "Financial institutions", "Foreign markets"],
+    "correctIndex": 2,
+    "explanation": "The film blames systemic failures within finance."
+  },
+  {
+    "id": "mv-607",
+    "title": "The King's Speech links personal struggle with which larger event?",
+    "options": ["Economic depression", "World War II", "Colonial independence", "Constitutional reform"],
+    "correctIndex": 1,
+    "explanation": "The King must lead Britain into World War II."
+  },
+  {
+    "id": "mv-608",
+    "title": "Exit Through the Gift Shop ultimately blurs the line between art and what?",
+    "options": ["Crime", "Commerce", "Politics", "Technology"],
+    "correctIndex": 1,
+    "explanation": "It questions commercialization of street art."
+  },
+  {
+    "id": "mv-609",
+    "title": "Restrepo avoids which common documentary technique?",
+    "options": ["Voiceover narration", "Expert interviews", "Archival footage", "On-screen text"],
+    "correctIndex": 1,
+    "explanation": "The film excludes interviews with officials or experts."
   }
 ]
