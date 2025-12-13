@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "aws-0001",
+    "title": "What is AWS X-Ray used for?",
+    "code": "",
+    "options": [
+      "Centralized configuration management",
+      "Infrastructure provisioning",
+      "Log aggregation only",
+      "Distributed tracing and request analysis"
+    ],
+    "correctIndex": 3,
+    "explanation": "AWS X-Ray is a distributed tracing service for analyzing application request flows."
+  },
+  {
+    "id": "aws-0002",
+    "title": "What does AWS X-Ray primarily collect?",
+    "code": "",
+    "options": [
+      "Trace data with metadata about downstream interactions",
+      "Only billing and cost data",
+      "Only application logs",
+      "Only CPU and memory metrics"
+    ],
+    "correctIndex": 0,
+    "explanation": "X-Ray collects trace data that includes metadata about downstream services and resources."
+  },
+  {
+    "id": "aws-0003",
+    "title": "How do applications typically send trace data to X-Ray?",
+    "code": "",
+    "options": [
+      "Through CloudFormation templates",
+      "Directly to CloudWatch Logs",
+      "Via SDKs to a local X-Ray daemon",
+      "By uploading files to S3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Applications use X-Ray SDKs to send trace data to a local daemon."
+  },
+  {
+    "id": "aws-0004",
+    "title": "What is the main role of the X-Ray daemon?",
+    "code": "",
+    "options": [
+      "Visualizing traces in the console",
+      "Batching and uploading trace segments",
+      "Storing traces indefinitely",
+      "Managing IAM roles"
+    ],
+    "correctIndex": 1,
+    "explanation": "The X-Ray daemon batches trace segments and uploads them to the X-Ray API."
+  },
+  {
+    "id": "aws-0005",
+    "title": "What does an X-Ray segment represent?",
+    "code": "",
+    "options": [
+      "A request handled by a service",
+      "A single line of application logs",
+      "A sampling configuration",
+      "A CloudWatch metric"
+    ],
+    "correctIndex": 0,
+    "explanation": "Segments represent requests handled by individual services."
+  },
+  {
+    "id": "aws-0006",
+    "title": "What are subsegments used for in X-Ray?",
+    "code": "",
+    "options": [
+      "Defining IAM permissions",
+      "Storing billing information",
+      "Visualizing service maps",
+      "Capturing downstream calls and internal operations"
+    ],
+    "correctIndex": 3,
+    "explanation": "Subsegments provide visibility into downstream calls and internal work."
+  },
+  {
+    "id": "aws-0007",
+    "title": "Which feature controls how many requests are traced in X-Ray?",
+    "code": "",
+    "options": [
+      "Security groups",
+      "Sampling rules",
+      "Trace annotations",
+      "IAM policies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sampling rules control the number of requests traced to manage overhead."
+  },
+  {
+    "id": "aws-0008",
+    "title": "How is trace context propagated across services in X-Ray?",
+    "code": "",
+    "options": [
+      "DNS records",
+      "Cookies",
+      "Trace headers",
+      "Environment variables"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trace IDs propagate through trace headers."
+  },
+  {
+    "id": "aws-0009",
+    "title": "How long does AWS X-Ray retain trace data?",
+    "code": "",
+    "options": [
+      "30 days",
+      "7 days",
+      "14 days",
+      "90 days"
+    ],
+    "correctIndex": 0,
+    "explanation": "X-Ray retains trace and service graph data for 30 days."
+  },
+  {
+    "id": "aws-0010",
+    "title": "Which protocol does the X-Ray daemon listen on?",
+    "code": "",
+    "options": [
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "UDP"
+    ],
+    "correctIndex": 3,
+    "explanation": "The X-Ray daemon listens for UDP traffic from SDKs."
+  },
+  {
+    "id": "aws-0011",
+    "title": "Which AWS service integrates with X-Ray without requiring a daemon?",
+    "code": "",
+    "options": [
+      "Amazon EC2",
+      "Amazon ECS",
+      "AWS Lambda",
+      "Amazon RDS"
+    ],
+    "correctIndex": 2,
+    "explanation": "AWS Lambda has native X-Ray integration."
+  },
+  {
+    "id": "aws-0012",
+    "title": "What does the X-Ray service graph visualize?",
+    "code": "",
+    "options": [
+      "IAM role trust relationships",
+      "Service dependencies and request flow",
+      "Billing allocation",
+      "VPC routing tables"
+    ],
+    "correctIndex": 1,
+    "explanation": "The service graph shows how services interact and where latency occurs."
+  },
+  {
+    "id": "aws-0013",
+    "title": "Which type of data is indexed for searching traces in X-Ray?",
+    "code": "",
+    "options": [
+      "Annotations",
+      "Metadata",
+      "Logs",
+      "Metrics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Annotations are indexed key-value pairs used for filtering traces."
+  },
+  {
+    "id": "aws-0014",
+    "title": "What can metadata store in X-Ray?",
+    "code": "",
+    "options": [
+      "Only indexed values",
+      "Only numeric values",
+      "Only strings",
+      "Arbitrary, non-indexed data"
+    ],
+    "correctIndex": 3,
+    "explanation": "Metadata stores arbitrary, non-indexed data."
+  },
+  {
+    "id": "aws-0015",
+    "title": "Which instrumentation method requires inserting trace code manually in X-Ray?",
+    "code": "",
+    "options": [
+      "Auto instrumentation",
+      "Manual instrumentation",
+      "Daemon-based instrumentation",
+      "Library instrumentation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Manual instrumentation requires explicitly adding tracing code."
+  },
+  {
+    "id": "aws-0016",
+    "title": "What is AWS Distro for OpenTelemetry (ADOT)?",
+    "code": "",
+    "options": [
+      "A proprietary AWS-only tracing tool",
+      "A billing analysis service",
+      "An open standards-based telemetry distribution",
+      "A replacement for IAM"
+    ],
+    "correctIndex": 2,
+    "explanation": "ADOT provides open standards-based telemetry with multiple backends."
+  },
+  {
+    "id": "aws-0017",
+    "title": "Which approach requires no code changes in X-Ray?",
+    "code": "",
+    "options": [
+      "Auto instrumentation",
+      "Manual instrumentation",
+      "Library instrumentation",
+      "Custom SDK development"
+    ],
+    "correctIndex": 0,
+    "explanation": "Auto instrumentation captures trace data without modifying code."
+  },
+  {
+    "id": "aws-0018",
+    "title": "Which protocol is used by the X-Ray daemon to receive data?",
+    "code": "",
+    "options": [
+      "TCP",
+      "HTTP",
+      "HTTPS",
+      "UDP"
+    ],
+    "correctIndex": 3,
+    "explanation": "The daemon receives trace data over UDP."
+  },
+  {
+    "id": "aws-0019",
+    "title": "Which SDK enables tracing in Node.js applications in X-Ray?",
+    "code": "",
+    "options": [
+      "X-Ray SDK for Python",
+      "X-Ray SDK for Node.js",
+      "X-Ray SDK for Java",
+      "ADOT Collector only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The X-Ray SDK for Node.js enables tracing in Node applications."
+  },
+  {
+    "id": "aws-0020",
+    "title": "What does sampling help control in X-Ray?",
+    "code": "",
+    "options": [
+      "IAM permissions",
+      "Storage duration",
+      "Tracing overhead and cost",
+      "Network bandwidth"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sampling reduces overhead and cost by limiting traced requests."
+  },
+  {
+    "id": "aws-0021",
+    "title": "Which interface provides advanced monitoring alongside X-Ray?",
+    "code": "",
+    "options": [
+      "Amazon CloudWatch",
+      "AWS Shield",
+      "Amazon Route 53",
+      "AWS Config"
+    ],
+    "correctIndex": 0,
+    "explanation": "CloudWatch integrates with X-Ray for advanced monitoring."
+  },
+  {
+    "id": "aws-0022",
+    "title": "What propagates trace continuity across service boundaries in X-Ray?",
+    "code": "",
+    "options": [
+      "Security group IDs",
+      "Trace IDs in headers",
+      "VPC IDs",
+      "IAM role ARNs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trace IDs propagated via headers maintain trace continuity."
+  },
+  {
+    "id": "aws-0023",
+    "title": "What storage duration applies to X-Ray trace data?",
+    "code": "",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days",
+      "Indefinite"
+    ],
+    "correctIndex": 2,
+    "explanation": "X-Ray stores trace data for 30 days."
+  },
+  {
+    "id": "aws-0024",
+    "title": "Which SDK supports tracing for Go applications in X-Ray?",
+    "code": "",
+    "options": [
+      "X-Ray SDK for Ruby",
+      "X-Ray SDK for Go",
+      "X-Ray SDK for Python",
+      "X-Ray SDK for Java"
+    ],
+    "correctIndex": 1,
+    "explanation": "The X-Ray SDK for Go enables tracing in Go applications."
+  },
+  {
+    "id": "aws-0025",
+    "title": "Which AWS service can deploy the X-Ray daemon automatically?",
+    "code": "",
+    "options": [
+      "Elastic Beanstalk",
+      "Amazon S3",
+      "AWS Organizations",
+      "AWS Config"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elastic Beanstalk can deploy the X-Ray daemon automatically."
+  },
+  {
+    "id": "aws-0026",
+    "title": "Which SDK supports tracing in Java web applications in X-Ray?",
+    "code": "",
+    "options": [
+      "X-Ray SDK for Java",
+      "X-Ray SDK for Ruby",
+      "X-Ray SDK for .NET",
+      "X-Ray SDK for Node.js"
+    ],
+    "correctIndex": 3,
+    "explanation": "The X-Ray SDK for Java supports tracing in Java web applications."
+  },
+  {
+    "id": "aws-0027",
+    "title": "Which data type can be searched using filter expressions in X-Ray?",
+    "code": "",
+    "options": [
+      "Annotations",
+      "Metadata",
+      "Logs",
+      "Metrics"
+    ],
+    "correctIndex": 2,
+    "explanation": "Filter expressions operate on indexed annotations."
+  },
+  {
+    "id": "aws-0028",
+    "title": "Which SDK supports tracing for .NET applications in X-Ray?",
+    "code": "",
+    "options": [
+      "X-Ray SDK for Ruby",
+      "X-Ray SDK for Node.js",
+      "X-Ray SDK for .NET",
+      "X-Ray SDK for Go"
+    ],
+    "correctIndex": 1,
+    "explanation": "The X-Ray SDK for .NET enables tracing in .NET applications."
+  },
+  {
+    "id": "aws-0029",
+    "title": "What is AWS adopting as its primary observability standard in X-Ray?",
+    "code": "",
+    "options": [
+      "OpenTelemetry",
+      "X-Ray only",
+      "CloudWatch Logs",
+      "CloudTrail"
+    ],
+    "correctIndex": 0,
+    "explanation": "AWS is adopting OpenTelemetry as its primary observability standard."
+  },
+  {
+    "id": "aws-0030",
+    "title": "Which tool helps define X-Ray resources declaratively?",
+    "code": "",
+    "options": [
+      "AWS CLI",
+      "AWS SDK",
+      "AWS CDK only",
+      "AWS CloudFormation"
+    ],
+    "correctIndex": 3,
+    "explanation": "CloudFormation enables declarative provisioning of X-Ray resources."
+  },
+  {
+    "id": "aws-0031",
+    "title": "What type of database is Amazon Neptune?",
+    "code": "",
+    "options": [
+      "Relational database",
+      "Fully managed graph database",
+      "Time-series database",
+      "Key-value store"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amazon Neptune is a fully managed graph database optimized for connected data."
+  },
+  {
+    "id": "aws-0032",
+    "title": "Which query language is supported by Neptune for RDF graphs?",
+    "code": "",
+    "options": [
+      "Gremlin",
+      "openCypher",
+      "SQL",
+      "SPARQL"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neptune supports SPARQL for querying RDF graphs."
+  },
+  {
+    "id": "aws-0033",
+    "title": "What data model element represents relationships in a Neptune property graph?",
+    "code": "",
+    "options": [
+      "Edges",
+      "Tables",
+      "Indexes",
+      "Documents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Relationships in property graphs are represented as edges."
+  },
+  {
+    "id": "aws-0034",
+    "title": "Which Neptune feature automatically scales capacity for unpredictable workloads?",
+    "code": "",
+    "options": [
+      "Global databases",
+      "DFE query engine",
+      "Neptune Serverless",
+      "Lookup cache"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neptune Serverless automatically adjusts capacity based on workload demand."
+  },
+  {
+    "id": "aws-0035",
+    "title": "What is the primary benefit of Neptune global databases?",
+    "code": "",
+    "options": [
+      "Lower storage cost",
+      "Multi-region replication with low-latency reads",
+      "Automatic schema migration",
+      "Serverless execution"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neptune global databases provide fast, low-latency reads across regions."
+  },
+  {
+    "id": "aws-0036",
+    "title": "What component defines the relationship or property type in a Neptune quad?",
+    "code": "",
+    "options": [
+      "Predicate",
+      "Subject",
+      "Object",
+      "Graph"
+    ],
+    "correctIndex": 0,
+    "explanation": "The predicate defines the relationship or property type in a quad."
+  },
+  {
+    "id": "aws-0037",
+    "title": "Which storage technology backs Neptune’s lookup cache?",
+    "code": "",
+    "options": [
+      "EBS magnetic volumes",
+      "S3 Standard",
+      "Instance memory only",
+      "NVMe-based SSDs"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neptune’s lookup cache uses NVMe-based SSDs for fast access."
+  },
+  {
+    "id": "aws-0038",
+    "title": "What can increased memory pressure in Neptune lead to?",
+    "code": "",
+    "options": [
+      "Data corruption",
+      "Automatic cluster shutdown",
+      "Slower reads from cluster storage",
+      "Loss of ACID guarantees"
+    ],
+    "correctIndex": 2,
+    "explanation": "When cache or memory is pressured, data may be fetched from slower cluster storage."
+  },
+  {
+    "id": "aws-0039",
+    "title": "What transaction model does Amazon Neptune enforce?",
+    "code": "",
+    "options": [
+      "ACID-compliant transactions",
+      "Eventually consistent transactions",
+      "Best-effort transactions",
+      "Read-only transactions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptune enforces ACID-compliant transaction semantics."
+  },
+  {
+    "id": "aws-0040",
+    "title": "Which endpoint handles write operations in a Neptune cluster?",
+    "code": "",
+    "options": [
+      "Cluster endpoint",
+      "Reader endpoint",
+      "Instance endpoint",
+      "Custom endpoint"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cluster endpoints handle all write operations with automatic failover."
+  },
+  {
+    "id": "aws-0041",
+    "title": "Which Neptune endpoint uses DNS round-robin to distribute reads?",
+    "code": "",
+    "options": [
+      "Instance endpoint",
+      "Custom endpoint",
+      "Cluster endpoint",
+      "Reader endpoint"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reader endpoints distribute read traffic using DNS round-robin."
+  },
+  {
+    "id": "aws-0042",
+    "title": "What does the Neptune DFE query engine optimize?",
+    "code": "",
+    "options": [
+      "Only storage usage",
+      "Only network throughput",
+      "CPU, memory, and I/O usage",
+      "Backup retention"
+    ],
+    "correctIndex": 0,
+    "explanation": "The DFE engine optimizes CPU, memory, and I/O resource usage."
+  },
+  {
+    "id": "aws-0043",
+    "title": "Which query plan types can the Neptune DFE engine select?",
+    "code": "",
+    "options": [
+      "Sequential only",
+      "Left-deep, bushy, or hybrid",
+      "Index-only plans",
+      "Cost-unaware plans"
+    ],
+    "correctIndex": 2,
+    "explanation": "The DFE engine selects left-deep, bushy, or hybrid query plans."
+  },
+  {
+    "id": "aws-0044",
+    "title": "What is not guaranteed when Neptune uses internal compute parallelism?",
+    "code": "",
+    "options": [
+      "Query correctness",
+      "Result ordering",
+      "Transaction isolation",
+      "Encryption"
+    ],
+    "correctIndex": 1,
+    "explanation": "Result ordering is not guaranteed with internal compute parallelism."
+  },
+  {
+    "id": "aws-0045",
+    "title": "Which Java version is required for the Neptune JDBC driver?",
+    "code": "",
+    "options": [
+      "Java 7",
+      "Java 11 only",
+      "Java 6",
+      "Java 8 or newer"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Neptune JDBC driver requires Java 8 or newer."
+  },
+  {
+    "id": "aws-0046",
+    "title": "Where is graph data staged before bulk loading into Neptune?",
+    "code": "",
+    "options": [
+      "Amazon S3",
+      "Amazon EFS",
+      "Local disk",
+      "CloudWatch Logs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Graph data is staged in Amazon S3 before using the Neptune Bulk Loader."
+  },
+  {
+    "id": "aws-0047",
+    "title": "Which loading method is best for large datasets?",
+    "code": "",
+    "options": [
+      "Direct query inserts",
+      "Bulk loading",
+      "Manual edge creation",
+      "Lambda streaming"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bulk loading is optimized for large datasets."
+  },
+  {
+    "id": "aws-0048",
+    "title": "Which file format can Neptune load using supported query languages?",
+    "code": "",
+    "options": [
+      "CSV only",
+      "JSON only",
+      "GraphML and GraphSON",
+      "Parquet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neptune supports formats like GraphML and GraphSON."
+  },
+  {
+    "id": "aws-0049",
+    "title": "When does Neptune dictionary garbage collection run?",
+    "code": "",
+    "options": [
+      "Always automatically",
+      "During backups",
+      "Only when streams are inactive",
+      "Only during cluster creation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dictionary GC runs only when Neptune Streams are inactive."
+  },
+  {
+    "id": "aws-0050",
+    "title": "What is the benefit of inline server-generated edge IDs?",
+    "code": "",
+    "options": [
+      "Improved storage efficiency",
+      "Better query ordering",
+      "Lower backup cost",
+      "Automatic indexing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inline edge IDs bypass the dictionary to improve storage efficiency."
+  },
+  {
+    "id": "aws-0051",
+    "title": "What type of tools integrate with Neptune for graph visualization?",
+    "code": "",
+    "options": [
+      "Only AWS-native tools",
+      "Partner and third-party visualization tools",
+      "CLI-only tools",
+      "Monitoring-only tools"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neptune integrates with partner and third-party graph visualization tools."
+  },
+  {
+    "id": "aws-0052",
+    "title": "Which protocol can be used to export RDF data from Neptune?",
+    "code": "",
+    "options": [
+      "Graph Store Protocol",
+      "FTP",
+      "SMTP",
+      "WebSockets"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Graph Store Protocol can be used to export RDF data."
+  },
+  {
+    "id": "aws-0053",
+    "title": "What does Neptune Streams provide?",
+    "code": "",
+    "options": [
+      "Batch analytics",
+      "A durable change-log stream",
+      "Query optimization",
+      "Schema enforcement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptune Streams provides a durable, ordered change-log of graph updates."
+  },
+  {
+    "id": "aws-0054",
+    "title": "What happens when Neptune Streams are disabled?",
+    "code": "",
+    "options": [
+      "Backups stop",
+      "Reads fail",
+      "Data is deleted",
+      "Stream data becomes inaccessible"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stream data cannot be accessed once streams are disabled."
+  },
+  {
+    "id": "aws-0055",
+    "title": "Which service enables full-text search integration with Neptune?",
+    "code": "",
+    "options": [
+      "Amazon Athena",
+      "Amazon OpenSearch Service",
+      "Amazon SQS",
+      "Amazon Redshift"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neptune integrates with Amazon OpenSearch Service for full-text search."
+  },
+  {
+    "id": "aws-0056",
+    "title": "What is a best practice for using Neptune with AWS Lambda?",
+    "code": "",
+    "options": [
+      "Open a new connection per query",
+      "Disable retries",
+      "Maintain a single connection per execution context",
+      "Disable encryption"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maintaining a single connection per execution context avoids resource leaks."
+  },
+  {
+    "id": "aws-0057",
+    "title": "What does Neptune ML use to extract hidden correlations?",
+    "code": "",
+    "options": [
+      "Decision trees",
+      "Graph neural networks and embeddings",
+      "Rule-based engines",
+      "SQL analytics"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neptune ML uses GNNs and knowledge-graph embeddings."
+  },
+  {
+    "id": "aws-0058",
+    "title": "Which AWS service underpins Neptune ML model training?",
+    "code": "",
+    "options": [
+      "AWS Glue",
+      "Amazon SageMaker",
+      "Amazon EMR",
+      "AWS Batch"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neptune ML leverages Amazon SageMaker for training and deployment."
+  },
+  {
+    "id": "aws-0059",
+    "title": "What is the maximum retention period for automated Neptune backups?",
+    "code": "",
+    "options": [
+      "7 days",
+      "35 days",
+      "90 days",
+      "Indefinite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Automated backups can be retained for up to 35 days."
+  },
+  {
+    "id": "aws-0060",
+    "title": "What happens to manual snapshots when a Neptune cluster is deleted?",
+    "code": "",
+    "options": [
+      "They are deleted automatically",
+      "They are archived to S3",
+      "They are retained",
+      "They are converted to automated backups"
+    ],
+    "correctIndex": 2,
+    "explanation": "Manual snapshots are retained even after cluster deletion."
+  },
+  {
+    "id": "aws-0061",
+    "title": "What does ElastiCache Serverless abstract away from users?",
+    "code": "",
+    "options": [
+      "Query optimization",
+      "Data serialization",
+      "Infrastructure provisioning and capacity management",
+      "Cache eviction policies"
+    ],
+    "correctIndex": 2,
+    "explanation": "ElastiCache Serverless automatically manages provisioning, scaling, monitoring, and capacity planning."
+  },
+  {
+    "id": "aws-0062",
+    "title": "Which engines are supported by Amazon ElastiCache?",
+    "code": "",
+    "options": [
+      "Valkey, Redis OSS, and Memcached",
+      "PostgreSQL and MySQL",
+      "MongoDB and DynamoDB",
+      "Cassandra and HBase"
+    ],
+    "correctIndex": 0,
+    "explanation": "ElastiCache supports Valkey, Redis OSS, and Memcached."
+  },
+  {
+    "id": "aws-0063",
+    "title": "What is a key advantage of node-based ElastiCache clusters?",
+    "code": "",
+    "options": [
+      "Automatic serverless scaling",
+      "Pay-per-request billing",
+      "No capacity planning required",
+      "Granular control over nodes and configuration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Node-based clusters provide fine-grained control over node types, scaling, and configuration."
+  },
+  {
+    "id": "aws-0064",
+    "title": "How are serverless ElastiCache compute operations billed?",
+    "code": "",
+    "options": [
+      "By node-hours",
+      "By ElastiCache Processing Units (ECPUs)",
+      "By vCPU-hours",
+      "By shard count only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Serverless caches are billed using ECPUs for operations."
+  },
+  {
+    "id": "aws-0065",
+    "title": "Which IAM mechanism can be used to grant permissions to ElastiCache?",
+    "code": "",
+    "options": [
+      "S3 bucket policies only",
+      "IAM Identity Center permission sets",
+      "Route 53 resolver rules",
+      "Security group rules"
+    ],
+    "correctIndex": 1,
+    "explanation": "IAM Identity Center permission sets, roles, or policies can grant ElastiCache permissions."
+  },
+  {
+    "id": "aws-0066",
+    "title": "Where should an EC2 client be placed to access an ElastiCache cluster?",
+    "code": "",
+    "options": [
+      "In the same VPC and security group",
+      "In any AWS Region",
+      "Outside the VPC using public IPs",
+      "In a different availability zone only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clients must typically reside in the same VPC and security group."
+  },
+  {
+    "id": "aws-0067",
+    "title": "What status indicates a new serverless cache is ready for use?",
+    "code": "",
+    "options": [
+      "CREATING",
+      "ACTIVE",
+      "UPDATING",
+      "MODIFYING"
+    ],
+    "correctIndex": 1,
+    "explanation": "A serverless cache becomes usable when its status is ACTIVE."
+  },
+  {
+    "id": "aws-0068",
+    "title": "What is an ElastiCache node?",
+    "code": "",
+    "options": [
+      "A shard controller",
+      "A query router",
+      "A persistent storage volume",
+      "A fixed-size, network-attached RAM instance"
+    ],
+    "correctIndex": 3,
+    "explanation": "Each node is a fixed-size, network-attached RAM instance."
+  },
+  {
+    "id": "aws-0069",
+    "title": "Which mechanism controls configuration and behavior of ElastiCache engines?",
+    "code": "",
+    "options": [
+      "Parameter groups",
+      "Launch templates",
+      "Auto Scaling groups",
+      "Placement groups"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parameter groups manage engine configuration settings."
+  },
+  {
+    "id": "aws-0070",
+    "title": "How does the ElastiCache API distinguish Redis OSS deployments?",
+    "code": "",
+    "options": [
+      "By engine version only",
+      "By replication groups and clusters",
+      "By availability zone",
+      "By instance family"
+    ],
+    "correctIndex": 1,
+    "explanation": "The API/CLI distinguishes single-node clusters and replication groups."
+  },
+  {
+    "id": "aws-0071",
+    "title": "What do ElastiCache node statuses indicate?",
+    "code": "",
+    "options": [
+      "Billing tier only",
+      "Health and operational state",
+      "Encryption strength",
+      "Shard count"
+    ],
+    "correctIndex": 1,
+    "explanation": "Node statuses reflect health and operational conditions."
+  },
+  {
+    "id": "aws-0072",
+    "title": "Which tool can be used to check ElastiCache node status?",
+    "code": "",
+    "options": [
+      "AWS Config only",
+      "Amazon CloudWatch Logs only",
+      "AWS X-Ray",
+      "ElastiCache console, CLI, or API"
+    ],
+    "correctIndex": 3,
+    "explanation": "Node status can be checked via the console, CLI, or API."
+  },
+  {
+    "id": "aws-0073",
+    "title": "What uniquely identifies an ElastiCache cluster in a Region?",
+    "code": "",
+    "options": [
+      "Cluster identifier",
+      "ARN suffix",
+      "Shard ID",
+      "Node endpoint"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clusters are uniquely identified by a customer-provided cluster identifier."
+  },
+  {
+    "id": "aws-0074",
+    "title": "What does Redis OSS cluster mode enable?",
+    "code": "",
+    "options": [
+      "Automatic backups only",
+      "Vertical scaling only",
+      "Sharding across multiple shards",
+      "Global replication"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cluster mode enables horizontal sharding across multiple shards."
+  },
+  {
+    "id": "aws-0075",
+    "title": "How does Memcached scale in ElastiCache?",
+    "code": "",
+    "options": [
+      "Vertical scaling only",
+      "Horizontal partitioning across nodes",
+      "Global replication",
+      "Read replicas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Memcached horizontally partitions data across nodes."
+  },
+  {
+    "id": "aws-0076",
+    "title": "When must IPv4/IPv6 networking be configured for ElastiCache?",
+    "code": "",
+    "options": [
+      "After cluster creation",
+      "During scaling events",
+      "At snapshot restore time",
+      "At cluster creation time"
+    ],
+    "correctIndex": 3,
+    "explanation": "IP configuration must be set during cluster creation."
+  },
+  {
+    "id": "aws-0077",
+    "title": "What do TLS-enabled ElastiCache clusters advertise to clients?",
+    "code": "",
+    "options": [
+      "Hostnames instead of IPs",
+      "Only IPv4 addresses",
+      "Only IPv6 addresses",
+      "MAC addresses"
+    ],
+    "correctIndex": 0,
+    "explanation": "TLS-enabled clusters advertise hostnames rather than IPs."
+  },
+  {
+    "id": "aws-0078",
+    "title": "Which practice improves ElastiCache performance?",
+    "code": "",
+    "options": [
+      "Opening new connections per request",
+      "Maintaining long-lived connections",
+      "Disabling replicas",
+      "Using blocking commands"
+    ],
+    "correctIndex": 1,
+    "explanation": "Long-lived connections reduce connection overhead."
+  },
+  {
+    "id": "aws-0079",
+    "title": "Why are read replicas useful in ElastiCache?",
+    "code": "",
+    "options": [
+      "They enforce strong consistency",
+      "They reduce write latency",
+      "They improve read scalability",
+      "They replace backups"
+    ],
+    "correctIndex": 2,
+    "explanation": "Read replicas distribute read workloads and improve scalability."
+  },
+  {
+    "id": "aws-0080",
+    "title": "What consistency options do ElastiCache Serverless endpoints provide?",
+    "code": "",
+    "options": [
+      "Strong consistency only",
+      "Read-after-write only",
+      "Immediate or eventual consistency",
+      "Snapshot consistency"
+    ],
+    "correctIndex": 2,
+    "explanation": "Different endpoints provide immediate or eventual consistency."
+  },
+  {
+    "id": "aws-0081",
+    "title": "Which metrics drive ElastiCache Serverless autoscaling?",
+    "code": "",
+    "options": [
+      "CPU, memory, and network utilization",
+      "Disk IOPS only",
+      "Request latency only",
+      "Snapshot size"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autoscaling tracks CPU, memory, and network utilization."
+  },
+  {
+    "id": "aws-0082",
+    "title": "What does pre-scaling (pre-warming) do in ElastiCache Serverless?",
+    "code": "",
+    "options": [
+      "Reduces backup duration",
+      "Reserves minimum compute or storage ahead of demand",
+      "Disables autoscaling",
+      "Improves encryption performance"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pre-scaling reserves minimum capacity for anticipated traffic spikes."
+  },
+  {
+    "id": "aws-0083",
+    "title": "What is a Bloom filter in ElastiCache?",
+    "code": "",
+    "options": [
+      "A probabilistic data structure",
+      "A compression algorithm",
+      "A backup format",
+      "A replication protocol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bloom filters are space-efficient probabilistic data structures."
+  },
+  {
+    "id": "aws-0084",
+    "title": "What guarantee do Bloom filters provide?",
+    "code": "",
+    "options": [
+      "No false positives",
+      "No false negatives",
+      "Strong consistency",
+      "Exact counts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bloom filters guarantee no false negatives but allow false positives."
+  },
+  {
+    "id": "aws-0085",
+    "title": "What does the WATCH command support in ElastiCache?",
+    "code": "",
+    "options": [
+      "Optimistic concurrency control",
+      "Automatic failover",
+      "Snapshot creation",
+      "Sharding"
+    ],
+    "correctIndex": 0,
+    "explanation": "WATCH enables optimistic concurrency control by monitoring keys."
+  },
+  {
+    "id": "aws-0086",
+    "title": "What restriction applies to WATCH in ElastiCache Serverless?",
+    "code": "",
+    "options": [
+      "It is fully disabled",
+      "Transactions must stay within one hash slot",
+      "Only read commands are allowed",
+      "Only Memcached supports it"
+    ],
+    "correctIndex": 1,
+    "explanation": "WATCH transactions are limited to a single hash slot per connection."
+  },
+  {
+    "id": "aws-0087",
+    "title": "What does ElastiCache support for vector search?",
+    "code": "",
+    "options": [
+      "Full-text indexes only",
+      "Bitmap indexes",
+      "High-dimensional vector indexes",
+      "Time-series indexes"
+    ],
+    "correctIndex": 2,
+    "explanation": "ElastiCache supports vector embeddings with specialized indexes."
+  },
+  {
+    "id": "aws-0088",
+    "title": "Which algorithm provides approximate vector search in ElastiCache?",
+    "code": "",
+    "options": [
+      "Flat",
+      "B-tree",
+      "LSM-tree",
+      "HNSW"
+    ],
+    "correctIndex": 3,
+    "explanation": "HNSW provides approximate vector search with tunable parameters."
+  },
+  {
+    "id": "aws-0089",
+    "title": "What data format does ElastiCache natively support for schemaless storage?",
+    "code": "",
+    "options": [
+      "JSON",
+      "XML",
+      "Avro",
+      "Protobuf"
+    ],
+    "correctIndex": 0,
+    "explanation": "ElastiCache natively supports schemaless JSON storage."
+  },
+  {
+    "id": "aws-0090",
+    "title": "What feature allows querying parts of JSON documents in ElastiCache?",
+    "code": "",
+    "options": [
+      "JSONPath queries",
+      "XPath",
+      "SQL views",
+      "GraphQL"
+    ],
+    "correctIndex": 0,
+    "explanation": "JSONPath queries allow efficient access to parts of JSON documents."
+  },
+  {
+    "id": "aws-0091",
+    "title": "What is the primary purpose of DevOps Guru?",
+    "code": "",
+    "options": [
+      "Provision infrastructure",
+      "Aggregate logs",
+      "Detect operational anomalies using ML",
+      "Manage IAM permissions"
+    ],
+    "correctIndex": 2,
+    "explanation": "DevOps Guru uses machine learning to detect abnormal operational patterns."
+  },
+  {
+    "id": "aws-0092",
+    "title": "What type of insights does DevOps Guru generate?",
+    "code": "",
+    "options": [
+      "Reactive and proactive insights",
+      "Only cost insights",
+      "Only security insights",
+      "Only performance metrics"
+    ],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru generates both reactive and proactive insights."
+  },
+  {
+    "id": "aws-0093",
+    "title": "What must be defined when enabling DevOps Guru?",
+    "code": "",
+    "options": [
+      "VPC CIDR blocks",
+      "Subnet routes",
+      "Billing alarms",
+      "Which AWS resources DevOps Guru monitors"
+    ],
+    "correctIndex": 3,
+    "explanation": "You define the resources DevOps Guru analyzes via a coverage boundary."
+  },
+  {
+    "id": "aws-0094",
+    "title": "Which data sources does DevOps Guru analyze?",
+    "code": "",
+    "options": [
+      "Only logs",
+      "Metrics, logs, and operational events",
+      "Only metrics",
+      "Only traces"
+    ],
+    "correctIndex": 1,
+    "explanation": "DevOps Guru analyzes metrics, logs, and events."
+  },
+  {
+    "id": "aws-0095",
+    "title": "What can DevOps Guru do when an insight is generated?",
+    "code": "",
+    "options": [
+      "Send notifications and create OpsItems",
+      "Restart EC2 instances",
+      "Patch applications",
+      "Scale resources automatically"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insights can trigger notifications and optional OpsItems."
+  },
+  {
+    "id": "aws-0096",
+    "title": "Which AWS service can receive OpsItems from DevOps Guru?",
+    "code": "",
+    "options": [
+      "Amazon SNS",
+      "AWS CloudFormation",
+      "AWS Config",
+      "AWS Systems Manager"
+    ],
+    "correctIndex": 3,
+    "explanation": "DevOps Guru integrates with Systems Manager OpsItems."
+  },
+  {
+    "id": "aws-0097",
+    "title": "How are DevOps Guru insights categorized?",
+    "code": "",
+    "options": [
+      "Cost and security",
+      "Reactive and proactive",
+      "Compute and storage",
+      "Critical and warning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Insights are classified as reactive or proactive."
+  },
+  {
+    "id": "aws-0098",
+    "title": "Which AWS service provides metrics analyzed by DevOps Guru?",
+    "code": "",
+    "options": [
+      "AWS CloudTrail",
+      "Amazon CloudWatch",
+      "AWS Config",
+      "AWS X-Ray"
+    ],
+    "correctIndex": 2,
+    "explanation": "DevOps Guru uses CloudWatch metrics."
+  },
+  {
+    "id": "aws-0099",
+    "title": "What controls access to DevOps Guru data?",
+    "code": "",
+    "options": [
+      "IAM policies",
+      "Security groups",
+      "NACLs",
+      "Route tables"
+    ],
+    "correctIndex": 0,
+    "explanation": "Access is controlled through IAM policies."
+  },
+  {
+    "id": "aws-0100",
+    "title": "What coverage options can DevOps Guru use?",
+    "code": "",
+    "options": [
+      "Availability zones",
+      "Regions only",
+      "IAM users",
+      "Accounts, CloudFormation stacks, or tags"
+    ],
+    "correctIndex": 3,
+    "explanation": "Coverage boundaries define which resources are analyzed."
+  },
+
+  {
+    "id": "aws-0101",
+    "title": "What happens if no coverage boundary is specified in DevOps Guru?",
+    "code": "",
+    "options": [
+      "All supported resources are analyzed",
+      "Only EC2 is analyzed",
+      "Only tagged resources are analyzed",
+      "Nothing is analyzed"
+    ],
+    "correctIndex": 1,
+    "explanation": "DevOps Guru analyzes all supported resources by default."
+  },
+  {
+    "id": "aws-0102",
+    "title": "Which databases are analyzed by DevOps Guru?",
+    "code": "",
+    "options": [
+      "Amazon RDS and Redshift",
+      "Amazon S3",
+      "Amazon Neptune",
+      "Amazon QLDB"
+    ],
+    "correctIndex": 2,
+    "explanation": "DevOps Guru analyzes relational databases like RDS and Redshift."
+  },
+  {
+    "id": "aws-0103",
+    "title": "What additional data does DevOps Guru analyze for supported RDS engines?",
+    "code": "",
+    "options": [
+      "Performance Insights data",
+      "Query logs only",
+      "Binary logs",
+      "Snapshots"
+    ],
+    "correctIndex": 0,
+    "explanation": "Performance Insights data is used to detect anomalies."
+  },
+  {
+    "id": "aws-0104",
+    "title": "Which issues can DevOps Guru detect in databases?",
+    "code": "",
+    "options": [
+      "Backup corruption",
+      "Lock contention and missing indexes",
+      "Unauthorized access",
+      "Schema drift"
+    ],
+    "correctIndex": 3,
+    "explanation": "DevOps Guru detects contention, misconfigurations, and inefficiencies."
+  },
+  {
+    "id": "aws-0105",
+    "title": "Which NoSQL service is analyzed by DevOps Guru?",
+    "code": "",
+    "options": [
+      "Amazon DynamoDB",
+      "Amazon Neptune",
+      "Amazon Keyspaces",
+      "Amazon QLDB"
+    ],
+    "correctIndex": 1,
+    "explanation": "DevOps Guru analyzes DynamoDB capacity and throttling."
+  },
+
+  {
+    "id": "aws-0106",
+    "title": "Which service enables DevOps Guru event automation?",
+    "code": "",
+    "options": [
+      "Amazon EventBridge",
+      "Amazon SNS",
+      "AWS Lambda",
+      "AWS Step Functions"
+    ],
+    "correctIndex": 2,
+    "explanation": "DevOps Guru integrates with EventBridge."
+  },
+  {
+    "id": "aws-0107",
+    "title": "What IAM action allows DevOps Guru to list monitored resources?",
+    "code": "",
+    "options": [
+      "ListMonitoredResources",
+      "DescribeInstances",
+      "GetInsightResults",
+      "ListTagsForResource"
+    ],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru relies on ListMonitoredResources."
+  },
+  {
+    "id": "aws-0108",
+    "title": "How can DevOps Guru costs be controlled?",
+    "code": "",
+    "options": [
+      "Disable resource analysis",
+      "Lower CloudWatch retention",
+      "Disable CloudTrail",
+      "Remove SNS topics"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resource analysis can be disabled per account or Region."
+  },
+  {
+    "id": "aws-0109",
+    "title": "What may still incur charges after disabling DevOps Guru analysis?",
+    "code": "",
+    "options": [
+      "API access to existing DevOps Guru insights",
+      "CloudWatch metrics",
+      "SNS notifications",
+      "EventBridge rules"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accessing existing insights via API can still incur minor charges."
+  },
+
+  {
+    "id": "aws-0110",
+    "title": "How does DevOps Guru group analyzed resources?",
+    "code": "",
+    "options": [
+      "Into applications",
+      "Into VPCs",
+      "Into availability zones",
+      "Into accounts only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Resources are grouped into applications for analysis."
+  },
+  {
+    "id": "aws-0111",
+    "title": "Which feature enables DevOps Guru OpsItem creation?",
+    "code": "",
+    "options": [
+      "Systems Manager integration",
+      "CloudTrail integration",
+      "EventBridge rules",
+      "SNS subscriptions"
+    ],
+    "correctIndex": 0,
+    "explanation": "OpsItems are created through Systems Manager integration."
+  },
+  {
+    "id": "aws-0112",
+    "title": "Which resource types can DevOps Guru monitor?",
+    "code": "",
+    "options": [
+      "Compute, database, and storage resources",
+      "Only EC2 instances",
+      "Only containers",
+      "Only serverless services"
+    ],
+    "correctIndex": 3,
+    "explanation": "DevOps Guru monitors a wide range of supported AWS resources."
+  },
+
+  {
+    "id": "aws-0113",
+    "title": "What happens if DevOps Guru ListMonitoredResources is denied?",
+    "code": "",
+    "options": [
+      "Analysis stops",
+      "Insights are deleted",
+      "Costs increase",
+      "Notifications stop only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denying the action prevents resource listing and analysis."
+  },
+  {
+    "id": "aws-0114",
+    "title": "What encryption option does DevOps Guru support?",
+    "code": "",
+    "options": [
+      "AWS-managed or customer-managed KMS keys",
+      "Client-side only",
+      "No encryption",
+      "TLS only"
+    ],
+    "correctIndex": 2,
+    "explanation": "DevOps Guru supports encryption using AWS KMS."
+  },
+  {
+    "id": "aws-0115",
+    "title": "Which AWS service delivers DevOps Guru notifications?",
+    "code": "",
+    "options": [
+      "Amazon SNS",
+      "Amazon SQS",
+      "AWS Lambda",
+      "AWS Step Functions"
+    ],
+    "correctIndex": 0,
+    "explanation": "DevOps Guru publishes notifications to SNS topics."
+  },
+
+  {
+    "id": "aws-0116",
+    "title": "What type of ML does DevOps Guru use?",
+    "code": "",
+    "options": [
+      "Supervised learning",
+      "Unsupervised pattern detection",
+      "Rule-based logic",
+      "Static thresholds"
+    ],
+    "correctIndex": 3,
+    "explanation": "DevOps Guru uses ML to detect anomalies beyond static thresholds."
+  },
+  {
+    "id": "aws-0117",
+    "title": "What is required for DevOps Guru notifications?",
+    "code": "",
+    "options": [
+      "An SNS topic with publish permissions",
+      "An SQS queue",
+      "A Lambda function",
+      "An EventBridge rule"
+    ],
+    "correctIndex": 2,
+    "explanation": "SNS topics are required for insight notifications."
+  },
+  {
+    "id": "aws-0118",
+    "title": "What is a proactive insight in DevOps Guru?",
+    "code": "",
+    "options": [
+      "Predicts issues before they occur",
+      "Reports resolved issues",
+      "Summarizes costs",
+      "Shows historical logs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proactive insights predict future operational issues."
+  },
+  {
+    "id": "aws-0119",
+    "title": "What does disabling DevOps Guru resource analysis prevent?",
+    "code": "",
+    "options": [
+      "New insight generation",
+      "Existing insight access",
+      "IAM access",
+      "SNS delivery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Disabling analysis stops new insights from being generated."
+  },
+  {
+    "id": "aws-0120",
+    "title": "What permission is required to control DevOps Guru visibility?",
+    "code": "",
+    "options": [
+      "ListMonitoredResources",
+      "GetMetricData",
+      "DescribeEvents",
+      "PutInsight"
+    ],
+    "correctIndex": 3,
+    "explanation": "Visibility depends on permissions controlling monitored resources."
+  },
+  {
+    "id": "aws-0121",
+    "title": "What is the primary purpose of AWS CloudFormation?",
+    "code": "",
+    "options": [
+      "Monitor application performance",
+      "Define and manage AWS resources declaratively",
+      "Manage IAM users",
+      "Stream logs to CloudWatch"
+    ],
+    "correctIndex": 1,
+    "explanation": "CloudFormation lets you define, provision, and manage AWS resources using declarative templates."
+  },
+  {
+    "id": "aws-0122",
+    "title": "Which formats are supported for AWS CloudFormation templates?",
+    "code": "",
+    "options": [
+      "XML only",
+      "INI and TOML",
+      "HCL only",
+      "JSON and YAML"
+    ],
+    "correctIndex": 3,
+    "explanation": "CloudFormation templates are written in JSON or YAML."
+  },
+  {
+    "id": "aws-0123",
+    "title": "Which section is required in every AWS CloudFormation template?",
+    "code": "",
+    "options": [
+      "Resources",
+      "Parameters",
+      "Outputs",
+      "Mappings"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Resources section is the only required section in a CloudFormation template."
+  },
+  {
+    "id": "aws-0124",
+    "title": "What does AWS CloudFormation create when you deploy a template?",
+    "code": "",
+    "options": [
+      "A change set only",
+      "An IAM role",
+      "A stack",
+      "A StackSet"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deploying a template creates a CloudFormation stack."
+  },
+  {
+    "id": "aws-0125",
+    "title": "Where can AWS CloudFormation templates be stored?",
+    "code": "",
+    "options": [
+      "Only locally",
+      "Amazon S3 or a Git repository",
+      "CloudWatch Logs",
+      "AWS Secrets Manager"
+    ],
+    "correctIndex": 1,
+    "explanation": "Templates can be stored in S3 or source-controlled repositories."
+  },
+  {
+    "id": "aws-0126",
+    "title": "Which AWS CloudFormation feature previews changes before applying them?",
+    "code": "",
+    "options": [
+      "Change sets",
+      "Stack policies",
+      "Drift detection",
+      "Rollback triggers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Change sets show what changes will be made before an update."
+  },
+  {
+    "id": "aws-0127",
+    "title": "Which tools can be used to manage AWS CloudFormation stacks?",
+    "code": "",
+    "options": [
+      "Only the AWS Console",
+      "Only the AWS CLI",
+      "Only SDKs",
+      "Console, CLI, SDKs, API, PowerShell, and CDK"
+    ],
+    "correctIndex": 3,
+    "explanation": "CloudFormation stacks can be managed through multiple AWS tools."
+  },
+  {
+    "id": "aws-0128",
+    "title": "What problem do AWS CloudFormation StackSets solve?",
+    "code": "",
+    "options": [
+      "Template validation",
+      "Cross-account and cross-Region deployments",
+      "IAM permission management",
+      "Cost allocation"
+    ],
+    "correctIndex": 2,
+    "explanation": "StackSets deploy stacks across multiple accounts and Regions."
+  },
+  {
+    "id": "aws-0129",
+    "title": "Which account manages deployments when using CloudFormation StackSets?",
+    "code": "",
+    "options": [
+      "Administrator account",
+      "Target account",
+      "Billing account",
+      "Root account only"
+    ],
+    "correctIndex": 0,
+    "explanation": "An administrator account manages StackSet deployments."
+  },
+  {
+    "id": "aws-0130",
+    "title": "What do CloudFormation StackSet operation status codes indicate?",
+    "code": "",
+    "options": [
+      "Billing errors",
+      "Deployment progress or failures",
+      "IAM permission scope",
+      "Template syntax issues only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Status codes show progress or issues at StackSet and instance levels."
+  },
+  {
+    "id": "aws-0131",
+    "title": "What is AWS CloudFormation Git sync used for?",
+    "code": "",
+    "options": [
+      "Backing up templates",
+      "Managing stacks from Git repositories",
+      "Encrypting templates",
+      "Monitoring costs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Git sync connects CloudFormation to a Git repo to manage stacks."
+  },
+  {
+    "id": "aws-0132",
+    "title": "Which AWS service enables CloudFormation Git sync connections?",
+    "code": "",
+    "options": [
+      "AWS CodeCommit",
+      "AWS CodeBuild",
+      "AWS CodePipeline",
+      "AWS CodeConnections"
+    ],
+    "correctIndex": 3,
+    "explanation": "CloudFormation Git sync uses CodeConnections."
+  },
+  {
+    "id": "aws-0133",
+    "title": "What happens when CloudFormation Git sync detects changes?",
+    "code": "",
+    "options": [
+      "Stacks update immediately without review",
+      "Pull requests are generated for review",
+      "Stacks are deleted",
+      "Change sets are skipped"
+    ],
+    "correctIndex": 1,
+    "explanation": "Git sync generates pull requests before updating stacks."
+  },
+  {
+    "id": "aws-0134",
+    "title": "What is the purpose of the AWS CloudFormation registry?",
+    "code": "",
+    "options": [
+      "Store templates",
+      "Manage extensions like Hooks, Modules, and resource types",
+      "Track costs",
+      "Monitor stack drift"
+    ],
+    "correctIndex": 0,
+    "explanation": "The registry manages CloudFormation extensions."
+  },
+  {
+    "id": "aws-0135",
+    "title": "Which CloudFormation extension enforces compliance during stack operations?",
+    "code": "",
+    "options": [
+      "Modules",
+      "Resource types",
+      "Hooks",
+      "Change sets"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hooks validate and enforce compliance rules."
+  },
+  {
+    "id": "aws-0136",
+    "title": "Which CloudFormation extension enables reusable configurations?",
+    "code": "",
+    "options": [
+      "Hooks",
+      "Modules",
+      "Change sets",
+      "Stack policies"
+    ],
+    "correctIndex": 3,
+    "explanation": "Modules package reusable CloudFormation logic."
+  },
+  {
+    "id": "aws-0137",
+    "title": "Which CloudFormation registry extensions may require activation?",
+    "code": "",
+    "options": [
+      "Third-party public extensions",
+      "AWS-managed extensions",
+      "Intrinsic functions",
+      "StackSets"
+    ],
+    "correctIndex": 0,
+    "explanation": "Third-party public extensions must be activated."
+  },
+  {
+    "id": "aws-0138",
+    "title": "What is the first stage in a CloudFormation CodePipeline workflow?",
+    "code": "",
+    "options": [
+      "Deploy production stack",
+      "Retrieve source artifacts from S3",
+      "Manual approval",
+      "Create change set"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pipeline first retrieves templates from S3."
+  },
+  {
+    "id": "aws-0139",
+    "title": "What happens after the test stack is approved in a CloudFormation pipeline?",
+    "code": "",
+    "options": [
+      "It remains running",
+      "It is promoted to production",
+      "It is deleted",
+      "It is converted to a StackSet"
+    ],
+    "correctIndex": 2,
+    "explanation": "The test stack is deleted after approval."
+  },
+  {
+    "id": "aws-0140",
+    "title": "What is generated before updating the production stack in CloudFormation pipelines?",
+    "code": "",
+    "options": [
+      "A snapshot",
+      "A rollback policy",
+      "A drift report",
+      "A change set"
+    ],
+    "correctIndex": 3,
+    "explanation": "A change set is created before applying production changes."
+  },
+  {
+    "id": "aws-0141",
+    "title": "Which AWS service provides predefined event patterns for CloudFormation events?",
+    "code": "",
+    "options": [
+      "Amazon EventBridge",
+      "Amazon SNS",
+      "AWS Config",
+      "AWS CloudTrail"
+    ],
+    "correctIndex": 1,
+    "explanation": "EventBridge provides predefined CloudFormation event patterns."
+  },
+  {
+    "id": "aws-0142",
+    "title": "What does an EventBridge rule evaluate for CloudFormation events?",
+    "code": "",
+    "options": [
+      "Resource costs",
+      "Event attributes like source and detail-type",
+      "IAM policies",
+      "Template syntax"
+    ],
+    "correctIndex": 0,
+    "explanation": "EventBridge evaluates event attributes to match rules."
+  },
+  {
+    "id": "aws-0143",
+    "title": "Which CloudFormation feature helps track infrastructure configuration changes?",
+    "code": "",
+    "options": [
+      "Versioned templates",
+      "Security groups",
+      "Drift detection",
+      "Stack policies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Versioned templates allow tracking configuration changes."
+  },
+  {
+    "id": "aws-0144",
+    "title": "What happens if a CloudFormation stack update fails?",
+    "code": "",
+    "options": [
+      "Resources remain partially updated",
+      "The stack is deleted",
+      "The update is rolled back",
+      "The template is locked"
+    ],
+    "correctIndex": 3,
+    "explanation": "CloudFormation automatically rolls back failed updates."
+  },
+  {
+    "id": "aws-0145",
+    "title": "Which CloudFormation capability allows visual template creation?",
+    "code": "",
+    "options": [
+      "CloudFormation Designer",
+      "AWS CDK",
+      "CodePipeline",
+      "CloudTrail"
+    ],
+    "correctIndex": 0,
+    "explanation": "CloudFormation Designer provides a visual template editor."
+  },
+  {
+    "id": "aws-0146",
+    "title": "What must be enabled for CloudFormation pipelines using S3 artifacts?",
+    "code": "",
+    "options": [
+      "S3 versioning",
+      "Object Lock",
+      "Static website hosting",
+      "Cross-Region replication"
+    ],
+    "correctIndex": 1,
+    "explanation": "S3 versioning is required for pipeline artifacts."
+  },
+  {
+    "id": "aws-0147",
+    "title": "Which CloudFormation feature supports enforcing least privilege changes?",
+    "code": "",
+    "options": [
+      "Hooks",
+      "Drift detection",
+      "Change sets",
+      "Modules"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hooks can enforce best practices and compliance."
+  },
+  {
+    "id": "aws-0148",
+    "title": "What role do tags play in CloudFormation StackSets?",
+    "code": "",
+    "options": [
+      "Control IAM permissions",
+      "Define dependencies",
+      "Enable cost allocation and organization",
+      "Trigger rollbacks"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tags help with cost management and resource organization."
+  },
+  {
+    "id": "aws-0149",
+    "title": "Which CloudFormation feature monitors template changes in Git?",
+    "code": "",
+    "options": [
+      "Git sync",
+      "Change sets",
+      "Stack policies",
+      "Drift detection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Git sync monitors repositories for template changes."
+  },
+  {
+    "id": "aws-0150",
+    "title": "What is a key benefit of AWS CloudFormation for infrastructure management?",
+    "code": "",
+    "options": [
+      "Manual configuration control",
+      "Consistent, repeatable deployments",
+      "Lower compute costs",
+      "Faster network throughput"
+    ],
+    "correctIndex": 1,
+    "explanation": "CloudFormation enables consistent and repeatable infrastructure deployments."
+  }
+]

@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 // Pages / Components
+import AWSQuiz from './components/AWSQuiz.vue'
 import PythonQuiz from './components/PythonQuiz.vue'
 import MovieQuiz from './components/MovieQuiz.vue'
 import AuthBox from './components/AuthBox.vue'
@@ -12,6 +13,11 @@ const routes = [
     path: '/movies',
     name: 'Movies',
     component: MovieQuiz
+  },
+  {
+    path: '/aws',
+    name: 'AWS',
+    component: AWSQuiz
   },
   {
     path: '/python',

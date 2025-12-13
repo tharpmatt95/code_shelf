@@ -12,16 +12,20 @@ services:
     build: ./server
     container_name: api
     restart: unless-stopped
-    environment:
-      - MONGO_URI=mongodb://mongo:27017/code_quiz
-      - PORT=4000
+    env_file:
+      - .env
     ports:
       - "4000:4000"
     depends_on:
       - mongo
+    volumes:
+      - ./server:/app
 
   frontend:
-    build: .
+    build:
+      context: .
+      args:
+        VITE_API_URL: ${VITE_API_URL}
     container_name: frontend
     restart: unless-stopped
     ports:

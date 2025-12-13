@@ -19,7 +19,6 @@ onMounted(async () => {
 
 <template>
   <div class="container">
-
     <el-card shadow="hover">
 
       <!-- Loading -->
@@ -34,7 +33,6 @@ onMounted(async () => {
 
       <!-- Logged-in user -->
       <template v-else>
-
         <h2>User Profile</h2>
 
         <el-descriptions border column="2" size="large" class="left-text">
@@ -48,6 +46,10 @@ onMounted(async () => {
 
           <el-descriptions-item label="Movies Correct">
             {{ user.correctMovies.length }}
+          </el-descriptions-item>
+
+          <el-descriptions-item label="AWS Correct">
+            {{ user.correctAWS.length }}
           </el-descriptions-item>
 
           <el-descriptions-item label="Joined">
@@ -136,11 +138,43 @@ onMounted(async () => {
             </template>
           </el-tab-pane>
 
-        </el-tabs>
+          <!-- AWS TAB -->
+          <el-tab-pane label="AWS">
+            <template v-if="user.correctAWS.length === 0">
+              <el-empty description="No AWS questions yet" />
+            </template>
 
+            <template v-else>
+              <el-collapse accordion>
+                <el-collapse-item
+                  v-for="q in user.correctAWS"
+                  :key="q._id"
+                  :title="q.title"
+                >
+                  <div class="item-block">
+                    <strong>Options:</strong>
+                    <ul class="options-list">
+                      <li v-for="(opt, i) in q.options" :key="i">
+                        <span :class="{ correct: i === q.correctIndex }">
+                          {{ opt }}
+                          <span v-if="i === q.correctIndex">(correct)</span>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="item-block">
+                    <strong>Explanation:</strong>
+                    <p>{{ q.explanation }}</p>
+                  </div>
+                </el-collapse-item>
+              </el-collapse>
+            </template>
+          </el-tab-pane>
+
+        </el-tabs>
       </template>
     </el-card>
-
   </div>
 </template>
 

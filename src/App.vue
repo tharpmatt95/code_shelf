@@ -11,6 +11,7 @@
         :default-active="$route.path"
       >
       <el-menu-item index="/movies">Movies</el-menu-item>  
+      <el-menu-item index="/aws">AWS</el-menu-item>
       <el-menu-item index="/python">Python</el-menu-item>
         <el-menu-item index="/login">Login</el-menu-item>
         <el-menu-item index="/user">User</el-menu-item>

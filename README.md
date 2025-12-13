@@ -1,5 +1,13 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+When adding a new section:
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+* Update UserPage.vue to add a new `<el-descriptions-item label="Section Correct">`
+* Update router.js to have both a new import and a new route
+* Add a new el-menu-item to App.vue
+* Add new section to keep = new Set() on seed.js
+* Add a new mongoose model to seed.js
+* Add a new JSON seed section to seed.js
+* Add a new mongoose model to index.js
+* Add a new correctSection schema to index.js
+* Add a new .populate('correctSection') in app.get('/auth/me') in index.js
+* Add a new SECTION QUIZ ROUTES section to index.js

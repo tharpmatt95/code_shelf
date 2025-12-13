@@ -16,7 +16,7 @@ app.use(cors({
     process.env.API_CLIENT_ORIGIN
   ],
   credentials: true
-}));
+}))
 app.use(express.json())
 app.use(cookieParser())
 
@@ -27,14 +27,14 @@ const MONGO_URI = process.env.MONGO_URI || 'mongodb://mongo:27017/code_quiz'
 const PORT = process.env.PORT || 4000
 
 await mongoose.connect(MONGO_URI)
-console.log("Mongo connected")
+console.log('Mongo connected')
 
 // --------------------------------------------------
 // Schemas (match seed.js EXACTLY)
 // --------------------------------------------------
 
-// Python Question (collection: "python")
-const pythonSchema = new mongoose.Schema({
+// Shared Question Schema
+const questionSchema = new mongoose.Schema({
   id: String,
   title: String,
   code: String,
@@ -43,21 +43,18 @@ const pythonSchema = new mongoose.Schema({
   explanation: String
 })
 
-const Python = mongoose.model('Python', pythonSchema, 'python')
+// Python (collection: "python")
+const Python = mongoose.model('Python', questionSchema, 'python')
 
-// Movie Question (collection: "movies")
-const movieSchema = new mongoose.Schema({
-  id: String,
-  title: String,
-  code: String,
-  options: [String],
-  correctIndex: Number,
-  explanation: String
-})
+// Movies (collection: "movies")
+const Movie = mongoose.model('Movie', questionSchema, 'movies')
 
-const Movie = mongoose.model('Movie', movieSchema, 'movies')
+// AWS (collection: "aws")
+const AWS = mongoose.model('AWS', questionSchema, 'aws')
 
-// User Schema (refs Python + Movie)
+// --------------------------------------------------
+// User Schema (refs Python + Movies + AWS)
+// --------------------------------------------------
 const userSchema = new mongoose.Schema({
   email: { type: String, unique: true },
   passwordHash: String,
@@ -68,6 +65,10 @@ const userSchema = new mongoose.Schema({
 
   correctMovies: [
     { type: mongoose.Schema.Types.ObjectId, ref: 'Movie' }
+  ],
+
+  correctAWS: [
+    { type: mongoose.Schema.Types.ObjectId, ref: 'AWS' }
   ],
 
   createdAt: { type: Date, default: Date.now },
@@ -100,7 +101,7 @@ async function requireAuth(req, res, next) {
 
     req.user = user
     next()
-  } catch (_) {
+  } catch {
     return res.status(401).json({ error: 'Invalid session' })
   }
 }
@@ -111,8 +112,11 @@ async function requireAuth(req, res, next) {
 app.post('/auth/signup', async (req, res) => {
   try {
     const { email, password } = req.body
+
     const existing = await User.findOne({ email })
-    if (existing) return res.status(400).json({ error: 'Email already exists' })
+    if (existing) {
+      return res.status(400).json({ error: 'Email already exists' })
+    }
 
     const passwordHash = await bcrypt.hash(password, 10)
     const user = await User.create({ email, passwordHash })
@@ -121,7 +125,7 @@ app.post('/auth/signup', async (req, res) => {
     res.cookie('session', token, { httpOnly: true, sameSite: 'lax' })
 
     res.json({ success: true })
-  } catch (err) {
+  } catch {
     res.status(500).json({ error: 'Signup failed' })
   }
 })
@@ -131,10 +135,14 @@ app.post('/auth/login', async (req, res) => {
     const { email, password } = req.body
 
     const user = await User.findOne({ email })
-    if (!user) return res.status(400).json({ error: 'Invalid email' })
+    if (!user) {
+      return res.status(400).json({ error: 'Invalid email' })
+    }
 
     const ok = await bcrypt.compare(password, user.passwordHash)
-    if (!ok) return res.status(400).json({ error: 'Invalid password' })
+    if (!ok) {
+      return res.status(400).json({ error: 'Invalid password' })
+    }
 
     user.lastLoginAt = new Date()
     await user.save()
@@ -143,7 +151,7 @@ app.post('/auth/login', async (req, res) => {
     res.cookie('session', token, { httpOnly: true, sameSite: 'lax' })
 
     res.json({ success: true })
-  } catch (err) {
+  } catch {
     res.status(500).json({ error: 'Login failed' })
   }
 })
@@ -157,11 +165,13 @@ app.get('/auth/me', requireAuth, async (req, res) => {
   const user = await User.findById(req.user._id)
     .populate('correctPython')
     .populate('correctMovies')
+    .populate('correctAWS')
 
   res.json({
     email: user.email,
     correctPython: user.correctPython,
     correctMovies: user.correctMovies,
+    correctAWS: user.correctAWS,
     createdAt: user.createdAt,
     lastLoginAt: user.lastLoginAt
   })
@@ -170,7 +180,7 @@ app.get('/auth/me', requireAuth, async (req, res) => {
 // --------------------------------------------------
 // PYTHON QUIZ ROUTES
 // --------------------------------------------------
-app.get('/api/python', async (req, res) => {
+app.get('/api/python', async (_, res) => {
   const items = await Python.find().lean()
   res.json(items)
 })
@@ -185,7 +195,9 @@ app.get('/api/python/new', requireAuth, async (req, res) => {
 
 app.post('/api/python/mark-correct', requireAuth, async (req, res) => {
   const { questionId } = req.body
-  if (!questionId) return res.status(400).json({ error: 'questionId required' })
+  if (!questionId) {
+    return res.status(400).json({ error: 'questionId required' })
+  }
 
   if (!req.user.correctPython.includes(questionId)) {
     req.user.correctPython.push(questionId)
@@ -198,7 +210,7 @@ app.post('/api/python/mark-correct', requireAuth, async (req, res) => {
 // --------------------------------------------------
 // MOVIE QUIZ ROUTES
 // --------------------------------------------------
-app.get('/api/movies', async (req, res) => {
+app.get('/api/movies', async (_, res) => {
   const items = await Movie.find().lean()
   res.json(items)
 })
@@ -213,10 +225,42 @@ app.get('/api/movies/new', requireAuth, async (req, res) => {
 
 app.post('/api/movies/mark-correct', requireAuth, async (req, res) => {
   const { movieId } = req.body
-  if (!movieId) return res.status(400).json({ error: 'movieId required' })
+  if (!movieId) {
+    return res.status(400).json({ error: 'movieId required' })
+  }
 
   if (!req.user.correctMovies.includes(movieId)) {
     req.user.correctMovies.push(movieId)
+    await req.user.save()
+  }
+
+  res.json({ success: true })
+})
+
+// --------------------------------------------------
+// AWS QUIZ ROUTES
+// --------------------------------------------------
+app.get('/api/aws', async (_, res) => {
+  const items = await AWS.find().lean()
+  res.json(items)
+})
+
+app.get('/api/aws/new', requireAuth, async (req, res) => {
+  const items = await AWS.find({
+    _id: { $nin: req.user.correctAWS }
+  }).lean()
+
+  res.json(items)
+})
+
+app.post('/api/aws/mark-correct', requireAuth, async (req, res) => {
+  const { awsId } = req.body
+  if (!awsId) {
+    return res.status(400).json({ error: 'awsId required' })
+  }
+
+  if (!req.user.correctAWS.includes(awsId)) {
+    req.user.correctAWS.push(awsId)
     await req.user.save()
   }
 
