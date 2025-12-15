@@ -4525,5 +4525,285 @@
     "options": ["Voiceover narration", "Expert interviews", "Archival footage", "On-screen text"],
     "correctIndex": 1,
     "explanation": "The film excludes interviews with officials or experts."
+  },
+  {
+    "id": "mv-610",
+    "title": "Which role earned Jeff Bridges his first Academy Award nomination?",
+    "options": ["Duane Jackson", "The Dude", "Kevin Flynn", "Bad Blake"],
+    "correctIndex": 0,
+    "explanation": "Bridges was nominated for playing Duane Jackson in The Last Picture Show (1971)."
+  },
+  {
+    "id": "mv-611",
+    "title": "Which actor was the first to portray James Bond on film?",
+    "options": ["Roger Moore", "Sean Connery", "George Lazenby", "Timothy Dalton"],
+    "correctIndex": 1,
+    "explanation": "Sean Connery debuted as James Bond in Dr. No (1962)."
+  },
+  {
+    "id": "mv-612",
+    "title": "Which performance won Ben Kingsley an Academy Award?",
+    "options": ["Itzhak Stern", "Sweeney Todd", "Mahatma Gandhi", "Otto Frank"],
+    "correctIndex": 2,
+    "explanation": "Kingsley won Best Actor for Gandhi (1982)."
+  },
+  {
+    "id": "mv-613",
+    "title": "Which actor played U.S. Marshal Samuel Gerard in The Fugitive?",
+    "options": ["Gene Hackman", "Clint Eastwood", "Kevin Costner", "Tommy Lee Jones"],
+    "correctIndex": 3,
+    "explanation": "Tommy Lee Jones won an Oscar for this role."
+  },
+  {
+    "id": "mv-614",
+    "title": "Which filmmaker founded the Sundance Film Festival?",
+    "options": ["Robert Redford", "Clint Eastwood", "Kevin Costner", "Michael Douglas"],
+    "correctIndex": 0,
+    "explanation": "Robert Redford founded the Sundance Institute and Festival."
+  },
+  {
+    "id": "mv-615",
+    "title": "Which Jack Lemmon role won him his second Academy Award?",
+    "options": ["C.C. Baxter", "Harry Stoner", "Joe Clay", "Ensign Pulver"],
+    "correctIndex": 1,
+    "explanation": "He won Best Actor for Save the Tiger (1973)."
+  },
+  {
+    "id": "mv-616",
+    "title": "Which actor famously refused to accept his Oscar in person?",
+    "options": ["Marlon Brando", "Paul Newman", "George C. Scott", "Richard Burton"],
+    "correctIndex": 2,
+    "explanation": "George C. Scott declined his Oscar for Patton (1970)."
+  },
+  {
+    "id": "mv-617",
+    "title": "Which Robin Williams performance earned him his only Oscar win?",
+    "options": ["Dead Poets Society", "The Fisher King", "Good Morning, Vietnam", "Good Will Hunting"],
+    "correctIndex": 3,
+    "explanation": "Williams won Best Supporting Actor for Good Will Hunting (1997)."
+  },
+  {
+    "id": "mv-618",
+    "title": "Which actor won an Oscar for portraying Truman Capote?",
+    "options": ["Philip Seymour Hoffman", "Sean Penn", "Ben Kingsley", "Michael Douglas"],
+    "correctIndex": 0,
+    "explanation": "Hoffman won Best Actor for Capote (2005)."
+  },
+  {
+    "id": "mv-619",
+    "title": "Which actor rose to fame playing Dr. Doug Ross on ER?",
+    "options": ["Kevin Costner", "George Clooney", "Michael Douglas", "Gene Hackman"],
+    "correctIndex": 1,
+    "explanation": "George Clooney became a household name through ER."
+  },
+  {
+    "id": "mv-620",
+    "title": "Which Gene Hackman role earned him his first Oscar?",
+    "options": ["Lex Luthor", "Buck Barrow", "Popeye Doyle", "Little Bill Daggett"],
+    "correctIndex": 2,
+    "explanation": "He won Best Actor for The French Connection (1971)."
+  },
+  {
+    "id": "mv-621",
+    "title": "Which Nicolas Cage performance won him an Academy Award?",
+    "options": ["Leaving Las Vegas", "Adaptation", "Face/Off", "Raising Arizona"],
+    "correctIndex": 0,
+    "explanation": "Cage won Best Actor for Leaving Las Vegas (1995)."
+  },
+  {
+    "id": "mv-622",
+    "title": "Which actor won an Oscar for The Deer Hunter?",
+    "options": ["Robert De Niro", "Christopher Walken", "John Savage", "Nick Nolte"],
+    "correctIndex": 1,
+    "explanation": "Walken won Best Supporting Actor."
+  },
+  {
+    "id": "mv-623",
+    "title": "Which role earned Anne Hathaway an Academy Award?",
+    "options": ["Fantine", "Andy Sachs", "Catwoman", "Mia Thermopolis"],
+    "correctIndex": 0,
+    "explanation": "She won for playing Fantine in Les Misérables (2012)."
+  },
+  {
+    "id": "mv-624",
+    "title": "Which French actor starred as Cyrano de Bergerac?",
+    "options": ["Jean Reno", "Daniel Auteuil", "Gérard Depardieu", "Vincent Cassel"],
+    "correctIndex": 2,
+    "explanation": "Depardieu received an Oscar nomination for the role."
+  },
+  {
+    "id": "mv-625",
+    "title": "Which actor became the oldest Oscar winner for acting at age 82?",
+    "options": ["Christopher Plummer", "Clint Eastwood", "Jack Lemmon", "Sean Connery"],
+    "correctIndex": 0,
+    "explanation": "Plummer won for Beginners (2010)."
+  },
+  {
+    "id": "mv-626",
+    "title": "Which role defined Bruce Willis as an action star?",
+    "options": ["Butch Coolidge", "David Addison", "John McClane", "Malcolm Crowe"],
+    "correctIndex": 2,
+    "explanation": "John McClane debuted in Die Hard (1988)."
+  },
+  {
+    "id": "mv-627",
+    "title": "Which actor was knighted for services to drama in 1990?",
+    "options": ["Ben Kingsley", "Ian McKellen", "Sean Connery", "Christopher Plummer"],
+    "correctIndex": 1,
+    "explanation": "Ian McKellen was knighted by Queen Elizabeth II."
+  },
+  {
+    "id": "mv-628",
+    "title": "Which Russell Crowe performance won Best Actor?",
+    "options": ["A Beautiful Mind", "L.A. Confidential", "The Insider", "Gladiator"],
+    "correctIndex": 3,
+    "explanation": "Crowe won for Gladiator (2000)."
+  },
+  {
+    "id": "mv-629",
+    "title": "Which Bill Murray film earned him an Oscar nomination?",
+    "options": ["Groundhog Day", "Lost in Translation", "Ghostbusters", "Caddyshack"],
+    "correctIndex": 1,
+    "explanation": "He was nominated for Lost in Translation (2003)."
+  },
+  {
+    "id": "mv-630",
+    "title": "Which Annette Bening role earned her first Oscar nomination?",
+    "options": ["Virginia Hill", "Carolyn Burnham", "Myra Langtry", "Julia Lambert"],
+    "correctIndex": 0,
+    "explanation": "She was nominated for The Grifters (1990)."
+  },
+  {
+    "id": "mv-631",
+    "title": "Which role earned Joe Pesci an Academy Award?",
+    "options": ["Nicky Santoro", "Leo Getz", "Tommy DeVito", "David Ferrie"],
+    "correctIndex": 2,
+    "explanation": "Pesci won for Goodfellas (1990)."
+  },
+  {
+    "id": "mv-632",
+    "title": "Which Kevin Costner film won Best Picture and Best Director?",
+    "options": ["Field of Dreams", "The Bodyguard", "Dances with Wolves", "JFK"],
+    "correctIndex": 2,
+    "explanation": "Costner directed and starred in Dances with Wolves (1990)."
+  },
+  {
+    "id": "mv-633",
+    "title": "Which Meg Ryan film cemented her romantic-comedy status?",
+    "options": ["Sleepless in Seattle", "French Kiss", "You've Got Mail", "When Harry Met Sally..."],
+    "correctIndex": 3,
+    "explanation": "The film became a defining rom-com."
+  },
+  {
+    "id": "mv-634",
+    "title": "Which Donald Sutherland role became iconic in JFK (1991)?",
+    "options": ["Mr. X", "President Kennedy", "Clay Shaw", "Jim Garrison"],
+    "correctIndex": 0,
+    "explanation": "He played the mysterious informant Mr. X."
+  },
+  {
+    "id": "mv-635",
+    "title": "Which Clint Eastwood film won Best Picture and Best Director?",
+    "options": ["Gran Torino", "Million Dollar Baby", "American Sniper", "Unforgiven"],
+    "correctIndex": 3,
+    "explanation": "Unforgiven (1992) marked a major career resurgence."
+  },
+  {
+    "id": "mv-636",
+    "title": "Which role earned Michael Douglas an Academy Award for Best Actor?",
+    "options": ["Alex Forrest", "Jack Colton", "Gordon Gekko", "Grady Tripp"],
+    "correctIndex": 2,
+    "explanation": "Douglas won for Wall Street (1987)."
+  },
+  {
+    "id": "mv-637",
+    "title": "Which actor revived his career playing Tony Stark?",
+    "options": ["Robert Downey Jr.", "George Clooney", "Bruce Willis", "Nicolas Cage"],
+    "correctIndex": 0,
+    "explanation": "Iron Man (2008) marked a major comeback."
+  },
+  {
+    "id": "mv-638",
+    "title": "Which actress was often cited as one of Hollywood's great beauties?",
+    "options": ["Sally Field", "Ava Gardner", "Annette Bening", "Meg Ryan"],
+    "correctIndex": 1,
+    "explanation": "Ava Gardner was frequently called the most beautiful actress."
+  },
+  {
+    "id": "mv-639",
+    "title": "Which Sally Field performance earned her an Academy Award?",
+    "options": ["Norma Rae", "Mary Todd Lincoln", "Forrest Gump", "Steel Magnolias"],
+    "correctIndex": 0,
+    "explanation": "Field won Best Actress for Norma Rae (1979)."
+  },
+  {
+    "id": "mv-640",
+    "title": "Which actor played Gandalf in The Lord of the Rings?",
+    "options": ["Christopher Lee", "Ian McKellen", "Sean Connery", "Patrick Stewart"],
+    "correctIndex": 1,
+    "explanation": "McKellen portrayed Gandalf in both trilogies."
+  },
+  {
+    "id": "mv-641",
+    "title": "Which actor won an Oscar for The Untouchables?",
+    "options": ["Robert De Niro", "Sean Connery", "Kevin Costner", "Andy Garcia"],
+    "correctIndex": 1,
+    "explanation": "Connery won Best Supporting Actor."
+  },
+  {
+    "id": "mv-642",
+    "title": "Which Jeff Bridges role became a cult phenomenon?",
+    "options": ["Bad Blake", "Kevin Flynn", "Duane Jackson", "The Dude"],
+    "correctIndex": 3,
+    "explanation": "The Big Lebowski achieved cult status."
+  },
+  {
+    "id": "mv-643",
+    "title": "Which actor won an Oscar for Syriana?",
+    "options": ["George Clooney", "Matt Damon", "Jeff Bridges", "Benicio del Toro"],
+    "correctIndex": 0,
+    "explanation": "Clooney won Best Supporting Actor."
+  },
+  {
+    "id": "mv-644",
+    "title": "Which Christopher Plummer role earned him an Oscar win?",
+    "options": ["Captain Von Trapp", "J. Paul Getty", "Leo Tolstoy", "Hal Fields"],
+    "correctIndex": 3,
+    "explanation": "He won for Beginners (2010)."
+  },
+  {
+    "id": "mv-645",
+    "title": "Which actor portrayed Little Bill Daggett in Unforgiven?",
+    "options": ["Gene Hackman", "Clint Eastwood", "Morgan Freeman", "Richard Harris"],
+    "correctIndex": 0,
+    "explanation": "Hackman won an Oscar for the role."
+  },
+  {
+    "id": "mv-646",
+    "title": "Which Nicolas Cage film showcased his dual performance technique?",
+    "options": ["Leaving Las Vegas", "Face/Off", "Adaptation", "The Rock"],
+    "correctIndex": 2,
+    "explanation": "Cage played twin brothers in Adaptation (2002)."
+  },
+  {
+    "id": "mv-647",
+    "title": "Which actor is known for rejecting traditional award culture?",
+    "options": ["Jack Lemmon", "George C. Scott", "Clint Eastwood", "Sean Connery"],
+    "correctIndex": 1,
+    "explanation": "Scott openly criticized and rejected the Oscars."
+  },
+  {
+    "id": "mv-648",
+    "title": "Which Bill Murray performance marked his dramatic turning point?",
+    "options": ["Rushmore", "Lost in Translation", "Groundhog Day", "Scrooged"],
+    "correctIndex": 1,
+    "explanation": "The film highlighted Murray's dramatic depth."
+  },
+  {
+    "id": "mv-649",
+    "title": "Which actor won an Oscar at age 60 for Crazy Heart?",
+    "options": ["Jeff Bridges", "Clint Eastwood", "Robert Redford", "Kevin Costner"],
+    "correctIndex": 0,
+    "explanation": "Bridges won Best Actor for playing Bad Blake."
   }
 ]
