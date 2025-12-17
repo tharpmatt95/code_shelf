@@ -4805,5 +4805,285 @@
     "options": ["Jeff Bridges", "Clint Eastwood", "Robert Redford", "Kevin Costner"],
     "correctIndex": 0,
     "explanation": "Bridges won Best Actor for playing Bad Blake."
+  },
+  {
+    "id": "mv-650",
+    "title": "Which actress starred in Calamity Jane (1953)?",
+    "options": ["Doris Day", "Shirley MacLaine", "Gloria Swanson", "Lauren Bacall"],
+    "correctIndex": 0,
+    "explanation": "Doris Day starred as the title character in Calamity Jane."
+  },
+  {
+    "id": "mv-651",
+    "title": "Which film earned Shirley MacLaine her first Academy Award win?",
+    "options": ["Irma la Douce", "Terms of Endearment", "The Apartment", "Sweet Charity"],
+    "correctIndex": 1,
+    "explanation": "MacLaine won Best Actress for Terms of Endearment (1983)."
+  },
+  {
+    "id": "mv-652",
+    "title": "Which Holly Hunter performance won her an Academy Award?",
+    "options": ["Broadcast News", "Raising Arizona", "The Piano", "Copycat"],
+    "correctIndex": 2,
+    "explanation": "Hunter won Best Actress for The Piano (1993)."
+  },
+  {
+    "id": "mv-653",
+    "title": "Which Spider-Man villain was portrayed by Willem Dafoe?",
+    "options": ["Doctor Octopus", "Venom", "Sandman", "Green Goblin"],
+    "correctIndex": 3,
+    "explanation": "Dafoe played Norman Osborn, also known as the Green Goblin."
+  },
+  {
+    "id": "mv-654",
+    "title": "Which role earned Hilary Swank her first Academy Award?",
+    "options": ["Maggie Fitzgerald", "Brandon Teena", "Alice Paul", "Erin Gruwell"],
+    "correctIndex": 1,
+    "explanation": "Swank won for her performance in Boys Don't Cry (1999)."
+  },
+  {
+    "id": "mv-655",
+    "title": "Which film earned Chiwetel Ejiofor an Oscar nomination for Best Actor?",
+    "options": ["Dirty Pretty Things", "Serenity", "12 Years a Slave", "Inside Man"],
+    "correctIndex": 2,
+    "explanation": "Ejiofor was nominated for his role as Solomon Northup."
+  },
+  {
+    "id": "mv-656",
+    "title": "Which Claudette Colbert film won the Academy Award for Best Picture?",
+    "options": ["Cleopatra", "Drums Along the Mohawk", "The Sign of the Cross", "It Happened One Night"],
+    "correctIndex": 3,
+    "explanation": "It Happened One Night (1934) swept the major Oscars."
+  },
+  {
+    "id": "mv-657",
+    "title": "Which Diane Lane film earned her an Academy Award nomination?",
+    "options": ["The Perfect Storm", "Unfaithful", "Secretariat", "Hardball"],
+    "correctIndex": 0,
+    "explanation": "Lane was nominated for Best Actress for Unfaithful (2002)."
+  },
+  {
+    "id": "mv-658",
+    "title": "Which Jessica Lange role won her a Best Supporting Actress Oscar?",
+    "options": ["Frances", "Sweet Dreams", "Tootsie", "Blue Sky"],
+    "correctIndex": 2,
+    "explanation": "Lange won for her role in Tootsie (1982)."
+  },
+  {
+    "id": "mv-659",
+    "title": "Which Gloria Swanson film is considered a landmark of classic Hollywood?",
+    "options": ["The Trespasser", "Sadie Thompson", "Music in the Air", "Sunset Boulevard"],
+    "correctIndex": 3,
+    "explanation": "Sunset Boulevard (1950) is one of cinema’s most celebrated films."
+  },
+  {
+    "id": "mv-660",
+    "title": "Which Michael Caine role helped establish him as a major star?",
+    "options": ["Harry Palmer", "Alfred Pennyworth", "Jack Carter", "Charlie Croker"],
+    "correctIndex": 0,
+    "explanation": "Caine rose to fame playing Harry Palmer in The Ipcress File."
+  },
+  {
+    "id": "mv-661",
+    "title": "Which film marked Lauren Bacall’s screen debut?",
+    "options": ["The Big Sleep", "To Have and Have Not", "Dark Passage", "Key Largo"],
+    "correctIndex": 1,
+    "explanation": "Bacall debuted opposite Humphrey Bogart in To Have and Have Not (1944)."
+  },
+  {
+    "id": "mv-662",
+    "title": "Which Norma Shearer film earned her an Academy Award?",
+    "options": ["The Women", "Romeo and Juliet", "The Divorcee", "Private Lives"],
+    "correctIndex": 2,
+    "explanation": "Shearer won Best Actress for The Divorcee (1930)."
+  },
+  {
+    "id": "mv-663",
+    "title": "Which Bette Midler film earned her an Academy Award nomination?",
+    "options": ["Beaches", "Big Business", "For the Boys", "The Rose"],
+    "correctIndex": 3,
+    "explanation": "Midler received her first Oscar nomination for The Rose (1979)."
+  },
+  {
+    "id": "mv-664",
+    "title": "Which film earned Mary Tyler Moore an Academy Award nomination?",
+    "options": ["Ordinary People", "Thoroughly Modern Millie", "Finnegan Begin Again", "Flirting with Disaster"],
+    "correctIndex": 0,
+    "explanation": "Moore was nominated for Best Actress for Ordinary People (1980)."
+  },
+  {
+    "id": "mv-665",
+    "title": "Which Italian neorealist film brought Anna Magnani international fame?",
+    "options": ["The Rose Tattoo", "Rome, Open City", "Bellissima", "Roma"],
+    "correctIndex": 1,
+    "explanation": "Rome, Open City (1945) established Magnani worldwide."
+  },
+  {
+    "id": "mv-666",
+    "title": "Which Judi Dench role earned her an Academy Award?",
+    "options": ["M in Skyfall", "Queen Victoria", "Mrs. Brown", "Shakespeare in Love"],
+    "correctIndex": 3,
+    "explanation": "Dench won Best Supporting Actress for Shakespeare in Love (1998)."
+  },
+  {
+    "id": "mv-667",
+    "title": "Which Sharon Stone performance earned her an Oscar nomination?",
+    "options": ["Basic Instinct", "Casino", "The Muse", "Gloria"],
+    "correctIndex": 1,
+    "explanation": "Stone was nominated for Casino (1995)."
+  },
+  {
+    "id": "mv-668",
+    "title": "Which Kim Basinger role earned her an Academy Award?",
+    "options": ["Batman", "Nadine", "Never Say Never Again", "L.A. Confidential"],
+    "correctIndex": 3,
+    "explanation": "Basinger won Best Supporting Actress for L.A. Confidential (1997)."
+  },
+  {
+    "id": "mv-669",
+    "title": "Which Timothée Chalamet film earned him his first Oscar nomination?",
+    "options": ["Lady Bird", "Beautiful Boy", "The King", "Call Me by Your Name"],
+    "correctIndex": 3,
+    "explanation": "Chalamet was nominated for Call Me by Your Name (2017)."
+  },
+  {
+    "id": "mv-670",
+    "title": "Which Glenda Jackson film won her an Academy Award?",
+    "options": ["Marat/Sade", "Sunday Bloody Sunday", "Women in Love", "Elizabeth R"],
+    "correctIndex": 2,
+    "explanation": "Jackson won Best Actress for Women in Love (1969)."
+  },
+  {
+    "id": "mv-671",
+    "title": "Which Doris Day film was Alfred Hitchcock’s remake?",
+    "options": ["Pillow Talk", "Love Me or Leave Me", "The Man Who Knew Too Much", "Lucky Me"],
+    "correctIndex": 2,
+    "explanation": "Day starred in Hitchcock’s The Man Who Knew Too Much (1956)."
+  },
+  {
+    "id": "mv-672",
+    "title": "Which Shirley MacLaine film reunited her with Terms of Endearment character Aurora?",
+    "options": ["Steel Magnolias", "The Evening Star", "Postcards from the Edge", "Guarding Tess"],
+    "correctIndex": 1,
+    "explanation": "She reprised Aurora Greenway in The Evening Star (1996)."
+  },
+  {
+    "id": "mv-673",
+    "title": "Which Coen Brothers film gave Holly Hunter her first starring role?",
+    "options": ["Broadcast News", "Copycat", "Raising Arizona", "Always"],
+    "correctIndex": 2,
+    "explanation": "Raising Arizona (1987) was written with Hunter in mind."
+  },
+  {
+    "id": "mv-674",
+    "title": "Which Willem Dafoe role earned him an Oscar nomination for Best Actor?",
+    "options": ["Shadow of the Vampire", "Platoon", "The Florida Project", "At Eternity’s Gate"],
+    "correctIndex": 3,
+    "explanation": "Dafoe was nominated for playing Vincent van Gogh."
+  },
+  {
+    "id": "mv-675",
+    "title": "Which Hilary Swank film earned her a second Academy Award?",
+    "options": ["Boys Don’t Cry", "Iron Jawed Angels", "Million Dollar Baby", "Freedom Writers"],
+    "correctIndex": 2,
+    "explanation": "Swank won her second Oscar for Million Dollar Baby (2004)."
+  },
+  {
+    "id": "mv-676",
+    "title": "Which Chiwetel Ejiofor role was directed by Steven Spielberg?",
+    "options": ["Solomon Northup", "Okwe", "The Operative", "Amistad"],
+    "correctIndex": 3,
+    "explanation": "Ejiofor appeared in Spielberg’s Amistad (1997)."
+  },
+  {
+    "id": "mv-677",
+    "title": "Which Claudette Colbert role won her an Academy Award?",
+    "options": ["Ellie Andrews", "Cleopatra", "Anne Hilton", "Dr. Jane Everest"],
+    "correctIndex": 0,
+    "explanation": "Colbert won Best Actress for It Happened One Night."
+  },
+  {
+    "id": "mv-678",
+    "title": "Which Diane Lane film became a massive global blockbuster?",
+    "options": ["Unfaithful", "Secretariat", "Under the Tuscan Sun", "The Perfect Storm"],
+    "correctIndex": 3,
+    "explanation": "The Perfect Storm (2000) grossed over $300 million worldwide."
+  },
+  {
+    "id": "mv-679",
+    "title": "Which Jessica Lange film earned her a Best Actress Oscar?",
+    "options": ["Tootsie", "Frances", "Sweet Dreams", "Blue Sky"],
+    "correctIndex": 3,
+    "explanation": "Lange won Best Actress for Blue Sky (1994)."
+  },
+  {
+    "id": "mv-680",
+    "title": "Which Gloria Swanson role reflected her own silent-era fame?",
+    "options": ["Norma Desmond", "Sadie Thompson", "Elvira", "The Trespasser"],
+    "correctIndex": 0,
+    "explanation": "Norma Desmond in Sunset Boulevard mirrored Swanson’s career."
+  },
+  {
+    "id": "mv-681",
+    "title": "Which Michael Caine role earned him his first Oscar?",
+    "options": ["Get Carter", "Educating Rita", "Hannah and Her Sisters", "Alfie"],
+    "correctIndex": 2,
+    "explanation": "Caine won Best Supporting Actor for Hannah and Her Sisters (1986)."
+  },
+  {
+    "id": "mv-682",
+    "title": "Which Lauren Bacall film starred Marilyn Monroe alongside her?",
+    "options": ["Key Largo", "How to Marry a Millionaire", "Designing Woman", "Bright Leaf"],
+    "correctIndex": 1,
+    "explanation": "Bacall co-starred with Monroe in How to Marry a Millionaire (1953)."
+  },
+  {
+    "id": "mv-683",
+    "title": "Which Norma Shearer film was her first talkie?",
+    "options": ["The Women", "Private Lives", "The Trial of Mary Dugan", "Romeo and Juliet"],
+    "correctIndex": 2,
+    "explanation": "The Trial of Mary Dugan (1929) was her first sound film."
+  },
+  {
+    "id": "mv-684",
+    "title": "Which Bette Midler film was a major tear-jerker hit?",
+    "options": ["Ruthless People", "Big Business", "For the Boys", "Beaches"],
+    "correctIndex": 3,
+    "explanation": "Beaches (1988) became one of Midler’s most famous films."
+  },
+  {
+    "id": "mv-685",
+    "title": "Which Mary Tyler Moore sitcom was considered groundbreaking?",
+    "options": ["The Mary Tyler Moore Show", "The Dick Van Dyke Show", "Mary", "Rhoda"],
+    "correctIndex": 0,
+    "explanation": "The Mary Tyler Moore Show redefined women on television."
+  },
+  {
+    "id": "mv-686",
+    "title": "Which Anna Magnani role won her an Academy Award?",
+    "options": ["Rome, Open City", "Bellissima", "The Rose Tattoo", "Roma"],
+    "correctIndex": 2,
+    "explanation": "Magnani won Best Actress for The Rose Tattoo (1955)."
+  },
+  {
+    "id": "mv-687",
+    "title": "Which Judi Dench James Bond role became iconic?",
+    "options": ["Vesper Lynd", "M", "Eve Moneypenny", "Madeline Swann"],
+    "correctIndex": 1,
+    "explanation": "Dench portrayed M in multiple Bond films."
+  },
+  {
+    "id": "mv-688",
+    "title": "Which Sharon Stone film made her an international star?",
+    "options": ["Casino", "Sliver", "Total Recall", "Basic Instinct"],
+    "correctIndex": 3,
+    "explanation": "Basic Instinct (1992) launched Stone to superstardom."
+  },
+  {
+    "id": "mv-689",
+    "title": "Which Kim Basinger role was in a Batman film?",
+    "options": ["Vicki Vale", "Domino Petachi", "Lynn Bracken", "Nadine Hightower"],
+    "correctIndex": 0,
+    "explanation": "Basinger played Vicki Vale in Batman (1989)."
   }
 ]
