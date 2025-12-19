@@ -5085,5 +5085,571 @@
     "options": ["Vicki Vale", "Domino Petachi", "Lynn Bracken", "Nadine Hightower"],
     "correctIndex": 0,
     "explanation": "Basinger played Vicki Vale in Batman (1989)."
+  },
+  {
+    "id": "mv-690",
+    "title": "Which Javier Bardem film earned him an Academy Award nomination?",
+    "options": ["Before Night Falls", "Skyfall", "Jamón, Jamón", "Biutiful"],
+    "correctIndex": 0,
+    "explanation": "Bardem received his first Oscar nomination for Before Night Falls (2000)."
+  },
+  {
+    "id": "mv-691",
+    "title": "Which Christoph Waltz role won him his first Academy Award?",
+    "options": ["Dr. King Schultz", "Hans Landa", "Blofeld", "Walter Keane"],
+    "correctIndex": 1,
+    "explanation": "Waltz won Best Supporting Actor for Hans Landa in Inglourious Basterds (2009)."
+  },
+  {
+    "id": "mv-692",
+    "title": "Which Tim Robbins role brought him mainstream success in sports cinema?",
+    "options": ["The Player", "Mystic River", "Bull Durham", "Jacob's Ladder"],
+    "correctIndex": 2,
+    "explanation": "Robbins broke through playing Nuke LaLoosh in Bull Durham (1988)."
+  },
+  {
+    "id": "mv-693",
+    "title": "Which Arnold Schwarzenegger film launched the Terminator franchise?",
+    "options": ["Predator", "Total Recall", "Terminator 2", "The Terminator"],
+    "correctIndex": 3,
+    "explanation": "The Terminator (1984) launched the long-running franchise."
+  },
+  {
+    "id": "mv-694",
+    "title": "Which Sylvester Stallone film won the Academy Award for Best Picture?",
+    "options": ["Rocky", "Rambo: First Blood", "Rocky III", "Creed"],
+    "correctIndex": 0,
+    "explanation": "Rocky (1976) won Best Picture."
+  },
+  {
+    "id": "mv-695",
+    "title": "Which Viggo Mortensen role made him a household name?",
+    "options": ["Aragorn", "Witness", "Carlito's Way", "Green Book"],
+    "correctIndex": 0,
+    "explanation": "Mortensen became famous as Aragorn in The Lord of the Rings."
+  },
+  {
+    "id": "mv-696",
+    "title": "Which Christopher Lee role connected him to Star Wars?",
+    "options": ["Saruman", "Dracula", "Count Dooku", "Scaramanga"],
+    "correctIndex": 2,
+    "explanation": "Lee portrayed Count Dooku in the Star Wars prequels."
+  },
+  {
+    "id": "mv-697",
+    "title": "Which Geoffrey Rush performance won him an Oscar?",
+    "options": ["Quills", "Shine", "Elizabeth", "The King's Speech"],
+    "correctIndex": 1,
+    "explanation": "Rush won Best Actor for Shine (1996)."
+  },
+  {
+    "id": "mv-698",
+    "title": "Which Alec Guinness film earned him an Academy Award?",
+    "options": ["The Bridge on the River Kwai", "Kind Hearts and Coronets", "The Ladykillers", "Great Expectations"],
+    "correctIndex": 0,
+    "explanation": "Guinness won Best Actor for The Bridge on the River Kwai (1957)."
+  },
+  {
+    "id": "mv-699",
+    "title": "Which Richard Burton performance starred opposite Elizabeth Taylor?",
+    "options": ["Becket", "Cleopatra", "The Robe", "Who's Afraid of Virginia Woolf?"],
+    "correctIndex": 3,
+    "explanation": "Burton co-starred with Taylor in Who's Afraid of Virginia Woolf? (1966)."
+  },
+
+  {
+    "id": "mv-700",
+    "title": "Which Lucy Liu role launched her into international stardom?",
+    "options": ["Ling Woo", "Alex Munday", "O-Ren Ishii", "Joan Watson"],
+    "correctIndex": 1,
+    "explanation": "Liu became an action star in Charlie's Angels (2000)."
+  },
+  {
+    "id": "mv-701",
+    "title": "Which Alec Baldwin TV role earned multiple Emmy Awards?",
+    "options": ["Jack Donaghy", "Stanley Kowalski", "Howard Hughes", "Donald Trump"],
+    "correctIndex": 0,
+    "explanation": "Baldwin won multiple Emmys for 30 Rock."
+  },
+  {
+    "id": "mv-702",
+    "title": "Which James Caan role earned him an Oscar nomination?",
+    "options": ["Brian Piccolo", "Sonny Corleone", "Thief", "Misery"],
+    "correctIndex": 1,
+    "explanation": "Caan was nominated for The Godfather (1972)."
+  },
+  {
+    "id": "mv-703",
+    "title": "Which Mads Mikkelsen TV role redefined Hannibal Lecter?",
+    "options": ["Pusher", "Unit One", "King Arthur", "Hannibal"],
+    "correctIndex": 3,
+    "explanation": "Mikkelsen starred as Hannibal Lecter in Hannibal (2013–2015)."
+  },
+  {
+    "id": "mv-704",
+    "title": "Which Ben Stiller film satirized Hollywood excess?",
+    "options": ["Reality Bites", "Meet the Parents", "Tropic Thunder", "Zoolander"],
+    "correctIndex": 2,
+    "explanation": "Tropic Thunder (2008) mocked the film industry."
+  },
+  {
+    "id": "mv-705",
+    "title": "Which Ed Harris film marked his directorial debut?",
+    "options": ["Pollock", "Apollo 13", "The Right Stuff", "Appaloosa"],
+    "correctIndex": 0,
+    "explanation": "Harris directed Pollock (2000)."
+  },
+  {
+    "id": "mv-706",
+    "title": "Which Harvey Keitel role cemented his work with Martin Scorsese?",
+    "options": ["Bad Lieutenant", "Mean Streets", "Reservoir Dogs", "The Piano"],
+    "correctIndex": 1,
+    "explanation": "Keitel starred in Scorsese’s Mean Streets (1973)."
+  },
+  {
+    "id": "mv-707",
+    "title": "Which Jon Voight film won the Academy Award for Best Picture?",
+    "options": ["Midnight Cowboy", "Deliverance", "Coming Home", "Runaway Train"],
+    "correctIndex": 0,
+    "explanation": "Midnight Cowboy (1969) won Best Picture."
+  },
+  {
+    "id": "mv-708",
+    "title": "Which Drew Barrymore film earned her a Golden Globe?",
+    "options": ["Never Been Kissed", "Grey Gardens", "Charlie's Angels", "Poison Ivy"],
+    "correctIndex": 1,
+    "explanation": "Barrymore won a Golden Globe for Grey Gardens (2009)."
+  },
+  {
+    "id": "mv-709",
+    "title": "Which Winona Ryder film adapted a Louisa May Alcott novel?",
+    "options": ["Heathers", "Little Women", "Reality Bites", "Edward Scissorhands"],
+    "correctIndex": 1,
+    "explanation": "Ryder starred in Little Women (1994)."
+  },
+
+  {
+    "id": "mv-710",
+    "title": "Which Javier Bardem role made him a Bond villain?",
+    "options": ["Raoul Silva", "Anton Chigurh", "Reynaldo Arenas", "Florentino Ariza"],
+    "correctIndex": 0,
+    "explanation": "Bardem played Raoul Silva in Skyfall (2012)."
+  },
+  {
+    "id": "mv-711",
+    "title": "Which Christoph Waltz film reunited him with Quentin Tarantino?",
+    "options": ["Carnage", "Django Unchained", "Spectre", "Big Eyes"],
+    "correctIndex": 1,
+    "explanation": "Waltz starred in Django Unchained (2012)."
+  },
+  {
+    "id": "mv-712",
+    "title": "Which Tim Robbins role earned him an Academy Award?",
+    "options": ["Bull Durham", "Mystic River", "The Player", "Bob Roberts"],
+    "correctIndex": 1,
+    "explanation": "Robbins won Best Supporting Actor for Mystic River (2003)."
+  },
+  {
+    "id": "mv-713",
+    "title": "Which Arnold Schwarzenegger comedy showed his lighter side?",
+    "options": ["Twins", "Commando", "Predator", "Red Heat"],
+    "correctIndex": 0,
+    "explanation": "Twins (1988) revealed Schwarzenegger’s comedic appeal."
+  },
+  {
+    "id": "mv-714",
+    "title": "Which Stallone character is also a Vietnam War veteran?",
+    "options": ["Rocky Balboa", "John Rambo", "Gabe Walker", "Judge Dredd"],
+    "correctIndex": 1,
+    "explanation": "Rambo is a Vietnam War veteran in First Blood (1982)."
+  },
+  {
+    "id": "mv-715",
+    "title": "Which Viggo Mortensen film won Best Picture?",
+    "options": ["Green Book", "Eastern Promises", "Captain Fantastic", "Witness"],
+    "correctIndex": 0,
+    "explanation": "Green Book (2018) won Best Picture."
+  },
+  {
+    "id": "mv-716",
+    "title": "Which Christopher Lee role defined his Hammer Horror legacy?",
+    "options": ["Dracula", "Saruman", "Count Dooku", "Scaramanga"],
+    "correctIndex": 0,
+    "explanation": "Lee became famous as Dracula in Hammer films."
+  },
+  {
+    "id": "mv-717",
+    "title": "Which Geoffrey Rush role portrayed a speech therapist?",
+    "options": ["David Helfgott", "Lionel Logue", "Walsingham", "Peter Sellers"],
+    "correctIndex": 1,
+    "explanation": "Rush played Lionel Logue in The King's Speech (2010)."
+  },
+  {
+    "id": "mv-718",
+    "title": "Which Alec Guinness role became iconic in science fiction?",
+    "options": ["Col. Nicholson", "Professor Godbole", "Obi-Wan Kenobi", "George Smiley"],
+    "correctIndex": 2,
+    "explanation": "Guinness portrayed Obi-Wan Kenobi in Star Wars."
+  },
+  {
+    "id": "mv-719",
+    "title": "Which Richard Burton Shakespearean role earned acclaim?",
+    "options": ["Hamlet", "King Henry VIII", "Marc Antony", "O'Brien"],
+    "correctIndex": 1,
+    "explanation": "Burton was praised as King Henry VIII in Anne of the Thousand Days (1969)."
+  },
+
+  {
+    "id": "mv-720",
+    "title": "Which Lucy Liu role earned her an Emmy nomination?",
+    "options": ["Alex Munday", "Ling Woo", "O-Ren Ishii", "Set It Up"],
+    "correctIndex": 1,
+    "explanation": "Liu earned an Emmy nomination for Ally McBeal."
+  },
+  {
+    "id": "mv-721",
+    "title": "Which Alec Baldwin film featured his famous sales monologue?",
+    "options": ["Malice", "Glengarry Glen Ross", "Miami Blues", "The Cooler"],
+    "correctIndex": 1,
+    "explanation": "Baldwin delivered a memorable scene in Glengarry Glen Ross (1992)."
+  },
+  {
+    "id": "mv-722",
+    "title": "Which James Caan performance moved audiences to tears?",
+    "options": ["Misery", "The Gambler", "Brian's Song", "Thief"],
+    "correctIndex": 2,
+    "explanation": "Caan starred in the emotional TV film Brian's Song (1971)."
+  },
+  {
+    "id": "mv-723",
+    "title": "Which Mads Mikkelsen film launched his Danish career?",
+    "options": ["Another Round", "Pusher", "Unit One", "King Arthur"],
+    "correctIndex": 1,
+    "explanation": "Mikkelsen broke out with Pusher (1996)."
+  },
+  {
+    "id": "mv-724",
+    "title": "Which Ben Stiller film became a 1990s cult classic?",
+    "options": ["Reality Bites", "Zoolander", "The Cable Guy", "Meet the Parents"],
+    "correctIndex": 0,
+    "explanation": "Reality Bites (1994) became a defining Gen X film."
+  },
+  {
+    "id": "mv-725",
+    "title": "Which Ed Harris role portrayed astronaut John Glenn?",
+    "options": ["Apollo 13", "Pollock", "The Right Stuff", "Gravity"],
+    "correctIndex": 2,
+    "explanation": "Harris played John Glenn in The Right Stuff (1983)."
+  },
+  {
+    "id": "mv-726",
+    "title": "Which Harvey Keitel film was directed by Quentin Tarantino?",
+    "options": ["Reservoir Dogs", "The Piano", "Taxi Driver", "Mean Streets"],
+    "correctIndex": 0,
+    "explanation": "Keitel starred in Reservoir Dogs (1992)."
+  },
+  {
+    "id": "mv-727",
+    "title": "Which Jon Voight role won him an Academy Award?",
+    "options": ["Midnight Cowboy", "Coming Home", "Ali", "Runaway Train"],
+    "correctIndex": 1,
+    "explanation": "Voight won Best Actor for Coming Home (1978)."
+  },
+  {
+    "id": "mv-728",
+    "title": "Which Drew Barrymore role made her a child star?",
+    "options": ["E.T. the Extra-Terrestrial", "Poison Ivy", "Scream", "Never Been Kissed"],
+    "correctIndex": 0,
+    "explanation": "Barrymore became famous as a child in E.T. (1982)."
+  },
+  {
+    "id": "mv-729",
+    "title": "Which Winona Ryder film helped define 1990s independent cinema?",
+    "options": ["Little Women", "Heathers", "Edward Scissorhands", "Reality Bites"],
+    "correctIndex": 3,
+    "explanation": "Reality Bites (1994) became a defining 1990s indie film."
+  },
+  {
+    "id": "mv-730",
+    "title": "Which Dianne Wiest role won her an Academy Award for Best Supporting Actress?",
+    "options": ["Holly in Hannah and Her Sisters", "Peg Boggs in Edward Scissorhands", "Helen Buckman in Parenthood", "Emma in The Purple Rose of Cairo"],
+    "correctIndex": 0,
+    "explanation": "Wiest won her first Oscar for Hannah and Her Sisters (1986)."
+  },
+  {
+    "id": "mv-731",
+    "title": "Which Goldie Hawn film earned her an Academy Award?",
+    "options": ["Private Benjamin", "Cactus Flower", "Shampoo", "Foul Play"],
+    "correctIndex": 1,
+    "explanation": "Hawn won Best Supporting Actress for Cactus Flower (1969)."
+  },
+  {
+    "id": "mv-732",
+    "title": "Which Claudia Cardinale film made her an international star?",
+    "options": ["8½", "Careless", "Once Upon a Time in the West", "The Leopard"],
+    "correctIndex": 2,
+    "explanation": "She became widely known from Once Upon a Time in the West (1968)."
+  },
+  {
+    "id": "mv-733",
+    "title": "Which Gwyneth Paltrow role won her the Academy Award for Best Actress?",
+    "options": ["Emma", "Viola de Lesseps", "Marge Sherwood", "Pepper Potts"],
+    "correctIndex": 1,
+    "explanation": "Paltrow won for Shakespeare in Love (1998)."
+  },
+  {
+    "id": "mv-734",
+    "title": "Which Charlize Theron performance earned her an Oscar?",
+    "options": ["The Italian Job", "North Country", "Monster", "Atomic Blonde"],
+    "correctIndex": 2,
+    "explanation": "Theron won Best Actress for Monster (2003)."
+  },
+  {
+    "id": "mv-735",
+    "title": "Which Debra Winger film won the Academy Award for Best Picture?",
+    "options": ["Urban Cowboy", "Terms of Endearment", "An Officer and a Gentleman", "Shadowlands"],
+    "correctIndex": 1,
+    "explanation": "Terms of Endearment (1983) won Best Picture."
+  },
+  {
+    "id": "mv-736",
+    "title": "Which Marion Cotillard role won her an Academy Award?",
+    "options": ["Mal", "Sandra", "Édith Piaf", "Fanny Chenal"],
+    "correctIndex": 2,
+    "explanation": "Cotillard won Best Actress for La Vie en Rose (2007)."
+  },
+  {
+    "id": "mv-737",
+    "title": "Which Christina Ricci film marked her screen debut?",
+    "options": ["Mermaids", "The Ice Storm", "Buffalo '66", "Sleepy Hollow"],
+    "correctIndex": 0,
+    "explanation": "Ricci debuted as a child actress in Mermaids (1990)."
+  },
+  {
+    "id": "mv-738",
+    "title": "Which Juliette Binoche film earned her an Oscar?",
+    "options": ["Chocolat", "The English Patient", "Three Colors: Blue", "Damage"],
+    "correctIndex": 1,
+    "explanation": "Binoche won Best Supporting Actress for The English Patient (1996)."
+  },
+  {
+    "id": "mv-739",
+    "title": "Which Daryl Hannah role made her a science-fiction icon?",
+    "options": ["Elle Driver", "Madison", "Pris", "Roxanne"],
+    "correctIndex": 2,
+    "explanation": "Hannah played the replicant Pris in Blade Runner (1982)."
+  },
+
+  {
+    "id": "mv-740",
+    "title": "Which Shirley Booth performance earned her an Academy Award?",
+    "options": ["Hazel", "Come Back, Little Sheba", "Duffy's Tavern", "Hot Spell"],
+    "correctIndex": 1,
+    "explanation": "Booth won Best Actress for Come Back, Little Sheba (1952)."
+  },
+  {
+    "id": "mv-741",
+    "title": "Which Reese Witherspoon role won her an Oscar?",
+    "options": ["Elle Woods", "June Carter Cash", "Cheryl Strayed", "Tracy Flick"],
+    "correctIndex": 1,
+    "explanation": "Witherspoon won Best Actress for Walk the Line (2005)."
+  },
+  {
+    "id": "mv-742",
+    "title": "Which Benicio Del Toro role earned him an Academy Award?",
+    "options": ["Dr. Gonzo", "Javier Rodriguez", "Jackie Boy", "Alejandro Gillick"],
+    "correctIndex": 1,
+    "explanation": "Del Toro won Best Supporting Actor for Traffic (2000)."
+  },
+  {
+    "id": "mv-743",
+    "title": "Which Kevin Bacon film became a defining dance movie of the 1980s?",
+    "options": ["Tremors", "Footloose", "Flatliners", "Apollo 13"],
+    "correctIndex": 1,
+    "explanation": "Footloose (1984) cemented Bacon’s stardom."
+  },
+  {
+    "id": "mv-744",
+    "title": "Which Patrick Swayze role made him a global star?",
+    "options": ["Sam Wheat", "Johnny Castle", "Bodhi", "Dalton"],
+    "correctIndex": 1,
+    "explanation": "Swayze broke out in Dirty Dancing (1987)."
+  },
+  {
+    "id": "mv-745",
+    "title": "Which Toni Collette role earned her an Oscar nomination?",
+    "options": ["Muriel Heslop", "Sheryl Hoover", "Lynn Sear", "Diana Spencer"],
+    "correctIndex": 2,
+    "explanation": "Collette was nominated for The Sixth Sense (1999)."
+  },
+  {
+    "id": "mv-746",
+    "title": "Which Robert Duvall role earned him an Academy Award for Best Actor?",
+    "options": ["Tom Hagen", "Lt. Col. Kilgore", "Mac Sledge", "Gus McCrae"],
+    "correctIndex": 2,
+    "explanation": "Duvall won Best Actor for Tender Mercies (1983)."
+  },
+  {
+    "id": "mv-747",
+    "title": "Which Burt Lancaster film won him an Academy Award?",
+    "options": ["From Here to Eternity", "Elmer Gantry", "Atlantic City", "The Killers"],
+    "correctIndex": 1,
+    "explanation": "Lancaster won Best Actor for Elmer Gantry (1960)."
+  },
+  {
+    "id": "mv-748",
+    "title": "Which Robert Mitchum film is considered a classic of film noir?",
+    "options": ["The Night of the Hunter", "Cape Fear", "Out of the Past", "Story of G.I. Joe"],
+    "correctIndex": 2,
+    "explanation": "Out of the Past (1947) is a defining noir film."
+  },
+  {
+    "id": "mv-749",
+    "title": "Which Colin Farrell performance earned him a Golden Globe nomination?",
+    "options": ["Phone Booth", "Tigerland", "In Bruges", "Minority Report"],
+    "correctIndex": 2,
+    "explanation": "Farrell was nominated for In Bruges (2008)."
+  },
+
+  {
+    "id": "mv-750",
+    "title": "Which William Holden role won him an Academy Award?",
+    "options": ["Joe Gillis", "Sefton", "Dutch Holland", "Mark McPherson"],
+    "correctIndex": 1,
+    "explanation": "Holden won Best Actor for Stalag 17 (1953)."
+  },
+  {
+    "id": "mv-751",
+    "title": "Which Edward G. Robinson film defined the gangster genre?",
+    "options": ["Key Largo", "Little Caesar", "Double Indemnity", "Scarlet Street"],
+    "correctIndex": 1,
+    "explanation": "Robinson’s role in Little Caesar (1931) set the standard."
+  },
+  {
+    "id": "mv-752",
+    "title": "Which William Powell role made him famous as a screen detective?",
+    "options": ["Philo Vance", "Nick Charles", "Leo", "Jerry Dexter"],
+    "correctIndex": 1,
+    "explanation": "Powell became iconic as Nick Charles in The Thin Man series."
+  },
+  {
+    "id": "mv-753",
+    "title": "Which Dianne Wiest role earned her second Academy Award?",
+    "options": ["Holly", "Peg Boggs", "Helen Sinclair", "Helen Buckman"],
+    "correctIndex": 2,
+    "explanation": "She won her second Oscar for Bullets Over Broadway (1994)."
+  },
+  {
+    "id": "mv-754",
+    "title": "Which Goldie Hawn comedy became a major hit in the 1990s?",
+    "options": ["Overboard", "The First Wives Club", "HouseSitter", "Bird on a Wire"],
+    "correctIndex": 1,
+    "explanation": "The First Wives Club (1996) was a major success."
+  },
+  {
+    "id": "mv-755",
+    "title": "Which Claudia Cardinale film was directed by Federico Fellini?",
+    "options": ["8½", "Once Upon a Time in the West", "The Leopard", "Fitzcarraldo"],
+    "correctIndex": 0,
+    "explanation": "Cardinale appeared in Fellini’s 8½ (1963)."
+  },
+  {
+    "id": "mv-756",
+    "title": "Which Gwyneth Paltrow role connected her to the Marvel Cinematic Universe?",
+    "options": ["Viola", "Pepper Potts", "Marge Sherwood", "Kelly Canter"],
+    "correctIndex": 1,
+    "explanation": "Paltrow played Pepper Potts in Iron Man (2008)."
+  },
+  {
+    "id": "mv-757",
+    "title": "Which Charlize Theron film marked her dramatic transformation acclaim?",
+    "options": ["Monster", "The Devil's Advocate", "North Country", "Mad Max: Fury Road"],
+    "correctIndex": 0,
+    "explanation": "Monster (2003) showcased her transformative performance."
+  },
+  {
+    "id": "mv-758",
+    "title": "Which Debra Winger role earned her an Oscar nomination?",
+    "options": ["Sissy in Urban Cowboy", "Emma in Terms of Endearment", "Paula in Shadowlands", "Alex in Legal Eagles"],
+    "correctIndex": 0,
+    "explanation": "Winger earned acclaim for Urban Cowboy (1980)."
+  },
+  {
+    "id": "mv-759",
+    "title": "Which Marion Cotillard film was directed by Christopher Nolan?",
+    "options": ["Contagion", "Inception", "Rust and Bone", "Two Days, One Night"],
+    "correctIndex": 1,
+    "explanation": "Cotillard appeared in Nolan’s Inception (2010)."
+  },
+
+  {
+    "id": "mv-760",
+    "title": "Which Christina Ricci role showcased her adult dramatic range?",
+    "options": ["Wednesday Addams", "Kat Harvey", "Buffalo '66", "Mermaids"],
+    "correctIndex": 2,
+    "explanation": "Ricci gained critical praise for Buffalo '66 (1998)."
+  },
+  {
+    "id": "mv-761",
+    "title": "Which Juliette Binoche film reunited her with an international arthouse audience?",
+    "options": ["Chocolat", "Damage", "The English Patient", "Three Colors: Blue"],
+    "correctIndex": 3,
+    "explanation": "Three Colors: Blue (1993) solidified her arthouse reputation."
+  },
+  {
+    "id": "mv-762",
+    "title": "Which Daryl Hannah role was part of Quentin Tarantino’s Kill Bill films?",
+    "options": ["Pris", "Madison", "Elle Driver", "Roxanne"],
+    "correctIndex": 2,
+    "explanation": "Hannah played Elle Driver in Kill Bill Vol. 1 & 2."
+  },
+  {
+    "id": "mv-763",
+    "title": "Which Shirley Booth TV role made her widely known to audiences?",
+    "options": ["Hazel", "Come Back, Little Sheba", "Hot Spell", "Duffy's Tavern"],
+    "correctIndex": 0,
+    "explanation": "Booth became famous on television as Hazel."
+  },
+  {
+    "id": "mv-764",
+    "title": "Which Reese Witherspoon film launched her rom-com superstardom?",
+    "options": ["Election", "Cruel Intentions", "Legally Blonde", "Sweet Home Alabama"],
+    "correctIndex": 2,
+    "explanation": "Legally Blonde (2001) made Witherspoon a star."
+  },
+  {
+    "id": "mv-765",
+    "title": "Which Benicio Del Toro role made him the youngest Bond villain?",
+    "options": ["Dario", "Jackie Boy", "Alejandro Gillick", "Dr. Gonzo"],
+    "correctIndex": 0,
+    "explanation": "Del Toro played Dario in Licence to Kill (1989)."
+  },
+  {
+    "id": "mv-766",
+    "title": "Which Kevin Bacon film featured him in a giant-monster cult classic?",
+    "options": ["Flatliners", "Footloose", "Tremors", "Diner"],
+    "correctIndex": 2,
+    "explanation": "Bacon starred in Tremors (1990)."
+  },
+  {
+    "id": "mv-767",
+    "title": "Which Patrick Swayze film was the highest-grossing movie of 1990?",
+    "options": ["Dirty Dancing", "Road House", "Point Break", "Ghost"],
+    "correctIndex": 3,
+    "explanation": "Ghost (1990) topped the box office that year."
+  },
+  {
+    "id": "mv-768",
+    "title": "Which Toni Collette film won Best Picture at the Academy Awards?",
+    "options": ["The Sixth Sense", "Little Miss Sunshine", "Muriel's Wedding", "About a Boy"],
+    "correctIndex": 1,
+    "explanation": "Little Miss Sunshine (2006) won Best Picture."
+  },
+  {
+    "id": "mv-769",
+    "title": "Which Robert Duvall role featured the famous line about napalm?",
+    "options": ["Tom Hagen", "Mac Sledge", "Lt. Col. Kilgore", "Gus McCrae"],
+    "correctIndex": 2,
+    "explanation": "Duvall delivered the iconic line in Apocalypse Now (1979)."
   }
 ]
