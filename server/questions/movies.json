@@ -5651,5 +5651,285 @@
     "options": ["Tom Hagen", "Mac Sledge", "Lt. Col. Kilgore", "Gus McCrae"],
     "correctIndex": 2,
     "explanation": "Duvall delivered the iconic line in Apocalypse Now (1979)."
+  },
+  {
+    "id": "mv-770",
+    "title": "Which Bradley Cooper film earned him his first Academy Award nomination?",
+    "options": ["Silver Linings Playbook", "American Sniper", "A Star Is Born", "Limitless"],
+    "correctIndex": 0,
+    "explanation": "Cooper received his first Oscar nomination for Silver Linings Playbook (2012)."
+  },
+  {
+    "id": "mv-771",
+    "title": "Which Gary Oldman role finally won him an Academy Award?",
+    "options": ["George Smiley", "Winston Churchill", "Jean-Baptiste Zorg", "Sirius Black"],
+    "correctIndex": 1,
+    "explanation": "Oldman won Best Actor for portraying Winston Churchill in Darkest Hour (2017)."
+  },
+  {
+    "id": "mv-772",
+    "title": "Which Jude Law film earned him an Oscar nomination for Best Supporting Actor?",
+    "options": ["Gattaca", "Enemy at the Gates", "The Talented Mr. Ripley", "Road to Perdition"],
+    "correctIndex": 2,
+    "explanation": "Law was nominated for The Talented Mr. Ripley (1999)."
+  },
+  {
+    "id": "mv-773",
+    "title": "Which Paul Giamatti film centers on a road trip through California wine country?",
+    "options": ["American Splendor", "Barney's Version", "The Illusionist", "Sideways"],
+    "correctIndex": 3,
+    "explanation": "Sideways (2004) follows a wine-country road trip."
+  },
+  {
+    "id": "mv-774",
+    "title": "Which Liam Neeson role brought him his first Academy Award nomination?",
+    "options": ["Oskar Schindler", "Qui-Gon Jinn", "Michael Collins", "Rob Roy"],
+    "correctIndex": 0,
+    "explanation": "Neeson was nominated for Best Actor for Schindler's List (1993)."
+  },
+  {
+    "id": "mv-775",
+    "title": "Which Matt Damon film won Best Original Screenplay at the Oscars?",
+    "options": ["Saving Private Ryan", "Good Will Hunting", "The Departed", "The Bourne Identity"],
+    "correctIndex": 1,
+    "explanation": "Good Will Hunting (1997) won Best Original Screenplay."
+  },
+  {
+    "id": "mv-776",
+    "title": "Which Michael Fassbender performance earned him his first Oscar nomination?",
+    "options": ["Shame", "Steve Jobs", "12 Years a Slave", "Macbeth"],
+    "correctIndex": 2,
+    "explanation": "Fassbender was nominated for Best Supporting Actor for 12 Years a Slave (2013)."
+  },
+  {
+    "id": "mv-777",
+    "title": "Which Carol Burnett TV series ran for over a decade on CBS?",
+    "options": ["Carol & Company", "The Garry Moore Show", "Julie and Carol at Carnegie Hall", "The Carol Burnett Show"],
+    "correctIndex": 3,
+    "explanation": "The Carol Burnett Show aired from 1967 to 1978."
+  },
+  {
+    "id": "mv-778",
+    "title": "Which Jessica Tandy film earned her an Academy Award for Best Actress?",
+    "options": ["Driving Miss Daisy", "Fried Green Tomatoes", "The Birds", "Cocoon"],
+    "correctIndex": 0,
+    "explanation": "Tandy won Best Actress for Driving Miss Daisy (1989)."
+  },
+  {
+    "id": "mv-779",
+    "title": "Which Helen Hunt role earned her an Academy Award?",
+    "options": ["Twister", "As Good as It Gets", "What Women Want", "Cast Away"],
+    "correctIndex": 1,
+    "explanation": "Hunt won Best Actress for As Good as It Gets (1997)."
+  },
+  {
+    "id": "mv-780",
+    "title": "Which Patricia Arquette film was directed by David Lynch?",
+    "options": ["True Romance", "Beyond Rangoon", "Lost Highway", "Flirting with Disaster"],
+    "correctIndex": 2,
+    "explanation": "Arquette starred in Lynch’s Lost Highway (1997)."
+  },
+  {
+    "id": "mv-781",
+    "title": "Which Carmen Miranda film marked her Hollywood debut?",
+    "options": ["That Night in Rio", "Greenwich Village", "Springtime in the Rockies", "Down Argentine Way"],
+    "correctIndex": 3,
+    "explanation": "Miranda made her Hollywood debut in Down Argentine Way (1940)."
+  },
+  {
+    "id": "mv-782",
+    "title": "Which Kate Hudson role earned her an Academy Award nomination?",
+    "options": ["Penny Lane", "Andie Anderson", "Liv Lerner", "Sabrina"],
+    "correctIndex": 0,
+    "explanation": "Hudson was nominated for Almost Famous (2000)."
+  },
+  {
+    "id": "mv-783",
+    "title": "Which Catherine Zeta-Jones role won her an Academy Award?",
+    "options": ["Elena Montero", "Velma Kelly", "Virginia Baker", "Linda Litzke"],
+    "correctIndex": 1,
+    "explanation": "Zeta-Jones won Best Supporting Actress for Chicago (2002)."
+  },
+  {
+    "id": "mv-784",
+    "title": "Which Cameron Diaz film established her as a major comedy star?",
+    "options": ["The Mask", "My Best Friend's Wedding", "There's Something About Mary", "Charlie's Angels"],
+    "correctIndex": 2,
+    "explanation": "There's Something About Mary (1998) cemented her comedy stardom."
+  },
+  {
+    "id": "mv-785",
+    "title": "Which Debbie Reynolds musical made her a Hollywood icon?",
+    "options": ["The Unsinkable Molly Brown", "Annie Get Your Gun", "Tammy and the Bachelor", "Singin' in the Rain"],
+    "correctIndex": 3,
+    "explanation": "Singin' in the Rain (1952) is Reynolds’ most iconic film."
+  },
+  {
+    "id": "mv-786",
+    "title": "Which Ellen Burstyn film won her the Academy Award for Best Actress?",
+    "options": ["Alice Doesn't Live Here Anymore", "The Exorcist", "Resurrection", "Requiem for a Dream"],
+    "correctIndex": 0,
+    "explanation": "Burstyn won for Alice Doesn't Live Here Anymore (1974)."
+  },
+  {
+    "id": "mv-787",
+    "title": "Which Maureen O'Hara film starred her opposite John Wayne?",
+    "options": ["Miracle on 34th Street", "The Quiet Man", "The Parent Trap", "How Green Was My Valley"],
+    "correctIndex": 1,
+    "explanation": "O'Hara starred with John Wayne in The Quiet Man (1952)."
+  },
+  {
+    "id": "mv-788",
+    "title": "Which Myrna Loy role made her famous as half of a detective couple?",
+    "options": ["Chris Edwards", "Julie Smith", "Nora Charles", "Kay Miniver"],
+    "correctIndex": 2,
+    "explanation": "Loy played Nora Charles in The Thin Man series."
+  },
+  {
+    "id": "mv-789",
+    "title": "Which Lena Headey role made her a global television star?",
+    "options": ["Queen Gorgo", "Sarah Connor", "Lady Ash", "Cersei Lannister"],
+    "correctIndex": 3,
+    "explanation": "Headey gained worldwide fame as Cersei Lannister on Game of Thrones."
+  },
+  {
+    "id": "mv-790",
+    "title": "Which Laura Linney performance earned her an Academy Award nomination?",
+    "options": ["You Can Count on Me", "Kinsey", "Mystic River", "The Truman Show"],
+    "correctIndex": 0,
+    "explanation": "Linney earned her first Oscar nomination for You Can Count on Me (2000)."
+  },
+  {
+    "id": "mv-791",
+    "title": "Which Marlene Dietrich film marked her Hollywood breakthrough?",
+    "options": ["The Blue Angel", "Morocco", "Destry Rides Again", "Witness for the Prosecution"],
+    "correctIndex": 1,
+    "explanation": "Morocco (1930) launched Dietrich’s Hollywood career."
+  },
+  {
+    "id": "mv-792",
+    "title": "Which Carole Lombard film is considered a classic screwball comedy?",
+    "options": ["Nothing Sacred", "Twentieth Century", "My Man Godfrey", "To Be or Not to Be"],
+    "correctIndex": 2,
+    "explanation": "My Man Godfrey (1936) is a screwball comedy classic."
+  },
+  {
+    "id": "mv-793",
+    "title": "Which actor starred in the title role of The Talented Mr. Ripley?",
+    "options": ["Jude Law", "Philip Seymour Hoffman", "Johnny Depp", "Matt Damon"],
+    "correctIndex": 3,
+    "explanation": "Matt Damon played Tom Ripley in The Talented Mr. Ripley (1999)."
+  },
+  {
+    "id": "mv-794",
+    "title": "Which Bradley Cooper film marked his directorial debut?",
+    "options": ["A Star Is Born", "Burnt", "American Hustle", "Joy"],
+    "correctIndex": 0,
+    "explanation": "Cooper made his directorial debut with A Star Is Born (2018)."
+  },
+  {
+    "id": "mv-795",
+    "title": "Which Gary Oldman role is part of the Harry Potter franchise?",
+    "options": ["Dracula", "Sirius Black", "Stansfield", "Zorg"],
+    "correctIndex": 1,
+    "explanation": "Oldman portrayed Sirius Black in the Harry Potter films."
+  },
+  {
+    "id": "mv-796",
+    "title": "Which Liam Neeson film launched his action-hero phase?",
+    "options": ["Unknown", "The Grey", "Taken", "Clash of the Titans"],
+    "correctIndex": 2,
+    "explanation": "Taken (2008) launched Neeson’s late-career action stardom."
+  },
+  {
+    "id": "mv-797",
+    "title": "Which Matt Damon role is part of a long-running spy franchise?",
+    "options": ["Will Hunting", "Linus Caldwell", "Tom Ripley", "Jason Bourne"],
+    "correctIndex": 3,
+    "explanation": "Damon starred as Jason Bourne in the Bourne franchise."
+  },
+  {
+    "id": "mv-798",
+    "title": "Which Michael Fassbender role placed him in the Marvel universe?",
+    "options": ["Magneto", "Macbeth", "Edwin Epps", "Steve Jobs"],
+    "correctIndex": 0,
+    "explanation": "Fassbender played Magneto in the X-Men films."
+  },
+  {
+    "id": "mv-799",
+    "title": "Which Carol Burnett film featured her as Miss Hannigan?",
+    "options": ["Noises Off", "Annie", "The Four Seasons", "Pete 'n' Tillie"],
+    "correctIndex": 1,
+    "explanation": "Burnett played Miss Hannigan in Annie (1982)."
+  },
+  {
+    "id": "mv-800",
+    "title": "Which Jessica Tandy film also won Best Picture at the Academy Awards?",
+    "options": ["Cocoon", "The Birds", "Driving Miss Daisy", "Fried Green Tomatoes"],
+    "correctIndex": 2,
+    "explanation": "Driving Miss Daisy (1989) won Best Picture."
+  },
+  {
+    "id": "mv-801",
+    "title": "Which Helen Hunt film paired her with Bill Paxton in a disaster story?",
+    "options": ["Cast Away", "As Good as It Gets", "Pay It Forward", "Twister"],
+    "correctIndex": 3,
+    "explanation": "Hunt starred with Bill Paxton in Twister (1996)."
+  },
+  {
+    "id": "mv-802",
+    "title": "Which Patricia Arquette film is part of the Nightmare on Elm Street franchise?",
+    "options": ["A Nightmare on Elm Street 3: Dream Warriors", "True Romance", "Lost Highway", "Beyond Rangoon"],
+    "correctIndex": 0,
+    "explanation": "Arquette starred in Dream Warriors (1987)."
+  },
+  {
+    "id": "mv-803",
+    "title": "Which Kate Hudson film was directed by Cameron Crowe?",
+    "options": ["Bride Wars", "Almost Famous", "How to Lose a Guy in 10 Days", "Nine"],
+    "correctIndex": 1,
+    "explanation": "Almost Famous (2000) was directed by Cameron Crowe."
+  },
+  {
+    "id": "mv-804",
+    "title": "Which Debbie Reynolds performance earned her an Oscar nomination?",
+    "options": ["Singin' in the Rain", "Tammy and the Bachelor", "The Unsinkable Molly Brown", "Divorce American Style"],
+    "correctIndex": 2,
+    "explanation": "Reynolds was nominated for The Unsinkable Molly Brown (1964)."
+  },
+  {
+    "id": "mv-805",
+    "title": "Which Ellen Burstyn film became a cultural phenomenon for its horror themes?",
+    "options": ["Resurrection", "Same Time, Next Year", "Alice Doesn't Live Here Anymore", "The Exorcist"],
+    "correctIndex": 3,
+    "explanation": "Burstyn starred in the horror classic The Exorcist (1973)."
+  },
+  {
+    "id": "mv-806",
+    "title": "Which Maureen O'Hara film is set in a small Irish village?",
+    "options": ["The Quiet Man", "Miracle on 34th Street", "The Parent Trap", "How Green Was My Valley"],
+    "correctIndex": 0,
+    "explanation": "The Quiet Man (1952) is set in rural Ireland."
+  },
+  {
+    "id": "mv-807",
+    "title": "Which Myrna Loy film won Best Picture at the Academy Awards?",
+    "options": ["The Thin Man", "The Best Years of Our Lives", "Cheaper by the Dozen", "Mr. Blandings Builds His Dream House"],
+    "correctIndex": 1,
+    "explanation": "The Best Years of Our Lives (1946) won Best Picture."
+  },
+  {
+    "id": "mv-808",
+    "title": "Which Lena Headey film depicts the Battle of Thermopylae?",
+    "options": ["The Cave", "The Brothers Grimm", "300", "The Contractor"],
+    "correctIndex": 2,
+    "explanation": "Headey starred in the historical epic 300 (2006)."
+  },
+  {
+    "id": "mv-809",
+    "title": "Which Laura Linney role is set in a reality-TV satire?",
+    "options": ["Kinsey", "You Can Count on Me", "Mystic River", "The Truman Show"],
+    "correctIndex": 3,
+    "explanation": "Linney played Truman’s wife in The Truman Show (1998)."
   }
 ]
