@@ -5931,5 +5931,285 @@
     "options": ["Kinsey", "You Can Count on Me", "Mystic River", "The Truman Show"],
     "correctIndex": 3,
     "explanation": "Linney played Truman’s wife in The Truman Show (1998)."
+  },
+  {
+    "id": "mv-810",
+    "title": "Which Emma Watson film marked her feature-film debut?",
+    "options": ["Harry Potter and the Sorcerer's Stone", "My Week with Marilyn", "The Bling Ring", "Noah"],
+    "correctIndex": 0,
+    "explanation": "Watson made her film debut in Harry Potter and the Sorcerer's Stone (2001)."
+  },
+  {
+    "id": "mv-811",
+    "title": "Which Alan Arkin performance earned him his first Academy Award nomination?",
+    "options": ["Catch-22", "The Russians Are Coming the Russians Are Coming", "Wait Until Dark", "Little Miss Sunshine"],
+    "correctIndex": 1,
+    "explanation": "Arkin earned his first Oscar nomination for The Russians Are Coming the Russians Are Coming (1966)."
+  },
+  {
+    "id": "mv-812",
+    "title": "Which Kurt Russell role was created in collaboration with director John Carpenter?",
+    "options": ["Wyatt Earp", "Colonel Jack O'Neil", "Snake Plissken", "Herb Brooks"],
+    "correctIndex": 2,
+    "explanation": "Russell played Snake Plissken in Escape from New York (1981), directed by John Carpenter."
+  },
+  {
+    "id": "mv-813",
+    "title": "Which Jake Gyllenhaal film earned him an Oscar nomination?",
+    "options": ["Nightcrawler", "Jarhead", "Zodiac", "Brokeback Mountain"],
+    "correctIndex": 3,
+    "explanation": "Gyllenhaal received an Academy Award nomination for Brokeback Mountain (2005)."
+  },
+  {
+    "id": "mv-814",
+    "title": "Which Ryan Gosling film earned him an Academy Award nomination for Best Actor?",
+    "options": ["Half Nelson", "Drive", "The Notebook", "Blue Valentine"],
+    "correctIndex": 0,
+    "explanation": "Gosling was nominated for Best Actor for Half Nelson (2006)."
+  },
+  {
+    "id": "mv-815",
+    "title": "Which Colin Firth role won him the Academy Award for Best Actor?",
+    "options": ["A Single Man", "The King's Speech", "Pride and Prejudice", "Bridget Jones's Diary"],
+    "correctIndex": 1,
+    "explanation": "Firth won the Oscar for portraying King George VI in The King's Speech (2010)."
+  },
+  {
+    "id": "mv-816",
+    "title": "Which Jamie Foxx film earned him an Academy Award for Best Actor?",
+    "options": ["Collateral", "Django Unchained", "Ray", "Annie"],
+    "correctIndex": 2,
+    "explanation": "Foxx won Best Actor for his performance in Ray (2004)."
+  },
+  {
+    "id": "mv-817",
+    "title": "Which Adrien Brody performance won him an Academy Award?",
+    "options": ["The Thin Red Line", "King Kong", "The Village", "The Pianist"],
+    "correctIndex": 3,
+    "explanation": "Brody won Best Actor for The Pianist (2002)."
+  },
+  {
+    "id": "mv-818",
+    "title": "Which Roberto Benigni film won the Academy Award for Best Actor?",
+    "options": ["Life Is Beautiful", "Down by Law", "Pinocchio", "The Tiger and the Snow"],
+    "correctIndex": 0,
+    "explanation": "Benigni won Best Actor for Life Is Beautiful (1997)."
+  },
+  {
+    "id": "mv-819",
+    "title": "Which Jeremy Irons role earned him an Academy Award?",
+    "options": ["Dead Ringers", "Reversal of Fortune", "Brideshead Revisited", "Lolita"],
+    "correctIndex": 1,
+    "explanation": "Irons won the Oscar for Reversal of Fortune (1990)."
+  },
+  {
+    "id": "mv-820",
+    "title": "Which F. Murray Abraham film features him as composer Antonio Salieri?",
+    "options": ["Scarface", "The Name of the Rose", "Amadeus", "Serpico"],
+    "correctIndex": 2,
+    "explanation": "Abraham portrayed Salieri in Amadeus (1984)."
+  },
+  {
+    "id": "mv-821",
+    "title": "Which Richard Dreyfuss film earned him the Academy Award for Best Actor?",
+    "options": ["Jaws", "Close Encounters of the Third Kind", "American Graffiti", "The Goodbye Girl"],
+    "correctIndex": 3,
+    "explanation": "Dreyfuss won Best Actor for The Goodbye Girl (1977)."
+  },
+  {
+    "id": "mv-822",
+    "title": "Which Peter Finch film earned him a posthumous Academy Award?",
+    "options": ["Network", "Sunday Bloody Sunday", "The Trials of Oscar Wilde", "Far from the Madding Crowd"],
+    "correctIndex": 0,
+    "explanation": "Finch won Best Actor posthumously for Network (1976)."
+  },
+  {
+    "id": "mv-823",
+    "title": "Which Art Carney performance earned him an Academy Award?",
+    "options": ["The Late Show", "Harry and Tonto", "House Calls", "Firestarter"],
+    "correctIndex": 1,
+    "explanation": "Carney won Best Actor for Harry and Tonto (1974)."
+  },
+  {
+    "id": "mv-824",
+    "title": "Which Cliff Robertson role won him an Academy Award?",
+    "options": ["PT 109", "The Best Man", "Charly", "Spider-Man"],
+    "correctIndex": 2,
+    "explanation": "Robertson won Best Actor for Charly (1968)."
+  },
+  {
+    "id": "mv-825",
+    "title": "Which Lee Marvin film earned him an Academy Award for Best Actor?",
+    "options": ["The Dirty Dozen", "Point Blank", "The Professionals", "Cat Ballou"],
+    "correctIndex": 3,
+    "explanation": "Marvin won Best Actor for Cat Ballou (1965)."
+  },
+  {
+    "id": "mv-826",
+    "title": "Which Rex Harrison role earned him an Academy Award?",
+    "options": ["My Fair Lady", "Cleopatra", "Doctor Dolittle", "Anna and the King of Siam"],
+    "correctIndex": 0,
+    "explanation": "Harrison won Best Actor for My Fair Lady (1964)."
+  },
+  {
+    "id": "mv-827",
+    "title": "Which Anthony Quinn role earned him an Academy Award nomination for Best Actor?",
+    "options": ["Viva Zapata!", "Zorba the Greek", "Lawrence of Arabia", "La Strada"],
+    "correctIndex": 1,
+    "explanation": "Quinn received a Best Actor nomination for Zorba the Greek (1964)."
+  },
+  {
+    "id": "mv-828",
+    "title": "Which Maximilian Schell performance earned him an Academy Award?",
+    "options": ["The Young Lions", "Julia", "Judgment at Nuremberg", "Stalin"],
+    "correctIndex": 2,
+    "explanation": "Schell won Best Actor for Judgment at Nuremberg (1961)."
+  },
+  {
+    "id": "mv-829",
+    "title": "Which Tom Hardy film earned him an Academy Award nomination?",
+    "options": ["Inception", "Bronson", "Warrior", "The Revenant"],
+    "correctIndex": 3,
+    "explanation": "Hardy received an Oscar nomination for The Revenant (2015)."
+  },
+  {
+    "id": "mv-830",
+    "title": "Which Emma Watson film is a coming-of-age drama directed by Stephen Chbosky?",
+    "options": ["The Perks of Being a Wallflower", "Regression", "The Circle", "Noah"],
+    "correctIndex": 0,
+    "explanation": "The Perks of Being a Wallflower (2012) was directed by Stephen Chbosky."
+  },
+  {
+    "id": "mv-831",
+    "title": "Which Alan Arkin film earned him an Academy Award win?",
+    "options": ["Argo", "Little Miss Sunshine", "Catch-22", "Jakob the Liar"],
+    "correctIndex": 1,
+    "explanation": "Arkin won Best Supporting Actor for Little Miss Sunshine (2006)."
+  },
+  {
+    "id": "mv-832",
+    "title": "Which Kurt Russell film features him as Antarctic pilot R.J. MacReady?",
+    "options": ["Escape from New York", "Big Trouble in Little China", "The Thing", "Tombstone"],
+    "correctIndex": 2,
+    "explanation": "Russell starred as R.J. MacReady in The Thing (1982)."
+  },
+  {
+    "id": "mv-833",
+    "title": "Which Jake Gyllenhaal film is a psychological thriller about crime journalism?",
+    "options": ["Prisoners", "End of Watch", "Source Code", "Nightcrawler"],
+    "correctIndex": 3,
+    "explanation": "Nightcrawler (2014) centers on crime journalism and obsession."
+  },
+  {
+    "id": "mv-834",
+    "title": "Which Ryan Gosling film won the Academy Award for Best Director?",
+    "options": ["La La Land", "Drive", "Blue Valentine", "The Place Beyond the Pines"],
+    "correctIndex": 0,
+    "explanation": "La La Land (2016) won Best Director for Damien Chazelle."
+  },
+  {
+    "id": "mv-835",
+    "title": "Which Colin Firth television role made him internationally famous?",
+    "options": ["A Single Man", "Pride and Prejudice", "Tumbledown", "The English Patient"],
+    "correctIndex": 1,
+    "explanation": "Firth became widely known as Mr. Darcy in Pride and Prejudice (1995)."
+  },
+  {
+    "id": "mv-836",
+    "title": "Which Jamie Foxx film was directed by Quentin Tarantino?",
+    "options": ["Ray", "Collateral", "Django Unchained", "Miami Vice"],
+    "correctIndex": 2,
+    "explanation": "Django Unchained (2012) was written and directed by Quentin Tarantino."
+  },
+  {
+    "id": "mv-837",
+    "title": "Which Adrien Brody film was directed by Roman Polanski?",
+    "options": ["The Village", "King Kong", "Predators", "The Pianist"],
+    "correctIndex": 3,
+    "explanation": "The Pianist (2002) was directed by Roman Polanski."
+  },
+  {
+    "id": "mv-838",
+    "title": "Which Roberto Benigni film is a tragicomedy set during World War II?",
+    "options": ["Life Is Beautiful", "Pinocchio", "The Tiger and the Snow", "Down by Law"],
+    "correctIndex": 0,
+    "explanation": "Life Is Beautiful (1997) blends comedy and tragedy during WWII."
+  },
+  {
+    "id": "mv-839",
+    "title": "Which Jeremy Irons film was directed by David Cronenberg?",
+    "options": ["Reversal of Fortune", "Dead Ringers", "Damage", "Lolita"],
+    "correctIndex": 1,
+    "explanation": "Irons starred in Cronenberg's Dead Ringers (1988)."
+  },
+  {
+    "id": "mv-840",
+    "title": "Which F. Murray Abraham role earned him an Academy Award?",
+    "options": ["Bernardo Gui", "Omar Suárez", "Antonio Salieri", "Scarface policeman"],
+    "correctIndex": 2,
+    "explanation": "Abraham won Best Actor for portraying Salieri in Amadeus (1984)."
+  },
+  {
+    "id": "mv-841",
+    "title": "Which Richard Dreyfuss film was directed by Steven Spielberg?",
+    "options": ["The Goodbye Girl", "American Graffiti", "Stand by Me", "Jaws"],
+    "correctIndex": 3,
+    "explanation": "Dreyfuss starred in Spielberg's Jaws (1975)."
+  },
+  {
+    "id": "mv-842",
+    "title": "Which Peter Finch role is known as the 'mad prophet of the airwaves'?",
+    "options": ["Network", "Sunday Bloody Sunday", "The Nun's Story", "The Trials of Oscar Wilde"],
+    "correctIndex": 0,
+    "explanation": "Finch's iconic role in Network (1976) earned him lasting acclaim."
+  },
+  {
+    "id": "mv-843",
+    "title": "Which Art Carney television role made him a household name?",
+    "options": ["Harry Coombes", "Ed Norton", "Frank Slater", "Trader Saun Dann"],
+    "correctIndex": 1,
+    "explanation": "Carney was famous as Ed Norton on The Honeymooners."
+  },
+  {
+    "id": "mv-844",
+    "title": "Which Cliff Robertson role depicted a man with an intellectual disability?",
+    "options": ["PT 109", "The Best Man", "Charly", "J W Coop"],
+    "correctIndex": 2,
+    "explanation": "Robertson portrayed the title character in Charly (1968)."
+  },
+  {
+    "id": "mv-845",
+    "title": "Which Lee Marvin film features him in a World War II ensemble cast?",
+    "options": ["Point Blank", "Cat Ballou", "Emperor of the North", "The Dirty Dozen"],
+    "correctIndex": 3,
+    "explanation": "Marvin starred in the WWII film The Dirty Dozen (1967)."
+  },
+  {
+    "id": "mv-846",
+    "title": "Which Rex Harrison role originated on Broadway before becoming a film?",
+    "options": ["My Fair Lady", "Cleopatra", "Doctor Dolittle", "The Ghost and Mrs. Muir"],
+    "correctIndex": 0,
+    "explanation": "Harrison originated Professor Higgins in My Fair Lady on Broadway."
+  },
+  {
+    "id": "mv-847",
+    "title": "Which Anthony Quinn film earned him his second Academy Award?",
+    "options": ["Viva Zapata!", "Lust for Life", "La Strada", "Zorba the Greek"],
+    "correctIndex": 1,
+    "explanation": "Quinn won his second Oscar for Lust for Life (1956)."
+  },
+  {
+    "id": "mv-848",
+    "title": "Which Maximilian Schell film was a documentary about Marlene Dietrich?",
+    "options": ["Judgment at Nuremberg", "The Pedestrian", "Marlene", "Julia"],
+    "correctIndex": 2,
+    "explanation": "Schell directed the acclaimed documentary Marlene (1984)."
+  },
+  {
+    "id": "mv-849",
+    "title": "Which Tom Hardy role made him internationally famous as a comic-book villain?",
+    "options": ["Eames", "Bronson", "Mad Max", "Bane"],
+    "correctIndex": 3,
+    "explanation": "Hardy played Bane in The Dark Knight Rises (2012)."
   }
 ]
