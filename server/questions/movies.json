@@ -6211,5 +6211,285 @@
     "options": ["Eames", "Bronson", "Mad Max", "Bane"],
     "correctIndex": 3,
     "explanation": "Hardy played Bane in The Dark Knight Rises (2012)."
+  },
+  {
+    "id": "mv-850",
+    "title": "Which David Niven film earned him an Academy Award for Best Actor?",
+    "options": ["Separate Tables", "The Guns of Navarone", "Around the World in 80 Days", "The Pink Panther"],
+    "correctIndex": 0,
+    "explanation": "David Niven won Best Actor for Separate Tables (1958)."
+  },
+  {
+    "id": "mv-851",
+    "title": "Which William Hurt film earned him an Academy Award nomination for Best Supporting Actor?",
+    "options": ["Body Heat", "A History of Violence", "Broadcast News", "The Big Chill"],
+    "correctIndex": 1,
+    "explanation": "Hurt was nominated for his role in A History of Violence (2005)."
+  },
+  {
+    "id": "mv-852",
+    "title": "Which Yul Brynner role earned him an Academy Award?",
+    "options": ["The Magnificent Seven", "Anastasia", "The King and I", "Westworld"],
+    "correctIndex": 2,
+    "explanation": "Brynner won Best Actor for The King and I (1956)."
+  },
+  {
+    "id": "mv-853",
+    "title": "Which Ernest Borgnine film earned him an Academy Award for Best Actor?",
+    "options": ["From Here to Eternity", "Ice Station Zebra", "The Dirty Dozen", "Marty"],
+    "correctIndex": 3,
+    "explanation": "Borgnine won Best Actor for Marty (1955)."
+  },
+  {
+    "id": "mv-854",
+    "title": "Which Benedict Cumberbatch role brought him major international recognition on television?",
+    "options": ["Sherlock Holmes", "Alan Turing", "Stephen Hawking", "Julian Assange"],
+    "correctIndex": 0,
+    "explanation": "Cumberbatch became a household name playing Sherlock Holmes in Sherlock (2010)."
+  },
+  {
+    "id": "mv-855",
+    "title": "Which Rod Steiger role earned him an Academy Award?",
+    "options": ["The Pawnbroker", "In the Heat of the Night", "On the Waterfront", "Doctor Zhivago"],
+    "correctIndex": 1,
+    "explanation": "Steiger won Best Actor for In the Heat of the Night (1967)."
+  },
+  {
+    "id": "mv-856",
+    "title": "Which Chloë Grace Moretz film launched her into mainstream attention?",
+    "options": ["Let Me In", "Hugo", "Kick-Ass", "Carrie"],
+    "correctIndex": 2,
+    "explanation": "Moretz gained widespread attention for Kick-Ass (2010)."
+  },
+  {
+    "id": "mv-857",
+    "title": "Which Anna Kendrick film earned her an Academy Award nomination?",
+    "options": ["Pitch Perfect", "Camp", "Into the Woods", "Up in the Air"],
+    "correctIndex": 3,
+    "explanation": "Kendrick was nominated for Up in the Air (2009)."
+  },
+  {
+    "id": "mv-858",
+    "title": "Which Emily Watson role earned her an Academy Award nomination?",
+    "options": ["Breaking the Waves", "Angela's Ashes", "Gosford Park", "Red Dragon"],
+    "correctIndex": 0,
+    "explanation": "Watson received an Oscar nomination for Breaking the Waves (1996)."
+  },
+  {
+    "id": "mv-859",
+    "title": "Which Helena Bonham Carter film earned her a Best Actress Academy Award nomination?",
+    "options": ["Fight Club", "The Wings of the Dove", "Big Fish", "Sweeney Todd"],
+    "correctIndex": 1,
+    "explanation": "She was nominated for The Wings of the Dove (1997)."
+  },
+  {
+    "id": "mv-860",
+    "title": "Which Keira Knightley film earned her an Academy Award nomination for Best Actress?",
+    "options": ["Atonement", "Bend It Like Beckham", "Pride & Prejudice", "The Duchess"],
+    "correctIndex": 2,
+    "explanation": "Knightley received an Oscar nomination for Pride & Prejudice (2005)."
+  },
+  {
+    "id": "mv-861",
+    "title": "Which Alexis Thorpe film is a philosophical science-fiction drama?",
+    "options": ["The Forsaken", "Pretty Cool", "The Man from Earth", "The Young and the Restless"],
+    "correctIndex": 3,
+    "explanation": "Thorpe appeared in the sci-fi drama The Man from Earth (2007)."
+  },
+  {
+    "id": "mv-862",
+    "title": "Which Marion Davies film is considered one of her best comedies of the sound era?",
+    "options": ["The Patsy", "When Knighthood Was in Flower", "The Florodora Girl", "Ever Since Eve"],
+    "correctIndex": 0,
+    "explanation": "The Patsy (1928) is regarded as one of Davies’ finest comedic performances."
+  },
+  {
+    "id": "mv-863",
+    "title": "Which Scarlett Johansson film earned her a Golden Globe nomination for drama?",
+    "options": ["Lost in Translation", "Girl with a Pearl Earring", "Lucy", "Ghost World"],
+    "correctIndex": 1,
+    "explanation": "Johansson was nominated for Girl with a Pearl Earring (2003)."
+  },
+  {
+    "id": "mv-864",
+    "title": "Which Dakota Fanning film starred her opposite Tom Cruise?",
+    "options": ["I Am Sam", "Man on Fire", "War of the Worlds", "Hide and Seek"],
+    "correctIndex": 2,
+    "explanation": "Fanning played Tom Cruise’s daughter in War of the Worlds (2005)."
+  },
+  {
+    "id": "mv-865",
+    "title": "Which Jennifer Aniston role made her a global television star?",
+    "options": ["Molloy", "Herman's Head", "The Edge", "Rachel Green"],
+    "correctIndex": 3,
+    "explanation": "Aniston became famous as Rachel Green on Friends (1994–2004)."
+  },
+  {
+    "id": "mv-866",
+    "title": "Which Jennifer Connelly role earned her an Academy Award?",
+    "options": ["A Beautiful Mind", "Requiem for a Dream", "Dark City", "Labyrinth"],
+    "correctIndex": 0,
+    "explanation": "Connelly won Best Supporting Actress for A Beautiful Mind (2001)."
+  },
+  {
+    "id": "mv-867",
+    "title": "Which Rachel McAdams film marked her breakout role?",
+    "options": ["The Notebook", "Mean Girls", "Wedding Crashers", "Red Eye"],
+    "correctIndex": 1,
+    "explanation": "McAdams broke out as Regina George in Mean Girls (2004)."
+  },
+  {
+    "id": "mv-868",
+    "title": "Which Carey Mulligan film earned her an Academy Award nomination?",
+    "options": ["An Education", "Pride & Prejudice", "Never Let Me Go", "Drive"],
+    "correctIndex": 2,
+    "explanation": "Mulligan was nominated for An Education (2009)."
+  },
+  {
+    "id": "mv-869",
+    "title": "Which Mila Kunis film earned her critical acclaim and award nominations?",
+    "options": ["Ted", "Friends with Benefits", "The Book of Eli", "Black Swan"],
+    "correctIndex": 3,
+    "explanation": "Kunis received acclaim for her role in Black Swan (2010)."
+  },
+  {
+    "id": "mv-870",
+    "title": "Which Amanda Seyfried musical film became a global box office hit?",
+    "options": ["Mamma Mia!", "Red Riding Hood", "Les Misérables", "Mean Girls"],
+    "correctIndex": 0,
+    "explanation": "Mamma Mia! (2008) was a worldwide box office success."
+  },
+  {
+    "id": "mv-871",
+    "title": "Which David Niven role is based on a Jules Verne character?",
+    "options": ["James Bond", "Phileas Fogg", "Sir Charles Lytton", "Colonel Nicholson"],
+    "correctIndex": 1,
+    "explanation": "Niven played Phileas Fogg in Around the World in 80 Days (1956)."
+  },
+  {
+    "id": "mv-872",
+    "title": "Which William Hurt film earned him an Academy Award for Best Actor?",
+    "options": ["Broadcast News", "Children of a Lesser God", "Kiss of the Spider Woman", "Altered States"],
+    "correctIndex": 2,
+    "explanation": "Hurt won Best Actor for Kiss of the Spider Woman (1985)."
+  },
+  {
+    "id": "mv-873",
+    "title": "Which Yul Brynner role is a Western gunfighter character?",
+    "options": ["The King of Siam", "Rameses II", "Dmitri", "Chris Adams"],
+    "correctIndex": 3,
+    "explanation": "Brynner played gunfighter Chris Adams in The Magnificent Seven (1960)."
+  },
+  {
+    "id": "mv-874",
+    "title": "Which Ernest Borgnine television series featured him as a naval officer?",
+    "options": ["McHale's Navy", "Airwolf", "The Single Guy", "All Dogs Go to Heaven"],
+    "correctIndex": 0,
+    "explanation": "Borgnine starred in McHale’s Navy (1962–1966)."
+  },
+  {
+    "id": "mv-875",
+    "title": "Which Benedict Cumberbatch role earned him an Academy Award nomination?",
+    "options": ["Julian Assange", "Alan Turing", "Sherlock Holmes", "Doctor Strange"],
+    "correctIndex": 1,
+    "explanation": "Cumberbatch was nominated for playing Alan Turing in The Imitation Game (2014)."
+  },
+  {
+    "id": "mv-876",
+    "title": "Which Rod Steiger role is set in the American South?",
+    "options": ["Al Capone", "The Pawnbroker", "In the Heat of the Night", "The Longest Day"],
+    "correctIndex": 2,
+    "explanation": "In the Heat of the Night (1967) is set in the American South."
+  },
+  {
+    "id": "mv-877",
+    "title": "Which Chloë Grace Moretz film is a remake of a Swedish vampire story?",
+    "options": ["Carrie", "Hugo", "Kick-Ass 2", "Let Me In"],
+    "correctIndex": 3,
+    "explanation": "Let Me In (2010) is an English-language remake of Let the Right One In."
+  },
+  {
+    "id": "mv-878",
+    "title": "Which Anna Kendrick role earned her a Tony Award nomination?",
+    "options": ["High Society", "A Little Night Music", "Camp", "Pitch Perfect"],
+    "correctIndex": 0,
+    "explanation": "Kendrick earned a Tony nomination for High Society."
+  },
+  {
+    "id": "mv-879",
+    "title": "Which Emily Watson film is set in Depression-era Ireland?",
+    "options": ["Breaking the Waves", "Angela's Ashes", "Hilary and Jackie", "The Boxer"],
+    "correctIndex": 1,
+    "explanation": "Angela’s Ashes (1999) is set in Depression-era Ireland."
+  },
+  {
+    "id": "mv-880",
+    "title": "Which Helena Bonham Carter film was directed by Tim Burton?",
+    "options": ["Fight Club", "The Wings of the Dove", "Corpse Bride", "Novocaine"],
+    "correctIndex": 2,
+    "explanation": "Bonham Carter collaborated with Tim Burton on Corpse Bride (2005)."
+  },
+  {
+    "id": "mv-881",
+    "title": "Which Keira Knightley film is a romantic drama set during World War II?",
+    "options": ["The Duchess", "Silk", "Never Let Me Go", "Atonement"],
+    "correctIndex": 3,
+    "explanation": "Atonement (2007) is set partly during World War II."
+  },
+  {
+    "id": "mv-882",
+    "title": "Which Marion Davies film was backed by William Randolph Hearst?",
+    "options": ["When Knighthood Was in Flower", "The Patsy", "Not So Dumb", "Ever Since Eve"],
+    "correctIndex": 0,
+    "explanation": "Hearst heavily backed When Knighthood Was in Flower (1922)."
+  },
+  {
+    "id": "mv-883",
+    "title": "Which Scarlett Johansson role earned her the Best Actress award at Venice?",
+    "options": ["Girl with a Pearl Earring", "Lost in Translation", "Lucy", "Match Point"],
+    "correctIndex": 1,
+    "explanation": "Johansson won Best Actress at Venice for Lost in Translation (2003)."
+  },
+  {
+    "id": "mv-884",
+    "title": "Which Dakota Fanning film featured her as a child prodigy opposite Sean Penn?",
+    "options": ["Man on Fire", "Trapped", "I Am Sam", "Uptown Girls"],
+    "correctIndex": 2,
+    "explanation": "Fanning starred opposite Sean Penn in I Am Sam (2001)."
+  },
+  {
+    "id": "mv-885",
+    "title": "Which Jennifer Aniston role was her breakthrough in film after Friends?",
+    "options": ["The Good Girl", "Along Came Polly", "Office Space", "Bruce Almighty"],
+    "correctIndex": 3,
+    "explanation": "Aniston gained critical attention for The Good Girl (2002)."
+  },
+  {
+    "id": "mv-886",
+    "title": "Which Jennifer Connelly film was directed by Darren Aronofsky?",
+    "options": ["Requiem for a Dream", "Dark City", "Blood Diamond", "Labyrinth"],
+    "correctIndex": 0,
+    "explanation": "Aronofsky directed Requiem for a Dream (2000)."
+  },
+  {
+    "id": "mv-887",
+    "title": "Which Rachel McAdams film is a romantic drama adapted from a Nicholas Sparks novel?",
+    "options": ["The Time Traveler's Wife", "The Notebook", "The Vow", "Morning Glory"],
+    "correctIndex": 1,
+    "explanation": "The Notebook (2004) is adapted from a Nicholas Sparks novel."
+  },
+  {
+    "id": "mv-888",
+    "title": "Which Carey Mulligan role appeared alongside Keira Knightley?",
+    "options": ["An Education", "Drive", "Never Let Me Go", "Pride & Prejudice"],
+    "correctIndex": 2,
+    "explanation": "Mulligan appeared in Pride & Prejudice (2005) with Keira Knightley."
+  },
+  {
+    "id": "mv-889",
+    "title": "Which Mila Kunis role marked her breakthrough in romantic comedy?",
+    "options": ["Ted", "Black Swan", "Oz the Great and Powerful", "Forgetting Sarah Marshall"],
+    "correctIndex": 3,
+    "explanation": "Kunis broke out in romantic comedy with Forgetting Sarah Marshall (2008)."
   }
 ]
