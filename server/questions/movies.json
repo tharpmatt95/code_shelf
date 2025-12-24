@@ -6491,5 +6491,285 @@
     "options": ["Ted", "Black Swan", "Oz the Great and Powerful", "Forgetting Sarah Marshall"],
     "correctIndex": 3,
     "explanation": "Kunis broke out in romantic comedy with Forgetting Sarah Marshall (2008)."
+  },
+  {
+    "id": "mv-890",
+    "title": "Which film features Kirsten Dunst as Peter Parker’s love interest?",
+    "options": ["Jumanji", "Bring It On", "Spider-Man", "Melancholia"],
+    "correctIndex": 2,
+    "explanation": "Kirsten Dunst played Mary Jane Watson in Spider-Man (2002)."
+  },
+  {
+    "id": "mv-891",
+    "title": "Which performance earned Kirsten Dunst the Best Actress award at the Cannes Film Festival?",
+    "options": ["Marie Antoinette", "Melancholia", "Eternal Sunshine of the Spotless Mind", "Wimbledon"],
+    "correctIndex": 1,
+    "explanation": "She won Best Actress at Cannes for Melancholia (2011)."
+  },
+  {
+    "id": "mv-892",
+    "title": "Which role earned José Ferrer an Academy Award for Best Actor?",
+    "options": ["Cyrano de Bergerac", "Henri de Toulouse-Lautrec", "Charles VII", "Herod Antipas"],
+    "correctIndex": 0,
+    "explanation": "José Ferrer won Best Actor for Cyrano de Bergerac (1950)."
+  },
+  {
+    "id": "mv-893",
+    "title": "Which epic film marked José Ferrer’s movie debut?",
+    "options": ["Whirlpool", "Joan of Arc", "The Caine Mutiny", "Lawrence of Arabia"],
+    "correctIndex": 1,
+    "explanation": "His film debut was Joan of Arc (1948)."
+  },
+  {
+    "id": "mv-894",
+    "title": "Which film won Broderick Crawford an Academy Award for Best Actor?",
+    "options": ["Born Yesterday", "Highway Patrol", "All the King's Men", "Larceny, Inc."],
+    "correctIndex": 2,
+    "explanation": "Crawford won Best Actor for All the King's Men (1949)."
+  },
+  {
+    "id": "mv-895",
+    "title": "Which television series revived Broderick Crawford’s career in the 1950s?",
+    "options": ["Studio One", "Highway Patrol", "Playhouse 90", "Dragnet"],
+    "correctIndex": 1,
+    "explanation": "He starred as Chief Dan Mathews in Highway Patrol."
+  },
+  {
+    "id": "mv-896",
+    "title": "Which Ronald Colman film earned him an Academy Award for Best Actor?",
+    "options": ["Lost Horizon", "The Prisoner of Zenda", "A Double Life", "Random Harvest"],
+    "correctIndex": 2,
+    "explanation": "Colman won Best Actor for A Double Life (1947)."
+  },
+  {
+    "id": "mv-897",
+    "title": "Which adventure film helped establish Ronald Colman as a swashbuckling star?",
+    "options": ["Lost Horizon", "The Prisoner of Zenda", "Beau Geste", "Goodbye, Mr. Chips"],
+    "correctIndex": 1,
+    "explanation": "The Prisoner of Zenda (1937) showcased Colman as a swashbuckler."
+  },
+  {
+    "id": "mv-898",
+    "title": "Which Fredric March film earned him his first Academy Award?",
+    "options": ["The Best Years of Our Lives", "Death of a Salesman", "Dr. Jekyll and Mr. Hyde", "The Royal Family of Broadway"],
+    "correctIndex": 2,
+    "explanation": "March won Best Actor for Dr. Jekyll and Mr. Hyde (1931)."
+  },
+  {
+    "id": "mv-899",
+    "title": "Which Fredric March role earned him his second Academy Award?",
+    "options": ["Willy Loman", "The Best Years of Our Lives", "Inherit the Wind", "A Star Is Born"],
+    "correctIndex": 1,
+    "explanation": "He won his second Oscar for The Best Years of Our Lives (1946)."
+  },
+  {
+    "id": "mv-900",
+    "title": "Which Ray Milland performance won him the Academy Award for Best Actor?",
+    "options": ["Dial M for Murder", "The Big Clock", "The Lost Weekend", "Alias Nick Beal"],
+    "correctIndex": 2,
+    "explanation": "Milland won Best Actor for The Lost Weekend (1945)."
+  },
+  {
+    "id": "mv-901",
+    "title": "Which Alfred Hitchcock film featured Ray Milland as a calculating husband?",
+    "options": ["Rebecca", "Dial M for Murder", "Notorious", "Spellbound"],
+    "correctIndex": 1,
+    "explanation": "Ray Milland starred in Dial M for Murder (1954)."
+  },
+  {
+    "id": "mv-902",
+    "title": "Which Bing Crosby film won him an Academy Award for Best Actor?",
+    "options": ["White Christmas", "The Country Girl", "High Society", "Going My Way"],
+    "correctIndex": 3,
+    "explanation": "Crosby won Best Actor for Going My Way (1944)."
+  },
+  {
+    "id": "mv-903",
+    "title": "Which film showcased Bing Crosby in a dramatic role opposite Grace Kelly?",
+    "options": ["High Society", "White Christmas", "The Country Girl", "Road to Bali"],
+    "correctIndex": 2,
+    "explanation": "Crosby played an alcoholic actor in The Country Girl (1954)."
+  },
+  {
+    "id": "mv-904",
+    "title": "Which Paul Lukas film earned him an Academy Award for Best Actor?",
+    "options": ["Watch on the Rhine", "20,000 Leagues Under the Sea", "Confessions of a Nazi Spy", "The Lady Vanishes"],
+    "correctIndex": 0,
+    "explanation": "Paul Lukas won Best Actor for Watch on the Rhine (1943)."
+  },
+  {
+    "id": "mv-905",
+    "title": "Which Robert Donat film earned him an Academy Award for Best Actor?",
+    "options": ["The 39 Steps", "Goodbye, Mr. Chips", "The Count of Monte Cristo", "The Citadel"],
+    "correctIndex": 1,
+    "explanation": "Donat won Best Actor for Goodbye, Mr. Chips (1939)."
+  },
+  {
+    "id": "mv-906",
+    "title": "Which Alfred Hitchcock film helped make Robert Donat an international star?",
+    "options": ["Rebecca", "Secret Agent", "The 39 Steps", "Sabotage"],
+    "correctIndex": 2,
+    "explanation": "Donat starred in Hitchcock’s The 39 Steps (1935)."
+  },
+  {
+    "id": "mv-907",
+    "title": "Which Paul Muni film is considered one of his most famous roles?",
+    "options": ["Scarface", "The Last Angry Man", "I Am a Fugitive from a Chain Gang", "Juarez"],
+    "correctIndex": 0,
+    "explanation": "Paul Muni starred in Scarface (1932)."
+  },
+  {
+    "id": "mv-908",
+    "title": "Which Victor McLaglen role won him an Academy Award for Best Actor?",
+    "options": ["The Quiet Man", "She Wore a Yellow Ribbon", "The Informer", "Beau Geste"],
+    "correctIndex": 2,
+    "explanation": "McLaglen won Best Actor for The Informer (1935)."
+  },
+  {
+    "id": "mv-909",
+    "title": "Which John Ford film earned Victor McLaglen an Oscar nomination for Best Supporting Actor?",
+    "options": ["The Informer", "She Wore a Yellow Ribbon", "Stagecoach", "The Quiet Man"],
+    "correctIndex": 3,
+    "explanation": "McLaglen received a Supporting Actor nomination for The Quiet Man (1952)."
+  },
+  {
+    "id": "mv-910",
+    "title": "Which Charles Laughton film features his Oscar-winning performance?",
+    "options": ["Mutiny on the Bounty", "The Private Life of Henry VIII", "Witness for the Prosecution", "Spartacus"],
+    "correctIndex": 1,
+    "explanation": "Laughton won Best Actor for The Private Life of Henry VIII (1933)."
+  },
+  {
+    "id": "mv-911",
+    "title": "Which Wallace Beery film earned him the Academy Award for Best Actor?",
+    "options": ["The Big House", "Min and Bill", "The Champ", "Grand Hotel"],
+    "correctIndex": 2,
+    "explanation": "Beery won Best Actor for The Champ (1931)."
+  },
+  {
+    "id": "mv-912",
+    "title": "Which Lionel Barrymore role is one of his most iconic villain performances?",
+    "options": ["Mr. Potter in It's a Wonderful Life", "Grandpa Vanderhof", "Dr. Gillespie", "Rasputin"],
+    "correctIndex": 0,
+    "explanation": "Barrymore played Mr. Potter in It's a Wonderful Life (1946)."
+  },
+  {
+    "id": "mv-913",
+    "title": "Which Jeff Goldblum film marked his breakthrough as a leading man in a horror remake?",
+    "options": ["Jurassic Park", "Invasion of the Body Snatchers", "The Fly", "Independence Day"],
+    "correctIndex": 2,
+    "explanation": "Goldblum starred in The Fly (1986)."
+  },
+  {
+    "id": "mv-914",
+    "title": "Which blockbuster franchise made Jeff Goldblum a 1990s box-office star?",
+    "options": ["Star Wars", "Jurassic Park", "Mission: Impossible", "Die Hard"],
+    "correctIndex": 1,
+    "explanation": "Goldblum starred in Jurassic Park (1993) and its sequel."
+  },
+  {
+    "id": "mv-915",
+    "title": "Which role propelled Chris Hemsworth to worldwide fame?",
+    "options": ["Star Trek", "Snow White and the Huntsman", "Thor", "Rush"],
+    "correctIndex": 2,
+    "explanation": "Hemsworth rose to fame playing Thor (2011)."
+  },
+  {
+    "id": "mv-916",
+    "title": "Which television series gave Chris Hemsworth early recognition in Australia?",
+    "options": ["Neighbours", "Home and Away", "Offspring", "Sea Patrol"],
+    "correctIndex": 1,
+    "explanation": "Hemsworth played Kim Hyde on Home and Away."
+  },
+  {
+    "id": "mv-917",
+    "title": "Which Warner Baxter role won him an Academy Award for Best Actor?",
+    "options": ["The Prisoner of Shark Island", "Penthouse", "In Old Arizona", "Crime Doctor"],
+    "correctIndex": 2,
+    "explanation": "Baxter won Best Actor for In Old Arizona (1928)."
+  },
+  {
+    "id": "mv-918",
+    "title": "Which Emil Jannings performance earned him the first Academy Award for Best Actor?",
+    "options": ["The Blue Angel", "Faust", "The Last Command", "Quo Vadis?"],
+    "correctIndex": 2,
+    "explanation": "Jannings won the first Best Actor Oscar for The Last Command (1928)."
+  },
+  {
+    "id": "mv-919",
+    "title": "Which film marked Marlene Dietrich’s breakthrough alongside Emil Jannings?",
+    "options": ["Faust", "The Blue Angel", "Variety", "Passion"],
+    "correctIndex": 1,
+    "explanation": "Dietrich broke out in The Blue Angel (1930)."
+  },
+  {
+    "id": "mv-920",
+    "title": "Which role earned Chris Cooper an Academy Award for Best Supporting Actor?",
+    "options": ["Lone Star", "Adaptation.", "A Time to Kill", "Matewan"],
+    "correctIndex": 1,
+    "explanation": "Chris Cooper won an Oscar for Adaptation. (2002)."
+  },
+  {
+    "id": "mv-921",
+    "title": "Which Jim Broadbent role earned him an Academy Award?",
+    "options": ["Harold Zidler", "W.S. Gilbert", "John Bayley", "Colin Jones"],
+    "correctIndex": 2,
+    "explanation": "Broadbent won Best Supporting Actor for Iris (2001)."
+  },
+  {
+    "id": "mv-922",
+    "title": "Which film showcased Jim Broadbent as a flamboyant nightclub owner?",
+    "options": ["Iris", "Bridget Jones’s Diary", "Little Voice", "Moulin Rouge!"],
+    "correctIndex": 3,
+    "explanation": "He played Harold Zidler in Moulin Rouge! (2001)."
+  },
+  {
+    "id": "mv-923",
+    "title": "Which James Coburn film earned him an Academy Award for Best Supporting Actor?",
+    "options": ["The Great Escape", "Affliction", "Our Man Flint", "Cross of Iron"],
+    "correctIndex": 1,
+    "explanation": "Coburn won Best Supporting Actor for Affliction (1997)."
+  },
+  {
+    "id": "mv-924",
+    "title": "Which Cuba Gooding Jr. role won him an Academy Award?",
+    "options": ["Radio", "Boyz n the Hood", "Jerry Maguire", "A Few Good Men"],
+    "correctIndex": 2,
+    "explanation": "Gooding won Best Supporting Actor for Jerry Maguire (1996)."
+  },
+  {
+    "id": "mv-925",
+    "title": "Which Martin Landau performance earned him an Academy Award?",
+    "options": ["Crimes and Misdemeanors", "Tucker: The Man and His Dream", "Ed Wood", "Cleopatra"],
+    "correctIndex": 2,
+    "explanation": "Landau won Best Supporting Actor for Ed Wood (1994)."
+  },
+  {
+    "id": "mv-926",
+    "title": "Which Jack Palance role finally earned him an Academy Award?",
+    "options": ["Shane", "Sudden Fear", "Young Guns", "City Slickers"],
+    "correctIndex": 3,
+    "explanation": "Palance won Best Supporting Actor for City Slickers (1991)."
+  },
+  {
+    "id": "mv-927",
+    "title": "Which Kevin Kline role won him an Academy Award for Best Supporting Actor?",
+    "options": ["Silverado", "A Fish Called Wanda", "Sophie's Choice", "Soapdish"],
+    "correctIndex": 1,
+    "explanation": "Kline won Best Supporting Actor for A Fish Called Wanda (1988)."
+  },
+  {
+    "id": "mv-928",
+    "title": "Which Don Ameche film earned him an Academy Award late in his career?",
+    "options": ["Trading Places", "Cocoon", "Henry & June", "Places in the Heart"],
+    "correctIndex": 1,
+    "explanation": "Ameche won Best Supporting Actor for Cocoon (1985)."
+  },
+  {
+    "id": "mv-929",
+    "title": "Which Kate Beckinsale film marked her breakthrough in a Shakespeare adaptation?",
+    "options": ["Emma", "Cold Comfort Farm", "Much Ado About Nothing", "Haunted"],
+    "correctIndex": 2,
+    "explanation": "She gained major attention in Much Ado About Nothing (1993)."
   }
 ]
