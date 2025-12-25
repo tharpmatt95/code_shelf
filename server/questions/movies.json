@@ -6771,5 +6771,285 @@
     "options": ["Emma", "Cold Comfort Farm", "Much Ado About Nothing", "Haunted"],
     "correctIndex": 2,
     "explanation": "She gained major attention in Much Ado About Nothing (1993)."
+  },
+  {
+    "id": "mv-930",
+    "title": "Which Disney Channel series made Selena Gomez a household name?",
+    "options": ["Hannah Montana", "Wizards of Waverly Place", "That's So Raven", "Lizzie McGuire"],
+    "correctIndex": 1,
+    "explanation": "Selena Gomez rose to fame starring as Alex Russo on Wizards of Waverly Place."
+  },
+  {
+    "id": "mv-931",
+    "title": "For which film did Rachel Weisz win the Academy Award?",
+    "options": ["The Mummy", "About a Boy", "The Constant Gardener", "Enemy at the Gates"],
+    "correctIndex": 2,
+    "explanation": "Rachel Weisz won Best Supporting Actress for The Constant Gardener (2005)."
+  },
+  {
+    "id": "mv-932",
+    "title": "Which animated film features Kristen Bell as Princess Anna?",
+    "options": ["Tangled", "Brave", "Frozen", "Moana"],
+    "correctIndex": 2,
+    "explanation": "Kristen Bell voiced Princess Anna in Frozen (2013)."
+  },
+  {
+    "id": "mv-933",
+    "title": "Which TV series launched Katherine Heigl into stardom as Isabel Evans?",
+    "options": ["Buffy the Vampire Slayer", "Roswell", "Charmed", "Smallville"],
+    "correctIndex": 1,
+    "explanation": "Katherine Heigl starred as Isabel Evans on Roswell (1999)."
+  },
+  {
+    "id": "mv-934",
+    "title": "Which film helped make Liv Tyler an international star?",
+    "options": ["Empire Records", "That Thing You Do!", "Stealing Beauty", "Armageddon"],
+    "correctIndex": 2,
+    "explanation": "Liv Tyler rose to stardom with Bernardo Bertolucci’s Stealing Beauty (1996)."
+  },
+  {
+    "id": "mv-935",
+    "title": "Jessica Chastain earned an Oscar nomination for which 2011 film?",
+    "options": ["Zero Dark Thirty", "The Tree of Life", "The Help", "Take Shelter"],
+    "correctIndex": 2,
+    "explanation": "She was nominated for Best Supporting Actress for The Help (2011)."
+  },
+  {
+    "id": "mv-936",
+    "title": "Which blockbuster franchise made Megan Fox widely famous?",
+    "options": ["Transformers", "Teenage Mutant Ninja Turtles", "Jennifer's Body", "Passion Play"],
+    "correctIndex": 0,
+    "explanation": "Megan Fox gained fame starring in Transformers (2007)."
+  },
+  {
+    "id": "mv-937",
+    "title": "Which sitcom featured Betty White as Rose Nylund?",
+    "options": ["The Mary Tyler Moore Show", "Golden Girls", "Hot in Cleveland", "Life with Elizabeth"],
+    "correctIndex": 1,
+    "explanation": "Betty White portrayed Rose Nylund on The Golden Girls."
+  },
+  {
+    "id": "mv-938",
+    "title": "Geraldine Page finally won an Academy Award for which film?",
+    "options": ["Interiors", "Pete 'n' Tillie", "Sweet Bird of Youth", "The Trip to Bountiful"],
+    "correctIndex": 3,
+    "explanation": "She won Best Actress for The Trip to Bountiful (1985)."
+  },
+  {
+    "id": "mv-939",
+    "title": "Which teen comedy helped introduce Eliza Dushku to movie audiences?",
+    "options": ["Bring It On", "True Lies", "That Night", "Jay and Silent Bob Strike Back"],
+    "correctIndex": 0,
+    "explanation": "Eliza Dushku gained wider recognition with Bring It On (2000)."
+  },
+  {
+    "id": "mv-940",
+    "title": "Which fairy-tale film featured Robin Wright as the title character?",
+    "options": ["Legend", "Willow", "The Princess Bride", "Labyrinth"],
+    "correctIndex": 2,
+    "explanation": "Robin Wright starred as Buttercup in The Princess Bride (1987)."
+  },
+  {
+    "id": "mv-941",
+    "title": "Which TV series made Leighton Meester famous as Blair Waldorf?",
+    "options": ["The O.C.", "90210", "Gossip Girl", "Pretty Little Liars"],
+    "correctIndex": 2,
+    "explanation": "Leighton Meester became famous on Gossip Girl (2007)."
+  },
+  {
+    "id": "mv-942",
+    "title": "Jennifer Jones won her Academy Award for which role?",
+    "options": ["Duel in the Sun", "Love Letters", "The Song of Bernadette", "Portrait of Jennie"],
+    "correctIndex": 2,
+    "explanation": "Jennifer Jones won Best Actress for The Song of Bernadette (1943)."
+  },
+  {
+    "id": "mv-943",
+    "title": "Which actress was the most famous child star of the 1930s?",
+    "options": ["Elizabeth Taylor", "Judy Garland", "Debbie Reynolds", "Shirley Temple"],
+    "correctIndex": 3,
+    "explanation": "Shirley Temple was the most popular child star of her era."
+  },
+  {
+    "id": "mv-944",
+    "title": "Which sitcom cemented Julia Louis-Dreyfus as a comedy icon?",
+    "options": ["Veep", "Saturday Night Live", "Seinfeld", "The New Adventures of Old Christine"],
+    "correctIndex": 2,
+    "explanation": "Julia Louis-Dreyfus starred as Elaine Benes on Seinfeld."
+  },
+  {
+    "id": "mv-945",
+    "title": "Olivia Thirlby appeared opposite Ellen Page in which breakout film?",
+    "options": ["Nick and Norah's Infinite Playlist", "Juno", "The Wackness", "United 93"],
+    "correctIndex": 1,
+    "explanation": "Olivia Thirlby appeared in Juno (2007)."
+  },
+  {
+    "id": "mv-946",
+    "title": "For which romantic comedy did Cher win the Academy Award?",
+    "options": ["Silkwood", "Moonstruck", "Mask", "The Witches of Eastwick"],
+    "correctIndex": 1,
+    "explanation": "Cher won Best Actress for Moonstruck (1987)."
+  },
+  {
+    "id": "mv-947",
+    "title": "Which film earned Sissy Spacek her Best Actress Oscar?",
+    "options": ["Carrie", "In the Bedroom", "Coal Miner's Daughter", "Badlands"],
+    "correctIndex": 2,
+    "explanation": "Sissy Spacek won for Coal Miner's Daughter (1980)."
+  },
+  {
+    "id": "mv-948",
+    "title": "Louise Fletcher is best remembered for playing which iconic villain?",
+    "options": ["Annie Wilkes", "Nurse Ratched", "Mrs. Danvers", "Kai Winn"],
+    "correctIndex": 1,
+    "explanation": "Louise Fletcher won an Oscar for playing Nurse Ratched."
+  },
+  {
+    "id": "mv-949",
+    "title": "Which epic romance starred Julie Christie as Lara?",
+    "options": ["Doctor Zhivago", "Darling", "Far from the Madding Crowd", "Petulia"],
+    "correctIndex": 0,
+    "explanation": "Julie Christie starred as Lara in Doctor Zhivago (1965)."
+  },
+  {
+    "id": "mv-950",
+    "title": "Patricia Neal won her Academy Award for which film?",
+    "options": ["A Face in the Crowd", "Hud", "The Day the Earth Stood Still", "Breakfast at Tiffany's"],
+    "correctIndex": 1,
+    "explanation": "Patricia Neal won Best Actress for Hud (1963)."
+  },
+  {
+    "id": "mv-951",
+    "title": "Haing S. Ngor won an Academy Award for portraying which real-life figure?",
+    "options": ["Pol Pot", "Dith Pran", "Jon Swain", "Sinn Sisamouth"],
+    "correctIndex": 1,
+    "explanation": "He won for portraying journalist Dith Pran in The Killing Fields."
+  },
+  {
+    "id": "mv-952",
+    "title": "Louis Gossett Jr. won his Oscar for which role?",
+    "options": ["Fiddler in Roots", "Anwar Sadat", "Emil Foley", "Hoke Colburn"],
+    "correctIndex": 2,
+    "explanation": "He won Best Supporting Actor for An Officer and a Gentleman (1982)."
+  },
+  {
+    "id": "mv-953",
+    "title": "John Gielgud won his Academy Award for which film?",
+    "options": ["Julius Caesar", "Richard III", "The Elephant Man", "Arthur"],
+    "correctIndex": 3,
+    "explanation": "John Gielgud won Best Supporting Actor for Arthur (1981)."
+  },
+  {
+    "id": "mv-954",
+    "title": "Timothy Hutton became the youngest Oscar winner for which film?",
+    "options": ["Taps", "Ordinary People", "The Falcon and the Snowman", "Beautiful Girls"],
+    "correctIndex": 1,
+    "explanation": "Hutton won Best Supporting Actor for Ordinary People (1980)."
+  },
+  {
+    "id": "mv-955",
+    "title": "Which film earned Melvyn Douglas his second Academy Award?",
+    "options": ["Hud", "Being There", "Ninotchka", "The Candidate"],
+    "correctIndex": 1,
+    "explanation": "Melvyn Douglas won his second Oscar for Being There (1979)."
+  },
+  {
+    "id": "mv-956",
+    "title": "Jason Robards won back-to-back Oscars for which two films?",
+    "options": ["Julia and Nixon", "All the President's Men and Julia", "Reds and Julia", "Long Day's Journey Into Night and Julia"],
+    "correctIndex": 1,
+    "explanation": "He won consecutively for All the President's Men (1976) and Julia (1977)."
+  },
+  {
+    "id": "mv-957",
+    "title": "George Burns won his Academy Award late in life for which film?",
+    "options": ["Oh, God!", "Going in Style", "18 Again!", "The Sunshine Boys"],
+    "correctIndex": 3,
+    "explanation": "George Burns won Best Supporting Actor for The Sunshine Boys (1975)."
+  },
+  {
+    "id": "mv-958",
+    "title": "Christian Bale won his first Academy Award for which role?",
+    "options": ["Batman", "Patrick Bateman", "Dicky Eklund", "John Connor"],
+    "correctIndex": 2,
+    "explanation": "Bale won Best Supporting Actor for The Fighter (2010)."
+  },
+  {
+    "id": "mv-959",
+    "title": "Which Steven Spielberg film launched Christian Bale's career as a child actor?",
+    "options": ["Empire of the Sun", "Hook", "Saving Private Ryan", "War Horse"],
+    "correctIndex": 0,
+    "explanation": "Bale starred in Empire of the Sun (1987)."
+  },
+  {
+    "id": "mv-960",
+    "title": "Ethan Hawke starred opposite Denzel Washington in which Oscar-winning film?",
+    "options": ["Before Sunrise", "Reality Bites", "Training Day", "Gattaca"],
+    "correctIndex": 2,
+    "explanation": "Ethan Hawke co-starred in Training Day (2001)."
+  },
+  {
+    "id": "mv-961",
+    "title": "Which Selena Gomez album debuted at number one on the Billboard 200?",
+    "options": ["Stars Dance", "Rare", "Revival", "When the Sun Goes Down"],
+    "correctIndex": 2,
+    "explanation": "Revival (2015) debuted at #1."
+  },
+  {
+    "id": "mv-962",
+    "title": "Rachel Weisz married which actor in 2011?",
+    "options": ["Hugh Jackman", "Daniel Craig", "Clive Owen", "Ralph Fiennes"],
+    "correctIndex": 1,
+    "explanation": "Rachel Weisz married Daniel Craig in 2011."
+  },
+  {
+    "id": "mv-963",
+    "title": "Which horror-comedy became a cult classic starring Megan Fox?",
+    "options": ["Jennifer's Body", "Valentine", "The Unborn", "Passion Play"],
+    "correctIndex": 0,
+    "explanation": "Jennifer's Body (2009) later gained cult status."
+  },
+  {
+    "id": "mv-964",
+    "title": "Betty White was inducted into which hall of fame?",
+    "options": ["Film Hall of Fame", "Comedy Hall of Fame", "Television Hall of Fame", "Radio Hall of Fame"],
+    "correctIndex": 2,
+    "explanation": "Betty White was inducted into the Television Hall of Fame."
+  },
+  {
+    "id": "mv-965",
+    "title": "Which Shakespeare role is most associated with John Gielgud?",
+    "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
+    "correctIndex": 2,
+    "explanation": "Gielgud was widely regarded as the greatest Hamlet of his generation."
+  },
+  {
+    "id": "mv-966",
+    "title": "Which fantasy trilogy featured Liv Tyler as Arwen?",
+    "options": ["The Hobbit", "The Lord of the Rings", "Harry Potter", "Chronicles of Narnia"],
+    "correctIndex": 1,
+    "explanation": "Liv Tyler portrayed Arwen in The Lord of the Rings trilogy."
+  },
+  {
+    "id": "mv-967",
+    "title": "Which profession did Haing S. Ngor have before becoming an actor?",
+    "options": ["Journalist", "Teacher", "Physician", "Soldier"],
+    "correctIndex": 2,
+    "explanation": "Ngor was a physician before the Khmer Rouge era."
+  },
+  {
+    "id": "mv-968",
+    "title": "Which actress voiced Madame Medusa in The Rescuers?",
+    "options": ["Bette Davis", "Geraldine Page", "Anne Bancroft", "Jessica Tandy"],
+    "correctIndex": 1,
+    "explanation": "Geraldine Page voiced Madame Medusa."
+  },
+  {
+    "id": "mv-969",
+    "title": "Which late-career film cemented Sissy Spacek's comeback acclaim?",
+    "options": ["The Straight Story", "Carrie", "In the Bedroom", "Badlands"],
+    "correctIndex": 2,
+    "explanation": "Her role in In the Bedroom (2001) earned major awards attention."
   }
 ]
