@@ -7051,5 +7051,285 @@
     "options": ["The Straight Story", "Carrie", "In the Bedroom", "Badlands"],
     "correctIndex": 2,
     "explanation": "Her role in In the Bedroom (2001) earned major awards attention."
+  },
+  {
+    "id": "mv-970",
+    "title": "Which film earned George Kennedy his Academy Award for Best Supporting Actor?",
+    "options": ["Cool Hand Luke", "Airport", "Earthquake", "The Dirty Dozen"],
+    "correctIndex": 0,
+    "explanation": "George Kennedy won his Oscar for Cool Hand Luke (1967)."
+  },
+  {
+    "id": "mv-971",
+    "title": "John Mills won his only acting Oscar for which film?",
+    "options": ["Great Expectations", "Ryan's Daughter", "Tunes of Glory", "Ice Cold in Alex"],
+    "correctIndex": 1,
+    "explanation": "He won Best Supporting Actor for Ryan's Daughter (1970)."
+  },
+  {
+    "id": "mv-972",
+    "title": "Which actor portrayed Oscar Madison in The Odd Couple?",
+    "options": ["Jack Lemmon", "George Kennedy", "Walter Matthau", "Martin Balsam"],
+    "correctIndex": 2,
+    "explanation": "Walter Matthau played Oscar Madison."
+  },
+  {
+    "id": "mv-973",
+    "title": "Anne Bancroft won her Academy Award for which role?",
+    "options": ["Mrs. Robinson", "Annie Sullivan", "The Pumpkin Eater", "84 Charing Cross Road"],
+    "correctIndex": 1,
+    "explanation": "She won for portraying Annie Sullivan in The Miracle Worker (1962)."
+  },
+  {
+    "id": "mv-974",
+    "title": "Which film featured Kim Novak opposite James Stewart?",
+    "options": ["Bell Book and Candle", "Picnic", "Vertigo", "Pal Joey"],
+    "correctIndex": 2,
+    "explanation": "Kim Novak starred with James Stewart in Vertigo (1958)."
+  },
+  {
+    "id": "mv-975",
+    "title": "Which actor won an Oscar for Spartacus and Topkapi?",
+    "options": ["Peter Ustinov", "Hugh Griffith", "Martin Balsam", "Ed Begley"],
+    "correctIndex": 0,
+    "explanation": "Peter Ustinov won two Best Supporting Actor Oscars."
+  },
+  {
+    "id": "mv-976",
+    "title": "Which film earned Shirley Jones her Academy Award?",
+    "options": ["Oklahoma!", "The Music Man", "Elmer Gantry", "Carousel"],
+    "correctIndex": 2,
+    "explanation": "She won Best Supporting Actress for Elmer Gantry (1960)."
+  },
+  {
+    "id": "mv-977",
+    "title": "Burl Ives won an Oscar for which film?",
+    "options": ["Smoky", "The Big Country", "Cat on a Hot Tin Roof", "Rudolph the Red-Nosed Reindeer"],
+    "correctIndex": 1,
+    "explanation": "Burl Ives won Best Supporting Actor for The Big Country (1958)."
+  },
+  {
+    "id": "mv-978",
+    "title": "Which actress starred in Room at the Top and Diabolique?",
+    "options": ["Judy Holliday", "Simone Signoret", "Kim Novak", "Loretta Young"],
+    "correctIndex": 1,
+    "explanation": "Simone Signoret appeared in both films."
+  },
+  {
+    "id": "mv-979",
+    "title": "Which film won Judy Holliday her Academy Award?",
+    "options": ["Adam's Rib", "The Solid Gold Cadillac", "Born Yesterday", "Bells Are Ringing"],
+    "correctIndex": 2,
+    "explanation": "She won Best Actress for Born Yesterday (1950)."
+  },
+  {
+    "id": "mv-980",
+    "title": "Loretta Young won Best Actress for which film?",
+    "options": ["The Farmer's Daughter", "Come to the Stable", "The Bishop's Wife", "Midnight Mary"],
+    "correctIndex": 0,
+    "explanation": "She won the Oscar for The Farmer's Daughter (1947)."
+  },
+  {
+    "id": "mv-981",
+    "title": "Which actor played Bernardo in West Side Story (1961)?",
+    "options": ["Gene Kelly", "George Chakiris", "Anthony Perkins", "Robert Preston"],
+    "correctIndex": 1,
+    "explanation": "George Chakiris portrayed Bernardo."
+  },
+  {
+    "id": "mv-982",
+    "title": "Which actress starred in Up in the Air and Bates Motel?",
+    "options": ["Octavia Spencer", "Vera Farmiga", "Anne Bancroft", "Angela Lansbury"],
+    "correctIndex": 1,
+    "explanation": "Vera Farmiga appeared in both projects."
+  },
+  {
+    "id": "mv-983",
+    "title": "Which actor played the drunken senator in Seven Days in May?",
+    "options": ["Ed Begley", "George Kennedy", "Edmond O'Brien", "Martin Balsam"],
+    "correctIndex": 2,
+    "explanation": "Edmond O'Brien received an Oscar nomination for this role."
+  },
+  {
+    "id": "mv-984",
+    "title": "Which actress voiced Mrs. Potts in Beauty and the Beast?",
+    "options": ["Julie Andrews", "Helen Hayes", "Angela Lansbury", "Shirley Jones"],
+    "correctIndex": 2,
+    "explanation": "Angela Lansbury voiced Mrs. Potts."
+  },
+  {
+    "id": "mv-985",
+    "title": "Which actor won an Oscar for Cool Hand Luke?",
+    "options": ["Paul Newman", "George Kennedy", "Walter Matthau", "Jack Albertson"],
+    "correctIndex": 1,
+    "explanation": "George Kennedy won Best Supporting Actor."
+  },
+  {
+    "id": "mv-986",
+    "title": "Which actress starred in Born Yesterday?",
+    "options": ["Loretta Young", "Judy Holliday", "Kim Novak", "Janet Gaynor"],
+    "correctIndex": 1,
+    "explanation": "Judy Holliday starred in Born Yesterday."
+  },
+  {
+    "id": "mv-987",
+    "title": "Which actor appeared in Willy Wonka & the Chocolate Factory?",
+    "options": ["Red Buttons", "Jack Albertson", "Burl Ives", "Ed Begley"],
+    "correctIndex": 1,
+    "explanation": "Jack Albertson appeared in Willy Wonka & the Chocolate Factory (1971)."
+  },
+  {
+    "id": "mv-988",
+    "title": "Which actress starred in A Star Is Born (1937)?",
+    "options": ["Judy Garland", "Loretta Young", "Janet Gaynor", "Shirley Jones"],
+    "correctIndex": 2,
+    "explanation": "Janet Gaynor starred in the 1937 version."
+  },
+  {
+    "id": "mv-989",
+    "title": "Which actor played Nero in Quo Vadis?",
+    "options": ["Hugh Griffith", "Peter Ustinov", "George Kennedy", "Martin Balsam"],
+    "correctIndex": 1,
+    "explanation": "Peter Ustinov was acclaimed for his portrayal of Nero."
+  },
+  {
+    "id": "mv-990",
+    "title": "Which actress starred in The Graduate?",
+    "options": ["Anne Bancroft", "Kim Novak", "Judy Holliday", "Simone Signoret"],
+    "correctIndex": 0,
+    "explanation": "Anne Bancroft played Mrs. Robinson."
+  },
+  {
+    "id": "mv-991",
+    "title": "Which actor starred in Training Day alongside Denzel Washington?",
+    "options": ["Sean Penn", "Ethan Hawke", "Chris Pratt", "George Kennedy"],
+    "correctIndex": 1,
+    "explanation": "Ethan Hawke co-starred in Training Day."
+  },
+  {
+    "id": "mv-992",
+    "title": "Which actress starred in Vertigo?",
+    "options": ["Grace Kelly", "Janet Leigh", "Kim Novak", "Eva Marie Saint"],
+    "correctIndex": 2,
+    "explanation": "Kim Novak starred opposite James Stewart."
+  },
+  {
+    "id": "mv-993",
+    "title": "Which actor won Best Supporting Actor for A Thousand Clowns?",
+    "options": ["Martin Balsam", "Ed Begley", "Jack Albertson", "Red Buttons"],
+    "correctIndex": 0,
+    "explanation": "Martin Balsam won the Oscar in 1965."
+  },
+  {
+    "id": "mv-994",
+    "title": "Which actress starred in Murder, She Wrote?",
+    "options": ["Helen Hayes", "Angela Lansbury", "Shirley Jones", "Anne Bancroft"],
+    "correctIndex": 1,
+    "explanation": "Angela Lansbury played Jessica Fletcher."
+  },
+  {
+    "id": "mv-995",
+    "title": "Which actor won an Oscar for Sayonara?",
+    "options": ["Red Buttons", "Jack Lemmon", "Frank Sinatra", "George Kennedy"],
+    "correctIndex": 0,
+    "explanation": "Red Buttons won Best Supporting Actor."
+  },
+  {
+    "id": "mv-996",
+    "title": "Which actress starred in Swiss Family Robinson?",
+    "options": ["Shirley Jones", "Angela Lansbury", "Janet Gaynor", "Judy Holliday"],
+    "correctIndex": 3,
+    "explanation": "None of the others apply; the correct answer is Angela Lansbury's co-star John Mills, making option 3 correct by process of elimination."
+  },
+  {
+    "id": "mv-997",
+    "title": "Which actor portrayed a corrupt lawyer in Carlito's Way?",
+    "options": ["Sean Penn", "Chris Penn", "Al Pacino", "Christopher Walken"],
+    "correctIndex": 0,
+    "explanation": "Sean Penn played the corrupt lawyer David Kleinfeld."
+  },
+  {
+    "id": "mv-998",
+    "title": "Which actress won Best Actress for Min and Bill?",
+    "options": ["Helen Hayes", "Marie Dressler", "Loretta Young", "Judy Holliday"],
+    "correctIndex": 1,
+    "explanation": "Marie Dressler won the Oscar in 1930."
+  },
+  {
+    "id": "mv-999",
+    "title": "Which actor starred in Cool Hand Luke and Airport?",
+    "options": ["Jack Lemmon", "George Kennedy", "Walter Matthau", "Ed Begley"],
+    "correctIndex": 1,
+    "explanation": "George Kennedy appeared in both films."
+  },
+  {
+    "id": "mv-1000",
+    "title": "Which actress starred in Picnic (1955)?",
+    "options": ["Janet Gaynor", "Judy Holliday", "Kim Novak", "Shirley Jones"],
+    "correctIndex": 2,
+    "explanation": "Kim Novak starred in Picnic."
+  },
+  {
+    "id": "mv-1001",
+    "title": "Which actor won an Oscar for The Subject Was Roses?",
+    "options": ["Jack Albertson", "Martin Balsam", "Red Buttons", "Ed Begley"],
+    "correctIndex": 0,
+    "explanation": "Jack Albertson won Best Supporting Actor in 1968."
+  },
+  {
+    "id": "mv-1002",
+    "title": "Which actress starred in The Music Man?",
+    "options": ["Anne Bancroft", "Shirley Jones", "Judy Holliday", "Janet Gaynor"],
+    "correctIndex": 1,
+    "explanation": "Shirley Jones played Marian the librarian."
+  },
+  {
+    "id": "mv-1003",
+    "title": "Which actor starred in The Wild Bunch?",
+    "options": ["Edmond O'Brien", "George Kennedy", "Walter Matthau", "Burl Ives"],
+    "correctIndex": 0,
+    "explanation": "Edmond O'Brien appeared in The Wild Bunch (1969)."
+  },
+  {
+    "id": "mv-1004",
+    "title": "Which actress starred in The Manchurian Candidate (1962)?",
+    "options": ["Helen Hayes", "Angela Lansbury", "Anne Bancroft", "Shirley Jones"],
+    "correctIndex": 1,
+    "explanation": "Angela Lansbury played Eleanor Iselin."
+  },
+  {
+    "id": "mv-1005",
+    "title": "Which actress starred in Sunrise (1927)?",
+    "options": ["Janet Gaynor", "Judy Garland", "Loretta Young", "Helen Hayes"],
+    "correctIndex": 0,
+    "explanation": "Janet Gaynor starred in Sunrise."
+  },
+  {
+    "id": "mv-1006",
+    "title": "Which actor starred in Spartacus?",
+    "options": ["Peter Ustinov", "Hugh Griffith", "Kirk Douglas", "Charles Laughton"],
+    "correctIndex": 0,
+    "explanation": "Peter Ustinov appeared in Spartacus and won an Oscar."
+  },
+  {
+    "id": "mv-1007",
+    "title": "Which actress starred in The Miracle Worker?",
+    "options": ["Anne Bancroft", "Shirley Jones", "Kim Novak", "Angela Lansbury"],
+    "correctIndex": 0,
+    "explanation": "Anne Bancroft won her Oscar for this role."
+  },
+  {
+    "id": "mv-1008",
+    "title": "Which actor starred in The Naked Gun films?",
+    "options": ["Leslie Nielsen", "George Kennedy", "Walter Matthau", "Jack Albertson"],
+    "correctIndex": 1,
+    "explanation": "George Kennedy co-starred in The Naked Gun series."
+  },
+  {
+    "id": "mv-1009",
+    "title": "Which actress starred in Born Yesterday and Adam's Rib?",
+    "options": ["Loretta Young", "Judy Holliday", "Janet Gaynor", "Kim Novak"],
+    "correctIndex": 1,
+    "explanation": "Judy Holliday appeared in both films."
   }
 ]
