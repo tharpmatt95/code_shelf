@@ -7331,5 +7331,278 @@
     "options": ["Loretta Young", "Judy Holliday", "Janet Gaynor", "Kim Novak"],
     "correctIndex": 1,
     "explanation": "Judy Holliday appeared in both films."
+  },
+  {
+    "id": "mv-1010",
+    "title": "Which actress won an Oscar for her role in The Fighter (2010)?",
+    "options": ["Melissa Leo", "Marcia Gay Harden", "Mo'Nique", "Renée Zellweger"],
+    "correctIndex": 0,
+    "explanation": "Melissa Leo won the Academy Award for Best Supporting Actress for The Fighter (2010)."
+  },
+  {
+    "id": "mv-1011",
+    "title": "Which actress won an Oscar for Precious (2009)?",
+    "options": ["Jennifer Hudson", "Mo'Nique", "Melissa Leo", "Marisa Tomei"],
+    "correctIndex": 1,
+    "explanation": "Mo'Nique won the Academy Award for Best Supporting Actress for Precious (2009)."
+  },
+  {
+    "id": "mv-1012",
+    "title": "Which actress starred in CODA (2021)?",
+    "options": ["Tilda Swinton", "Renée Zellweger", "Marlee Matlin", "Brenda Fricker"],
+    "correctIndex": 2,
+    "explanation": "Marlee Matlin starred in CODA (2021)."
+  },
+  {
+    "id": "mv-1013",
+    "title": "Which actor is best known for starring in The Matrix (1999)?",
+    "options": ["Hugh Grant", "Jean Reno", "Channing Tatum", "Keanu Reeves"],
+    "correctIndex": 3,
+    "explanation": "Keanu Reeves starred as Neo in The Matrix (1999)."
+  },
+  {
+    "id": "mv-1014",
+    "title": "Which actress starred in We Need to Talk About Kevin (2011)?",
+    "options": ["Tilda Swinton", "Marlee Matlin", "Melissa Leo", "Mo'Nique"],
+    "correctIndex": 0,
+    "explanation": "Tilda Swinton starred in We Need to Talk About Kevin (2011)."
+  },
+  {
+    "id": "mv-1015",
+    "title": "Which actress won an Oscar for Dreamgirls (2006)?",
+    "options": ["Marisa Tomei", "Jennifer Hudson", "Renée Zellweger", "Melissa Leo"],
+    "correctIndex": 1,
+    "explanation": "Jennifer Hudson won Best Supporting Actress for Dreamgirls (2006)."
+  },
+  {
+    "id": "mv-1016",
+    "title": "Which actress starred in Chicago (2002)?",
+    "options": ["Jennifer Hudson", "Marcia Gay Harden", "Marisa Tomei", "Renée Zellweger"],
+    "correctIndex": 3,
+    "explanation": "Renée Zellweger starred in Chicago (2002)."
+  },
+  {
+    "id": "mv-1017",
+    "title": "Which actor starred in Love Actually (2003)?",
+    "options": ["Hugh Grant", "George Sanders", "Dean Jagger", "Walter Huston"],
+    "correctIndex": 0,
+    "explanation": "Hugh Grant starred in Love Actually (2003)."
+  },
+  {
+    "id": "mv-1018",
+    "title": "Which actress won an Oscar for My Cousin Vinny (1992)?",
+    "options": ["Mercedes Ruehl", "Marisa Tomei", "Brenda Fricker", "Anna Paquin"],
+    "correctIndex": 1,
+    "explanation": "Marisa Tomei won Best Supporting Actress for My Cousin Vinny (1992)."
+  },
+  {
+    "id": "mv-1019",
+    "title": "Which actress starred in The Piano (1993)?",
+    "options": ["Mo'Nique", "Melissa Leo", "Anna Paquin", "Marcia Gay Harden"],
+    "correctIndex": 2,
+    "explanation": "Anna Paquin starred in The Piano (1993) and won an Oscar for her role."
+  },
+  {
+    "id": "mv-1020",
+    "title": "Which actor is known for starring in Léon: The Professional (1994)?",
+    "options": ["Donald Crisp", "George Sanders", "Dean Jagger", "Jean Reno"],
+    "correctIndex": 3,
+    "explanation": "Jean Reno starred in Léon: The Professional (1994)."
+  },
+  {
+    "id": "mv-1021",
+    "title": "Which actor won an Oscar for All About Eve (1950)?",
+    "options": ["George Sanders", "Edmund Gwenn", "Walter Brennan", "Joseph Schildkraut"],
+    "correctIndex": 0,
+    "explanation": "George Sanders won Best Supporting Actor for All About Eve (1950)."
+  },
+  {
+    "id": "mv-1022",
+    "title": "Which actor won an Oscar for Twelve O'Clock High (1949)?",
+    "options": ["Thomas Mitchell", "Dean Jagger", "Van Heflin", "Walter Huston"],
+    "correctIndex": 1,
+    "explanation": "Dean Jagger won Best Supporting Actor for Twelve O'Clock High (1949)."
+  },
+  {
+    "id": "mv-1023",
+    "title": "Which actor won an Oscar for The Treasure of the Sierra Madre (1948)?",
+    "options": ["Donald Crisp", "Barry Fitzgerald", "Walter Huston", "Charles Coburn"],
+    "correctIndex": 2,
+    "explanation": "Walter Huston won Best Supporting Actor for The Treasure of the Sierra Madre (1948)."
+  },
+  {
+    "id": "mv-1024",
+    "title": "Which actor won an Oscar for Miracle on 34th Street (1947)?",
+    "options": ["Walter Brennan", "Harold Russell", "Van Heflin", "Edmund Gwenn"],
+    "correctIndex": 3,
+    "explanation": "Edmund Gwenn won Best Supporting Actor for Miracle on 34th Street (1947)."
+  },
+  {
+    "id": "mv-1025",
+    "title": "Which actress won an Oscar for The Fisher King (1991)?",
+    "options": ["Mercedes Ruehl", "Brenda Fricker", "Marisa Tomei", "Melissa Leo"],
+    "correctIndex": 0,
+    "explanation": "Mercedes Ruehl won Best Supporting Actress for The Fisher King (1991)."
+  },
+  {
+    "id": "mv-1026",
+    "title": "Which actress won an Oscar for My Left Foot (1989)?",
+    "options": ["Marcia Gay Harden", "Brenda Fricker", "Mercedes Ruehl", "Anna Paquin"],
+    "correctIndex": 1,
+    "explanation": "Brenda Fricker won Best Supporting Actress for My Left Foot (1989)."
+  },
+  {
+    "id": "mv-1027",
+    "title": "Which actor won an Oscar for The Best Years of Our Lives (1946)?",
+    "options": ["Walter Huston", "George Sanders", "Harold Russell", "Dean Jagger"],
+    "correctIndex": 2,
+    "explanation": "Harold Russell won Best Supporting Actor for The Best Years of Our Lives (1946)."
+  },
+  {
+    "id": "mv-1028",
+    "title": "Which actor is known for starring in Stagecoach (1939)?",
+    "options": ["Donald Crisp", "Barry Fitzgerald", "Van Heflin", "Thomas Mitchell"],
+    "correctIndex": 3,
+    "explanation": "Thomas Mitchell starred in Stagecoach (1939) and won an Oscar for the role."
+  },
+  {
+    "id": "mv-1029",
+    "title": "Which actor won an Oscar for How Green Was My Valley (1941)?",
+    "options": ["Donald Crisp", "Walter Brennan", "Charles Coburn", "Joseph Schildkraut"],
+    "correctIndex": 0,
+    "explanation": "Donald Crisp won Best Supporting Actor for How Green Was My Valley (1941)."
+  },
+  {
+    "id": "mv-1030",
+    "title": "Which actor won an Oscar for Going My Way (1944)?",
+    "options": ["Edmund Gwenn", "Barry Fitzgerald", "George Sanders", "Walter Huston"],
+    "correctIndex": 1,
+    "explanation": "Barry Fitzgerald won Best Supporting Actor for Going My Way (1944)."
+  },
+  {
+    "id": "mv-1031",
+    "title": "Which actor is noted for winning three Oscars for Best Supporting Actor?",
+    "options": ["Thomas Mitchell", "Donald Crisp", "Walter Brennan", "Van Heflin"],
+    "correctIndex": 2,
+    "explanation": "Walter Brennan is the only actor to win three Best Supporting Actor Oscars."
+  },
+  {
+    "id": "mv-1032",
+    "title": "Which actor won an Oscar for The Life of Emile Zola (1937)?",
+    "options": ["George Sanders", "Dean Jagger", "Walter Huston", "Joseph Schildkraut"],
+    "correctIndex": 3,
+    "explanation": "Joseph Schildkraut won Best Supporting Actor for The Life of Emile Zola (1937)."
+  },
+  {
+    "id": "mv-1033",
+    "title": "Which actor starred in White Christmas (1954)?",
+    "options": ["Dean Jagger", "Edmund Gwenn", "Jean Reno", "Donald Crisp"],
+    "correctIndex": 0,
+    "explanation": "Dean Jagger appeared in White Christmas (1954)."
+  },
+  {
+    "id": "mv-1034",
+    "title": "Which actor is known for starring in Shane (1953)?",
+    "options": ["Thomas Mitchell", "Van Heflin", "George Sanders", "Walter Brennan"],
+    "correctIndex": 1,
+    "explanation": "Van Heflin starred in Shane (1953)."
+  },
+  {
+    "id": "mv-1035",
+    "title": "Which actor is known for starring in Black Adam (2022)?",
+    "options": ["Keanu Reeves", "Hugh Jackman", "Dwayne Johnson", "Adam Sandler"],
+    "correctIndex": 2,
+    "explanation": "Dwayne Johnson starred in Black Adam (2022)."
+  },
+  {
+    "id": "mv-1036",
+    "title": "Which actor is known for starring in The Waterboy (1998)?",
+    "options": ["Channing Tatum", "Hugh Grant", "Keanu Reeves", "Adam Sandler"],
+    "correctIndex": 3,
+    "explanation": "Adam Sandler starred in The Waterboy (1998)."
+  },
+  {
+    "id": "mv-1037",
+    "title": "Which actor is known for starring in 21 Jump Street (2012)?",
+    "options": ["Channing Tatum", "Hugh Jackman", "Jean Reno", "George Sanders"],
+    "correctIndex": 0,
+    "explanation": "Channing Tatum starred in 21 Jump Street (2012)."
+  },
+  {
+    "id": "mv-1038",
+    "title": "Which actor is best known for Les Misérables (2012)?",
+    "options": ["Adam Sandler", "Hugh Jackman", "Dwayne Johnson", "Keanu Reeves"],
+    "correctIndex": 1,
+    "explanation": "Hugh Jackman starred in Les Misérables (2012)."
+  },
+  {
+    "id": "mv-1039",
+    "title": "Which actor is known for starring in The Matrix (1999)?",
+    "options": ["Jean Reno", "Hugh Grant", "Keanu Reeves", "Thomas Mitchell"],
+    "correctIndex": 2,
+    "explanation": "Keanu Reeves starred in The Matrix (1999)."
+  },
+  {
+    "id": "mv-1040",
+    "title": "Which actor is known for starring in Léon: The Professional (1994)?",
+    "options": ["George Sanders", "Walter Huston", "Donald Crisp", "Jean Reno"],
+    "correctIndex": 3,
+    "explanation": "Jean Reno starred in Léon: The Professional (1994)."
+  },
+  {
+    "id": "mv-1041",
+    "title": "Which actress received award nominations for Frozen River (2008) as mentioned in the text?",
+    "options": ["Melissa Leo", "Mo'Nique", "Marlee Matlin", "Renée Zellweger"],
+    "correctIndex": 0,
+    "explanation": "The text notes Melissa Leo received award nominations for Frozen River (2008)."
+  },
+  {
+    "id": "mv-1042",
+    "title": "Which actress studied criminal justice and later became a spokeswoman for captioning?",
+    "options": ["Tilda Swinton", "Marlee Matlin", "Jennifer Hudson", "Marisa Tomei"],
+    "correctIndex": 1,
+    "explanation": "The text describes Marlee Matlin studying criminal justice and advocating for closed captioning."
+  },
+  {
+    "id": "mv-1043",
+    "title": "Which actor won the 1950 Academy Award for Best Supporting Actor as Addison De Witt?",
+    "options": ["Thomas Mitchell", "Donald Crisp", "George Sanders", "Barry Fitzgerald"],
+    "correctIndex": 2,
+    "explanation": "George Sanders won for playing Addison De Witt in All About Eve (1950)."
+  },
+  {
+    "id": "mv-1044",
+    "title": "Which actor won Best Supporting Actor for Stagecoach (1939)?",
+    "options": ["Van Heflin", "Walter Brennan", "Barry Fitzgerald", "Thomas Mitchell"],
+    "correctIndex": 3,
+    "explanation": "Thomas Mitchell won Best Supporting Actor for Stagecoach (1939)."
+  },
+  {
+    "id": "mv-1045",
+    "title": "Which actress played a mother in The Fighter (2010) alongside Mark Wahlberg?",
+    "options": ["Melissa Leo", "Renée Zellweger", "Marcia Gay Harden", "Mercedes Ruehl"],
+    "correctIndex": 0,
+    "explanation": "Melissa Leo played the mother of boxer Micky Ward in The Fighter (2010)."
+  },
+  {
+    "id": "mv-1046",
+    "title": "Which actress was described as having a breakthrough in Precious (2009) after stand-up and TV work?",
+    "options": ["Jennifer Hudson", "Mo'Nique", "Marisa Tomei", "Brenda Fricker"],
+    "correctIndex": 1,
+    "explanation": "The text describes Mo'Nique's breakthrough performance in Precious (2009)."
+  },
+  {
+    "id": "mv-1047",
+    "title": "Which actress is described as learning Italian and Russian for I Am Love (2009)?",
+    "options": ["Jennifer Hudson", "Marlee Matlin", "Tilda Swinton", "Renée Zellweger"],
+    "correctIndex": 2,
+    "explanation": "The text says Tilda Swinton learned Italian and Russian for I Am Love (2009)."
+  },
+  {
+    "id": "mv-1048",
+    "title": "Which actress was noted for winning Best Supporting Actress for Pollock (2000)?",
+    "options": ["Anna Paquin", "Melissa Leo", "Mo'Nique", "Marcia Gay Harden"],
+    "correctIndex": 3,
+    "explanation": "Marcia Gay Harden won the Oscar for Best Supporting Actress for Pollock (2000)."
   }
 ]
