@@ -1558,5 +1558,1843 @@
         "options": ["LeBron James", "Kyrie Irving", "Andre Iguodala", "Draymond Green"],
         "correctIndex": 0,
         "explanation": "LeBron’s chase-down block was the signature play."
-    }
+    },
+    {
+    "id": "sp-0201",
+    "title": "Which year did the Seattle Seahawks join the NFL as an expansion team?",
+    "options": ["1976", "1977", "1980", "1983"],
+    "correctIndex": 0,
+    "explanation": "The Seahawks joined the NFL as an expansion team in 1976."
+  },
+  {
+    "id": "sp-0202",
+    "title": "What is the Seahawks’ home stadium since 2002?",
+    "options": ["Kingdome", "Lumen Field", "Husky Stadium", "CenturyLink Arena"],
+    "correctIndex": 1,
+    "explanation": "The Seahawks have played their home games at Lumen Field since 2002."
+  },
+  {
+    "id": "sp-0203",
+    "title": "How many Super Bowls have the Seahawks won as of 2024?",
+    "options": ["Zero", "One", "Two", "Three"],
+    "correctIndex": 1,
+    "explanation": "The Seahawks have one Super Bowl victory in franchise history as of 2024."
+  },
+  {
+    "id": "sp-0204",
+    "title": "Which division do the Seahawks currently play in?",
+    "options": ["NFC West", "AFC East", "AFC West", "NFC North"],
+    "correctIndex": 0,
+    "explanation": "They are members of the National Football Conference (NFC) West division."
+  },
+  {
+    "id": "sp-0205",
+    "title": "What nickname was given to Seahawks fans, emphasized post-2016?",
+    "options": ["Hawks Flock", "12s", "Blue Legion", "Pacific Pack"],
+    "correctIndex": 1,
+    "explanation": "After 2016, the team officially referred to their fans as '12s'."
+  },
+  {
+    "id": "sp-0206",
+    "title": "Who did the Seahawks defeat to win their first Super Bowl title?",
+    "options": ["Pittsburgh Steelers", "Denver Broncos", "New England Patriots", "Green Bay Packers"],
+    "correctIndex": 1,
+    "explanation": "Seattle defeated the Denver Broncos 43–8 in Super Bowl XLVIII."
+  },
+  {
+    "id": "sp-0207",
+    "title": "Where did the Seahawks play most of their home games before moving to Lumen Field?",
+    "options": ["Kingdome", "Rose Bowl", "Husky Stadium", "Qwest Field"],
+    "correctIndex": 0,
+    "explanation": "The Kingdome hosted Seahawks home games from 1976–1999."
+  },
+  {
+    "id": "sp-0208",
+    "title": "What is the first name of the Seahawks quarterback who led them to six postseason appearances from 2001 to 2010?",
+    "options": ["Charlie", "Matt", "Shaun", "Russell"],
+    "correctIndex": 1,
+    "explanation": "Matt Hasselbeck was the Seahawks’ quarterback during that era."
+  },
+  {
+    "id": "sp-0209",
+    "title": "Which former Microsoft co-founder purchased the Seahawks in 1997?",
+    "options": ["Steve Ballmer", "Paul Allen", "Bill Gates", "Satya Nadella"],
+    "correctIndex": 1,
+    "explanation": "Paul Allen bought the team in 1997."
+  },
+  {
+    "id": "sp-0210",
+    "title": "In 2013, how many decibels did Seahawks fans reach to set a new Guinness World Record for crowd noise?",
+    "options": ["120.9", "124.2", "136.6", "142.2"],
+    "correctIndex": 2,
+    "explanation": "They reached 136.6 dB in September 2013 vs. the 49ers."
+  },
+  {
+    "id": "sp-0211",
+    "title": "Which term describes the famous Marshawn Lynch play that caused a local earthquake?",
+    "options": ["Lightning Dash", "Beast Quake", "Thunder Run", "Hawk Burst"],
+    "correctIndex": 1,
+    "explanation": "Lynch’s legendary touchdown is known as the “Beast Quake.”"
+  },
+  {
+    "id": "sp-0212",
+    "title": "What is the Seahawks’ official mascot introduced in 1998?",
+    "options": ["Sky", "Blitz", "Thunder", "Taima"],
+    "correctIndex": 1,
+    "explanation": "Blitz has been Seattle’s mascot since 1998."
+  },
+  {
+    "id": "sp-0213",
+    "title": "Which Seahawks head coach led the team to its first playoff appearance?",
+    "options": ["Chuck Knox", "Jack Patera", "Mike Holmgren", "Dennis Erickson"],
+    "correctIndex": 0,
+    "explanation": "Chuck Knox became head coach in 1983 and led the team to their first playoffs."
+  },
+  {
+    "id": "sp-0214",
+    "title": "Which running back was named NFL MVP in 2005?",
+    "options": ["Marshawn Lynch", "Shaun Alexander", "Chris Carson", "Ricky Watters"],
+    "correctIndex": 1,
+    "explanation": "Shaun Alexander was NFL MVP for the 2005 season."
+  },
+  {
+    "id": "sp-0215",
+    "title": "Which player was the Seahawks’ first ever draft pick?",
+    "options": ["Steve Largent", "Cortez Kennedy", "Steve Niehaus", "Dave Brown"],
+    "correctIndex": 2,
+    "explanation": "Seattle chose defensive tackle Steve Niehaus in 1976."
+  },
+  {
+    "id": "sp-0216",
+    "title": "What is the correct name for the fans’ tradition of raising a special flag before each home game?",
+    "options": ["Thunder Banner", "Hawk Pennant", "12 Flag", "West Wave"],
+    "correctIndex": 2,
+    "explanation": "The #12 flag is raised at the stadium before each home game."
+  },
+  {
+    "id": "sp-0217",
+    "title": "Who threw a game-losing pick-six in the 2003 playoffs versus the Packers after guaranteeing victory?",
+    "options": ["Trent Dilfer", "Dave Krieg", "Matt Hasselbeck", "Russell Wilson"],
+    "correctIndex": 2,
+    "explanation": "Matt Hasselbeck famously guaranteed a score, then threw a pick-six."
+  },
+  {
+    "id": "sp-0218",
+    "title": "In the 2019 season, what record did Seattle have after the regular season?",
+    "options": ["11–5", "10–6", "9–7", "12–4"],
+    "correctIndex": 0,
+    "explanation": "The Seahawks finished 11–5 in 2019."
+  },
+  {
+    "id": "sp-0219",
+    "title": "Who served as the Seahawks’ owner immediately prior to Paul Allen's purchase?",
+    "options": ["Ken Behring & Ken Hofmann", "Herman Sarkowsky", "Steve Ballmer", "Mike Ilitch"],
+    "correctIndex": 0,
+    "explanation": "Behring & Hofmann owned the team before Paul Allen."
+  },
+  {
+    "id": "sp-0220",
+    "title": "Who was awarded Super Bowl XLVIII MVP?",
+    "options": ["Russell Wilson", "Percy Harvin", "Malcolm Smith", "Kam Chancellor"],
+    "correctIndex": 2,
+    "explanation": "Malcolm Smith was named MVP for his performance in Super Bowl XLVIII."
+  },
+  {
+    "id": "sp-0221",
+    "title": "Seattle was the first NFL team to reach the playoffs with what kind of regular season record?",
+    "options": ["Losing record", "Winless record", "Perfect record", "All ties"],
+    "correctIndex": 0,
+    "explanation": "Seattle made the playoffs with a 7–9 record in 2010."
+  },
+  {
+    "id": "sp-0222",
+    "title": "Which alternate color was introduced with Seahawks' 'Color Rush' uniforms in 2016?",
+    "options": ["Crimson", "Action Green", "Orange", "Berry Purple"],
+    "correctIndex": 1,
+    "explanation": "'Action Green' was featured in their 2016 Color Rush uniform."
+  },
+  {
+    "id": "sp-0223",
+    "title": "Which year did the Seahawks re-enter the NFC West?",
+    "options": ["1999", "2000", "2002", "2005"],
+    "correctIndex": 2,
+    "explanation": "Seattle moved back to the NFC West in 2002 realignment."
+  },
+  {
+    "id": "sp-0224",
+    "title": "Which Seahawk set a return to NFC West after initially starting in the division in their first season?",
+    "options": ["Jacob Green", "Shaun Alexander", "Jack Patera", "Mike Holmgren"],
+    "correctIndex": 2,
+    "explanation": "Jack Patera was the first coach when they started in the NFC West."
+  },
+  {
+    "id": "sp-0225",
+    "title": "Which player is NOT inducted into the Seahawks Ring of Honor?",
+    "options": ["Steve Hutchinson", "Walter Jones", "Paul Allen", "Matt Hasselbeck"],
+    "correctIndex": 0,
+    "explanation": "Steve Hutchinson is a Hall of Famer but not listed in the Seahawks Ring of Honor."
+  },
+  {
+    "id": "sp-0226",
+    "title": "Who was the Seahawks' general manager hired in 1975?",
+    "options": ["Pete Carroll", "John Thompson", "Chuck Knox", "Jack Patera"],
+    "correctIndex": 1,
+    "explanation": "John Thompson was the GM hired for the expansion team."
+  },
+  {
+    "id": "sp-0227",
+    "title": "Who was the Seahawks’ first head coach?",
+    "options": ["Jack Patera", "Chuck Knox", "Dennis Erickson", "Mike Holmgren"],
+    "correctIndex": 0,
+    "explanation": "Jack Patera was named the first Seahawks head coach in 1976."
+  },
+  {
+    "id": "sp-0228",
+    "title": "In which city is Lumen Field located?",
+    "options": ["Tacoma", "Everett", "Seattle", "Renton"],
+    "correctIndex": 2,
+    "explanation": "Lumen Field is in Seattle’s SoDo district."
+  },
+  {
+    "id": "sp-0229",
+    "title": "What is the name of the Seahawks’ secondary mascot introduced in 2014?",
+    "options": ["Rain", "Boom", "Flash", "Taima"],
+    "correctIndex": 1,
+    "explanation": "Boom was added as a mascot in 2014."
+  },
+  {
+    "id": "sp-0230",
+    "title": "Who caught the final pass of Super Bowl XLIX, leading to a Seahawks loss?",
+    "options": ["Doug Baldwin", "Jermaine Kearse", "Ricardo Lockette", "Tyler Lockett"],
+    "correctIndex": 2,
+    "explanation": "Ricardo Lockette was targeted on the notorious final play."
+  },
+  {
+    "id": "sp-0231",
+    "title": "Which legend’s number was officially retired by the Seahawks in 1992?",
+    "options": ["Steve Largent", "Walter Jones", "Shaun Alexander", "Cortez Kennedy"],
+    "correctIndex": 0,
+    "explanation": "Steve Largent’s #80 was retired by the team in 1992."
+  },
+  {
+    "id": "sp-0232",
+    "title": "What was the Seahawks' best regular season record before 2005?",
+    "options": ["12–4", "10–6", "14–2", "13–3"],
+    "correctIndex": 0,
+    "explanation": "They went 12–4 in 1984, a mark matched only in 2005 and 2013."
+  },
+  {
+    "id": "sp-0233",
+    "title": "Which Seahawks running back’s famous strength play was the 'Beast Quake'?",
+    "options": ["Chris Carson", "Ricky Watters", "Marshawn Lynch", "Shaun Alexander"],
+    "correctIndex": 2,
+    "explanation": "Marshawn Lynch created the 'Beast Quake'."
+  },
+  {
+    "id": "sp-0234",
+    "title": "Which Seahawks coach was fired after just one season in 2009?",
+    "options": ["Mike Holmgren", "Dennis Erickson", "Jim L. Mora", "Jack Patera"],
+    "correctIndex": 2,
+    "explanation": "Jim L. Mora was let go after the 2009 season."
+  },
+  {
+    "id": "sp-0235",
+    "title": "Who designed the current Seahawks logo introduced in 2002?",
+    "options": ["Mark Verlander with NFL Properties", "Nike", "Reebok", "Herman Sarkowsky"],
+    "correctIndex": 0,
+    "explanation": "Mark Verlander and NFL Properties in-house design team designed the 2002 logo."
+  },
+  {
+    "id": "sp-0236",
+    "title": "Which region outside the US has notable Seahawks fan support?",
+    "options": ["Nova Scotia", "Quebec", "British Columbia", "Manitoba"],
+    "correctIndex": 2,
+    "explanation": "British Columbia in Canada supports the Seahawks."
+  },
+  {
+    "id": "sp-0237",
+    "title": "Who was head coach for the Seahawks’ only Super Bowl victory?",
+    "options": ["Chuck Knox", "Mike Holmgren", "Pete Carroll", "Jack Patera"],
+    "correctIndex": 2,
+    "explanation": "Pete Carroll coached the team to their first title."
+  },
+  {
+    "id": "sp-0238",
+    "title": "The Seahawks have never played in which Super Bowl?",
+    "options": ["XL", "XLVIII", "XLIX", "LII"],
+    "correctIndex": 3,
+    "explanation": "XL, XLVIII, XLIX were all Seahawks appearances."
+  },
+  {
+    "id": "sp-0239",
+    "title": "Which Seahawks star was known for being inducted into both the Hall of Fame and Ring of Honor?",
+    "options": ["Russell Wilson", "Cortez Kennedy", "Matt Hasselbeck", "Shaun Alexander"],
+    "correctIndex": 1,
+    "explanation": "Cortez Kennedy was honored by both."
+  },
+  {
+    "id": "sp-0240",
+    "title": "Where is the Seahawks' current team headquarters located?",
+    "options": ["Tacoma", "Kirkland", "Renton", "Bellevue"],
+    "correctIndex": 2,
+    "explanation": "Their headquarters and the VMAC are in Renton, WA."
+  },
+  {
+    "id": "sp-0241",
+    "title": "What was the original name of the New York Jets franchise?",
+    "options": ["Titans of New York", "Giants East", "Jets Airmen", "Gotham Football Club"],
+    "correctIndex": 0,
+    "explanation": "The franchise was founded in 1959 as the Titans of New York."
+  },
+  {
+    "id": "sp-0242",
+    "title": "Which stadium did the New York Jets share with the New York Giants in New Jersey?",
+    "options": ["Yankee Stadium", "MetLife Stadium", "Polo Grounds", "Shea Stadium"],
+    "correctIndex": 1,
+    "explanation": "The Jets and Giants both play at MetLife Stadium in New Jersey."
+  },
+  {
+    "id": "sp-0243",
+    "title": "Who was the quarterback that led the Jets to their only Super Bowl victory?",
+    "options": ["Ken O'Brien", "Chad Pennington", "Joe Namath", "Vinny Testaverde"],
+    "correctIndex": 2,
+    "explanation": "Joe Namath quarterbacked the Jets to a Super Bowl III win."
+  },
+  {
+    "id": "sp-0244",
+    "title": "In which year did the franchise move to Shea Stadium in Queens?",
+    "options": ["1978", "2002", "1984", "1964"],
+    "correctIndex": 3,
+    "explanation": "The franchise moved to Shea Stadium in 1964."
+  },
+  {
+    "id": "sp-0245",
+    "title": "How many total Super Bowl championships have the Jets won?",
+    "options": ["0", "1", "2", "3"],
+    "correctIndex": 1,
+    "explanation": "The Jets have only one Super Bowl championship, from their 1968 season."
+  },
+  {
+    "id": "sp-0246",
+    "title": "What are the Jets’ official team colors?",
+    "options": ["Green and white", "Blue and gold", "Red and black", "Orange and purple"],
+    "correctIndex": 0,
+    "explanation": "The team colors are green and white."
+  },
+  {
+    "id": "sp-0247",
+    "title": "Which team did the Jets defeat in Super Bowl III?",
+    "options": ["New England Patriots", "Baltimore Colts", "Oakland Raiders", "Dallas Cowboys"],
+    "correctIndex": 1,
+    "explanation": "They defeated the heavily favored Baltimore Colts."
+  },
+  {
+    "id": "sp-0248",
+    "title": "Who was the first owner of the franchise?",
+    "options": ["Woody Johnson", "Harry Wismer", "Leon Hess", "Sonny Werblin"],
+    "correctIndex": 1,
+    "explanation": "Harry Wismer was granted the charter franchise."
+  },
+  {
+    "id": "sp-0249",
+    "title": "Which member of the Johnson family bought the team in 2000?",
+    "options": ["Christopher Johnson", "Woody Johnson", "Robert Wood Johnson II", "Ernie Grunfeld"],
+    "correctIndex": 1,
+    "explanation": "Woody Johnson purchased the Jets in 2000."
+  },
+  {
+    "id": "sp-0250",
+    "title": "What unique distinction do the Jets hold among New York sports franchises as of 2023?",
+    "options": ["Most home wins", "Longest championship drought", "Only undefeated season", "Most championships"],
+    "correctIndex": 1,
+    "explanation": "The Jets have the longest championship drought among major NY sports franchises as of 2023."
+  },
+  {
+    "id": "sp-0251",
+    "title": "Which head coach led the Jets to their only Super Bowl win?",
+    "options": ["Todd Bowles", "Weeb Ewbank", "Bill Parcells", "Rex Ryan"],
+    "correctIndex": 1,
+    "explanation": "Weeb Ewbank coached the Jets to victory in Super Bowl III."
+  },
+  {
+    "id": "sp-0252",
+    "title": "What is the name of the training facility the Jets began using in 2008?",
+    "options": ["JetBlue Center", "Atlantic Health Jets Training Center", "Long Island Football House", "Hofstra Stadium"],
+    "correctIndex": 1,
+    "explanation": "The Atlantic Health Jets Training Center has been their main facility since 2008."
+  },
+  {
+    "id": "sp-0253",
+    "title": "Which stadium did the Jets play their first games at?",
+    "options": ["Giants Stadium", "Shea Stadium", "Polo Grounds", "MetLife Stadium"],
+    "correctIndex": 2,
+    "explanation": "The Jets began play at the Polo Grounds."
+  },
+  {
+    "id": "sp-0254",
+    "title": "Who took over head coaching duties after Bill Parcells stepped down in 1999?",
+    "options": ["Herm Edwards", "Pete Carroll", "Bill Belichick", "Rich Kotite"],
+    "correctIndex": 2,
+    "explanation": "Bill Belichick was named head coach but resigned a day later."
+  },
+  {
+    "id": "sp-0255",
+    "title": "What year did the Jets start playing at MetLife Stadium?",
+    "options": ["2008", "2010", "2012", "2002"],
+    "correctIndex": 1,
+    "explanation": "MetLife Stadium opened in 2010."
+  },
+  {
+    "id": "sp-0256",
+    "title": "Who was released by the Jets in February 2025 after two seasons with the team?",
+    "options": ["Zach Wilson", "Sam Darnold", "Aaron Rodgers", "Geno Smith"],
+    "correctIndex": 2,
+    "explanation": "Aaron Rodgers was released after two injury-ridden seasons."
+  },
+  {
+    "id": "sp-0257",
+    "title": "Who became the Jets head coach after the 2024 season?",
+    "options": ["Robert Saleh", "Rex Ryan", "Aaron Glenn", "Adam Gase"],
+    "correctIndex": 2,
+    "explanation": "Aaron Glenn was named head coach after 2024."
+  },
+  {
+    "id": "sp-0258",
+    "title": "Which season marked the Jets' only Super Bowl appearance?",
+    "options": ["1975", "1968", "1998", "2002"],
+    "correctIndex": 1,
+    "explanation": "The Jets played (and won) the Super Bowl after the 1968 season."
+  },
+  {
+    "id": "sp-0259",
+    "title": "What was the franchise legally organized as?",
+    "options": ["New Jersey Jets, Inc.", "NY Football Club, LLC", "New York Jets, LLC", "Jets Athletics Society"],
+    "correctIndex": 2,
+    "explanation": "The franchise is legally organized as New York Jets, LLC."
+  },
+  {
+    "id": "sp-0260",
+    "title": "Which owner did NOT originally have a stake in the Sonny Werblin syndicate?",
+    "options": ["Leon Hess", "Donald C. Lillis", "Woody Johnson", "Townsend B. Martin"],
+    "correctIndex": 2,
+    "explanation": "Woody Johnson was not a part of the original syndicate."
+  },
+  {
+    "id": "sp-0261",
+    "title": "Who was the Jets’ star quarterback during their Super Bowl III season?",
+    "options": ["Richard Todd", "Boomer Esiason", "Joe Namath", "Mark Sanchez"],
+    "correctIndex": 2,
+    "explanation": "Joe Namath was their star and Super Bowl III MVP."
+  },
+  {
+    "id": "sp-0262",
+    "title": "Who succeeded Woody Johnson in daily operations when he became ambassador to the UK?",
+    "options": ["Robert Wood Johnson II", "Christopher Johnson", "Leon Hess Jr.", "Curtis Martin"],
+    "correctIndex": 1,
+    "explanation": "Christopher Johnson ran daily operations during Woody's ambassadorship."
+  },
+  {
+    "id": "sp-0263",
+    "title": "Who called the Monday Night Miracle, a historic Jets comeback in 2000?",
+    "options": ["Al Michaels", "Joe Buck", "Howard Cosell", "John Hall"],
+    "correctIndex": 3,
+    "explanation": "John Hall kicked the game-winning field goal in the Monday Night Miracle."
+  },
+  {
+    "id": "sp-0264",
+    "title": "What color did the original 'Titans of New York' uniforms feature besides navy blue?",
+    "options": ["Bright red", "Old gold", "Hunter green", "Kelly green"],
+    "correctIndex": 1,
+    "explanation": "The original Titans uniforms were navy blue and old gold."
+  },
+  {
+    "id": "sp-0265",
+    "title": "Which AFC East team has a long-standing rivalry with the Jets involving Spygate and coaching drama?",
+    "options": ["Buffalo Bills", "New England Patriots", "Miami Dolphins", "Baltimore Colts"],
+    "correctIndex": 1,
+    "explanation": "The Patriots and Jets have a storied rivalry including Spygate and coach switching."
+  },
+  {
+    "id": "sp-0266",
+    "title": "The Jets lost their only conference championship game appearance since the merger to which team in 2010?",
+    "options": ["Pittsburgh Steelers", "Oakland Raiders", "Miami Dolphins", "Buffalo Bills"],
+    "correctIndex": 0,
+    "explanation": "They lost the AFC Championship Game to the Steelers in 2010."
+  },
+  {
+    "id": "sp-0267",
+    "title": "Who led the Jets as head coach during their 1998 run to the AFC Championship Game?",
+    "options": ["Adam Gase", "Bill Parcells", "Herm Edwards", "Pete Carroll"],
+    "correctIndex": 1,
+    "explanation": "Bill Parcells was head coach during their 1998 playoff run."
+  },
+  {
+    "id": "sp-0268",
+    "title": "The Jets are tied with which NHL team for the longest active playoff drought among major North American leagues?",
+    "options": ["Rangers", "Islanders", "Sabres", "Penguins"],
+    "correctIndex": 2,
+    "explanation": "They are tied with the Buffalo Sabres for longest drought."
+  },
+  {
+    "id": "sp-0269",
+    "title": "Which former Jets coach tripped a Dolphins player during a 2010 game, causing controversy?",
+    "options": ["Herm Edwards", "Sal Alosi", "Eric Mangini", "Adam Gase"],
+    "correctIndex": 1,
+    "explanation": "Sal Alosi tripped Nolan Carroll, causing scandal."
+  },
+  {
+    "id": "sp-0270",
+    "title": "Who became a public star and was signed to a record deal as quarterback for the Jets post-1963?",
+    "options": ["Joe Namath", "Ken O'Brien", "Vinny Testaverde", "Richard Todd"],
+    "correctIndex": 0,
+    "explanation": "Joe Namath became a national sensation for the Jets."
+  },
+  {
+    "id": "sp-0271",
+    "title": "The Jets’ black alternate uniform, introduced in 2019, was paired with a new helmet in which year?",
+    "options": ["2022", "2020", "2025", "2021"],
+    "correctIndex": 0,
+    "explanation": "In 2022, black alternate helmets debuted due to NFL rule changes."
+  },
+  {
+    "id": "sp-0272",
+    "title": "Who was head coach during the Jets’ first two seasons (as the Titans)?",
+    "options": ["Sammy Baugh", "Weeb Ewbank", "Sonny Werblin", "Bulldog Turner"],
+    "correctIndex": 0,
+    "explanation": "Sammy Baugh coached the Titans in 1960 and 1961."
+  },
+  {
+    "id": "sp-0273",
+    "title": "Which Jets owner was passionate but generally stayed away from football operations?",
+    "options": ["Sonny Werblin", "Leon Hess", "Harry Wismer", "Woody Johnson"],
+    "correctIndex": 1,
+    "explanation": "Leon Hess let his staff handle most football-related decisions."
+  },
+  {
+    "id": "sp-0274",
+    "title": "What is the primary color of the Jets' 'Rivalries' uniform introduced for the 2025 season?",
+    "options": ["Green", "White", "Black", "Silver"],
+    "correctIndex": 2,
+    "explanation": "The jerseys and pants use a dark, green-tinted shade of black."
+  },
+  {
+    "id": "sp-0275",
+    "title": "Who was the Jets’ first-ever draft pick to be inducted into the Hall of Fame?",
+    "options": ["Joe Namath", "Curtis Martin", "Don Maynard", "Wesley Walker"],
+    "correctIndex": 0,
+    "explanation": "Joe Namath, drafted in 1965, was the first."
+  },
+  {
+    "id": "sp-0276",
+    "title": "What did Sonny Werblin cite as the reason for renaming the Titans to the Jets?",
+    "options": ["To honor New York City airports", "After partner's name", "Because it rhymed with Mets and proximity to LaGuardia", "New uniform style"],
+    "correctIndex": 2,
+    "explanation": "Werblin chose 'Jets' for proximity to LaGuardia and rhyme with Mets."
+  },
+  {
+    "id": "sp-0277",
+    "title": "Which year did the Jets win their first AFL playoff game and subsequently the Super Bowl?",
+    "options": ["1975", "1968", "1970", "1984"],
+    "correctIndex": 1,
+    "explanation": "The Jets went all the way in the 1968 season."
+  },
+  {
+    "id": "sp-0278",
+    "title": "Who served as the Jets' general manager and head coach during their Super Bowl-winning season?",
+    "options": ["Bill Parcells", "Rex Ryan", "Weeb Ewbank", "Herm Edwards"],
+    "correctIndex": 2,
+    "explanation": "Ewbank held both GM and HC roles during the win."
+  },
+  {
+    "id": "sp-0279",
+    "title": "Who replaced Todd Bowles as the Jets' head coach in 2019?",
+    "options": ["Adam Gase", "Robert Saleh", "Herm Edwards", "Rich Kotite"],
+    "correctIndex": 0,
+    "explanation": "Adam Gase was hired ahead of the 2019 season."
+  },
+  {
+    "id": "sp-0280",
+    "title": "Which color helmet did the Jets use for most of their history prior to 2019?",
+    "options": ["Black", "White", "Silver", "Gold"],
+    "correctIndex": 1,
+    "explanation": "Classic Jets helmets were white with green stripes and logos."
+  },
+  {
+    "id": "sp-0281",
+    "title": "Which team did the Tampa Bay Buccaneers defeat to clinch their first playoff victory?",
+    "options": ["Philadelphia Eagles", "Dallas Cowboys", "St. Louis Rams", "New Orleans Saints"],
+    "correctIndex": 0,
+    "explanation": "The Bucs beat the Eagles 24–17 in the divisional round of the 1979 playoffs."
+  },
+  {
+    "id": "sp-0282",
+    "title": "What stadium do the Tampa Bay Buccaneers currently play their home games in?",
+    "options": ["Raymond James Stadium", "Tampa Stadium", "One Buc Place", "Miami Gardens Stadium"],
+    "correctIndex": 0,
+    "explanation": "The Bucs play at Raymond James Stadium."
+  },
+  {
+    "id": "sp-0283",
+    "title": "Which coach is credited with developing the 'Tampa 2' defensive scheme?",
+    "options": ["Monte Kiffin", "Tony Dungy", "Jon Gruden", "Raheem Morris"],
+    "correctIndex": 0,
+    "explanation": "Monte Kiffin and Tony Dungy developed the Tampa 2."
+  },
+  {
+    "id": "sp-0284",
+    "title": "Who was the Buccaneers’ first-ever draft pick?",
+    "options": ["Lee Roy Selmon", "Warren Sapp", "Doug Williams", "Jimmie Giles"],
+    "correctIndex": 0,
+    "explanation": "Lee Roy Selmon was the franchise’s first draft pick."
+  },
+  {
+    "id": "sp-0285",
+    "title": "After their 1976 expansion, Tampa Bay initially played in which NFL division?",
+    "options": ["AFC West", "NFC Central", "NFC South", "AFC East"],
+    "correctIndex": 0,
+    "explanation": "They played their first season in the AFC West."
+  },
+  {
+    "id": "sp-0286",
+    "title": "How many Super Bowl championships have the Tampa Bay Buccaneers won?",
+    "options": ["Two", "One", "Three", "None"],
+    "correctIndex": 0,
+    "explanation": "Tampa has two Super Bowl titles: XXXVII and LV."
+  },
+  {
+    "id": "sp-0287",
+    "title": "Which owner purchased the Buccaneers in 1995 and kept the team in Tampa?",
+    "options": ["Malcolm Glazer", "George Steinbrenner", "Peter Angelos", "Jerry Jones"],
+    "correctIndex": 0,
+    "explanation": "Malcolm Glazer bought the team in 1995."
+  },
+  {
+    "id": "sp-0288",
+    "title": "Who did the Buccaneers hire as head coach in 1996, leading a franchise turnaround?",
+    "options": ["Tony Dungy", "Jon Gruden", "Raheem Morris", "Greg Schiano"],
+    "correctIndex": 0,
+    "explanation": "Tony Dungy was hired in 1996."
+  },
+  {
+    "id": "sp-0289",
+    "title": "Which defensive player won Super Bowl XXXVII MVP for the Buccaneers?",
+    "options": ["Dexter Jackson", "Dwight Smith", "Ronde Barber", "Derrick Brooks"],
+    "correctIndex": 0,
+    "explanation": "Dexter Jackson earned MVP honors in Super Bowl XXXVII."
+  },
+  {
+    "id": "sp-0290",
+    "title": "Who did the Buccaneers defeat to win Super Bowl LV in their home stadium?",
+    "options": ["Kansas City Chiefs", "Green Bay Packers", "Los Angeles Rams", "San Francisco 49ers"],
+    "correctIndex": 0,
+    "explanation": "The Bucs beat the Chiefs 31–9 in Super Bowl LV."
+  },
+  {
+    "id": "sp-0291",
+    "title": "Which team did the Buccaneers replace in the NFC South division during realignment?",
+    "options": ["Carolina Panthers", "Chicago Bears", "Seattle Seahawks", "New Orleans Saints"],
+    "correctIndex": 2,
+    "explanation": "The Seahawks left the NFC for the AFC to help form the NFC South."
+  },
+  {
+    "id": "sp-0292",
+    "title": "Which quarterback was the top pick for the Buccaneers in the 2015 NFL Draft?",
+    "options": ["Marcus Mariota", "Baker Mayfield", "Jameis Winston", "Josh Freeman"],
+    "correctIndex": 2,
+    "explanation": "Jameis Winston was selected first overall in 2015."
+  },
+  {
+    "id": "sp-0293",
+    "title": "Who did Tampa Bay defeat in the 2020 NFC Championship Game to reach Super Bowl LV?",
+    "options": ["San Francisco 49ers", "Los Angeles Rams", "Green Bay Packers", "Minnesota Vikings"],
+    "correctIndex": 2,
+    "explanation": "They won against the Green Bay Packers in the 2020 NFC title game."
+  },
+  {
+    "id": "sp-0294",
+    "title": "Who was awarded the AP Defensive Player of the Year as a Buccaneer in 2002?",
+    "options": ["Warren Sapp", "Ronde Barber", "Derrick Brooks", "Lee Roy Selmon"],
+    "correctIndex": 2,
+    "explanation": "Derrick Brooks won the award in 2002."
+  },
+  {
+    "id": "sp-0295",
+    "title": "Of these quarterbacks, who led the Buccaneers to their first Super Bowl win?",
+    "options": ["Shaun King", "Josh Freeman", "Brad Johnson", "Jameis Winston"],
+    "correctIndex": 2,
+    "explanation": "Brad Johnson was the starter for the 2002 championship team."
+  },
+  {
+    "id": "sp-0296",
+    "title": "Which future Hall of Fame coach did the Buccaneers fire after the 2001 season?",
+    "options": ["Raheem Morris", "Lovie Smith", "Tony Dungy", "Bruce Arians"],
+    "correctIndex": 2,
+    "explanation": "Tony Dungy was fired after the 2001 postseason."
+  },
+  {
+    "id": "sp-0297",
+    "title": "After the 2002 Super Bowl, which team's general manager did the Buccaneers let depart for an executive position elsewhere?",
+    "options": ["Bruce Allen", "Jason Licht", "Rich McKay", "Mark Dominik"],
+    "correctIndex": 2,
+    "explanation": "Rich McKay left and joined the Falcons."
+  },
+  {
+    "id": "sp-0298",
+    "title": "Which quarterback finished with a 30 touchdown, 30 interception season in Tampa Bay?",
+    "options": ["Tom Brady", "Ryan Fitzpatrick", "Jameis Winston", "Shaun King"],
+    "correctIndex": 2,
+    "explanation": "Jameis Winston threw 30 TD and 30 INT in 2019."
+  },
+  {
+    "id": "sp-0299",
+    "title": "Which Buccaneers player shares the record for most consecutive 1,000-yard receiving seasons to start a career?",
+    "options": ["Chris Godwin", "Vincent Jackson", "Mike Evans", "Keyshawn Johnson"],
+    "correctIndex": 2,
+    "explanation": "Mike Evans has eleven consecutive 1,000+ yard seasons."
+  },
+  {
+    "id": "sp-0300",
+    "title": "Which defensive back scored two interception return TDs in Super Bowl XXXVII?",
+    "options": ["Ronde Barber", "John Lynch", "Dwight Smith", "Brian Kelly"],
+    "correctIndex": 2,
+    "explanation": "Dwight Smith returned two interceptions for TDs in the Super Bowl."
+  },
+  {
+    "id": "sp-0301",
+    "title": "Who scored the only points in the Bucs’ 3-0 1979 division-clinching win over the Chiefs?",
+    "options": ["Kicker Neil O'Donoghue", "Quarterback Doug Williams", "Running Back Ricky Bell", "Tight End Jimmie Giles"],
+    "correctIndex": 0,
+    "explanation": "Neil O'Donoghue made the field goal in the muddy victory."
+  },
+  {
+    "id": "sp-0302",
+    "title": "Who was traded to the Buccaneers for a package involving four draft picks and cash?",
+    "options": ["Bruce Arians", "Monte Kiffin", "Jon Gruden", "Bill Parcells"],
+    "correctIndex": 2,
+    "explanation": "The Buccaneers traded heavily for Jon Gruden in 2002."
+  },
+  {
+    "id": "sp-0303",
+    "title": "Who was the first Buccaneer to be inducted into the Pro Football Hall of Fame?",
+    "options": ["Derrick Brooks", "John Lynch", "Lee Roy Selmon", "Warren Sapp"],
+    "correctIndex": 2,
+    "explanation": "Lee Roy Selmon was the franchise's first Hall of Famer."
+  },
+  {
+    "id": "sp-0304",
+    "title": "Which running back had the Bucs’ first-ever 1,000-yard rushing season?",
+    "options": ["Michael Pittman", "Doug Martin", "Ricky Bell", "Warrick Dunn"],
+    "correctIndex": 2,
+    "explanation": "Ricky Bell ran for over 1,000 yards in 1979."
+  },
+  {
+    "id": "sp-0305",
+    "title": "Which team was defeated in the Bucs’ first-ever regular season win?",
+    "options": ["Atlanta Falcons", "New Orleans Saints", "St. Louis Cardinals", "Minnesota Vikings"],
+    "correctIndex": 1,
+    "explanation": "Their first win was against the New Orleans Saints in 1977."
+  },
+  {
+    "id": "sp-0306",
+    "title": "Who replaced Tony Dungy as Buccaneers head coach in 2002?",
+    "options": ["Jon Gruden", "Bruce Arians", "Lovie Smith", "Raheem Morris"],
+    "correctIndex": 0,
+    "explanation": "Jon Gruden succeeded Dungy and led the Bucs to a Super Bowl."
+  },
+  {
+    "id": "sp-0307",
+    "title": "Which coach brought his Cover 2 scheme to the Buccaneers and later to the Colts?",
+    "options": ["Monte Kiffin", "Tony Dungy", "Greg Schiano", "Bruce Arians"],
+    "correctIndex": 1,
+    "explanation": "Tony Dungy brought the Tampa 2/Cover 2 system to both teams."
+  },
+  {
+    "id": "sp-0308",
+    "title": "Which defensive tackle won the 1999 NFL Defensive Player of the Year with Tampa Bay?",
+    "options": ["Derrick Brooks", "Warren Sapp", "Vita Vea", "Gerald McCoy"],
+    "correctIndex": 1,
+    "explanation": "Warren Sapp won DPOY in 1999."
+  },
+  {
+    "id": "sp-0309",
+    "title": "Who became the Bucs' majority owner following Hugh Culverhouse's death?",
+    "options": ["Tony Dungy", "Malcolm Glazer", "William Clay Ford", "George Steinbrenner"],
+    "correctIndex": 1,
+    "explanation": "Malcolm Glazer purchased the franchise."
+  },
+  {
+    "id": "sp-0310",
+    "title": "Which division are the Bucs a part of since 2002?",
+    "options": ["AFC South", "NFC East", "NFC South", "NFC Central"],
+    "correctIndex": 2,
+    "explanation": "They've played in the NFC South since realignment."
+  },
+  {
+    "id": "sp-0311",
+    "title": "In which year did the Bucs secure both their first division title and first playoff win?",
+    "options": ["1977", "1981", "1979", "2002"],
+    "correctIndex": 2,
+    "explanation": "That all happened in 1979."
+  },
+  {
+    "id": "sp-0312",
+    "title": "Which head coach led the Buccaneers to a Super Bowl championship during his first season?",
+    "options": ["Monte Kiffin", "Tony Dungy", "Jon Gruden", "Raheem Morris"],
+    "correctIndex": 2,
+    "explanation": "Jon Gruden did it in 2002."
+  },
+  {
+    "id": "sp-0313",
+    "title": "Who was the primary starting QB for the Bucs in their Super Bowl LV-winning run?",
+    "options": ["Brad Johnson", "Jameis Winston", "Tom Brady", "Shaun King"],
+    "correctIndex": 2,
+    "explanation": "Tom Brady started and led the team in 2020-21."
+  },
+  {
+    "id": "sp-0314",
+    "title": "Which Buccaneer linebacker was key to both the 2002 and 2020 Super Bowl defenses?",
+    "options": ["Hardy Nickerson", "Lavonte David", "Devin White", "Kwon Alexander"],
+    "correctIndex": 1,
+    "explanation": "Lavonte David was crucial in 2020; Hardy Nickerson was in the 1990s."
+  },
+  {
+    "id": "sp-0315",
+    "title": "Which offensive coach replaced Bruce Arians as Buccaneers head coach in 2022?",
+    "options": ["Dirk Koetter", "Byron Leftwich", "Todd Bowles", "Greg Schiano"],
+    "correctIndex": 2,
+    "explanation": "Todd Bowles, formerly DC, was promoted to head coach."
+  },
+  {
+    "id": "sp-0316",
+    "title": "Which quarterback threw a perfect passer rating at Lambeau Field in December 2023?",
+    "options": ["Tom Brady", "Jameis Winston", "Baker Mayfield", "Ryan Fitzpatrick"],
+    "correctIndex": 2,
+    "explanation": "Baker Mayfield was the first visiting QB to do so."
+  },
+  {
+    "id": "sp-0317",
+    "title": "Who did the Buccaneers defeat in the 2023 Wild Card Round?",
+    "options": ["New York Giants", "Philadelphia Eagles", "Detroit Lions", "Minnesota Vikings"],
+    "correctIndex": 1,
+    "explanation": "They beat the Eagles 32–9."
+  },
+  {
+    "id": "sp-0318",
+    "title": "What is the name of the Buccaneers’ current training facility?",
+    "options": ["One Buc Place", "Citrus Sportsplex", "AdventHealth Training Facility", "Raymond James Performance Center"],
+    "correctIndex": 2,
+    "explanation": "It's the AdventHealth Training Facility."
+  },
+  {
+    "id": "sp-0319",
+    "title": "Who is the Buccaneers’ all-time leader in consecutive 1,000-yard receiving seasons?",
+    "options": ["Vincent Jackson", "Chris Godwin", "Mike Evans", "Antonio Brown"],
+    "correctIndex": 2,
+    "explanation": "Mike Evans holds this record."
+  },
+  {
+    "id": "sp-0320",
+    "title": "Which color was dropped from the Buccaneers’ original color scheme before their inaugural season?",
+    "options": ["Orange", "Green", "Red", "Yellow"],
+    "correctIndex": 1,
+    "explanation": "Green was dropped due to similarities with the Dolphins."
+  },
+  {
+    "id": "sp-0321",
+    "title": "Which owner threatened to move the Buccaneers to Baltimore before the Glazers purchased the team?",
+    "options": ["Stephen Ross", "Peter Angelos", "Jerry Richardson", "Mark Davis"],
+    "correctIndex": 1,
+    "explanation": "Peter Angelos openly talked about moving the franchise."
+  },
+  {
+    "id": "sp-0322",
+    "title": "Who was awarded the 2024 Pro Bowl MVP representing the Buccaneers?",
+    "options": ["Mike Evans", "Rachaad White", "Baker Mayfield", "Lavonte David"],
+    "correctIndex": 2,
+    "explanation": "Baker Mayfield won Pro Bowl MVP in 2024."
+  },
+  {
+    "id": "sp-0323",
+    "title": "Which kicker broke the NFL record for longest field goal made outdoors as a Buc in 2025?",
+    "options": ["Martin Gramatica", "Chase McLaughlin", "Matt Gay", "Ryan Succop"],
+    "correctIndex": 1,
+    "explanation": "Chase McLaughlin kicked a 65-yard field goal outdoors."
+  },
+  {
+    "id": "sp-0324",
+    "title": "In 2020, who was reunited with Tom Brady by coming out of retirement to join the Bucs?",
+    "options": ["Antonio Brown", "Rob Gronkowski", "Leonard Fournette", "Julio Jones"],
+    "correctIndex": 1,
+    "explanation": "Rob Gronkowski came out of retirement to play with Brady."
+  },
+  {
+    "id": "sp-0325",
+    "title": "Which defensive scheme is commonly associated with the Buccaneers’ 1997–2008 run?",
+    "options": ["Cover 1", "Nickel", "Tampa 2", "Blitz-heavy"],
+    "correctIndex": 2,
+    "explanation": "The Tampa 2 defense became iconic."
+  },
+  {
+    "id": "sp-0326",
+    "title": "Which logo replaced 'Bucco Bruce' as the Bucs’ primary image in 1997?",
+    "options": ["Parrot and Crossbones", "Ship Wheel", "Skull and Swords on a red flag", "Pegleg Pirate"],
+    "correctIndex": 2,
+    "explanation": "The 'skull and swords' on a red flag became the new logo."
+  },
+  {
+    "id": "sp-0327",
+    "title": "Which Buccaneers running back won the 2005 NFL Offensive Rookie of the Year?",
+    "options": ["Doug Martin", "LeGarrette Blount", "Cadillac Williams", "Warrick Dunn"],
+    "correctIndex": 2,
+    "explanation": "Cadillac Williams took the award in 2005."
+  },
+  {
+    "id": "sp-0328",
+    "title": "In which years did the Bucs go undefeated in Super Bowl appearances?",
+    "options": ["2002 and 2020", "2002 and 2007", "2002 and 2022", "2002 and 2018"],
+    "correctIndex": 0,
+    "explanation": "They won both Super Bowls in 2002 and 2020."
+  },
+  {
+    "id": "sp-0329",
+    "title": "Who was the defensive coordinator hired alongside Bruce Arians in 2019?",
+    "options": ["Greg Schiano", "Todd Bowles", "Monte Kiffin", "Leslie Frazier"],
+    "correctIndex": 1,
+    "explanation": "Todd Bowles was hired to lead the defense."
+  },
+  {
+    "id": "sp-0330",
+    "title": "Who replaced Byron Leftwich as offensive coordinator after the 2024 season?",
+    "options": ["Dirk Koetter", "Todd Bowles", "Liam Coen", "Bruce Arians"],
+    "correctIndex": 2,
+    "explanation": "Liam Coen was hired as OC in 2025."
+  },
+  {
+    "id": "sp-0331",
+    "title": "Which stadium do the Pittsburgh Steelers currently call home?",
+    "options": ["Acrisure Stadium", "Heinz Field", "Three Rivers Stadium", "Pitt Stadium"],
+    "correctIndex": 0,
+    "explanation": "Since 2022, the Steelers play at Acrisure Stadium."
+  },
+  {
+    "id": "sp-0332",
+    "title": "What nickname is given to the Steelers' widespread fanbase?",
+    "options": ["Steeler Nation", "Steel Army", "Steel City Crew", "Iron Fans"],
+    "correctIndex": 0,
+    "explanation": "The fanbase is famously known as Steeler Nation."
+  },
+  {
+    "id": "sp-0333",
+    "title": "Who became the Steelers head coach in 2007?",
+    "options": ["Bill Cowher", "Mike Tomlin", "Chuck Noll", "Terry Bradshaw"],
+    "correctIndex": 1,
+    "explanation": "Mike Tomlin was hired as the Steelers head coach in 2007."
+  },
+  {
+    "id": "sp-0334",
+    "title": "How many Super Bowl championships have the Pittsburgh Steelers won?",
+    "options": ["4", "7", "6", "5"],
+    "correctIndex": 2,
+    "explanation": "The Steelers have won 6 Super Bowl titles."
+  },
+  {
+    "id": "sp-0335",
+    "title": "In what year were the Steelers founded?",
+    "options": ["1933", "1940", "1929", "1953"],
+    "correctIndex": 0,
+    "explanation": "The team joined the NFL in 1933 as the Pittsburgh Pirates."
+  },
+  {
+    "id": "sp-0336",
+    "title": "Which family has controlled the ownership of the Steelers since the beginning?",
+    "options": ["Rooney", "Mara", "Davis", "McGinley"],
+    "correctIndex": 0,
+    "explanation": "Ownership has always remained with the Rooney family."
+  },
+  {
+    "id": "sp-0337",
+    "title": "Who was the first African-American head coach of the Steelers?",
+    "options": ["Tony Dungy", "Mike Tomlin", "Lowell Perry", "Bill Cowher"],
+    "correctIndex": 1,
+    "explanation": "Mike Tomlin became the team's first African-American head coach."
+  },
+  {
+    "id": "sp-0338",
+    "title": "The Steelers' 1974 draft is notable for what accomplishment?",
+    "options": ["Four first round picks", "Unbeaten season", "Drafting four future Hall of Famers", "Picking two quarterbacks"],
+    "correctIndex": 2,
+    "explanation": "They selected four future Hall of Famers in a single draft year."
+  },
+  {
+    "id": "sp-0339",
+    "title": "What is the name of the Steelers’ official mascot?",
+    "options": ["Steelman", "Iron Ike", "Steely McBeam", "Steel Hammer"],
+    "correctIndex": 2,
+    "explanation": "Steely McBeam is the team's official mascot."
+  },
+  {
+    "id": "sp-0340",
+    "title": "During World War II, with which team did the Steelers temporarily merge?",
+    "options": ["Philadelphia Eagles", "Boston Patriots", "Chicago Bears", "Dallas Cowboys"],
+    "correctIndex": 0,
+    "explanation": "The Steelers merged with the Eagles to form the 'Steagles' in 1943."
+  },
+  {
+    "id": "sp-0341",
+    "title": "Who was the quarterback that led the Steelers to four Super Bowl victories in the 1970s?",
+    "options": ["Brad Johnson", "Fran Tarkenton", "Terry Bradshaw", "Ben Roethlisberger"],
+    "correctIndex": 2,
+    "explanation": "Terry Bradshaw was the QB during the Steelers’ 1970s dynasty."
+  },
+  {
+    "id": "sp-0342",
+    "title": "Which color, along with black, has always been a part of the Steelers’ uniform?",
+    "options": ["Blue", "Red", "Gold", "Green"],
+    "correctIndex": 2,
+    "explanation": "Black and gold are the Steelers' traditional colors."
+  },
+  {
+    "id": "sp-0343",
+    "title": "Which rivalry is not divisional but is based on historic playoff contests?",
+    "options": ["Cleveland Browns", "Dallas Cowboys", "Baltimore Ravens", "Cincinnati Bengals"],
+    "correctIndex": 1,
+    "explanation": "The Cowboys rivalry is based largely on Super Bowl matchups."
+  },
+  {
+    "id": "sp-0344",
+    "title": "Who did the Steelers face in their first-ever Super Bowl appearance?",
+    "options": ["Dallas Cowboys", "Miami Dolphins", "Minnesota Vikings", "Los Angeles Rams"],
+    "correctIndex": 2,
+    "explanation": "Their first Super Bowl was against the Minnesota Vikings."
+  },
+  {
+    "id": "sp-0345",
+    "title": "What is the Steelers' logo based on?",
+    "options": ["Pittsburgh skyline", "Steelmark", "City flag", "Keystone"],
+    "correctIndex": 1,
+    "explanation": "The logo is based on the Steelmark by U.S. Steel."
+  },
+  {
+    "id": "sp-0346",
+    "title": "The Steelers are known for only putting their helmet logo on which side?",
+    "options": ["Right", "Left", "Front", "Back"],
+    "correctIndex": 0,
+    "explanation": "The logo is displayed only on the right side."
+  },
+  {
+    "id": "sp-0347",
+    "title": "Which player is not one of the 'Killer B’s' trio?",
+    "options": ["Ben Roethlisberger", "Antonio Brown", "Le’Veon Bell", "Hines Ward"],
+    "correctIndex": 3,
+    "explanation": "Hines Ward was not part of the Killer B’s trio."
+  },
+  {
+    "id": "sp-0348",
+    "title": "What did the team’s original name in 1933 reference?",
+    "options": ["Steel industry", "Pirates baseball team", "River confluence", "City motto"],
+    "correctIndex": 1,
+    "explanation": "They were called the Pittsburgh Pirates, after the baseball team."
+  },
+  {
+    "id": "sp-0349",
+    "title": "Which coach succeeded Chuck Noll after his retirement?",
+    "options": ["Tom Landry", "Mike Tomlin", "Bill Cowher", "Ken Whisenhunt"],
+    "correctIndex": 2,
+    "explanation": "Bill Cowher became head coach in 1992 after Noll."
+  },
+  {
+    "id": "sp-0350",
+    "title": "Which of the following is NOT a retired uniform number for the Steelers?",
+    "options": ["70", "32", "75", "12"],
+    "correctIndex": 3,
+    "explanation": "12—Terry Bradshaw's number—has not been officially retired."
+  },
+  {
+    "id": "sp-0351",
+    "title": "Who was the owner that founded the team?",
+    "options": ["Dan Rooney", "Art Rooney", "John Rooney", "Thomas Tull"],
+    "correctIndex": 1,
+    "explanation": "Art Rooney founded the team in 1933."
+  },
+  {
+    "id": "sp-0352",
+    "title": "What is the playoff record (including all years) of the Steelers through 2023?",
+    "options": ["40–30", "36–26", "33–22", "29–34"],
+    "correctIndex": 1,
+    "explanation": "Their playoff record is 36–26."
+  },
+  {
+    "id": "sp-0353",
+    "title": "What is the name of the Steelers’ fight song played since 1994?",
+    "options": ["Renegade", "Steelers Polka", "Here We Go", "Steel Curtain Tune"],
+    "correctIndex": 2,
+    "explanation": "\"Here We Go\" by Roger Wood is the popular fight song since 1994."
+  },
+  {
+    "id": "sp-0354",
+    "title": "Who scored the Immaculate Reception in 1972?",
+    "options": ["Terry Bradshaw", "Lynn Swann", "Franco Harris", "John Stallworth"],
+    "correctIndex": 2,
+    "explanation": "Franco Harris caught the famous Immaculate Reception."
+  },
+  {
+    "id": "sp-0355",
+    "title": "What do the three astroids in the Steelers’ logo represent?",
+    "options": ["Steelmaking process materials", "Super Bowls", "Pittsburgh rivers", "Founding owners"],
+    "correctIndex": 0,
+    "explanation": "They represent yellow for coal, red for iron ore, blue for scrap steel."
+  },
+  {
+    "id": "sp-0356",
+    "title": "Who was the first Steelers player to win NFL MVP?",
+    "options": ["Terry Bradshaw", "Bill Dudley", "Franco Harris", "Lynn Swann"],
+    "correctIndex": 1,
+    "explanation": "Bill Dudley was the team's first MVP in 1946."
+  },
+  {
+    "id": "sp-0357",
+    "title": "Which stadium hosted the Steelers' home games immediately before Acrisure Stadium?",
+    "options": ["Three Rivers Stadium", "Pitt Stadium", "Forbes Field", "Saint Vincent College"],
+    "correctIndex": 0,
+    "explanation": "They played at Three Rivers Stadium from 1970–2000."
+  },
+  {
+    "id": "sp-0358",
+    "title": "Which alternate Steeler uniform was retired after 2016?",
+    "options": ["Steel Curtain Throwback", "Color Rush", "Bumblebee", "1933 Gold"],
+    "correctIndex": 2,
+    "explanation": "The bumblebee uniforms were retired after the 2016 season."
+  },
+  {
+    "id": "sp-0359",
+    "title": "Which facility hosts the Steelers’ annual training camp?",
+    "options": ["Point Stadium", "Saint Vincent College", "Duquesne University", "University of Pittsburgh Medical Center Sportsplex"],
+    "correctIndex": 1,
+    "explanation": "They hold training camp at Saint Vincent College in Latrobe."
+  },
+  {
+    "id": "sp-0360",
+    "title": "Which player is a Hall of Famer primarily for his Steelers career as a wide receiver?",
+    "options": ["Lynn Swann", "Ray Mathews", "Joe Gilliam", "Lowell Perry"],
+    "correctIndex": 0,
+    "explanation": "Lynn Swann was inducted as a primary Steeler WR."
+  },
+  {
+    "id": "sp-0361",
+    "title": "What color were the Steelers' helmets originally?",
+    "options": ["White", "Gold", "Black", "Red"],
+    "correctIndex": 1,
+    "explanation": "The team originally wore solid gold-colored helmets."
+  },
+  {
+    "id": "sp-0362",
+    "title": "The 'Steel Curtain' defenses played most prominently in which decade?",
+    "options": ["1960s", "1970s", "1980s", "1990s"],
+    "correctIndex": 1,
+    "explanation": "Their defense dominated the NFL in the 1970s."
+  },
+  {
+    "id": "sp-0363",
+    "title": "Who did the Steelers defeat to win their fifth Super Bowl title?",
+    "options": ["Seattle Seahawks", "Arizona Cardinals", "Dallas Cowboys", "Los Angeles Rams"],
+    "correctIndex": 0,
+    "explanation": "The Steelers beat the Seattle Seahawks for Super Bowl XL."
+  },
+  {
+    "id": "sp-0364",
+    "title": "Which Steelers player was NOT a Super Bowl MVP?",
+    "options": ["Lynn Swann", "Franco Harris", "Roger Staubach", "Terry Bradshaw"],
+    "correctIndex": 2,
+    "explanation": "Staubach played for Dallas, not Pittsburgh."
+  },
+  {
+    "id": "sp-0365",
+    "title": "Who succeeded Bill Cowher as head coach in 2007?",
+    "options": ["Art Rooney II", "Mike Tomlin", "Ken Whisenhunt", "Bruce Arians"],
+    "correctIndex": 1,
+    "explanation": "Mike Tomlin became head coach after Cowher resigned."
+  },
+  {
+    "id": "sp-0366",
+    "title": "Which song is played late in Steelers home games to rally the crowd?",
+    "options": ["Black and Yellow", "Renegade", "Here We Go", "Steelers Polka"],
+    "correctIndex": 1,
+    "explanation": "Styx's 'Renegade' is played during defensive stands."
+  },
+  {
+    "id": "sp-0367",
+    "title": "Who is the Steelers’ all-time leader in career rushing yards?",
+    "options": ["Franco Harris", "Jerome Bettis", "Le'Veon Bell", "John Henry Johnson"],
+    "correctIndex": 0,
+    "explanation": "Franco Harris holds the record for most career rushing yards."
+  },
+  {
+    "id": "sp-0368",
+    "title": "Which division are the Steelers a part of?",
+    "options": ["AFC Central", "NFC East", "AFC North", "AFC South"],
+    "correctIndex": 2,
+    "explanation": "The Steelers currently play in the AFC North."
+  },
+  {
+    "id": "sp-0369",
+    "title": "Which rivalry game features the ‘Terrible Towel’ most prominently?",
+    "options": ["Eagles", "Cowboys", "Browns", "Bengals"],
+    "correctIndex": 2,
+    "explanation": "The Terrible Towel features notably vs. the Browns."
+  },
+  {
+    "id": "sp-0370",
+    "title": "Which season featured the Steelers defeating the Arizona Cardinals in the Super Bowl?",
+    "options": ["2005", "2008", "2010", "2013"],
+    "correctIndex": 1,
+    "explanation": "They defeated Arizona in the 2008 season’s Super Bowl."
+  },
+  {
+    "id": "sp-0371",
+    "title": "What year did the Washington Commanders officially adopt their current name?",
+    "options": ["2022", "2021", "2019", "2020"],
+    "correctIndex": 0,
+    "explanation": "The team rebranded as the Commanders in 2022."
+  },
+  {
+    "id": "sp-0372",
+    "title": "Who was the team's owner when the franchise first moved to Washington, D.C.?",
+    "options": ["Jack Kent Cooke", "George Preston Marshall", "Daniel Snyder", "Edward Bennett Williams"],
+    "correctIndex": 1,
+    "explanation": "George Preston Marshall was the owner when they moved to D.C. in 1937."
+  },
+  {
+    "id": "sp-0373",
+    "title": "Which home stadium did the Commanders play at before moving to Northwest Stadium?",
+    "options": ["FedExField", "RFK Stadium", "Griffith Stadium", "Fenway Park"],
+    "correctIndex": 1,
+    "explanation": "RFK Stadium was their longtime home before Northwest Stadium."
+  },
+  {
+    "id": "sp-0374",
+    "title": "Who was the first African American player selected by the Redskins after integration?",
+    "options": ["Jim Brown", "Ernie Davis", "Ron Hatcher", "Bobby Mitchell"],
+    "correctIndex": 2,
+    "explanation": "Ron Hatcher was the first black player to sign with the team."
+  },
+  {
+    "id": "sp-0375",
+    "title": "The infamous 'Baugh/Marshall Rule' was put in place because of what event?",
+    "options": [
+      "A forward pass striking the goal post causing a safety in the 1945 NFL Championship",
+      "A controversial coin toss in 1937",
+      "Coach Ray Flaherty’s ejection",
+      "A missed extra point in 1947"
+    ],
+    "correctIndex": 0,
+    "explanation": "The rule originated after a pass hit the goal post and caused a safety in the 1945 title game."
+  },
+  {
+    "id": "sp-0376",
+    "title": "Who won NFL MVP as a kicker for the Washington franchise?",
+    "options": ["Mark Mosley", "John Riggins", "Joe Theismann", "Larry Brown"],
+    "correctIndex": 0,
+    "explanation": "Mark Moseley (spelled Mosley in the text) won NFL MVP in 1982 as a kicker."
+  },
+  {
+    "id": "sp-0377",
+    "title": "Doug Williams made history as the first Black quarterback to...",
+    "options": [
+      "Be drafted first overall",
+      "Win the Super Bowl",
+      "Make the Pro Bowl",
+      "Throw for 5,000 yards"
+    ],
+    "correctIndex": 1,
+    "explanation": "Doug Williams was the first Black QB to win the Super Bowl (XXII)."
+  },
+  {
+    "id": "sp-0378",
+    "title": "During which Super Bowl did Mark Rypien win Super Bowl MVP?",
+    "options": ["Super Bowl XXII", "Super Bowl XVII", "Super Bowl XXVI", "Super Bowl XX"],
+    "correctIndex": 2,
+    "explanation": "Mark Rypien was Super Bowl XXVI MVP."
+  },
+  {
+    "id": "sp-0379",
+    "title": "What infamously happened in the 1940 NFL Championship Game?",
+    "options": [
+      "Redskins won their third title",
+      "Bears won 73–0, setting the record for largest margin of victory",
+      "Sammy Baugh was ejected",
+      "A blizzard forced a replay"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Bears won 73–0, the most lopsided game in NFL history."
+  },
+  {
+    "id": "sp-0380",
+    "title": "Which running back set the team’s single-season rushing record in 2012?",
+    "options": ["Clinton Portis", "Alfred Morris", "John Riggins", "Larry Brown"],
+    "correctIndex": 1,
+    "explanation": "Alfred Morris rushed for 1,613 yards in 2012, a team record."
+  },
+  {
+    "id": "sp-0381",
+    "title": "Which owner is considered among the worst in sports due to workplace issues?",
+    "options": ["George Preston Marshall", "Edward Bennett Williams", "Daniel Snyder", "Jack Kent Cooke"],
+    "correctIndex": 2,
+    "explanation": "Daniel Snyder was widely criticized for creating a negative workplace culture."
+  },
+  {
+    "id": "sp-0382",
+    "title": "Which player broke the franchise record for most receptions in a single season with 113?",
+    "options": ["Art Monk", "Santana Moss", "Pierre Garçon", "Terry McLaurin"],
+    "correctIndex": 2,
+    "explanation": "Pierre Garçon had 113 catches in 2013, beating Monk's old mark."
+  },
+  {
+    "id": "sp-0383",
+    "title": "The Commanders rebranded with a military-inspired motif and unveiled a pig mascot named:",
+    "options": ["Major Hog", "Sergeant Commander", "Captain Oink", "Major Tuddy"],
+    "correctIndex": 3,
+    "explanation": "Their mascot is Major Tuddy."
+  },
+  {
+    "id": "sp-0384",
+    "title": "In which season did Jayden Daniels win Offensive Rookie of the Year?",
+    "options": ["2022", "2023", "2024", "2025"],
+    "correctIndex": 2,
+    "explanation": "Jayden Daniels won the award in the 2024 season."
+  },
+  {
+    "id": "sp-0385",
+    "title": "Which future Pro Football Hall of Fame coach led Washington to three Super Bowl wins?",
+    "options": ["Joe Gibbs", "George Allen", "Jack Pardee", "Ray Flaherty"],
+    "correctIndex": 0,
+    "explanation": "Joe Gibbs led the team to wins in 1982, 1987, and 1991."
+  },
+  {
+    "id": "sp-0386",
+    "title": "Who was the only team member removed from the team's 'Ring of Fame'?",
+    "options": ["Sonny Jurgensen", "George Preston Marshall", "Darrell Green", "Joe Theismann"],
+    "correctIndex": 1,
+    "explanation": "George Preston Marshall was removed in 2020."
+  },
+  {
+    "id": "sp-0387",
+    "title": "The franchise's traditional 'classic' uniform involves what combination?",
+    "options": [
+      "White jersey with gold pants",
+      "Burgundy jersey with white pants",
+      "White jersey with burgundy pants",
+      "Burgundy jersey with burgundy pants"
+    ],
+    "correctIndex": 2,
+    "explanation": "White jersey with burgundy pants is considered the classic look."
+  },
+  {
+    "id": "sp-0388",
+    "title": "Which legendary broadcaster was play-by-play voice for the Commanders from 1979–2004?",
+    "options": ["Al Michaels", "John Madden", "Frank Herzog", "Bram Weinstein"],
+    "correctIndex": 2,
+    "explanation": "Frank Herzog held that role."
+  },
+  {
+    "id": "sp-0389",
+    "title": "What is the main rivalry game for the Commanders, often featured on national TV?",
+    "options": ["Commanders–Giants", "Commanders–Cowboys", "Commanders–Packers", "Commanders–Ravens"],
+    "correctIndex": 1,
+    "explanation": "Their primary rivalry is with the Dallas Cowboys."
+  },
+  {
+    "id": "sp-0390",
+    "title": "What poll found that 90% of Native Americans were not offended by the old team name?",
+    "options": [
+      "Gallup poll",
+      "The Washington Post poll",
+      "Annenberg Public Policy Center poll",
+      "NPR-Univision poll"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Annenberg Public Policy Center poll found this in 2004."
+  },
+  {
+    "id": "sp-0391",
+    "title": "What was the team’s record-breaking regular season point total in 1983?",
+    "options": ["485", "541", "593", "613"],
+    "correctIndex": 1,
+    "explanation": "They scored 541 points in 1983."
+  },
+  {
+    "id": "sp-0392",
+    "title": "Where is the Commanders' current team headquarters?",
+    "options": [
+      "Richmond, Virginia",
+      "Annapolis, Maryland",
+      "Dover, Delaware",
+      "Ashburn, Virginia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Their headquarters is in Ashburn, Virginia."
+  },
+  {
+    "id": "sp-0393",
+    "title": "Who was drafted as the second overall pick in the 2024 NFL Draft by the Commanders?",
+    "options": ["Chase Young", "Sam Howell", "Jayden Daniels", "Jeff Driskel"],
+    "correctIndex": 2,
+    "explanation": "Jayden Daniels was selected second overall in 2024."
+  },
+  {
+    "id": "sp-0394",
+    "title": "Which stadium will the Commanders’ proposed new $3.7 billion home be built on the site of?",
+    "options": ["FedExField", "Griffith Stadium", "RFK Stadium", "Memorial Coliseum"],
+    "correctIndex": 2,
+    "explanation": "The proposed stadium will be at the former RFK Stadium site."
+  },
+  {
+    "id": "sp-0395",
+    "title": "Which owner moved the team from Boston to Washington, D.C.?",
+    "options": [
+      "Edward Bennett Williams",
+      "Jack Kent Cooke",
+      "George Preston Marshall",
+      "Dan Snyder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Marshall moved the team in 1937."
+  },
+  {
+    "id": "sp-0396",
+    "title": "Who led the team to a playoff victory in the Commanders' 2024 12–5 season?",
+    "options": [
+      "Sam Howell",
+      "Chase Young",
+      "Jayden Daniels",
+      "Carson Wentz"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jayden Daniels led the team."
+  },
+  {
+    "id": "sp-0397",
+    "title": "Which owner replaced Danny Snyder as managing partner in 2023?",
+    "options": ["Edward Bennett Williams", "Jack Kent Cooke", "Josh Harris", "Mitchell Rales"],
+    "correctIndex": 2,
+    "explanation": "Josh Harris became the new owner in 2023."
+  },
+  {
+    "id": "sp-0398",
+    "title": "Who was the Commanders' head coach hired in 2024?",
+    "options": ["Ron Rivera", "Kliff Kingsbury", "Dan Quinn", "Joe Whitt Jr."],
+    "correctIndex": 2,
+    "explanation": "Dan Quinn was hired as head coach."
+  },
+  {
+    "id": "sp-0399",
+    "title": "Which of these is NOT a retired official number by the Washington franchise?",
+    "options": [
+      "28 (Darrell Green)",
+      "21 (Sean Taylor)",
+      "9 (Sonny Jurgensen)",
+      "7 (Joe Theismann)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Joe Theismann's number 7 is unofficially but not officially retired."
+  },
+  {
+    "id": "sp-0400",
+    "title": "Which quarterback suffered a career-ending leg injury on November 18, 1985?",
+    "options": [
+      "Doug Williams",
+      "Mark Brunell",
+      "Joe Theismann",
+      "Sonny Jurgensen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Theismann broke his leg that day."
+  },
+  {
+    "id": "sp-0401",
+    "title": "What color pants returned to the Commanders' uniform rotation in 2024 after being absent since 2018?",
+    "options": [
+      "Gold",
+      "White",
+      "Silver",
+      "Blue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gold pants returned in 2024."
+  },
+  {
+    "id": "sp-0402",
+    "title": "Who called 'We Want Dallas!' their playoff rallying cry?",
+    "options": [
+      "Houston Oilers fans",
+      "Green Bay Packers fans",
+      "Washington Commanders fans",
+      "Chicago Bears fans"
+    ],
+    "correctIndex": 2,
+    "explanation": "Washington fans chanted 'We Want Dallas!'"
+  },
+  {
+    "id": "sp-0403",
+    "title": "Who was Commander’s head coach from 1981 to 1992 and again from 2004 to 2007?",
+    "options": [
+      "Joe Gibbs",
+      "Vince Lombardi",
+      "Richie Petitbon",
+      "Jay Gruden"
+    ],
+    "correctIndex": 0,
+    "explanation": "Joe Gibbs coached the team in both those periods."
+  },
+  {
+    "id": "sp-0404",
+    "title": "Which Super Bowl did the Commanders lose to the undefeated Miami Dolphins?",
+    "options": [
+      "Super Bowl XXVII",
+      "Super Bowl XV",
+      "Super Bowl VII",
+      "Super Bowl XIX"
+    ],
+    "correctIndex": 2,
+    "explanation": "They lost to the Dolphins in Super Bowl VII."
+  },
+  {
+    "id": "sp-0405",
+    "title": "The highest-scoring game in NFL history (113 total points) involved the Washington team and which opponent?",
+    "options": [
+      "Dallas Cowboys",
+      "Philadelphia Eagles",
+      "New York Giants",
+      "Chicago Bears"
+    ],
+    "correctIndex": 2,
+    "explanation": "It was against the New York Giants."
+  },
+  {
+    "id": "sp-0406",
+    "title": "Which jersey number did Champ Bailey wear with the team?",
+    "options": [
+      "21",
+      "24",
+      "28",
+      "31"
+    ],
+    "correctIndex": 1,
+    "explanation": "Champ Bailey wore #24."
+  },
+  {
+    "id": "sp-0407",
+    "title": "Who won NFL MVP in 1972 playing for the franchise?",
+    "options": [
+      "John Riggins",
+      "Joe Theismann",
+      "Larry Brown",
+      "Mark Moseley"
+    ],
+    "correctIndex": 2,
+    "explanation": "Larry Brown was NFL MVP in 1972."
+  },
+  {
+    "id": "sp-0408",
+    "title": "Who was the main architect and GM of the team’s three Super Bowl titles in the 1980s and early 1990s?",
+    "options": [
+      "Scot McCloughan",
+      "Charley Casserly",
+      "Bobby Beathard",
+      "George Allen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bobby Beathard was the GM for much of the team's Super Bowl success."
+  },
+  {
+    "id": "sp-0409",
+    "title": "Which of the following players is in the Pro Football Hall of Fame primarily for his Washington career?",
+    "options": [
+      "LaVar Arrington",
+      "Darrell Green",
+      "Champ Bailey",
+      "DeAngelo Hall"
+    ],
+    "correctIndex": 1,
+    "explanation": "Darrell Green spent his entire Hall of Fame career with Washington."
+  },
+  {
+    "id": "sp-0410",
+    "title": "What city did the Tennessee Titans originally call home?",
+    "options": ["Houston", "Nashville", "Memphis", "Dallas"],
+    "correctIndex": 0,
+    "explanation": "The franchise began as the Houston Oilers in Houston, Texas."
+  },
+  {
+    "id": "sp-0411",
+    "title": "In 1999, what was the new name adopted by the team formerly known as the Oilers?",
+    "options": ["Texans", "Titans", "Roughnecks", "Thunder"],
+    "correctIndex": 1,
+    "explanation": "The team was renamed the Tennessee Titans in 1999."
+  },
+  {
+    "id": "sp-0412",
+    "title": "Where did the Titans play their home games during the 1997 season?",
+    "options": ["Vanderbilt Stadium", "Liberty Bowl Memorial Stadium", "Nissan Stadium", "Rice Stadium"],
+    "correctIndex": 1,
+    "explanation": "They played at Liberty Bowl Memorial Stadium in Memphis in 1997."
+  },
+  {
+    "id": "sp-0413",
+    "title": "Which Houston Oilers quarterback was traded to the Minnesota Vikings?",
+    "options": ["Steve McNair", "Warren Moon", "Dan Pastorini", "George Blanda"],
+    "correctIndex": 1,
+    "explanation": "Warren Moon was traded to the Vikings after the 1993 season."
+  },
+  {
+    "id": "sp-0414",
+    "title": "Who was the Houston Oilers running back selected first overall in the 1978 NFL Draft?",
+    "options": ["Derrick Henry", "Earl Campbell", "Chris Johnson", "Lorenzo White"],
+    "correctIndex": 1,
+    "explanation": "Earl Campbell was the first overall pick in 1978."
+  },
+  {
+    "id": "sp-0415",
+    "title": "What is the current name of the Titans' home stadium since 1999?",
+    "options": ["Jeppesen Stadium", "Rice Stadium", "Nissan Stadium", "Astrodome"],
+    "correctIndex": 2,
+    "explanation": "Their home since 1999 is Nissan Stadium."
+  },
+  {
+    "id": "sp-0416",
+    "title": "Which player led the Titans to the Super Bowl XXXIV?",
+    "options": ["Vince Young", "Steve McNair", "Kerry Collins", "Ryan Tannehill"],
+    "correctIndex": 1,
+    "explanation": "Steve McNair was the starting quarterback for the Titans in Super Bowl XXXIV."
+  },
+  {
+    "id": "sp-0417",
+    "title": "Which AFC South rival do the Titans have the BEST all-time record against as of 2024?",
+    "options": ["Colts", "Texans", "Jaguars", "Ravens"],
+    "correctIndex": 2,
+    "explanation": "Titans have a 35–26 lead in the all-time series over the Jaguars."
+  },
+  {
+    "id": "sp-0418",
+    "title": "What color helmets did the Oilers wear from 1966 to 1971?",
+    "options": ["Blue", "Silver", "White", "Red"],
+    "correctIndex": 1,
+    "explanation": "The Oilers switched to silver helmets during this period."
+  },
+  {
+    "id": "sp-0419",
+    "title": "What team defeated the Titans in Super Bowl XXXIV?",
+    "options": ["Baltimore Ravens", "New England Patriots", "St. Louis Rams", "Indianapolis Colts"],
+    "correctIndex": 2,
+    "explanation": "The Titans fell to the St. Louis Rams 23–16."
+  },
+  {
+    "id": "sp-0420",
+    "title": "Which running back joined Chris Johnson as a 2,000-yard rusher for the Titans?",
+    "options": ["Earl Campbell", "Derrick Henry", "Eddie George", "Lorenzo White"],
+    "correctIndex": 1,
+    "explanation": "Derrick Henry ran for over 2,000 yards in 2020."
+  },
+  {
+    "id": "sp-0421",
+    "title": "Which Hall of Famer was the Oilers’ quarterback AND placekicker?",
+    "options": ["George Blanda", "Warren Moon", "Dan Pastorini", "Ken Stabler"],
+    "correctIndex": 0,
+    "explanation": "George Blanda was both QB and placekicker for the Oilers."
+  },
+  {
+    "id": "sp-0422",
+    "title": "In 2019, who did the Titans use as their primary starting quarterback after week 6?",
+    "options": ["Vince Young", "Ryan Tannehill", "Marcus Mariota", "Jake Locker"],
+    "correctIndex": 1,
+    "explanation": "Ryan Tannehill replaced Mariota midseason in 2019."
+  },
+  {
+    "id": "sp-0423",
+    "title": "Which division were the Oilers assigned to following the 1970 AFL-NFL merger?",
+    "options": ["AFC South", "AFC Central", "AFC North", "AFC West"],
+    "correctIndex": 1,
+    "explanation": "Oilers were placed in the AFC Central division."
+  },
+  {
+    "id": "sp-0424",
+    "title": "Under which head coach did the Titans appear in the Super Bowl?",
+    "options": ["Bum Phillips", "Mike Mularkey", "Jeff Fisher", "Mike Vrabel"],
+    "correctIndex": 2,
+    "explanation": "Jeff Fisher was head coach during the Titans' Super Bowl run."
+  },
+  {
+    "id": "sp-0425",
+    "title": "What year did the Houston Oilers become the Tennessee Titans?",
+    "options": ["1995", "1997", "1999", "2001"],
+    "correctIndex": 2,
+    "explanation": "The team adopted the Titans name in 1999."
+  },
+  {
+    "id": "sp-0426",
+    "title": "What is the nickname for the end zone fan sections at Nissan Stadium?",
+    "options": ["The Pit", "Flame Pit", "The Grill", "Titan Terrace"],
+    "correctIndex": 1,
+    "explanation": "The fan sections are called the 'Flame Pit'."
+  },
+  {
+    "id": "sp-0427",
+    "title": "Who owned the Houston Oilers/Tennessee Titans franchise until 2013?",
+    "options": ["Jerry Jones", "Amy Adams Strunk", "Bud Adams", "Arthur Blank"],
+    "correctIndex": 2,
+    "explanation": "Bud Adams owned the team until his death in 2013."
+  },
+  {
+    "id": "sp-0428",
+    "title": "The Titans’ mascot, T-Rac, is modeled after which animal?",
+    "options": ["Cougar", "Bear", "Raccoon", "Wolf"],
+    "correctIndex": 2,
+    "explanation": "T-Rac is a raccoon, the state animal of Tennessee."
+  },
+  {
+    "id": "sp-0429",
+    "title": "Who was the first player to rush for 2,000 yards in a season for the franchise?",
+    "options": ["Derrick Henry", "Eddie George", "Chris Johnson", "Earl Campbell"],
+    "correctIndex": 2,
+    "explanation": "Chris Johnson rushed for 2,006 yards in 2009."
+  },
+  {
+    "id": "sp-0430",
+    "title": "Which coach was hired by the Titans ahead of the 2024 season?",
+    "options": ["Jeff Fisher", "Mike Vrabel", "Brian Callahan", "Frank Reich"],
+    "correctIndex": 2,
+    "explanation": "The team hired Brian Callahan before the 2024 season."
+  },
+  {
+    "id": "sp-0431",
+    "title": "What franchise record is Ernest Givens known for holding?",
+    "options": ["Passing Yards", "Rushing Yards", "Receiving Yards", "Interceptions"],
+    "correctIndex": 2,
+    "explanation": "Ernest Givens leads the franchise in career receiving yards."
+  },
+  {
+    "id": "sp-0432",
+    "title": "Who was the Titans' quarterback during the 'Music City Miracle' game?",
+    "options": ["Marcus Mariota", "Steve McNair", "Billy Volek", "Ryan Tannehill"],
+    "correctIndex": 1,
+    "explanation": "Steve McNair was the starting QB during the Music City Miracle."
+  },
+  {
+    "id": "sp-0433",
+    "title": "Which 2020s running back led the NFL in rushing yards and touchdowns for the Titans?",
+    "options": ["Tyjae Spears", "Tony Pollard", "Derrick Henry", "Chris Johnson"],
+    "correctIndex": 2,
+    "explanation": "Derrick Henry led the league in both categories in 2020."
+  },
+  {
+    "id": "sp-0434",
+    "title": "In 2008, who was the veteran QB that led the Titans to a 13-3 record?",
+    "options": ["Steve McNair", "Jake Locker", "Kerry Collins", "Ryan Fitzpatrick"],
+    "correctIndex": 2,
+    "explanation": "Kerry Collins led the team after Vince Young was benched."
+  },
+  {
+    "id": "sp-0435",
+    "title": "Which color became the Titans’ primary home jersey in 2015?",
+    "options": ["White", "Titans Blue", "Navy Blue", "Red"],
+    "correctIndex": 2,
+    "explanation": "Navy blue became their main home jersey color again in 2015."
+  },
+  {
+    "id": "sp-0436",
+    "title": "Who is the all-time Titans/Oilers leader in rushing yards?",
+    "options": ["Earl Campbell", "Chris Johnson", "Eddie George", "Derrick Henry"],
+    "correctIndex": 2,
+    "explanation": "Eddie George is the franchise's all-time leading rusher."
+  },
+  {
+    "id": "sp-0437",
+    "title": "Which of these players is a member of the Oilers/Titans Ring of Honor?",
+    "options": ["Trevor Siemian", "Haywood Jeffires", "Bruce Matthews", "Johnny Hekker"],
+    "correctIndex": 2,
+    "explanation": "Bruce Matthews is a Ring of Honor member and Hall of Famer."
+  },
+  {
+    "id": "sp-0438",
+    "title": "Which team holds a 49–32 all-time series lead over the Oilers/Titans as of 2024?",
+    "options": ["Baltimore Ravens", "Jacksonville Jaguars", "Pittsburgh Steelers", "Indianapolis Colts"],
+    "correctIndex": 2,
+    "explanation": "The Pittsburgh Steelers have a 49–32 series edge."
+  },
+  {
+    "id": "sp-0439",
+    "title": "What was the original Oilers’ logo design?",
+    "options": ["Circle with a star", "Football helmet", "Oil rig derrick", "Torch"],
+    "correctIndex": 2,
+    "explanation": "The original logo was an oil rig derrick."
+  },
+  {
+    "id": "sp-0440",
+    "title": "Which future Hall of Fame offensive lineman played for the Oilers from 1982–1993?",
+    "options": ["Kevin Mawae", "Mike Munchak", "Bruce Matthews", "Taylor Lewan"],
+    "correctIndex": 1,
+    "explanation": "Mike Munchak played for the Oilers (1982–1993) and is a Hall of Famer."
+  },
+  {
+    "id": "sp-0441",
+    "title": "For which city did the Oilers briefly play home games in 1997?",
+    "options": ["Nashville", "Knoxville", "Memphis", "Chattanooga"],
+    "correctIndex": 2,
+    "explanation": "They played at the Liberty Bowl in Memphis."
+  },
+  {
+    "id": "sp-0442",
+    "title": "Who was inducted into both the Hall of Fame and the Oilers/Titans Ring of Honor as owner?",
+    "options": ["Amy Adams Strunk", "Bud Adams", "Floyd Reese", "Bum Phillips"],
+    "correctIndex": 1,
+    "explanation": "Bud Adams was both owner and a member of the Ring of Honor."
+  },
+  {
+    "id": "sp-0443",
+    "title": "Which team did the Titans defeat in the Music City Miracle playoff game?",
+    "options": ["Buffalo Bills", "Baltimore Ravens", "Pittsburgh Steelers", "Jacksonville Jaguars"],
+    "correctIndex": 0,
+    "explanation": "The Music City Miracle was a playoff win over the Bills."
+  },
+  {
+    "id": "sp-0444",
+    "title": "Which Titans QB won Offensive Rookie of the Year honors in 2006?",
+    "options": ["Kerry Collins", "Steve McNair", "Vince Young", "Jake Locker"],
+    "correctIndex": 2,
+    "explanation": "Vince Young was Offensive Rookie of the Year in 2006."
+  },
+  {
+    "id": "sp-0445",
+    "title": "What iconic feat did the Titans achieve in the 1999 AFC Championship?",
+    "options": ["Defeated Colts as wild card", "Shut out Ravens", "Beat Jaguars three times in one season", "Comeback win over Patriots"],
+    "correctIndex": 2,
+    "explanation": "The Titans beat the Jaguars three times, including the AFC title game."
+  },
+  {
+    "id": "sp-0446",
+    "title": "Which stadium are the Titans slated to move into in 2027?",
+    "options": ["Derrick Henry Dome", "Stadium of Light", "Nissan Stadium (new dome)", "Adelphia Coliseum"],
+    "correctIndex": 2,
+    "explanation": "The Titans are moving to a new Nissan Stadium dome in 2027."
+  },
+  {
+    "id": "sp-0447",
+    "title": "In 2014, who was the Titans' starting quarterback before Marcus Mariota was drafted?",
+    "options": ["Jake Locker", "Ryan Tannehill", "Kerry Collins", "Vince Young"],
+    "correctIndex": 0,
+    "explanation": "Jake Locker was the starter until Mariota was drafted in 2015."
+  },
+  {
+    "id": "sp-0448",
+    "title": "Which 1960s Oiler went on to coach the team in the NFL era?",
+    "options": ["Bruce Matthews", "Jim Norton", "Mike Munchak", "George Blanda"],
+    "correctIndex": 2,
+    "explanation": "Mike Munchak played for and later coached the franchise."
+  },
+  {
+    "id": "sp-0449",
+    "title": "Which number is NOT retired by the Titans/Oilers franchise?",
+    "options": ["9", "74", "12", "27"],
+    "correctIndex": 2,
+    "explanation": "Number 12 has not been retired by the franchise."
+  }
 ]
