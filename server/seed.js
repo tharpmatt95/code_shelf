@@ -21,7 +21,7 @@ const db = mongoose.connection;
 // -------------------------------------------------------------
 // Cleanup unwanted collections
 // -------------------------------------------------------------
-const keep = new Set(["users", "python", "movies", "aws"]);
+const keep = new Set(["users", "python", "movies", "aws", "sports"]);
 const collections = await db.db.listCollections().toArray();
 
 for (const col of collections) {
@@ -70,6 +70,15 @@ const AWS = mongoose.model(
 );
 
 // -------------------------------------------------------------
+// Sports model (collection: "sports")
+// -------------------------------------------------------------
+const Sports = mongoose.model(
+  "Sports",
+  questionSchema,
+  "sports"
+);
+
+// -------------------------------------------------------------
 // Helper: insert only missing items
 // -------------------------------------------------------------
 async function insertMissing(Model, jsonData) {
@@ -112,6 +121,13 @@ await insertMissing(Movie, moviesData);
 const awsFile = join(__dirname, "questions", "aws.json");
 const awsData = JSON.parse(readFileSync(awsFile, "utf-8"));
 await insertMissing(AWS, awsData);
+
+// -------------------------------------------------------------
+// Seed Sports
+// -------------------------------------------------------------
+const sportsFile = join(__dirname, "questions", "sports.json");
+const sportsData = JSON.parse(readFileSync(sportsFile, "utf-8"));
+await insertMissing(Sports, sportsData);
 
 // -------------------------------------------------------------
 process.exit(0);

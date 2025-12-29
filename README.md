@@ -1,4 +1,3 @@
-
 When adding a new section:
 
 * Update UserPage.vue to add a new `<el-descriptions-item label="Section Correct">`
@@ -11,3 +10,4 @@ When adding a new section:
 * Add a new correctSection schema to index.js
 * Add a new .populate('correctSection') in app.get('/auth/me') in index.js
 * Add a new SECTION QUIZ ROUTES section to index.js
+* Write the new SectionQuiz.vue

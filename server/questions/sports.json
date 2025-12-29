@@ -1,0 +1,1562 @@
+[
+    {
+        "id": "sp-0001",
+        "title": "Which event is remembered for Carli Lloyd's 13-minute hat trick?",
+        "options": ["Olympics", "Women's World Cup Final", "NCAA Soccer Finals", "FA Cup Final"],
+        "correctIndex": 1,
+        "explanation": "Carli Lloyd's hat trick came in the Women's World Cup final for the USWNT."
+    },
+    {
+        "id": "sp-0002",
+        "title": "Who threw the controversial Hail Mary in the 2012 Seahawks vs. Packers game known as the 'Fail Mary'?",
+        "options": ["Russell Wilson", "Aaron Rodgers", "Golden Tate", "Jimmy Connors"],
+        "correctIndex": 0,
+        "explanation": "Russell Wilson was the quarterback who threw the 'Fail Mary' pass."
+    },
+    {
+        "id": "sp-0003",
+        "title": "Which team's defeat was sealed by Hakim Warrick's block in the 2003 NCAA Championship?",
+        "options": ["Kansas", "Syracuse", "Kentucky", "Texas"],
+        "correctIndex": 0,
+        "explanation": "Kansas was the team whose potential game-tying shot was blocked by Hakim Warrick, clinching the win for Syracuse."
+    },
+    {
+        "id": "sp-0004",
+        "title": "Who took six shootout attempts for the United States in the 2014 Sochi Olympics hockey game versus Russia?",
+        "options": ["T.J. Oshie", "Patrick Kane", "Jonathan Quick", "Phil Kessel"],
+        "correctIndex": 0,
+        "explanation": "T.J. Oshie took six shootout attempts in that memorable game."
+    },
+    {
+        "id": "sp-0005",
+        "title": "Who is the only woman mentioned that dunked in an NCAA tournament game inspired by Lisa Leslie?",
+        "options": ["Candace Parker", "Brittney Griner", "Arike Ogunbowale", "Kia Nurse"],
+        "correctIndex": 0,
+        "explanation": "Candace Parker was inspired by Lisa Leslie and became the first woman to dunk in an NCAA tournament game."
+    },
+    {
+        "id": "sp-0006",
+        "title": "According to the text, who was the original host team devastated by Germany's 7-1 World Cup rout in 2014?",
+        "options": ["Brazil", "Argentina", "Spain", "France"],
+        "correctIndex": 0,
+        "explanation": "Brazil, as tournament hosts, suffered a historic 7-1 defeat to Germany in the 2014 World Cup semifinals."
+    },
+    {
+        "id": "sp-0007",
+        "title": "What iconic phrase became attached to Michael Jordan during 'The Last Dance' docuseries?",
+        "options": ["And then, I took that personally.", "Just do it.", "I am back.", "This is for Chicago."],
+        "correctIndex": 0,
+        "explanation": "Jordan's competitive mantra in the docuseries was 'And then, I took that personally.'"
+    },
+    {
+        "id": "sp-0008",
+        "title": "Which player scored the World Cup final hat trick for the USWNT in 2015?",
+        "options": ["Carli Lloyd", "Megan Rapinoe", "Abby Wambach", "Alex Morgan"],
+        "correctIndex": 0,
+        "explanation": "Carli Lloyd scored a 13-minute hat trick in the 2015 Women's World Cup final."
+    },
+    {
+        "id": "sp-0009",
+        "title": "Who is mentioned as being emotional rewatching Mo'ne Davis's shutout in the Little League World Series?",
+        "options": ["Mirin Fader", "Katie Baker", "Seerat Sohi", "Kellen Becoats"],
+        "correctIndex": 0,
+        "explanation": "Mirin Fader wrote about being emotional watching Mo'ne Davis's shutout."
+    },
+    {
+        "id": "sp-0010",
+        "title": "Which NBA team was DeAndre Jordan locked inside with during the 'hostage crisis'?",
+        "options": ["Clippers", "Mavericks", "Rockets", "Lakers"],
+        "correctIndex": 0,
+        "explanation": "The Clippers locked themselves in with DeAndre Jordan to prevent him from joining the Mavericks."
+    },
+    {
+        "id": "sp-0011",
+        "title": "Who delivered the motivational line 'Let's stop admiring them' before the WBC final?",
+        "options": ["Shohei Ohtani", "Mike Trout", "Yu Darvish", "Ichiro Suzuki"],
+        "correctIndex": 0,
+        "explanation": "Shohei Ohtani gave this pep talk before striking out Trout in the WBC final."
+    },
+    {
+        "id": "sp-0012",
+        "title": "Which player was infamously traded to the Lakers, drawing unanimous criticism?",
+        "options": ["Luka Doncic", "LeBron James", "Anthony Davis", "Kyrie Irving"],
+        "correctIndex": 1,
+        "explanation": "The shocking hypothetical trade was Luka Doncic to the Lakers."
+    },
+    {
+        "id": "sp-0013",
+        "title": "Who celebrated after winning gold in the 100m at the 2024 Olympics by showing his name tag to the crowd?",
+        "options": ["Kishane Thompson", "Noah Lyles", "Christian Coleman", "Usain Bolt"],
+        "correctIndex": 1,
+        "explanation": "Noah Lyles celebrated his narrow 100m win at the Olympics by showing his name tag to the crowd."
+    },
+    {
+        "id": "sp-0014",
+        "title": "Which sport was the focus of the infamous 'Fail Mary' game?",
+        "options": ["Basketball", "Football", "Baseball", "Soccer"],
+        "correctIndex": 1,
+        "explanation": "The 'Fail Mary' occurred in an NFL football game."
+    },
+    {
+        "id": "sp-0015",
+        "title": "Who suffered a humiliating knockout loss to Holly Holm in UFC 193?",
+        "options": ["Amanda Nunes", "Ronda Rousey", "Miesha Tate", "Cristiane Justino"],
+        "correctIndex": 1,
+        "explanation": "Ronda Rousey was defeated by Holly Holm in a shocking upset."
+    },
+    {
+        "id": "sp-0016",
+        "title": "Who was the primary rival WR that Richard Sherman shut down in the 2014 NFC Championship?",
+        "options": ["Doug Baldwin", "Michael Crabtree", "Larry Fitzgerald", "Julio Jones"],
+        "correctIndex": 1,
+        "explanation": "Sherman famously called Crabtree a 'sorry receiver' after shutting him down."
+    },
+    {
+        "id": "sp-0017",
+        "title": "Which city hosted the infamous 2014 World Cup humiliation for Brazil?",
+        "options": ["Rio de Janeiro", "Belo Horizonte", "Sao Paulo", "Brasilia"],
+        "correctIndex": 1,
+        "explanation": "The Brazil-Germany 7-1 semi-final took place in Belo Horizonte."
+    },
+    {
+        "id": "sp-0018",
+        "title": "Which podcast featured a segment called 'The Luka Doncic Trade Is the Dumbest NBA Move I’ve Ever Seen'?",
+        "options": ["The Lowe Post", "The Bill Simmons Podcast", "All The Smoke", "Overtime Elite"],
+        "correctIndex": 1,
+        "explanation": "'The Bill Simmons Podcast' devoted time to the hypothetical Luka Doncic trade."
+    },
+    {
+        "id": "sp-0019",
+        "title": "Who was the first girl and first African American girl to win a game and pitch a shutout at the Little League World Series?",
+        "options": ["Ayumi Kaihori", "Mo’ne Davis", "Serena Williams", "Lisa Leslie"],
+        "correctIndex": 1,
+        "explanation": "Mo'ne Davis accomplished both feats at the Little League World Series."
+    },
+    {
+        "id": "sp-0020",
+        "title": "Who was the losing goaltender in T.J. Oshie's Olympic shootout heroics?",
+        "options": ["Cory Schneider", "Sergei Bobrovsky", "Henrik Lundqvist", "Pekka Rinne"],
+        "correctIndex": 1,
+        "explanation": "Sergei Bobrovsky was beaten four times by Oshie in the Olympic shootout."
+    },
+    {
+        "id": "sp-0021",
+        "title": "Who was handed the Stanley Cup in Boston after the Blackhawks' 17-second comeback?",
+        "options": ["Jeremy Jacobs", "Gary Bettman", "Bill Daly", "Stan Bowman"],
+        "correctIndex": 1,
+        "explanation": "NHL commissioner Gary Bettman presented the Cup after the 17-second shock."
+    },
+    {
+        "id": "sp-0022",
+        "title": "Which journalist wrote the story about Michelle Kwan's 'Fields of Gold' routine?",
+        "options": ["Joel Anderson", "Ben Glicksman", "Bryan Curtis", "Megan Schuster"],
+        "correctIndex": 1,
+        "explanation": "Ben Glicksman provided the emotional analysis of Michelle Kwan's Olympic performance."
+    },
+    {
+        "id": "sp-0023",
+        "title": "Which shocking Olympic result is described as 'heartbreaking for everyone outside the 50 states'?",
+        "options": ["Michael Phelps's loss", "Carli Lloyd's long goal", "Usain Bolt's false start", "Serena Williams's exit"],
+        "correctIndex": 2,
+        "explanation": "Carli Lloyd's third goal from nearly halfway sealed the USWNT win in the World Cup final, heartbreaking for Japan."
+    },
+    {
+        "id": "sp-0024",
+        "title": "Which animal won the 2015 Triple Crown and inspired online outrage when not named SI Sportsperson?",
+        "options": ["Secretariat", "Seattle Slew", "American Pharaoh", "Justify"],
+        "correctIndex": 2,
+        "explanation": "American Pharaoh won the Triple Crown and had a passionate fan base."
+    },
+    {
+        "id": "sp-0025",
+        "title": "Who was the Michigan running back famously de-helmeted by Jadeveon Clowney?",
+        "options": ["Denard Robinson", "De'Veon Smith", "Vincent Smith", "Mike Hart"],
+        "correctIndex": 2,
+        "explanation": "Vincent Smith was destroyed by Clowney's iconic hit."
+    },
+    {
+        "id": "sp-0026",
+        "title": "Which two players faced off in the climactic at-bat of the 2023 World Baseball Classic?",
+        "options": ["Freddie Freeman & Shohei Ohtani", "Mike Trout & Vladimir Guerrero Jr.", "Mike Trout & Shohei Ohtani", "Yoshinobu Yamamoto & Mookie Betts"],
+        "correctIndex": 2,
+        "explanation": "Mike Trout struck out against his Angels teammate Shohei Ohtani for the WBC title."
+    },
+    {
+        "id": "sp-0027",
+        "title": "Who famously blew out his Nike PG 2.5 shoe in a game against UNC?",
+        "options": ["Jayson Tatum", "Ja Morant", "Zion Williamson", "Paolo Banchero"],
+        "correctIndex": 2,
+        "explanation": "Zion Williamson's shoe exploded early in his much-hyped Duke freshman season."
+    },
+    {
+        "id": "sp-0028",
+        "title": "Who is described as the pride of Warroad, Minnesota, and starred in the Sochi Olympics?",
+        "options": ["Phil Kessel", "James van Riemsdyk", "T.J. Oshie", "Patrick Kane"],
+        "correctIndex": 2,
+        "explanation": "T.J. Oshie is a Warroad native and Olympics shootout hero."
+    },
+    {
+        "id": "sp-0029",
+        "title": "What was the most indelible image from Michelle Kwan's 'Fields of Gold' performance?",
+        "options": ["Her holding the gold medal aloft", "Arms suspended above her head, tears streaming down her face", "The judges' standing ovation", "Her fall on a triple loop"],
+        "correctIndex": 2,
+        "explanation": "Kwan held her arms above her head with tears streaming down her face, creating an iconic sports image."
+    },
+    {
+        "id": "sp-0030",
+        "title": "Which legendary tennis match spanned three days and 183 games?",
+        "options": ["Federer vs. Nadal, 2008", "Borg vs. McEnroe, 1980", "Isner vs. Mahut, 2010", "Agassi vs. Sampras, 2001"],
+        "correctIndex": 2,
+        "explanation": "Isner and Mahut played the longest match at Wimbledon in 2010."
+    },
+    {
+        "id": "sp-0031",
+        "title": "What was the main flaw in the organization of the 2021 European Super League?",
+        "options": ["Not enough money", "Too much competition", "Poor planning and marketing", "No television deal"],
+        "correctIndex": 2,
+        "explanation": "The Super League failed due to disastrous planning and communication."
+    },
+    {
+        "id": "sp-0032",
+        "title": "Who described feeling 'nostalgic' rewatching Arike Ogunbowale's buzzer-beater?",
+        "options": ["Katie Baker", "J. Kyle Mann", "Kellen Becoats", "Danny Kelly"],
+        "correctIndex": 2,
+        "explanation": "Kellen Becoats recalls nostalgia watching Ogunbowale's incredible run."
+    },
+    {
+        "id": "sp-0033",
+        "title": "Which team did Dave Bolland score against to seal the Stanley Cup in 17 seconds?",
+        "options": ["Blackhawks", "Red Wings", "Bruins", "Kings"],
+        "correctIndex": 2,
+        "explanation": "Dave Bolland scored against the Boston Bruins in the Stanley Cup Final."
+    },
+    {
+        "id": "sp-0034",
+        "title": "Who was the USWNT opponent whose keeper was left helpless by Carli Lloyd's halfway line goal?",
+        "options": ["France", "Japan", "Germany", "Canada"],
+        "correctIndex": 1,
+        "explanation": "Lloyd's halfway line goal at the Women's World Cup final was against Japan."
+    },
+    {
+        "id": "sp-0035",
+        "title": "Who is the tennis commentator that described his own Isner-Mahut match coverage as a 'cure for insomnia'?",
+        "options": ["Jim Courier", "Cliff Drysdale", "Ronald McIntosh", "John McEnroe"],
+        "correctIndex": 2,
+        "explanation": "Ronald McIntosh covered the Isner-Mahut match in his first-ever tennis broadcast."
+    },
+    {
+        "id": "sp-0036",
+        "title": "According to the text, which sport's Twitter was highlighted as enabling surreal moments and mythmaking?",
+        "options": ["NFL", "NBA", "MLB", "NHL"],
+        "correctIndex": 1,
+        "explanation": "The NBA's unique relationship with social media creates online mythology."
+    },
+    {
+        "id": "sp-0037",
+        "title": "Which NBA player's draft stock benefited from 'Zion Mania' in early 2019?",
+        "options": ["Michael Porter Jr.", "Brandon Ingram", "Zion Williamson", "Jayson Tatum"],
+        "correctIndex": 2,
+        "explanation": "Zion Williamson's hype created a frenzy before the 2019 NBA Draft."
+    },
+    {
+        "id": "sp-0038",
+        "title": "Who described their winning Olympic performance as possibly leaving the stadium as a 'punch line' if they lost?",
+        "options": ["Kishane Thompson", "Christian Coleman", "Noah Lyles", "Usain Bolt"],
+        "correctIndex": 2,
+        "explanation": "Noah Lyles feared he'd be mocked if he hadn't won in Paris."
+    },
+    {
+        "id": "sp-0039",
+        "title": "Which WNBA legend is credited as the first to execute a successful in-game dunk?",
+        "options": ["Cheryl Miller", "Diana Taurasi", "Lisa Leslie", "Sue Bird"],
+        "correctIndex": 2,
+        "explanation": "Lisa Leslie was the first WNBA player to dunk in a game."
+    },
+    {
+        "id": "sp-0040",
+        "title": "Who was denied the 'Sportsperson of the Year' award despite almost half the fan vote?",
+        "options": ["Serena Williams", "LeBron James", "American Pharaoh", "Steph Curry"],
+        "correctIndex": 2,
+        "explanation": "American Pharaoh lost SI's award despite a popular horse-based campaign."
+    },
+    {
+        "id": "sp-0041",
+        "title": "Who wrote the book Moneyball, helping to popularize analytics in sports?",
+        "options": ["Michael Lewis", "Bill James", "Billy Beane", "Paul DePodesta"],
+        "correctIndex": 0,
+        "explanation": "Michael Lewis authored Moneyball, which brought the analytics revolution to a mass audience."
+    },
+    {
+        "id": "sp-0042",
+        "title": "Which team was the focus of Michael Lewis’s Moneyball?",
+        "options": ["New York Yankees", "Oakland A’s", "Boston Red Sox", "Texas Rangers"],
+        "correctIndex": 1,
+        "explanation": "Moneyball documents the Oakland A's application of sabermetric principles."
+    },
+    {
+        "id": "sp-0043",
+        "title": "Kemba Walker’s iconic 2011 buzzer-beater in the Big East Tournament was against which team?",
+        "options": ["Pittsburgh", "Syracuse", "Louisville", "Georgetown"],
+        "correctIndex": 0,
+        "explanation": "Walker hit his famous stepback over Pitt's Gary McGhee."
+    },
+    {
+        "id": "sp-0044",
+        "title": "Who does the text identify as the 'unsung hero (or goat)' in Kemba Walker's buzzer-beater moment?",
+        "options": ["Kemba Walker", "Brad Wanamaker", "Gary McGhee", "Jeremy Lamb"],
+        "correctIndex": 2,
+        "explanation": "Gary McGhee is ill-fatedly remembered for defending Kemba."
+    },
+    {
+        "id": "sp-0045",
+        "title": "Which receiver was involved in the infamous 'Dez Caught It' play overturned by officials?",
+        "options": ["Dez Bryant", "Jason Witten", "Randall Cobb", "Davante Adams"],
+        "correctIndex": 0,
+        "explanation": "Dez Bryant’s overturned catch remains one of football’s most disputed moments."
+    },
+    {
+        "id": "sp-0046",
+        "title": "What awkward phrase did America learn after the 'Dez Caught It' incident?",
+        "options": [
+        "Football Move",
+        "Pass Interference",
+        "Maintain possession throughout the process of the catch",
+        "Intentional Grounding"
+        ],
+        "correctIndex": 2,
+        "explanation": "The phrase about 'maintain possession throughout the process of the catch' became notorious."
+    },
+    {
+        "id": "sp-0047",
+        "title": "Who secured an offensive rebound in Game 1 of the 2018 NBA Finals but ran out the clock, thinking his team led?",
+        "options": ["LeBron James", "J.R. Smith", "George Hill", "Tristan Thompson"],
+        "correctIndex": 1,
+        "explanation": "J.R. Smith's blunder was a defining Finals moment."
+    },
+    {
+        "id": "sp-0048",
+        "title": "Which Warriors player was under the rim when J.R. Smith could have attempted a shot in 2018 Finals Game 1?",
+        "options": ["Klay Thompson", "Draymond Green", "Kevin Durant", "Andre Iguodala"],
+        "correctIndex": 2,
+        "explanation": "J.R. Smith could have attempted a shot over Kevin Durant."
+    },
+    {
+        "id": "sp-0049",
+        "title": "Who set the then MLB single-season home run record with his 71st home run?",
+        "options": ["Sammy Sosa", "Mark McGwire", "Barry Bonds", "Ken Griffey Jr."],
+        "correctIndex": 2,
+        "explanation": "Barry Bonds hit his 71st in 2001, setting a new record."
+    },
+    {
+        "id": "sp-0050",
+        "title": "Why was Barry Bonds's home run legacy later called into question?",
+        "options": [
+        "He retired early",
+        "He switched teams often",
+        "Steroid allegations partially tied to the BALCO scandal",
+        "He never hit 30 homers in a season"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bonds's records remain uncelebrated by some due to alleged steroid use."
+    },
+    {
+        "id": "sp-0051",
+        "title": "From where did Caitlin Clark make her record-breaking shot to become the NCAAW all-time leading scorer?",
+        "options": [
+        "Left corner three",
+        "Free-throw line",
+        "Logo, 35 feet from the rim",
+        "Short baseline jumper"
+        ],
+        "correctIndex": 2,
+        "explanation": "Clark’s historic bucket came from well behind the arc, near the logo."
+    },
+    {
+        "id": "sp-0052",
+        "title": "Which former Husky is cited as only briefly out of position before Kemba Walker’s stepback?",
+        "options": [
+        "Jerome Dyson",
+        "Brad Wanamaker",
+        "Gary McGhee",
+        "Shabazz Napier"
+        ],
+        "correctIndex": 1,
+        "explanation": "Brad Wanamaker recovered from the pick, leaving McGhee isolated."
+    },
+    {
+        "id": "sp-0053",
+        "title": "Who was arrested on the morning of the 2024 PGA Championship but still shot 5-under that afternoon?",
+        "options": [
+        "Scottie Scheffler",
+        "Rory McIlroy",
+        "Brooks Koepka",
+        "Xander Schauffele"
+        ],
+        "correctIndex": 0,
+        "explanation": "Scheffler was famously arrested but still played and scored under par."
+    },
+    {
+        "id": "sp-0054",
+        "title": "Which offensive tackle famously wore a gas mask bong in a leaked video hours before the NFL Draft?",
+        "options": [
+        "Jonah Williams",
+        "Laremy Tunsil",
+        "Orlando Brown Jr.",
+        "Tristan Wirfs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Laremy Tunsil’s draft day video became an NFL meme."
+    },
+    {
+        "id": "sp-0055",
+        "title": "Demaryius Thomas scored a walk-off TD for Denver in OT on a pass from which quarterback?",
+        "options": [
+        "Peyton Manning",
+        "Kyle Orton",
+        "Tim Tebow",
+        "Brock Osweiler"
+        ],
+        "correctIndex": 2,
+        "explanation": "Tebow threw the quick-strike overtime touchdown to Thomas."
+    },
+    {
+        "id": "sp-0056",
+        "title": "Which cartoonish but accurate term did Brian Phillips use for the Houston Astros' sign-stealing scheme?",
+        "options": [
+        "Houston Cheat Job",
+        "A rickety-ass scandal",
+        "Operation Buzzer Bang",
+        "The Trash Can Conspiracy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Phillips dubbed it a 'rickety-ass scandal' in a memorable phrase."
+    },
+    {
+        "id": "sp-0057",
+        "title": "Who hit the triple that tied Game 6 of the 2011 World Series for the Cardinals?",
+        "options": [
+        "Albert Pujols",
+        "Yadier Molina",
+        "David Freese",
+        "Matt Holliday"
+        ],
+        "correctIndex": 2,
+        "explanation": "David Freese delivered the game-tying triple before his walk-off homer."
+    },
+    {
+        "id": "sp-0058",
+        "title": "Who was the Texas Rangers player who failed to catch the game-tying triple in Game 6 of the 2011 World Series?",
+        "options": [
+        "Josh Hamilton",
+        "Ian Kinsler",
+        "Adrian Beltre",
+        "Nelson Cruz"
+        ],
+        "correctIndex": 3,
+        "explanation": "Cruz could not track down Freese’s triple, making him the GOAT (not in a good way)."
+    },
+    {
+        "id": "sp-0059",
+        "title": "Which linebacker made the Super Bowl-winning tackle for the St. Louis Rams, stopping the Titans one yard short?",
+        "options": [
+        "Mike Jones",
+        "London Fletcher",
+        "Keith Bulluck",
+        "James Laurinaitis"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mike Jones wrapped up Kevin Dyson at the one-yard line in Super Bowl XXXIV."
+    },
+    {
+        "id": "sp-0060",
+        "title": "The image of Kevin Dyson stretching desperately for the goal line in Super Bowl XXXIV is most famously called:",
+        "options": [
+        "The Last Drop",
+        "The Tackle",
+        "The Final Stand",
+        "The Miracle Stop"
+        ],
+        "correctIndex": 1,
+        "explanation": "'The Tackle' immortalized the Rams’ title-winning play."
+    },
+    {
+        "id": "sp-0061",
+        "title": "Who hit a home run during Thom Brennaman’s infamous on-air apology?",
+        "options": [
+        "Nick Castellanos",
+        "Joey Votto",
+        "Eugenio Suárez",
+        "Aristides Aquino"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nick Castellanos became a meme with homer timing."
+    },
+    {
+        "id": "sp-0062",
+        "title": "How is the 'Castellanos meme' most widely remembered now, according to the text?",
+        "options": [
+        "For Brennaman's apology",
+        "Mostly for the home run and absurd timing",
+        "Because Castellanos was traded immediately after",
+        "For MLB’s reaction to the controversy"
+        ],
+        "correctIndex": 1,
+        "explanation": "It's remembered mostly for the home run's timing, overshadowing the apology."
+    },
+    {
+        "id": "sp-0063",
+        "title": "Which NBA team was widely believed to be robbed by referees in the 2002 Western Conference Finals?",
+        "options": [
+        "Dallas Mavericks",
+        "Sacramento Kings",
+        "Phoenix Suns",
+        "Portland Trail Blazers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Kings’ complaints about Game 6 remain infamous."
+    },
+    {
+        "id": "sp-0064",
+        "title": "Which Hall of Fame pitcher gave up Luis Gonzalez’s bloop single in the 2001 World Series?",
+        "options": [
+        "Tom Glavine",
+        "John Smoltz",
+        "Mariano Rivera",
+        "Randy Johnson"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rivera was on the mound for the fateful hit."
+    },
+    {
+        "id": "sp-0065",
+        "title": "Who recovered the Saints’ surprise onside kick in the Super Bowl, at least in the official box score?",
+        "options": [
+        "Jonathan Casillas",
+        "Chris Reis",
+        "Tracy Porter",
+        "Roman Harper"
+        ],
+        "correctIndex": 0,
+        "explanation": "Casillas is officially credited with the recovery."
+    },
+    {
+        "id": "sp-0066",
+        "title": "What phrase did CBS’s Jim Nantz say to Saints coach Sean Payton post-Super Bowl?",
+        "options": [
+        "\"You set a new NFL record.\"",
+        "\"You got some big balls. I’m telling you. You set the record.\"",
+        "\"Never seen guts like that!\"",
+        "\"You’re fearless.\""
+        ],
+        "correctIndex": 1,
+        "explanation": "Nantz praised Payton for his bold onside kick with colorful language."
+    },
+    {
+        "id": "sp-0067",
+        "title": "Which Laker hit the winning shot with 0.4 seconds left against the Spurs in 2004?",
+        "options": [
+        "Shaquille O'Neal",
+        "Kobe Bryant",
+        "Derek Fisher",
+        "Gary Payton"
+        ],
+        "correctIndex": 2,
+        "explanation": "Derek Fisher’s improbable buzzer-beater made history."
+    },
+    {
+        "id": "sp-0068",
+        "title": "Who was inbounding the ball to Fisher on the dramatic final play in 2004?",
+        "options": [
+        "Kobe Bryant",
+        "Shaquille O'Neal",
+        "Derek Fisher",
+        "Gary Payton"
+        ],
+        "correctIndex": 3,
+        "explanation": "Gary Payton threw the pass that led to Fisher’s winner."
+    },
+    {
+        "id": "sp-0069",
+        "title": "Which Spur made a dramatic shot seconds before Fisher’s game-winner in 2004?",
+        "options": [
+        "Tony Parker",
+        "Manu Ginóbili",
+        "Tim Duncan",
+        "Bruce Bowen"
+        ],
+        "correctIndex": 2,
+        "explanation": "Tim Duncan made a tough basket with little time left."
+    },
+    {
+        "id": "sp-0070",
+        "title": "Which USC player is credited with the most impactful all-around game during the infamous 'Bush Push'?",
+        "options": [
+        "Steve Smith",
+        "Lendale White",
+        "Reggie Bush",
+        "Matt Leinart"
+        ],
+        "correctIndex": 2,
+        "explanation": "Bush racked up yards and touchdowns besides his namesake push."
+    },
+    {
+        "id": "sp-0071",
+        "title": "Who scored three goals in seven minutes for Liverpool in the 2005 Champions League Final?",
+        "options": [
+        "Jerzy Dudek",
+        "Steven Gerrard & teammates",
+        "Andriy Shevchenko",
+        "Jamie Carragher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Liverpool’s comeback relied on rapid scoring from Gerrard and teammates."
+    },
+    {
+        "id": "sp-0072",
+        "title": "Which Liverpool player made the famous 'Hand of Pope' penalty saves in Istanbul?",
+        "options": [
+        "Jerzy Dudek",
+        "Steven Gerrard",
+        "Pepe Reina",
+        "Jamie Carragher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dudek’s heroics inspired Liverpool’s Miracle of Istanbul."
+    },
+    {
+        "id": "sp-0073",
+        "title": "Mario Chalmers hit a three-pointer to tie the NCAA title game for Kansas, but who initiated the crucial, out-of-balance pass?",
+        "options": [
+        "Darrell Arthur",
+        "Sherron Collins",
+        "Darnell Jackson",
+        "Russell Robinson"
+        ],
+        "correctIndex": 1,
+        "explanation": "Collins slipped but delivered the desperation assist to Chalmers."
+    },
+    {
+        "id": "sp-0074",
+        "title": "Which college coach is criticized for not instructing his team to foul before a critical three-pointer?",
+        "options": [
+        "Bill Self",
+        "Roy Williams",
+        "John Calipari",
+        "Tom Izzo"
+        ],
+        "correctIndex": 2,
+        "explanation": "Calipari’s non-foul led to Chalmers’s iconic shot."
+    },
+    {
+        "id": "sp-0075",
+        "title": "Who consoled Naomi Osaka at the US Open after fans booed during her first Grand Slam win?",
+        "options": [
+        "Martina Navratilova",
+        "Venus Williams",
+        "Serena Williams",
+        "Coco Gauff"
+        ],
+        "correctIndex": 2,
+        "explanation": "Serena Williams comforted Osaka as the crowd jeered."
+    },
+    {
+        "id": "sp-0076",
+        "title": "Who delivered the famous World Series first-pitch strike after 9/11?",
+        "options": [
+        "George W. Bush",
+        "Barack Obama",
+        "Rudy Giuliani",
+        "Todd Greene"
+        ],
+        "correctIndex": 0,
+        "explanation": "President Bush threw the ceremonial strike in New York."
+    },
+    {
+        "id": "sp-0077",
+        "title": "How did the view of Bush’s first pitch change over time, according to the text?",
+        "options": [
+        "It remained universally praised",
+        "It’s now overshadowed by political criticism",
+        "It has come to symbolize nostalgia for unity that no longer exists",
+        "It was later mocked for poor form"
+        ],
+        "correctIndex": 2,
+        "explanation": "It’s now remembered as a rare moment of national togetherness."
+    },
+    {
+        "id": "sp-0078",
+        "title": "What was Pete Weber’s famous quote after winning his fifth U.S. Open bowling title?",
+        "options": [
+        "\"Who do you think you are? I am!\"",
+        "\"This one's for my father!\"",
+        "\"Number five, baby!\"",
+        "\"I told you I'd do it!\""
+        ],
+        "correctIndex": 0,
+        "explanation": "Weber’s memorable phrase became a sports meme."
+    },
+    {
+        "id": "sp-0079",
+        "title": "Pete Weber’s fifth U.S. Open title broke a tie with which family member?",
+        "options": [
+        "His brother",
+        "His cousin",
+        "His son",
+        "His father"
+        ],
+        "correctIndex": 3,
+        "explanation": "Dick Weber, Pete’s father, was an icon in bowling history."
+    },
+    {
+        "id": "sp-0080",
+        "title": "Who was the Notre Dame opponent in the 'Bush Push' game?",
+        "options": [
+        "USC",
+        "Michigan",
+        "Ohio State",
+        "Penn State"
+        ],
+        "correctIndex": 0,
+        "explanation": "USC was the team to beat in the epic 2005 game."
+    },
+    {
+        "id": "sp-0081",
+        "title": "Who pulled off 'The Dunk of Death' over Frédéric Weis during the 2000 Olympics?",
+        "options": ["Vince Carter", "Kobe Bryant", "LeBron James", "Allen Iverson"],
+        "correctIndex": 0,
+        "explanation": "Vince Carter's iconic dunk over Weis became legendary."
+    },
+    {
+        "id": "sp-0082",
+        "title": "Which rule's application triggered chaos and controversy in the Patriots-Raiders playoff game in 2002?",
+        "options": ["Immaculate Reception rule", "Tuck Rule", "Helmet Catch rule", "Neutral Zone Infraction rule"],
+        "correctIndex": 1,
+        "explanation": "The application of the Tuck Rule was pivotal and infamous."
+    },
+    {
+        "id": "sp-0083",
+        "title": "Steph Curry hit four late 3s to bury which team in the 2024 Olympic gold medal game?",
+        "options": ["Spain", "France", "Australia", "Serbia"],
+        "correctIndex": 1,
+        "explanation": "Curry's outburst secured Team USA's win over France."
+    },
+    {
+        "id": "sp-0084",
+        "title": "Which production mishap amplified the excitement of Kris Jenkins’s 2016 championship buzzer-beater?",
+        "options": ["Light show malfunction", "Scoreboard blackout", "Premature confetti cannons", "Microphone feedback"],
+        "correctIndex": 2,
+        "explanation": "Premature confetti cannons set off before the buzzer, adding to the moment's legend."
+    },
+    {
+        "id": "sp-0085",
+        "title": "Which play is considered the centerpiece of one of the most embarrassing NFL moments, involving Mark Sanchez?",
+        "options": ["The Butt Fumble", "The Music City Miracle", "The Immaculate Reception", "The Tuck Rule"],
+        "correctIndex": 0,
+        "explanation": "Mark Sanchez's Butt Fumble is a notorious NFL blooper."
+    },
+    {
+        "id": "sp-0086",
+        "title": "In 2007, LeBron James scored 25 straight points to lead which team to a pivotal win?",
+        "options": ["Miami Heat", "Cleveland Cavaliers", "San Antonio Spurs", "Detroit Pistons"],
+        "correctIndex": 1,
+        "explanation": "LeBron's first major postseason defining moment came with the Cavs."
+    },
+    {
+        "id": "sp-0087",
+        "title": "Who made the famous 'Flip' during the 2001 ALDS between the Yankees and Athletics?",
+        "options": ["Derek Jeter", "Mariano Rivera", "Billy Beane", "Jason Giambi"],
+        "correctIndex": 0,
+        "explanation": "Derek Jeter's flip play helped keep the Yankees alive."
+    },
+    {
+        "id": "sp-0088",
+        "title": "Which Alabama quarterback replaced Jalen Hurts at halftime and led a comeback in the 2018 National Championship?",
+        "options": ["Tua Tagovailoa", "Bryce Young", "AJ McCarron", "Blake Sims"],
+        "correctIndex": 0,
+        "explanation": "Tua Tagovailoa came in and threw the game-winning touchdown."
+    },
+    {
+        "id": "sp-0089",
+        "title": "Who did Allen Iverson famously step over during the 2001 NBA Finals?",
+        "options": ["Kobe Bryant", "Shaquille O'Neal", "Tyronn Lue", "Derek Fisher"],
+        "correctIndex": 2,
+        "explanation": "Iverson's stepover of Tyronn Lue is a forever iconic image."
+    },
+    {
+        "id": "sp-0090",
+        "title": "Which swimmer dominated the pool at the 2016 Rio Olympics, winning by massive margins?",
+        "options": ["Missy Franklin", "Katie Ledecky", "Simone Manuel", "Rebecca Adlington"],
+        "correctIndex": 1,
+        "explanation": "Katie Ledecky won several golds and set records in Rio."
+    },
+    {
+        "id": "sp-0091",
+        "title": "Which MLB pitcher killed a bird with a pitch during a 2001 spring training game?",
+        "options": ["Pedro Martinez", "Randy Johnson", "Greg Maddux", "Roger Clemens"],
+        "correctIndex": 1,
+        "explanation": "Randy Johnson hit a bird in one of MLB's wildest moments."
+    },
+    {
+        "id": "sp-0092",
+        "title": "Klay Thompson's legendary Game 6 performance in 2016 came against which team?",
+        "options": ["San Antonio Spurs", "Los Angeles Clippers", "Oklahoma City Thunder", "Houston Rockets"],
+        "correctIndex": 2,
+        "explanation": "Thompson's outburst eliminated the Thunder."
+    },
+    {
+        "id": "sp-0093",
+        "title": "Who did Zinedine Zidane headbutt in the 2006 World Cup final?",
+        "options": ["Fabio Cannavaro", "Marco Materazzi", "Andrea Pirlo", "Gianluigi Buffon"],
+        "correctIndex": 1,
+        "explanation": "Zidane's infamous headbutt was on Materazzi."
+    },
+    {
+        "id": "sp-0094",
+        "title": "What accessory is most indelibly associated with Steve Bartman during the infamous Cubs incident?",
+        "options": ["Sunglasses", "Headphones", "Mittens", "Foam finger"],
+        "correctIndex": 1,
+        "explanation": "Bartman's headphones became a symbol of the incident."
+    },
+    {
+        "id": "sp-0095",
+        "title": "Who hit a dramatic World Series walk-off grand slam in October 2024?",
+        "options": ["Freddie Freeman", "Jose Altuve", "Aaron Judge", "Corey Seager"],
+        "correctIndex": 0,
+        "explanation": "Freddie Freeman's walk-off was the stuff of legend."
+    },
+    {
+        "id": "sp-0096",
+        "title": "The Music City Miracle featured a controversial lateral by which player?",
+        "options": ["Frank Wycheck", "Kevin Dyson", "Steve McNair", "Eddie George"],
+        "correctIndex": 0,
+        "explanation": "Frank Wycheck threw the pivotal lateral."
+    },
+    {
+        "id": "sp-0097",
+        "title": "Which gymnast cemented GOAT status by winning the all-around in the 2024 Paris Olympics?",
+        "options": ["Simone Biles", "Sunisa Lee", "Gabby Douglas", "Rebeca Andrade"],
+        "correctIndex": 0,
+        "explanation": "Simone Biles's triumph capped her GOAT résumé."
+    },
+    {
+        "id": "sp-0098",
+        "title": "Shaquille O’Neal’s most indelible reaction after the famous 2000 alley-oop was:",
+        "options": ["Beating his chest", "Running up court with mouth agape and pointing", "Throwing the ball at the crowd", "Flexing at the camera"],
+        "correctIndex": 1,
+        "explanation": "Shaq ran, mouth agape, and signaled to his family."
+    },
+    {
+        "id": "sp-0099",
+        "title": "Which upset in March Madness history was the first ever win by a 16-seed over a 1-seed?",
+        "options": ["Florida Gulf Coast beating Georgetown", "UMBC beating Virginia", "Norfolk State beating Missouri", "Fairleigh Dickinson beating Purdue"],
+        "correctIndex": 1,
+        "explanation": "UMBC's upset of Virginia was the historic first."
+    },
+    {
+        "id": "sp-0100",
+        "title": "Who made the famous 'Double Bang' game winner vs. the Thunder in February 2016?",
+        "options": ["Steph Curry", "Klay Thompson", "Damian Lillard", "Kevin Durant"],
+        "correctIndex": 0,
+        "explanation": "Steph Curry's shot led to Mike Breen's 'Double Bang' call."
+    },
+    {
+        "id": "sp-0101",
+        "title": "The 'You Can’t See Me' and 'Ring Me' gestures in 2023 women's NCAA final were made by:",
+        "options": ["Caitlin Clark", "Angel Reese", "Kim Mulkey", "Aliyah Boston"],
+        "correctIndex": 1,
+        "explanation": "Angel Reese sparked a viral trash-talking celebration."
+    },
+    {
+        "id": "sp-0102",
+        "title": "Which commentator’s 'BANG! BANG!' call became iconic after a Curry game-winner?",
+        "options": ["Kevin Harlan", "Mike Breen", "Hubie Brown", "Jeff Van Gundy"],
+        "correctIndex": 1,
+        "explanation": "Mike Breen's 'Double Bang' call is legendary."
+    },
+    {
+        "id": "sp-0103",
+        "title": "Who was famously celebrated with the quote 'You the real MVP'?",
+        "options": ["LeBron James", "Kevin Durant", "Russell Westbrook", "Stephen Curry"],
+        "correctIndex": 1,
+        "explanation": "Kevin Durant delivered the 'real MVP' line in his heartfelt speech."
+    },
+    {
+        "id": "sp-0104",
+        "title": "In the 2016 NCAA final, what unique noise amplified the TV presentation of Jenkins’s buzzer-beater?",
+        "options": ["Thunderous drumline", "Football crowd roar", "Confetti cannons explosion", "Halftime show music"],
+        "correctIndex": 2,
+        "explanation": "Confetti cannons going off early added to the excitement and comedy."
+    },
+    {
+        "id": "sp-0105",
+        "title": "Which major athlete is quoted as saying, 'Practice?! We talkin’ about practice, man!'?",
+        "options": ["Kobe Bryant", "Allen Iverson", "LeBron James", "Shaquille O'Neal"],
+        "correctIndex": 1,
+        "explanation": "Allen Iverson's practice rant is legendary."
+    },
+    {
+        "id": "sp-0106",
+        "title": "Who was the unsung hero for passing to Curry before his 'Golden Dagger' three in the 2024 Olympic final?",
+        "options": ["LeBron James", "Kevin Durant", "Anthony Davis", "Devin Booker"],
+        "correctIndex": 1,
+        "explanation": "Durant passed up a shot to set Curry up for the dagger."
+    },
+    {
+        "id": "sp-0107",
+        "title": "What MLB event is remembered for defeating the playoff-favorite Athletics in 2001?",
+        "options": ["The Pine Tar Game", "The Flip", "The Sandberg Game", "The Bloody Sock"],
+        "correctIndex": 1,
+        "explanation": "The Flip refers to Jeter's famous 2001 playoff play."
+    },
+    {
+        "id": "sp-0108",
+        "title": "What unique logo does Randy Johnson use for his post-retirement photography business?",
+        "options": ["A baseball", "A dead bird", "A camera", "A lightning bolt"],
+        "correctIndex": 1,
+        "explanation": "A dead bird, in reference to his infamous pitch."
+    },
+    {
+        "id": "sp-0109",
+        "title": "Which gymnast’s return after experiencing the 'twisties' inspired her Olympic triumph in 2024?",
+        "options": ["Simone Biles", "Laurie Hernandez", "Aly Raisman", "Rebeca Andrade"],
+        "correctIndex": 0,
+        "explanation": "Biles returned to competition after battling the 'twisties'."
+    },
+    {
+        "id": "sp-0110",
+        "title": "Which quote is attributed to Marshawn Lynch about self-care?",
+        "options": ["I’m just here so I don’t get fined.", "Take care of y’all chicken. Take care of y’all mentals.", "You play to win the game.", "That’s a clown question, bro."],
+        "correctIndex": 1,
+        "explanation": "Marshawn Lynch advocated for financial and mental self-care."
+    },
+    {
+        "id": "sp-0111",
+        "title": "Which basketball coach is known for the quote, 'We’re on to Cincinnati'?",
+        "options": ["Doc Rivers", "Phil Jackson", "Bill Belichick", "Pat Riley"],
+        "correctIndex": 2,
+        "explanation": "Bill Belichick popularized the phrase 'We’re on to Cincinnati.'"
+    },
+    {
+        "id": "sp-0112",
+        "title": "Which event marked the dawn of the Patriots’ NFL dynasty?",
+        "options": ["The Helmet Catch", "The Tuck Rule Game", "The Philly Special", "Deflategate"],
+        "correctIndex": 1,
+        "explanation": "The Tuck Rule Game was pivotal for the Patriots' dynasty."
+    },
+    {
+        "id": "sp-0113",
+        "title": "Who wore a green turtleneck, Cubs sweatshirt, cap, and headphones during a notorious MLB fan incident?",
+        "options": ["Moises Alou", "Steve Bartman", "Jeffrey Maier", "Bill Buckner"],
+        "correctIndex": 1,
+        "explanation": "Steve Bartman's outfit became a cultural reference."
+    },
+    {
+        "id": "sp-0114",
+        "title": "What did Doug Collins famously quip about Frédéric Weis after Vince Carter dunked over him?",
+        "options": ["'He’s about to retire.'", "'He’s going to play in Greece.'", "'He played good defense.'", "'He should have jumped.'"],
+        "correctIndex": 1,
+        "explanation": "Collins joked that Weis was escaping to Greece after the dunk."
+    },
+    {
+        "id": "sp-0115",
+        "title": "Which NFL team benefited from the most famous playoff lateral, known as the 'Music City Miracle'?",
+        "options": ["Buffalo Bills", "Tennessee Titans", "Houston Texans", "Dallas Cowboys"],
+        "correctIndex": 1,
+        "explanation": "The Titans won the miracle play versus Buffalo."
+    },
+    {
+        "id": "sp-0116",
+        "title": "Who was the Lakers coach who put Tyronn Lue on the 2001 playoff roster to defend Allen Iverson?",
+        "options": ["Pat Riley", "Phil Jackson", "Mike D’Antoni", "Frank Vogel"],
+        "correctIndex": 1,
+        "explanation": "Phil Jackson made the roster move anticipating Iverson."
+    },
+    {
+        "id": "sp-0117",
+        "title": "Which legendary Alabama coach was involved in the bold QB switch during the 2018 title game?",
+        "options": ["Urban Meyer", "Dabo Swinney", "Lincoln Riley", "Nick Saban"],
+        "correctIndex": 3,
+        "explanation": "Nick Saban replaced Hurts with Tua at halftime."
+    },
+    {
+        "id": "sp-0118",
+        "title": "Which sport has seen the biggest rise in 3-point attempts per game since 2015, according to Stathead?",
+        "options": ["NBA", "NFL", "MLB", "NHL"],
+        "correctIndex": 0,
+        "explanation": "Curry's influence led to a rise in NBA 3-point attempts."
+    },
+    {
+        "id": "sp-0119",
+        "title": "Who was the quote 'I'm a man! I'm 40!' famously attributed to?",
+        "options": ["Mike Gundy", "Nick Saban", "Urban Meyer", "Ed Orgeron"],
+        "correctIndex": 0,
+        "explanation": "Mike Gundy delivered the rant as Oklahoma State's head coach."
+    },
+    {
+        "id": "sp-0120",
+        "title": "What was the primary reason Frédéric Weis became infamous among basketball fans?",
+        "options": ["Being dunked on by Vince Carter", "Winning a gold medal", "Coaching France", "Blocking Shaq's shot"],
+        "correctIndex": 0,
+        "explanation": "Weis was immortalized for being on the wrong side of Carter's dunk."
+    },
+    {
+        "id": "sp-0121",
+        "title": "Who delivered the legendary 100-yard Super Bowl pick-six for the Steelers in Super Bowl XLIII?",
+        "options": ["James Harrison", "LaMarr Woodley", "Ryan Clark", "Ike Taylor"],
+        "correctIndex": 0,
+        "explanation": "James Harrison made the 100-yard interception return for a touchdown in Super Bowl XLIII."
+    },
+    {
+        "id": "sp-0122",
+        "title": "During Kobe Bryant's 81-point game, which Raptors forward famously said, 'We were just watching him shoot'?",
+        "options": ["Vince Carter", "Chris Bosh", "Morris Peterson", "James Johnson"],
+        "correctIndex": 1,
+        "explanation": "Chris Bosh summarized the Raptors' helplessness during Kobe's historic performance."
+    },
+    {
+        "id": "sp-0123",
+        "title": "What was the most notable call from Martin Tyler during Aguero’s title-winning goal for Manchester City?",
+        "options": ["I can't believe it!", "Unbelievable scenes!", "AGUEROOOOOOOOOOOOO!", "This is football history!"],
+        "correctIndex": 2,
+        "explanation": "'AGUEROOOOOOOOOOOOO!' is the iconic line chanted by Martin Tyler."
+    },
+    {
+        "id": "sp-0124",
+        "title": "Which stadium was central to Steve Gleason’s famous blocked punt?",
+        "options": ["The Superdome", "The Georgia Dome", "The Metrodome", "The Rose Bowl"],
+        "correctIndex": 0,
+        "explanation": "New Orleans' Superdome was the site of Steve Gleason's historic play."
+    },
+    {
+        "id": "sp-0125",
+        "title": "A near-miss by which player in the NCAA title game became one of college basketball's greatest 'what ifs'?",
+        "options": ["Gordon Hayward", "Kyle Singler", "Sherron Collins", "Jon Scheyer"],
+        "correctIndex": 0,
+        "explanation": "Gordon Hayward just missed his potential game-winning shot against Duke."
+    },
+    {
+        "id": "sp-0126",
+        "title": "Which network broadcast its first game during Appalachian State's upset over Michigan?",
+        "options": ["Fox Sports", "Big Ten Network", "ESPN", "ABC"],
+        "correctIndex": 1,
+        "explanation": "The Big Ten Network debuted with the Appalachian State-Michigan game."
+    },
+    {
+        "id": "sp-0127",
+        "title": "Which phrase is associated with Joe Buck’s call of the Minneapolis Miracle?",
+        "options": ["DIGGS ... SIDELINE ... TOUCHDOWN!", "MINNESOTA MIRACLE!", "INTO THE END ZONE!", "BOUND FOR GLORY!"],
+        "correctIndex": 0,
+        "explanation": "'DIGGS ... SIDELINE ... TOUCHDOWN!' was Joe Buck's unforgettable call."
+    },
+    {
+        "id": "sp-0128",
+        "title": "Christian Fuchs is noted as an unsung hero in which unlikely championship team's story?",
+        "options": ["Chelsea", "Leicester City", "Tottenham Hotspur", "Liverpool"],
+        "correctIndex": 1,
+        "explanation": "Christian Fuchs was key in Leicester City's 2015-16 Premier League title run."
+    },
+    {
+        "id": "sp-0129",
+        "title": "If F1 director Michael Masi had not let certain lapped cars unlap themselves, who would have likely been 2021 champion?",
+        "options": ["Max Verstappen", "Sergio Perez", "Lewis Hamilton", "Valtteri Bottas"],
+        "correctIndex": 2,
+        "explanation": "Lewis Hamilton likely would have won the title without the controversial decision."
+    },
+    {
+        "id": "sp-0130",
+        "title": "Whose assist was crucial to Sidney Crosby’s gold medal-winning goal at the 2010 Olympics?",
+        "options": ["Corey Perry", "Drew Doughty", "Jarome Iginla", "Jonathan Toews"],
+        "correctIndex": 2,
+        "explanation": "Jarome Iginla’s board battle and pass enabled Crosby’s golden goal."
+    },
+    {
+        "id": "sp-0131",
+        "title": "Who did Tiger Woods tie on the 72nd hole to force a playoff at the 2008 U.S. Open?",
+        "options": ["Ernie Els", "Rocco Mediate", "Phil Mickelson", "Jim Furyk"],
+        "correctIndex": 1,
+        "explanation": "Rocco Mediate was forced into a playoff by Tiger's dramatic birdie putt."
+    },
+    {
+        "id": "sp-0132",
+        "title": "Which Texas Rangers infielder’s three errors helped set up José Bautista’s famous bat flip?",
+        "options": ["Elvis Andrus", "Ian Kinsler", "Adrián Beltré", "Rougned Odor"],
+        "correctIndex": 0,
+        "explanation": "Elvis Andrus committed three errors in the fateful inning."
+    },
+    {
+        "id": "sp-0133",
+        "title": "Whose one-handed catch redefined wide receiver play in the NFL?",
+        "options": ["DeAndre Hopkins", "Odell Beckham Jr.", "Julio Jones", "Stefon Diggs"],
+        "correctIndex": 1,
+        "explanation": "Odell Beckham Jr.’s catch inspired a generation of receivers."
+    },
+    {
+        "id": "sp-0134",
+        "title": "Which Boise State player scored the game-winning two-point conversion in the 2007 Fiesta Bowl?",
+        "options": ["Jared Zabransky", "Ian Johnson", "Chris Petersen", "Vinny Perretta"],
+        "correctIndex": 1,
+        "explanation": "Ian Johnson ran in the game-winning 2-point play and proposed right after."
+    },
+    {
+        "id": "sp-0135",
+        "title": "Who among the following did NOT make the Top 100 moments list, despite multiple rings?",
+        "options": ["Tom Brady", "Tim Duncan", "Kobe Bryant", "Kevin Durant"],
+        "correctIndex": 1,
+        "explanation": "Tim Duncan didn't make the list because he lacked a single 'defining moment.'"
+    },
+    {
+        "id": "sp-0136",
+        "title": "Serena Williams completed the 'Serena Slam' after winning which major?",
+        "options": ["US Open", "Australian Open", "French Open", "Wimbledon"],
+        "correctIndex": 1,
+        "explanation": "Serena completed the slam with her win at the Australian Open."
+    },
+    {
+        "id": "sp-0137",
+        "title": "Which memorable celebration followed Marshawn Lynch's 'Beast Quake' touchdown run?",
+        "options": ["Leaping into the stands", "Hold my dick pose", "Helmet throw", "Running into the tunnel"],
+        "correctIndex": 1,
+        "explanation": "Lynch's 'Hold my dick' pose became an iconic image."
+    },
+    {
+        "id": "sp-0138",
+        "title": "Which commentator’s phrase 'Go, Go, USA!' became the defining call of the Landon Donovan goal?",
+        "options": ["Ian Darke", "John Strong", "Andrés Cantor", "JP Dellacamera"],
+        "correctIndex": 0,
+        "explanation": "Ian Darke’s 'Go, Go, USA!' call is legendary in U.S. soccer."
+    },
+    {
+        "id": "sp-0139",
+        "title": "What did LeBron James call his move to Miami during his ESPN special?",
+        "options": ["The Transfer", "The Announcement", "The Decision", "The Departure"],
+        "correctIndex": 2,
+        "explanation": "LeBron’s move to Miami was dubbed 'The Decision.'"
+    },
+    {
+        "id": "sp-0140",
+        "title": "Which NFL dynasty did the underdog Eagles defeat with the 'Philly Special' play?",
+        "options": ["New England Patriots", "Pittsburgh Steelers", "Green Bay Packers", "Baltimore Ravens"],
+        "correctIndex": 0,
+        "explanation": "The Eagles used the Philly Special to beat the Patriots in Super Bowl LII."
+    },
+    {
+        "id": "sp-0141",
+        "title": "Aaron Boone’s famous 2003 ALCS homer came against which team?",
+        "options": ["Red Sox", "Marlins", "Yankees", "Cardinals"],
+        "correctIndex": 0,
+        "explanation": "Boone’s walk-off sent the Yankees over the Red Sox in the 2003 ALCS."
+    },
+    {
+        "id": "sp-0142",
+        "title": "Who replaced Lloyd Carr as Michigan's football coach after the loss to Appalachian State?",
+        "options": ["Urban Meyer", "Brady Hoke", "Rich Rodriguez", "Jim Harbaugh"],
+        "correctIndex": 2,
+        "explanation": "Rich Rodriguez took over following Carr’s retirement."
+    },
+    {
+        "id": "sp-0143",
+        "title": "The Boise State Statue of Liberty play involved which quarterback as the main decoy?",
+        "options": ["Kellen Moore", "Jared Zabransky", "Chris Petersen", "Brock Forsey"],
+        "correctIndex": 1,
+        "explanation": "Jared Zabransky’s pump fake was the play’s highlight."
+    },
+    {
+        "id": "sp-0144",
+        "title": "According to the text, which club’s modern dominance makes Leicester City’s 2016 title more remarkable?",
+        "options": ["Arsenal", "Manchester United", "Manchester City", "Tottenham"],
+        "correctIndex": 2,
+        "explanation": "Manchester City’s recent dominance highlights Leicester's achievement."
+    },
+    {
+        "id": "sp-0145",
+        "title": "Who became F1 race director after Michael Masi's departure?",
+        "options": ["Charlie Whiting", "Niels Wittich", "Race direction panel", "Ari Vatanen"],
+        "correctIndex": 1,
+        "explanation": "Niels Wittich took over as one of the new F1 race directors."
+    },
+    {
+        "id": "sp-0146",
+        "title": "Which U.S. soccer player was seen pounding the ground after Landon Donovan’s 2010 World Cup goal?",
+        "options": ["Jozy Altidore", "Clint Dempsey", "Tim Howard", "Oguchi Onyewu"],
+        "correctIndex": 2,
+        "explanation": "Tim Howard’s celebration was iconic following the last-gasp goal."
+    },
+    {
+        "id": "sp-0147",
+        "title": "Which player is remembered for once having the most Instagram followers among NFL athletes, thanks to a viral catch?",
+        "options": ["Julian Edelman", "Odell Beckham Jr.", "Antonio Brown", "DeAndre Hopkins"],
+        "correctIndex": 1,
+        "explanation": "Odell Beckham Jr. became a viral sensation after 'the catch'."
+    },
+    {
+        "id": "sp-0148",
+        "title": "In 2015, who was responsible for three consecutive defensive errors leading to the ALDS 'bat flip' inning?",
+        "options": ["Delino DeShields", "Elvis Andrus", "Josh Hamilton", "Prince Fielder"],
+        "correctIndex": 1,
+        "explanation": "Elvis Andrus had a disastrous inning."
+    },
+    {
+        "id": "sp-0149",
+        "title": "Who completed one of the greatest NFL playoff runs with a 67-yard touchdown called 'Beast Quake'?",
+        "options": ["DeSean Jackson", "Marshawn Lynch", "Frank Gore", "Doug Baldwin"],
+        "correctIndex": 1,
+        "explanation": "Marshawn Lynch’s Beast Quake run is NFL lore."
+    },
+    {
+        "id": "sp-0150",
+        "title": "Who scored the famous overtime goal for Team Canada in the 2010 Vancouver Olympics men’s hockey final?",
+        "options": ["Jonathan Toews", "Corey Perry", "Sidney Crosby", "Martin St. Louis"],
+        "correctIndex": 2,
+        "explanation": "Sidney Crosby’s 'Golden Goal' secured gold for Canada."
+    },
+    {
+        "id": "sp-0151",
+        "title": "Which quarterback led Boise State to victory in the 2007 Fiesta Bowl with a series of trick plays?",
+        "options": ["Kellen Moore", "Jared Zabransky", "Max Hall", "Russell Wilson"],
+        "correctIndex": 1,
+        "explanation": "Jared Zabransky orchestrated the victory."
+    },
+    {
+        "id": "sp-0152",
+        "title": "Which iconic moment featured Martin Tyler’s electrifying call, 'AGUEROOOOOOOO!'?",
+        "options": ["Tottenham win UCL", "Manchester City win Premier League", "Liverpool win title", "Leicester City's title win"],
+        "correctIndex": 1,
+        "explanation": "Manchester City’s last-gasp title clincher."
+    },
+    {
+        "id": "sp-0153",
+        "title": "Who famously completed a 'Serena Slam' by holding all four major titles at once?",
+        "options": ["Steffi Graf", "Venus Williams", "Serena Williams", "Monica Seles"],
+        "correctIndex": 2,
+        "explanation": "Serena Williams completed the feat in 2003."
+    },
+    {
+        "id": "sp-0154",
+        "title": "Which sports moment involved a trick play known as the 'Statue of Liberty'?",
+        "options": ["1984 Miami Hail Mary", "Boise State vs Oklahoma", "1994 Nebraska Fumblerooski", "Boise State vs Georgia"],
+        "correctIndex": 1,
+        "explanation": "Boise State’s Statue of Liberty play beat Oklahoma in the Fiesta Bowl."
+    },
+    {
+        "id": "sp-0155",
+        "title": "What was the primary impact of LeBron James’s 'Decision' special?",
+        "options": ["It led to free agency rules changing.", "It shifted NBA power to players.", "It resulted in more superteams.", "It broke TV ratings records."],
+        "correctIndex": 1,
+        "explanation": "LeBron’s move established player control over team choices in the NBA."
+    },
+    {
+        "id": "sp-0156",
+        "title": "Which quarterback caught a touchdown on the 'Philly Special' in Super Bowl LII?",
+        "options": ["Nick Foles", "Carson Wentz", "Tom Brady", "Alshon Jeffery"],
+        "correctIndex": 0,
+        "explanation": "Nick Foles, the Eagles' backup, caught the historic pass."
+    },
+    {
+        "id": "sp-0157",
+        "title": "Which game in 2007 kicked off the most chaotic college football season by featuring a huge upset?",
+        "options": ["Boise State over Oklahoma", "Appalachian State over Michigan", "Texas over USC", "Florida over Ohio State"],
+        "correctIndex": 1,
+        "explanation": "Appalachian State set the tone for college football chaos."
+    },
+    {
+        "id": "sp-0158",
+        "title": "Who provided the assist on Sidney Crosby's Olympic game-winning overtime goal?",
+        "options": ["Jarome Iginla", "Ryan Getzlaf", "Patrice Bergeron", "Corey Perry"],
+        "correctIndex": 0,
+        "explanation": "Jarome Iginla's pass set up Crosby's historic shot."
+    },
+    {
+        "id": "sp-0159",
+        "title": "What nickname best describes Serena Williams’ achievement of winning all four majors in a row?",
+        "options": ["The Venus Run", "The Golden Grand Slam", "The Serena Slam", "The Open Sweep"],
+        "correctIndex": 2,
+        "explanation": "Holding all four majors at once became known as the 'Serena Slam'."
+    },
+    {
+        "id": "sp-0160",
+        "title": "Who forced the Super Bowl into overtime with a 100-yard interception return for the Steelers?",
+        "options": ["Santonio Holmes", "Ben Roethlisberger", "James Harrison", "Troy Polamalu"],
+        "correctIndex": 2,
+        "explanation": "James Harrison’s return was a key play in Super Bowl XLIII."
+    },
+    {
+        "id": "sp-0161",
+        "title": "Who caught eight passes for 201 yards and four touchdowns in the Bills-Chiefs '13 Seconds' game?",
+        "options": ["Tyreek Hill", "Gabe Davis", "Travis Kelce", "Cole Beasley"],
+        "correctIndex": 1,
+        "explanation": "Gabe Davis had a record-setting night, scoring four touchdowns against the Chiefs."
+        },
+        {
+        "id": "sp-0162",
+        "title": "Which decision did the Bills special teams make after scoring with 13 seconds left that is still questioned?",
+        "options": ["Onside kick", "Squib kick", "Kicked into the end zone", "Pooch kick"],
+        "correctIndex": 2,
+        "explanation": "They kicked it into the end zone instead of squibbing or using an onside kick, allowing Chiefs time to respond."
+        },
+        {
+        "id": "sp-0163",
+        "title": "Who mugged for the cameras and smiled during the 2016 Olympic 100m semifinal?",
+        "options": ["Christian Coleman", "Chijindu Ujah", "Usain Bolt", "Andre De Grasse"],
+        "correctIndex": 2,
+        "explanation": "Usain Bolt famously turned and smiled at the camera near the end of his semifinal heat."
+        },
+        {
+        "id": "sp-0164",
+        "title": "Who did Usain Bolt glance at over his shoulder while smiling in the Rio 100m semifinal?",
+        "options": ["Yohan Blake", "Chijindu Ujah", "Justin Gatlin", "Asafa Powell"],
+        "correctIndex": 1,
+        "explanation": "CJ Ujah was the sprinter seen grimacing behind Bolt in the famous photo."
+        },
+        {
+        "id": "sp-0165",
+        "title": "The Nike logo famously teetered on the edge of which Masters hole in Tiger Woods's iconic chip-in?",
+        "options": ["10th", "12th", "13th", "16th"],
+        "correctIndex": 3,
+        "explanation": "Tiger's chip-in at Augusta's 16th hole made the Nike logo world famous."
+        },
+        {
+        "id": "sp-0166",
+        "title": "Which broadcaster exclaimed 'In your LIFE have you seen anything like that?!' after Woods's chip-in?",
+        "options": ["Jim Nantz", "Terry Gannon", "Verne Lundquist", "Dan Hicks"],
+        "correctIndex": 2,
+        "explanation": "Verne Lundquist famously exclaimed after Tiger Woods's legendary shot."
+        },
+        {
+        "id": "sp-0167",
+        "title": "Who almost took Megan Rapinoe off the field before her assist in the 2011 Women's World Cup?",
+        "options": ["Abby Wambach", "Pia Sundhage", "Hope Solo", "Kristine Lilly"],
+        "correctIndex": 1,
+        "explanation": "Coach Pia Sundhage considered subbing Rapinoe off before her assist to Wambach."
+        },
+        {
+        "id": "sp-0168",
+        "title": "What incredible trait did Megan Rapinoe display on her 2011 World Cup assist?",
+        "options": ["Her diving header", "Left-footed 50-yard cross", "Right-footed volley", "Through-ball nutmeg"],
+        "correctIndex": 1,
+        "explanation": "Rapinoe hit a remarkable left-footed 50-yard cross for Wambach's goal."
+        },
+        {
+        "id": "sp-0169",
+        "title": "The 2008 Wimbledon Final between Federer and Nadal is widely seen as the start of which tennis era?",
+        "options": ["Serve-and-volley era", "Big Three era", "Open era", "Clay court specialists"],
+        "correctIndex": 1,
+        "explanation": "It ushered in the Big Three era (Federer, Nadal, Djokovic) of men's tennis."
+        },
+        {
+        "id": "sp-0170",
+        "title": "Roger Federer's crucial loss in 2008 at Wimbledon ended his streak of how many years ranked No. 1?",
+        "options": ["Two", "Three", "Four", "Five"],
+        "correctIndex": 2,
+        "explanation": "Federer had been ranked No. 1 for over four years before his loss to Nadal."
+        },
+        {
+        "id": "sp-0171",
+        "title": "Kawhi Leonard sank his iconic, bouncing buzzer-beater against which team?",
+        "options": ["Milwaukee Bucks", "Boston Celtics", "Philadelphia 76ers", "Brooklyn Nets"],
+        "correctIndex": 2,
+        "explanation": "His shot bounced four times against the Sixers before falling in."
+        },
+        {
+        "id": "sp-0172",
+        "title": "What major TV event did Chris Ryan miss the Leonard shot for?",
+        "options": ["Breaking Bad finale", "Game of Thrones", "The Oscars", "NBA Draft Lottery"],
+        "correctIndex": 1,
+        "explanation": "Chris Ryan was watching Game of Thrones and missed the live moment."
+        },
+        {
+        "id": "sp-0173",
+        "title": "Who made the fourth-and-2 decision that haunts the 2006 Rose Bowl?",
+        "options": ["Mack Brown", "Vince Young", "Pete Carroll", "Matt Leinart"],
+        "correctIndex": 2,
+        "explanation": "Pete Carroll chose to keep Reggie Bush off the field—an infamous move."
+        },
+        {
+        "id": "sp-0174",
+        "title": "Which Texas player scored the game-winning touchdown in the 2006 Rose Bowl vs. USC?",
+        "options": ["Jamaal Charles", "Selvin Young", "Vince Young", "Colt McCoy"],
+        "correctIndex": 2,
+        "explanation": "Vince Young famously ran for the winning touchdown."
+        },
+        {
+        "id": "sp-0175",
+        "title": "The phrase '28-3' refers to which kind of comeback?",
+        "options": ["NHL", "NBA", "NFL", "MLB"],
+        "correctIndex": 2,
+        "explanation": "28-3 was the Falcons' lead over the Patriots in Super Bowl LI—NFL."
+        },
+        {
+        "id": "sp-0176",
+        "title": "Who was the Falcons' offensive coordinator at the center of the 28-3 Super Bowl debate?",
+        "options": ["Arthur Smith", "Mike Shanahan", "Kyle Shanahan", "Steve Sarkisian"],
+        "correctIndex": 2,
+        "explanation": "Kyle Shanahan’s play-calling is still questioned today."
+        },
+        {
+        "id": "sp-0177",
+        "title": "Which defender picked off Tom Brady for a 21-0 Falcons lead in Super Bowl LI?",
+        "options": ["Keanu Neal", "Robert Alford", "Desmond Trufant", "Vic Beasley"],
+        "correctIndex": 1,
+        "explanation": "Robert Alford intercepted Brady and returned it for a touchdown."
+        },
+        {
+        "id": "sp-0178",
+        "title": "Who was the head coach of the 2017 losing Falcons in the historic Super Bowl comeback?",
+        "options": ["Mike Smith", "Dan Quinn", "Arthur Blank", "Kyle Shanahan"],
+        "correctIndex": 1,
+        "explanation": "Dan Quinn was the Falcons' head coach."
+        },
+        {
+        "id": "sp-0179",
+        "title": "Knicks head coach Mike D'Antoni was crucial to unleashing which player's 2012 run?",
+        "options": ["Jeremy Lin", "Carmelo Anthony", "Tyson Chandler", "Iman Shumpert"],
+        "correctIndex": 0,
+        "explanation": "D’Antoni gave Jeremy Lin a chance, sparking Linsanity."
+        },
+        {
+        "id": "sp-0180",
+        "title": "Why did Jeremy Lin's run with the Knicks end prematurely?",
+        "options": ["Traded to Bulls", "Meniscus tear injury", "Dropped for performance", "Fell out with coach"],
+        "correctIndex": 1,
+        "explanation": "Lin suffered a meniscus tear, ending his magical run."
+        },
+        {
+        "id": "sp-0181",
+        "title": "Which Patriots player intercepted Russell Wilson in Super Bowl XLIX?",
+        "options": ["Julian Edelman", "Malcolm Butler", "Logan Ryan", "Patrick Chung"],
+        "correctIndex": 1,
+        "explanation": "Malcolm Butler secured the game-winning interception."
+        },
+        {
+        "id": "sp-0182",
+        "title": "Which running back was controversially not handed the ball at the goal line for Seattle?",
+        "options": ["Thomas Rawls", "Shaun Alexander", "Marshawn Lynch", "C.J. Prosise"],
+        "correctIndex": 2,
+        "explanation": "Marshawn Lynch not running it led to controversy."
+        },
+        {
+        "id": "sp-0183",
+        "title": "Who hit a game-tying home run for Cleveland in Game 7 of the 2016 World Series?",
+        "options": ["Jason Kipnis", "Jose Ramirez", "Rajai Davis", "Carlos Santana"],
+        "correctIndex": 2,
+        "explanation": "Rajai Davis tied the game against the Cubs in the 8th inning."
+        },
+        {
+        "id": "sp-0184",
+        "title": "What historic drought did the Cubs end in the 2016 World Series?",
+        "options": ["72 years", "86 years", "108 years", "99 years"],
+        "correctIndex": 2,
+        "explanation": "The Cubs ended a 108-year championship drought."
+        },
+        {
+        "id": "sp-0185",
+        "title": "What event gave the Cubs a vital breather before extra innings in 2016 Game 7?",
+        "options": ["Fan ejection", "Rain delay", "Blackout", "Replay review"],
+        "correctIndex": 1,
+        "explanation": "A 17-minute rain delay let the Cubs regroup."
+        },
+        {
+        "id": "sp-0186",
+        "title": "If Messi had not won the 2022 World Cup, which debate would likely continue?",
+        "options": ["Messi vs. Maradona", "Messi vs. Ronaldo", "Mbappé vs. Pelé", "Messi vs. Neymar"],
+        "correctIndex": 1,
+        "explanation": "Messi’s win has helped settle the Messi vs. Ronaldo GOAT debate."
+        },
+        {
+        "id": "sp-0187",
+        "title": "Kylian Mbappé scored how many goals in the 2022 World Cup final?",
+        "options": ["1", "2", "3", "4"],
+        "correctIndex": 2,
+        "explanation": "Mbappé scored a hat trick in the 2022 final."
+        },
+        {
+        "id": "sp-0188",
+        "title": "Tiger Woods’s 2019 Masters win was his first major after how many years?",
+        "options": ["5", "7", "9", "11"],
+        "correctIndex": 3,
+        "explanation": "He won his first major in 11 years at Augusta."
+        },
+        {
+        "id": "sp-0189",
+        "title": "Which Masters champion was seen sipping wine while Woods finished his 2019 win?",
+        "options": ["Sergio Garcia", "Danny Willett", "Jordan Spieth", "Bubba Watson"],
+        "correctIndex": 1,
+        "explanation": "Danny Willett was watching TV with his green jacket on."
+        },
+        {
+        "id": "sp-0190",
+        "title": "Ray Allen made his legendary three-pointer for which team?",
+        "options": ["Celtics", "Heat", "Spurs", "Suns"],
+        "correctIndex": 1,
+        "explanation": "Allen’s shot came for the Miami Heat in 2013."
+        },
+        {
+        "id": "sp-0191",
+        "title": "Allen’s game-saving three came after arena officials did what?",
+        "options": ["Shut the lights off", "Released balloons", "Cordoned off the court with ropes", "Announced a winner"],
+        "correctIndex": 2,
+        "explanation": "Arena staff began preparing the court with ropes for a Spurs win."
+        },
+        {
+        "id": "sp-0192",
+        "title": "If Spurs had won the 2013 Finals, which coach might have been fired according to the text?",
+        "options": ["Gregg Popovich", "Mike D'Antoni", "Erik Spoelstra", "Frank Vogel"],
+        "correctIndex": 2,
+        "explanation": "Spoelstra's job may have been at risk had the Heat lost."
+        },
+        {
+        "id": "sp-0193",
+        "title": "Which player returned a missed field goal 109 yards for 'The Kick Six'?",
+        "options": ["De'Vonte Smith", "Chris Davis", "Tre Mason", "T.J. Yeldon"],
+        "correctIndex": 1,
+        "explanation": "Chris Davis completed the unforgettable return."
+        },
+        {
+        "id": "sp-0194",
+        "title": "The Kick Six ended which rivalry game in incredible fashion?",
+        "options": ["Egg Bowl", "Red River Rivalry", "Iron Bowl", "Apple Cup"],
+        "correctIndex": 2,
+        "explanation": "It happened in the Iron Bowl between Auburn and Alabama."
+        },
+        {
+        "id": "sp-0195",
+        "title": "Who called the Kick Six 'the greatest finish in any sporting event I’ve ever witnessed'?",
+        "options": ["Rod Bramblett", "Al Michaels", "Verne Lundquist", "Brad Nessler"],
+        "correctIndex": 2,
+        "explanation": "Verne Lundquist was so moved he'd recall it as the greatest finish."
+        },
+        {
+        "id": "sp-0196",
+        "title": "Which swimmer anchored the US relay to gold in the 2008 Beijing Olympics?",
+        "options": ["Michael Phelps", "Garrett Weber-Gale", "Jason Lezak", "Aaron Peirsol"],
+        "correctIndex": 2,
+        "explanation": "Jason Lezak’s anchor leg preserved Phelps's gold streak."
+        },
+        {
+        "id": "sp-0197",
+        "title": "Rowdy Gaines doubted which athlete's quest for eight golds during the relay?",
+        "options": ["Ryan Lochte", "Michael Phelps", "Ian Crocker", "Nathan Adrian"],
+        "correctIndex": 1,
+        "explanation": "Gaines thought Phelps's dream of eight golds was likely finished."
+        },
+    {
+        "id": "sp-0198",
+        "title": "Who was Curt Schilling’s bloody sock opponent in the 2004 ALCS?",
+        "options": ["Oakland Athletics", "New York Yankees", "St. Louis Cardinals", "Cleveland Indians"],
+        "correctIndex": 1,
+        "explanation": "The storybook 'bloody sock' performance occurred at Yankee Stadium."
+    },
+    {
+        "id": "sp-0199",
+        "title": "What unlikely event did the Red Sox achieve in the 2004 ALCS?",
+        "options": ["First no-hitter", "Winning after being down 3-0 in a series", "Cursed trade", "Winless postseason"],
+        "correctIndex": 1,
+        "explanation": "Boston became the first MLB team to win a series after trailing 3-0."
+    },
+    {
+        "id": "sp-0200",
+        "title": "Which player was central to 'The Block' in the 2016 NBA Finals?",
+        "options": ["LeBron James", "Kyrie Irving", "Andre Iguodala", "Draymond Green"],
+        "correctIndex": 0,
+        "explanation": "LeBron’s chase-down block was the signature play."
+    }
+]

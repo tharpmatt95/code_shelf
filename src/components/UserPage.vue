@@ -20,7 +20,6 @@ onMounted(async () => {
 <template>
   <div class="container">
     <el-card shadow="hover">
-
       <!-- Loading -->
       <template v-if="loading">
         <el-skeleton :rows="5" animated />
@@ -52,6 +51,11 @@ onMounted(async () => {
             {{ user.correctAWS.length }}
           </el-descriptions-item>
 
+          <!-- ADDED: SPORTS COUNT -->
+          <el-descriptions-item label="Sports Correct">
+            {{ user.correctSports.length }}
+          </el-descriptions-item>
+
           <el-descriptions-item label="Joined">
             {{ new Date(user.createdAt).toLocaleString() }}
           </el-descriptions-item>
@@ -64,7 +68,6 @@ onMounted(async () => {
         <h3>Correctly Answered Questions</h3>
 
         <el-tabs type="border-card" class="left-text">
-
           <!-- PYTHON TAB -->
           <el-tab-pane label="Python">
             <template v-if="user.correctPython.length === 0">
@@ -73,11 +76,7 @@ onMounted(async () => {
 
             <template v-else>
               <el-collapse accordion>
-                <el-collapse-item
-                  v-for="q in user.correctPython"
-                  :key="q._id"
-                  :title="q.title"
-                >
+                <el-collapse-item v-for="q in user.correctPython" :key="q._id" :title="q.title">
                   <div class="item-block">
                     <strong>Code:</strong>
                     <pre class="code-block">{{ q.code }}</pre>
@@ -112,11 +111,7 @@ onMounted(async () => {
 
             <template v-else>
               <el-collapse accordion>
-                <el-collapse-item
-                  v-for="q in user.correctMovies"
-                  :key="q._id"
-                  :title="q.title"
-                >
+                <el-collapse-item v-for="q in user.correctMovies" :key="q._id" :title="q.title">
                   <div class="item-block">
                     <strong>Options:</strong>
                     <ul class="options-list">
@@ -146,11 +141,7 @@ onMounted(async () => {
 
             <template v-else>
               <el-collapse accordion>
-                <el-collapse-item
-                  v-for="q in user.correctAWS"
-                  :key="q._id"
-                  :title="q.title"
-                >
+                <el-collapse-item v-for="q in user.correctAWS" :key="q._id" :title="q.title">
                   <div class="item-block">
                     <strong>Options:</strong>
                     <ul class="options-list">
@@ -172,6 +163,35 @@ onMounted(async () => {
             </template>
           </el-tab-pane>
 
+          <!-- ADDED: SPORTS TAB -->
+          <el-tab-pane label="Sports">
+            <template v-if="user.correctSports.length === 0">
+              <el-empty description="No sports questions yet" />
+            </template>
+
+            <template v-else>
+              <el-collapse accordion>
+                <el-collapse-item v-for="q in user.correctSports" :key="q._id" :title="q.title">
+                  <div class="item-block">
+                    <strong>Options:</strong>
+                    <ul class="options-list">
+                      <li v-for="(opt, i) in q.options" :key="i">
+                        <span :class="{ correct: i === q.correctIndex }">
+                          {{ opt }}
+                          <span v-if="i === q.correctIndex">(correct)</span>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="item-block">
+                    <strong>Explanation:</strong>
+                    <p>{{ q.explanation }}</p>
+                  </div>
+                </el-collapse-item>
+              </el-collapse>
+            </template>
+          </el-tab-pane>
         </el-tabs>
       </template>
     </el-card>
@@ -183,16 +203,13 @@ onMounted(async () => {
   max-width: 900px;
   margin: 2rem auto;
 }
-
 .left-text {
   text-align: left !important;
 }
-
 .item-block {
   margin-bottom: 1rem;
   text-align: left;
 }
-
 .code-block {
   background: #111;
   color: #eee;
@@ -203,12 +220,10 @@ onMounted(async () => {
   overflow-x: auto;
   border: 1px solid #333;
 }
-
 .options-list {
   margin-top: 0.5rem;
   padding-left: 1.2rem;
 }
-
 .correct {
   color: #4ade80;
   font-weight: 600;

@@ -52,8 +52,11 @@ const Movie = mongoose.model('Movie', questionSchema, 'movies')
 // AWS (collection: "aws")
 const AWS = mongoose.model('AWS', questionSchema, 'aws')
 
+// Sports (collection: "sports")
+const Sports = mongoose.model('Sports', questionSchema, 'sports')
+
 // --------------------------------------------------
-// User Schema (refs Python + Movies + AWS)
+// User Schema (refs Python + Movies + AWS + Sports)
 // --------------------------------------------------
 const userSchema = new mongoose.Schema({
   email: { type: String, unique: true },
@@ -69,6 +72,10 @@ const userSchema = new mongoose.Schema({
 
   correctAWS: [
     { type: mongoose.Schema.Types.ObjectId, ref: 'AWS' }
+  ],
+
+  correctSports: [
+    { type: mongoose.Schema.Types.ObjectId, ref: 'Sports' }
   ],
 
   createdAt: { type: Date, default: Date.now },
@@ -166,12 +173,14 @@ app.get('/auth/me', requireAuth, async (req, res) => {
     .populate('correctPython')
     .populate('correctMovies')
     .populate('correctAWS')
+    .populate('correctSports')
 
   res.json({
     email: user.email,
     correctPython: user.correctPython,
     correctMovies: user.correctMovies,
     correctAWS: user.correctAWS,
+    correctSports: user.correctSports,
     createdAt: user.createdAt,
     lastLoginAt: user.lastLoginAt
   })
@@ -261,6 +270,36 @@ app.post('/api/aws/mark-correct', requireAuth, async (req, res) => {
 
   if (!req.user.correctAWS.includes(awsId)) {
     req.user.correctAWS.push(awsId)
+    await req.user.save()
+  }
+
+  res.json({ success: true })
+})
+
+// --------------------------------------------------
+// SPORTS QUIZ ROUTES
+// --------------------------------------------------
+app.get('/api/sports', async (_, res) => {
+  const items = await Sports.find().lean()
+  res.json(items)
+})
+
+app.get('/api/sports/new', requireAuth, async (req, res) => {
+  const items = await Sports.find({
+    _id: { $nin: req.user.correctSports }
+  }).lean()
+
+  res.json(items)
+})
+
+app.post('/api/sports/mark-correct', requireAuth, async (req, res) => {
+  const { sportsId } = req.body
+  if (!sportsId) {
+    return res.status(400).json({ error: 'sportsId required' })
+  }
+
+  if (!req.user.correctSports.includes(sportsId)) {
+    req.user.correctSports.push(sportsId)
     await req.user.save()
   }
 
