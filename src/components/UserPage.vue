@@ -44,7 +44,7 @@ onMounted(async () => {
             {{ user.correctPython.length }}
           </el-descriptions-item>
 
-          <el-descriptions-item label="Movies Correct">
+          <el-descriptions-item label="Film & TV Correct">
             {{ user.correctMovies.length }}
           </el-descriptions-item>
 

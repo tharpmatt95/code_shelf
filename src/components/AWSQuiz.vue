@@ -137,7 +137,7 @@ async function nextQuestion() {
 <template>
   <div class="quiz-card" v-if="currentQuestion">
     <header class="quiz-header">
-      <h2>AWS Quiz</h2>
+      <h2>Amazon Web Services</h2>
       <p class="score">
         Correct: {{ totalCorrect }}
       </p>

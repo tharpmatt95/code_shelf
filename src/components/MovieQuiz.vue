@@ -114,7 +114,7 @@ async function nextMovie() {
 <template>
   <div class="quiz-card" v-if="currentMovie">
     <header class="quiz-header">
-      <h2>Movie Trivia</h2>
+      <h2>Film & TV</h2>
       <p class="score">Correct: {{ totalCorrect }}</p>
     </header>
 

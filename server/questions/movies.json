@@ -8168,1400 +8168,1400 @@
   {
     "id": "mv-1129",
     "title": "Where was Queen Latifah born?",
-    "answers": ["Passaic, New Jersey", "East Orange, New Jersey", "Camarillo, California", "Upper Darby, Pennsylvania"],
+    "options": ["Passaic, New Jersey", "East Orange, New Jersey", "Camarillo, California", "Upper Darby, Pennsylvania"],
     "correctIndex": 1,
     "explanation": "Queen Latifah (Dana Elaine Owens) was born in East Orange, New Jersey."
   },
   {
     "id": "mv-1130",
     "title": "Which film is listed as Queen Latifah's notable credit in the header line?",
-    "answers": ["Chicago (2002)", "Rent (2005)", "Ex Machina (2014)", "The Heat (2013)"],
+    "options": ["Chicago (2002)", "Rent (2005)", "Ex Machina (2014)", "The Heat (2013)"],
     "correctIndex": 0,
     "explanation": "The header for Queen Latifah lists Chicago (2002) as the referenced credit."
   },
   {
     "id": "mv-1131",
     "title": "Queen Latifah's debut single released in 1988 was titled:",
-    "answers": ["All Hail the Queen", "Out of Control", "Wrath of My Madness", "1999"],
+    "options": ["All Hail the Queen", "Out of Control", "Wrath of My Madness", "1999"],
     "correctIndex": 2,
     "explanation": "Her debut single was Wrath of My Madness, released in 1988."
   },
   {
     "id": "mv-1132",
     "title": "Which management company is Queen Latifah associated with alongside her business partner Shakim Compere?",
-    "answers": ["ECOS Espacio de Danza", "Flavor Unit", "Augustin Daly Company", "Theatre of Fifteen"],
+    "options": ["ECOS Espacio de Danza", "Flavor Unit", "Augustin Daly Company", "Theatre of Fifteen"],
     "correctIndex": 1,
     "explanation": "She is associated with the management company Flavor Unit with Shakim Compere."
   },
   {
     "id": "mv-1133",
     "title": "Ethel Barrymore made her debut as a stage actress during the New York City season of:",
-    "answers": ["1919", "1894", "1909", "1928"],
+    "options": ["1919", "1894", "1909", "1928"],
     "correctIndex": 1,
     "explanation": "Her stage debut occurred during the New York City season of 1894."
   },
   {
     "id": "mv-1134",
     "title": "Which play brought Ethel Barrymore her initial American acclaim in 1901?",
-    "answers": ["Captain Jinks of the Horse Marines", "A Doll's House", "The Constant Wife", "Declassee"],
+    "options": ["Captain Jinks of the Horse Marines", "A Doll's House", "The Constant Wife", "Declassee"],
     "correctIndex": 0,
     "explanation": "Captain Jinks of the Horse Marines (1901) brought her initial American acclaim."
   },
   {
     "id": "mv-1135",
     "title": "Ethel Barrymore won an Academy Award for supporting actress for playing the mother of which actor in None But the Lonely Heart (1944)?",
-    "answers": ["Joseph Cotten", "Cary Grant", "John Barrymore", "Paul Muni"],
+    "options": ["Joseph Cotten", "Cary Grant", "John Barrymore", "Paul Muni"],
     "correctIndex": 1,
     "explanation": "She won her supporting Oscar for portraying the mother of Cary Grant."
   },
   {
     "id": "mv-1136",
     "title": "Rosario Dawson was born in:",
-    "answers": ["New York City", "East Orange", "Toledo", "London"],
+    "options": ["New York City", "East Orange", "Toledo", "London"],
     "correctIndex": 0,
     "explanation": "Rosario Dawson was born on May 9, 1979, in New York City."
   },
   {
     "id": "mv-1137",
     "title": "Rosario Dawson was discovered as an adolescent on her front porch step and cast in Kids (1995) after being noticed by:",
-    "answers": ["Samuel Goldwyn", "Harmony Korine", "Mervyn LeRoy", "Lorne Michaels"],
+    "options": ["Samuel Goldwyn", "Harmony Korine", "Mervyn LeRoy", "Lorne Michaels"],
     "correctIndex": 1,
     "explanation": "Harmony Korine was the aspiring screenwriter who identified her for Kids (1995)."
   },
   {
     "id": "mv-1138",
     "title": "Which film is cited as Rosario Dawson's chance to show her singing chops in a major musical adaptation?",
-    "answers": ["Josie and the Pussycats (2001)", "Rent (2005)", "Sin City (2005)", "Seven Pounds (2008)"],
+    "options": ["Josie and the Pussycats (2001)", "Rent (2005)", "Sin City (2005)", "Seven Pounds (2008)"],
     "correctIndex": 1,
     "explanation": "She showcased her singing in the film adaptation of the musical Rent (2005)."
   },
   {
     "id": "mv-1139",
     "title": "Teresa Wright is described as the only performer ever to be nominated for Oscars for her first three films. She was discovered for films by:",
-    "answers": ["Mervyn LeRoy", "Richard Ayoade", "Samuel Goldwyn", "Walt Disney"],
+    "options": ["Mervyn LeRoy", "Richard Ayoade", "Samuel Goldwyn", "Walt Disney"],
     "correctIndex": 2,
     "explanation": "Samuel Goldwyn discovered Teresa Wright for films."
   },
   {
     "id": "mv-1140",
     "title": "Teresa Wright’s birth name was:",
-    "answers": ["Muriel Teresa Wright", "Lucile Vasconcellos Langhanke", "Patti Woodard", "Elizabeth Stamatina Fey"],
+    "options": ["Muriel Teresa Wright", "Lucile Vasconcellos Langhanke", "Patti Woodard", "Elizabeth Stamatina Fey"],
     "correctIndex": 0,
     "explanation": "She was born Muriel Teresa Wright before adopting the professional name Teresa."
   },
   {
     "id": "mv-1141",
     "title": "Teresa Wright’s MGM contract condition included which requirement about publicity?",
-    "answers": ["She could only do television roles", "She would not be forced into cheesecake publicity photos", "She had to move to London for a year", "She had to perform stand-up comedy first"],
+    "options": ["She could only do television roles", "She would not be forced into cheesecake publicity photos", "She had to move to London for a year", "She had to perform stand-up comedy first"],
     "correctIndex": 1,
     "explanation": "She required that she not be subjected to cheesecake-style promotional publicity."
   },
   {
     "id": "mv-1142",
     "title": "Mary Astor was born with the name:",
-    "answers": ["Lucile Vasconcellos Langhanke", "Patti Woodard", "Dana Elaine Owens", "Kaley Christine Cuoco"],
+    "options": ["Lucile Vasconcellos Langhanke", "Patti Woodard", "Dana Elaine Owens", "Kaley Christine Cuoco"],
     "correctIndex": 0,
     "explanation": "Mary Astor’s birth name was Lucile Vasconcellos Langhanke."
   },
   {
     "id": "mv-1143",
     "title": "Mary Astor won the Academy Award for Best Supporting Actress for her role in:",
-    "answers": ["The Maltese Falcon (1941)", "Beau Brummel (1924)", "The Great Lie (1941)", "Hush...Hush, Sweet Charlotte (1964)"],
+    "options": ["The Maltese Falcon (1941)", "Beau Brummel (1924)", "The Great Lie (1941)", "Hush...Hush, Sweet Charlotte (1964)"],
     "correctIndex": 2,
     "explanation": "She won Best Supporting Actress for The Great Lie (1941)."
   },
   {
     "id": "mv-1144",
     "title": "Jane Darwell’s most famous role was:",
-    "answers": ["Ma Joad in The Grapes of Wrath (1940)", "Miss Spinney in Portrait of Jennie (1948)", "Electra in Gypsy (1959)", "Linda in Death of a Salesman (1975)"],
+    "options": ["Ma Joad in The Grapes of Wrath (1940)", "Miss Spinney in Portrait of Jennie (1948)", "Electra in Gypsy (1959)", "Linda in Death of a Salesman (1975)"],
     "correctIndex": 0,
     "explanation": "She is best known for playing Ma Joad in The Grapes of Wrath (1940)."
   },
   {
     "id": "mv-1145",
     "title": "Jane Darwell was born under which name?",
-    "answers": ["Patti Woodard", "JoyBelle Force", "Marzena Wasikowska", "Xenobia Xenakes"],
+    "options": ["Patti Woodard", "JoyBelle Force", "Marzena Wasikowska", "Xenobia Xenakes"],
     "correctIndex": 0,
     "explanation": "Her birth name was Patti Woodard."
   },
   {
     "id": "mv-1146",
     "title": "Alicia Vikander was born and raised in:",
-    "answers": ["Canberra, Australia", "Gothenburg, Sweden", "Lewisham, London", "Palmyra, Missouri"],
+    "options": ["Canberra, Australia", "Gothenburg, Sweden", "Lewisham, London", "Palmyra, Missouri"],
     "correctIndex": 1,
     "explanation": "She was born and raised in Gothenburg, Sweden."
   },
   {
     "id": "mv-1147",
     "title": "Alicia Vikander won an Academy Award for Best Supporting Actress for her role in:",
-    "answers": ["Ex Machina (2014)", "A Royal Affair (2012)", "The Danish Girl (2015)", "Anna Karenina (2012)"],
+    "options": ["Ex Machina (2014)", "A Royal Affair (2012)", "The Danish Girl (2015)", "Anna Karenina (2012)"],
     "correctIndex": 2,
     "explanation": "She won the Academy Award for her performance in The Danish Girl (2015)."
   },
   {
     "id": "mv-1148",
     "title": "Mia Wasikowska is described as being born and raised in:",
-    "answers": ["Canberra, Australia", "Queens, New York", "East Orange, New Jersey", "Houston, Texas"],
+    "options": ["Canberra, Australia", "Queens, New York", "East Orange, New Jersey", "Houston, Texas"],
     "correctIndex": 0,
     "explanation": "She was born and raised in Canberra, Australia."
   },
   {
     "id": "mv-1149",
     "title": "Which early injury changed Mia Wasikowska’s childhood plan before she turned to acting?",
-    "answers": ["A tennis injury", "A vocal injury", "A ballet-related injury", "A motorcycle accident"],
+    "options": ["A tennis injury", "A vocal injury", "A ballet-related injury", "A motorcycle accident"],
     "correctIndex": 2,
     "explanation": "A ballet injury prevented her from pursuing a professional ballet path."
   },
   {
     "id": "mv-1150",
     "title": "Abigail Breslin’s first published book (2015) is titled:",
-    "answers": ["Memories, An Autobiography", "This May Sound Crazy", "All Hail the Queen", "An Antarctic Mystery"],
+    "options": ["Memories, An Autobiography", "This May Sound Crazy", "All Hail the Queen", "An Antarctic Mystery"],
     "correctIndex": 1,
     "explanation": "Her book is titled This May Sound Crazy."
   },
   {
     "id": "mv-1151",
     "title": "Gale Sondergaard received the very first Academy Award for Best Supporting Actress for:",
-    "answers": ["Anthony Adverse (1936)", "The Letter (1940)", "Juarez (1939)", "Anna and the King of Siam (1946)"],
+    "options": ["Anthony Adverse (1936)", "The Letter (1940)", "Juarez (1939)", "Anna and the King of Siam (1946)"],
     "correctIndex": 0,
     "explanation": "She won the first Best Supporting Actress Oscar for Anthony Adverse (1936)."
   },
   {
     "id": "mv-1152",
     "title": "Gale Sondergaard’s career was harmed in the 1950s because she was:",
-    "answers": ["Deported from the United States", "Blacklisted after refusing to testify during the Red Scare era", "Banned from stage acting by Actors Equity", "Unable to transition to sound films"],
+    "options": ["Deported from the United States", "Blacklisted after refusing to testify during the Red Scare era", "Banned from stage acting by Actors Equity", "Unable to transition to sound films"],
     "correctIndex": 1,
     "explanation": "She was blacklisted after refusing to testify during the McCarthy-era Red Scare period."
   },
   {
     "id": "mv-1153",
     "title": "Melissa McCarthy’s breakthrough television role was as Sookie on:",
-    "answers": ["Mad Men", "Friday Night Lights", "Gilmore Girls", "The Handmaid's Tale"],
+    "options": ["Mad Men", "Friday Night Lights", "Gilmore Girls", "The Handmaid's Tale"],
     "correctIndex": 2,
     "explanation": "Her breakthrough was playing Sookie on Gilmore Girls."
   },
   {
     "id": "mv-1154",
     "title": "Tina Fey is described as making history on Saturday Night Live by becoming:",
-    "answers": ["The first female head writer", "The youngest cast member ever", "The first performer to win three Oscars in a row", "The first host to run Weekend Update solo"],
+    "options": ["The first female head writer", "The youngest cast member ever", "The first performer to win three Oscars in a row", "The first host to run Weekend Update solo"],
     "correctIndex": 0,
     "explanation": "She became the first female head writer in the show’s history."
   },
   {
     "id": "mv-1155",
     "title": "Zoe Saldaña trained in ballet and other dance forms at which academy while living in the Dominican Republic?",
-    "answers": ["Royal Academy of Dramatic Art", "ECOS Espacio de Danza Dance Academy", "The Göteborg Opera", "HB Studio"],
+    "options": ["Royal Academy of Dramatic Art", "ECOS Espacio de Danza Dance Academy", "The Göteborg Opera", "HB Studio"],
     "correctIndex": 1,
     "explanation": "She trained at ECOS Espacio de Danza Dance Academy."
   },
   {
     "id": "mv-1156",
     "title": "Elisabeth Moss’s first screen role (1990) was in:",
-    "answers": ["Lucky Chances", "Girl, Interrupted", "Top of the Lake", "The Invisible Man"],
+    "options": ["Lucky Chances", "Girl, Interrupted", "Top of the Lake", "The Invisible Man"],
     "correctIndex": 0,
     "explanation": "Her first screen role was in the 1990 NBC miniseries Lucky Chances."
   },
   {
     "id": "mv-1157",
     "title": "Adrianne Palicki is noted as a series regular on the first three seasons of:",
-    "answers": ["Friday Night Lights (2006)", "Jane the Virgin (2014)", "Daredevil (2015)", "Gemini Division (2008)"],
+    "options": ["Friday Night Lights (2006)", "Jane the Virgin (2014)", "Daredevil (2015)", "Gemini Division (2008)"],
     "correctIndex": 0,
     "explanation": "She was a series regular on the first three seasons of Friday Night Lights (2006)."
   },
   {
     "id": "mv-1158",
     "title": "Jennifer Garner starred as Agent Sydney Bristow on:",
-    "answers": ["Felicity (1998)", "Alias (2001–2006)", "Ellen (1994)", "Northern Exposure (1990)"],
+    "options": ["Felicity (1998)", "Alias (2001–2006)", "Ellen (1994)", "Northern Exposure (1990)"],
     "correctIndex": 1,
     "explanation": "She played Agent Sydney Bristow on Alias (2001–2006)."
   },
   {
     "id": "mv-1159",
     "title": "Kristen Wiig is described as a main company member of which Los Angeles-based improv and sketch troupe?",
-    "answers": ["The Groundlings", "The Actors Studio", "Cleveland Play House", "Augustin Daly's company"],
+    "options": ["The Groundlings", "The Actors Studio", "Cleveland Play House", "Augustin Daly's company"],
     "correctIndex": 0,
     "explanation": "She was a main company member of The Groundlings."
   },
   {
     "id": "mv-1160",
     "title": "June Squibb made her film debut at age 61 in the romantic fantasy:",
-    "answers": ["Alice", "About Schmidt", "Meet Joe Black", "Scent of a Woman"],
+    "options": ["Alice", "About Schmidt", "Meet Joe Black", "Scent of a Woman"],
     "correctIndex": 0,
     "explanation": "Her film debut was in the romantic fantasy Alice (1990)."
   },
   {
     "id": "mv-1161",
     "title": "Sally Hawkins graduated from the Royal Academy of Dramatic Art in:",
-    "answers": ["2005", "1998", "2010", "1976"],
+    "options": ["2005", "1998", "2010", "1976"],
     "correctIndex": 1,
     "explanation": "She graduated from RADA in 1998."
   },
   {
     "id": "mv-1162",
     "title": "Kaley Cuoco is described as being born in:",
-    "answers": ["Camarillo, California", "Canandaigua, New York", "Upper Darby, Pennsylvania", "Quincy, Illinois"],
+    "options": ["Camarillo, California", "Canandaigua, New York", "Upper Darby, Pennsylvania", "Quincy, Illinois"],
     "correctIndex": 0,
     "explanation": "She was born in Camarillo, California."
   },
   {
     "id": "mv-1163",
     "title": "Kaley Cuoco and Tom Pelphrey’s daughter is named:",
-    "answers": ["Matilda Carmine Richie Pelphrey", "Jess Kai Wasikowska", "JoyBelle Force Squibb", "Rita Bray Owens"],
+    "options": ["Matilda Carmine Richie Pelphrey", "Jess Kai Wasikowska", "JoyBelle Force Squibb", "Rita Bray Owens"],
     "correctIndex": 0,
     "explanation": "Their daughter is named Matilda Carmine Richie Pelphrey."
   },
   {
     "id": "mv-1164",
     "title": "Which film is listed in the header line for Ethel Barrymore?",
-    "answers": ["The Spiral Staircase (1946)", "Portrait of Jennie (1948)", "The Great Lie (1941)", "Mrs. Miniver (1942)"],
+    "options": ["The Spiral Staircase (1946)", "Portrait of Jennie (1948)", "The Great Lie (1941)", "Mrs. Miniver (1942)"],
     "correctIndex": 0,
     "explanation": "Her header line references The Spiral Staircase (1946)."
   },
   {
     "id": "mv-1165",
     "title": "Rosario Dawson is noted as having executive-produced which television series mentioned by name?",
-    "answers": ["Gemini Division (2008)", "Top of the Lake (2013)", "Second Avenue (2007)", "Little Britain (2003)"],
+    "options": ["Gemini Division (2008)", "Top of the Lake (2013)", "Second Avenue (2007)", "Little Britain (2003)"],
     "correctIndex": 0,
     "explanation": "She executive-produced the series Gemini Division (2008)."
   },
   {
     "id": "mv-1166",
     "title": "Teresa Wright’s last film role mentioned is as an elderly landlady opposite which actor?",
-    "answers": ["Matt Damon", "Gary Cooper", "Colin Farrell", "Will Smith"],
+    "options": ["Matt Damon", "Gary Cooper", "Colin Farrell", "Will Smith"],
     "correctIndex": 0,
     "explanation": "Her final film role mentioned is opposite Matt Damon in The Rainmaker (1997)."
   },
   {
     "id": "mv-1167",
     "title": "Mary Astor’s final film appearance is described as being in:",
-    "answers": ["Hush...Hush, Sweet Charlotte (1964)", "The Maltese Falcon (1941)", "Red Dust (1932)", "The Prisoner of Zenda (1937)"],
+    "options": ["Hush...Hush, Sweet Charlotte (1964)", "The Maltese Falcon (1941)", "Red Dust (1932)", "The Prisoner of Zenda (1937)"],
     "correctIndex": 0,
     "explanation": "Her final film appearance is described as being in Hush...Hush, Sweet Charlotte (1964)."
   },
   {
     "id": "mv-1168",
     "title": "Jane Darwell’s last film, made at the express request of Walt Disney, was:",
-    "answers": ["Mary Poppins (1964)", "The Ox-Bow Incident (1943)", "Caged (1950)", "The Grapes of Wrath (1940)"],
+    "options": ["Mary Poppins (1964)", "The Ox-Bow Incident (1943)", "Caged (1950)", "The Grapes of Wrath (1940)"],
     "correctIndex": 0,
     "explanation": "Her final film role was in Mary Poppins (1964), made at Walt Disney’s request."
   },
   {
     "id": "mv-1169",
     "title": "Naomi Watts gained major critical recognition for her role in which David Lynch film?",
-    "answers": ["Mulholland Drive (2001)", "The Ring (2002)", "21 Grams (2003)", "King Kong (2005)"],
+    "options": ["Mulholland Drive (2001)", "The Ring (2002)", "21 Grams (2003)", "King Kong (2005)"],
     "correctIndex": 0,
     "explanation": "Her breakthrough critical acclaim came from Mulholland Drive (2001)."
   },
   {
     "id": "mv-1170",
     "title": "Robert Pattinson first gained worldwide fame for portraying which character?",
-    "answers": ["Cedric Diggory", "Edward Cullen", "Bruce Wayne", "Thomas Howard"],
+    "options": ["Cedric Diggory", "Edward Cullen", "Bruce Wayne", "Thomas Howard"],
     "correctIndex": 1,
     "explanation": "He became a global star playing Edward Cullen in Twilight."
   },
   {
     "id": "mv-1171",
     "title": "Charlie Hunnam starred as the protagonist in which FX television series?",
-    "answers": ["Mayans MC", "The Shield", "Sons of Anarchy", "Justified"],
+    "options": ["Mayans MC", "The Shield", "Sons of Anarchy", "Justified"],
     "correctIndex": 2,
     "explanation": "He played Jax Teller in Sons of Anarchy."
   },
   {
     "id": "mv-1172",
     "title": "Nicholas Hoult portrayed which X-Men character?",
-    "answers": ["Cyclops", "Professor X", "Magneto", "Beast"],
+    "options": ["Cyclops", "Professor X", "Magneto", "Beast"],
     "correctIndex": 3,
     "explanation": "Hoult played Hank McCoy, also known as Beast."
   },
   {
     "id": "mv-1173",
     "title": "Aaron Taylor-Johnson won a Golden Globe for which film?",
-    "answers": ["Savages", "Nocturnal Animals", "Kick-Ass", "Godzilla"],
+    "options": ["Savages", "Nocturnal Animals", "Kick-Ass", "Godzilla"],
     "correctIndex": 1,
     "explanation": "He won for Best Supporting Actor in Nocturnal Animals (2016)."
   },
   {
     "id": "mv-1174",
     "title": "Bryan Cranston won multiple Emmy Awards for portraying which character?",
-    "answers": ["Hal", "Dr. Tim Whatley", "Walter White", "Lyndon B. Johnson"],
+    "options": ["Hal", "Dr. Tim Whatley", "Walter White", "Lyndon B. Johnson"],
     "correctIndex": 2,
     "explanation": "He won four Emmys for his role as Walter White in Breaking Bad."
   },
   {
     "id": "mv-1175",
     "title": "Gerard Butler portrayed King Leonidas in which film?",
-    "answers": ["300 (2006)", "Gladiator", "Troy", "Spartacus"],
+    "options": ["300 (2006)", "Gladiator", "Troy", "Spartacus"],
     "correctIndex": 0,
     "explanation": "Butler starred as King Leonidas in 300 (2006)."
   },
   {
     "id": "mv-1176",
     "title": "Paul Walker rose to major stardom through which film franchise?",
-    "answers": ["Transformers", "Fast & Furious", "Mission: Impossible", "Die Hard"],
+    "options": ["Transformers", "Fast & Furious", "Mission: Impossible", "Die Hard"],
     "correctIndex": 1,
     "explanation": "He became famous for The Fast and the Furious franchise."
   },
   {
     "id": "mv-1177",
     "title": "Karl Urban is known for portraying which Star Trek character?",
-    "answers": ["James T. Kirk", "Spock", "Montgomery Scott", "Leonard McCoy"],
+    "options": ["James T. Kirk", "Spock", "Montgomery Scott", "Leonard McCoy"],
     "correctIndex": 3,
     "explanation": "He played Dr. Leonard “Bones” McCoy."
   },
   {
     "id": "mv-1178",
     "title": "Logan Lerman starred as the title character in which coming-of-age film?",
-    "answers": ["Percy Jackson", "The Perks of Being a Wallflower", "Hoot", "Indignation"],
+    "options": ["Percy Jackson", "The Perks of Being a Wallflower", "Hoot", "Indignation"],
     "correctIndex": 1,
     "explanation": "He led The Perks of Being a Wallflower (2012)."
   },
   {
     "id": "mv-1179",
     "title": "Dave Franco gained prominence after appearing in which comedy film?",
-    "answers": ["Warm Bodies", "Fright Night", "21 Jump Street", "Neighbors"],
+    "options": ["Warm Bodies", "Fright Night", "21 Jump Street", "Neighbors"],
     "correctIndex": 2,
     "explanation": "His role in 21 Jump Street brought him wider recognition."
   },
   {
     "id": "mv-1180",
     "title": "Tom Hiddleston is best known for playing which Marvel character?",
-    "answers": ["Thor", "Loki", "Doctor Strange", "Vision"],
+    "options": ["Thor", "Loki", "Doctor Strange", "Vision"],
     "correctIndex": 1,
     "explanation": "He portrays Loki in the Marvel Cinematic Universe."
   },
   {
     "id": "mv-1181",
     "title": "Peter Dinklage earned widespread acclaim for which television role?",
-    "answers": ["Jon Snow", "Jaime Lannister", "Tyrion Lannister", "Stannis Baratheon"],
+    "options": ["Jon Snow", "Jaime Lannister", "Tyrion Lannister", "Stannis Baratheon"],
     "correctIndex": 2,
     "explanation": "He played Tyrion Lannister on Game of Thrones."
   },
   {
     "id": "mv-1182",
     "title": "Taylor Kitsch portrayed Tim Riggins on which television series?",
-    "answers": ["Friday Night Lights", "Kyle XY", "The Covenant", "True Detective"],
+    "options": ["Friday Night Lights", "Kyle XY", "The Covenant", "True Detective"],
     "correctIndex": 0,
     "explanation": "His breakout role was Tim Riggins on Friday Night Lights."
   },
   {
     "id": "mv-1183",
     "title": "Edward Norton received his first Oscar nomination for which film?",
-    "answers": ["American History X", "Primal Fear", "Fight Club", "Birdman"],
+    "options": ["American History X", "Primal Fear", "Fight Club", "Birdman"],
     "correctIndex": 1,
     "explanation": "He was nominated for Primal Fear (1996)."
   },
   {
     "id": "mv-1184",
     "title": "Guy Pearce starred opposite Russell Crowe in which acclaimed crime film?",
-    "answers": ["The Proposition", "Memento", "L.A. Confidential", "The Hurt Locker"],
+    "options": ["The Proposition", "Memento", "L.A. Confidential", "The Hurt Locker"],
     "correctIndex": 2,
     "explanation": "He co-starred with Crowe in L.A. Confidential (1997)."
   },
   {
     "id": "mv-1185",
     "title": "Mark Ruffalo earned an Academy Award nomination for which investigative drama?",
-    "answers": ["Foxcatcher", "Zodiac", "Spotlight", "The Kids Are All Right"],
+    "options": ["Foxcatcher", "Zodiac", "Spotlight", "The Kids Are All Right"],
     "correctIndex": 2,
     "explanation": "He was nominated for his role in Spotlight (2015)."
   },
   {
     "id": "mv-1186",
     "title": "Mickey Rourke won a Golden Globe for his performance in:",
-    "answers": ["Sin City", "The Wrestler", "9½ Weeks", "Angel Heart"],
+    "options": ["Sin City", "The Wrestler", "9½ Weeks", "Angel Heart"],
     "correctIndex": 1,
     "explanation": "He won for his role in The Wrestler (2008)."
   },
   {
     "id": "mv-1187",
     "title": "Frank Langella became an international film star after portraying which character?",
-    "answers": ["Richard Nixon", "Sherlock Holmes", "Dracula", "Skeletor"],
+    "options": ["Richard Nixon", "Sherlock Holmes", "Dracula", "Skeletor"],
     "correctIndex": 2,
     "explanation": "He starred as Dracula in the 1979 film."
   },
   {
     "id": "mv-1188",
     "title": "Eddie Redmayne won an Academy Award for portraying which historical figure?",
-    "answers": ["Alan Turing", "Stephen Hawking", "Vincent van Gogh", "Charles Darwin"],
+    "options": ["Alan Turing", "Stephen Hawking", "Vincent van Gogh", "Charles Darwin"],
     "correctIndex": 1,
     "explanation": "He won Best Actor for playing Stephen Hawking."
   },
   {
     "id": "mv-1189",
     "title": "David Strathairn received an Oscar nomination for portraying which journalist?",
-    "answers": ["Walter Cronkite", "Edward R. Murrow", "Dan Rather", "Tom Brokaw"],
+    "options": ["Walter Cronkite", "Edward R. Murrow", "Dan Rather", "Tom Brokaw"],
     "correctIndex": 1,
     "explanation": "He portrayed Edward R. Murrow in Good Night, and Good Luck."
   },
   {
     "id": "mv-1190",
     "title": "Terrence Howard earned major acclaim for his role in which hip-hop drama?",
-    "answers": ["Crash", "Ray", "Hustle & Flow", "Get Rich or Die Tryin’"],
+    "options": ["Crash", "Ray", "Hustle & Flow", "Get Rich or Die Tryin’"],
     "correctIndex": 2,
     "explanation": "His performance in Hustle & Flow (2005) was widely praised."
   },
   {
     "id": "mv-1191",
     "title": "Ralph Fiennes portrayed which villain in the Harry Potter film series?",
-    "answers": ["Lucius Malfoy", "Bellatrix Lestrange", "Severus Snape", "Lord Voldemort"],
+    "options": ["Lucius Malfoy", "Bellatrix Lestrange", "Severus Snape", "Lord Voldemort"],
     "correctIndex": 3,
     "explanation": "He played Lord Voldemort."
   },
   {
     "id": "mv-1192",
     "title": "Tom Wilkinson received an Academy Award nomination for which film?",
-    "answers": ["Michael Clayton", "Batman Begins", "The Patriot", "The Full Monty"],
+    "options": ["Michael Clayton", "Batman Begins", "The Patriot", "The Full Monty"],
     "correctIndex": 0,
     "explanation": "He was nominated for his role in Michael Clayton (2007)."
   },
   {
     "id": "mv-1193",
     "title": "Richard Farnsworth earned a late-career Oscar nomination for which film?",
-    "answers": ["The Natural", "The Straight Story", "The Grey Fox", "Comes a Horseman"],
+    "options": ["The Natural", "The Straight Story", "The Grey Fox", "Comes a Horseman"],
     "correctIndex": 1,
     "explanation": "He was nominated for The Straight Story (1999)."
   },
   {
     "id": "mv-1194",
     "title": "Nick Nolte first achieved major fame through which television miniseries?",
-    "answers": ["Roots", "Rich Man, Poor Man", "Shogun", "Lonesome Dove"],
+    "options": ["Roots", "Rich Man, Poor Man", "Shogun", "Lonesome Dove"],
     "correctIndex": 1,
     "explanation": "His breakthrough came with Rich Man, Poor Man (1976)."
   },
   {
     "id": "mv-1195",
     "title": "AnnaSophia Robb portrayed which real-life surfer in a biographical film?",
-    "answers": ["Bethany Hamilton", "Layne Beachley", "Stephanie Gilmore", "Alana Blanchard"],
+    "options": ["Bethany Hamilton", "Layne Beachley", "Stephanie Gilmore", "Alana Blanchard"],
     "correctIndex": 0,
     "explanation": "She portrayed Bethany Hamilton in Soul Surfer (2011)."
   },
   {
     "id": "mv-1196",
     "title": "Gemma Arterton gained early fame after appearing in which James Bond film?",
-    "answers": ["Casino Royale", "Skyfall", "Quantum of Solace", "Spectre"],
+    "options": ["Casino Royale", "Skyfall", "Quantum of Solace", "Spectre"],
     "correctIndex": 2,
     "explanation": "She appeared in Quantum of Solace (2008)."
   },
   {
     "id": "mv-1197",
     "title": "Olivia Wilde made her directorial debut with which film?",
-    "answers": ["Don't Worry Darling", "Booksmart", "Drinking Buddies", "The Spectacular Now"],
+    "options": ["Don't Worry Darling", "Booksmart", "Drinking Buddies", "The Spectacular Now"],
     "correctIndex": 1,
     "explanation": "Her directorial debut was Booksmart (2019)."
   },
   {
     "id": "mv-1198",
     "title": "Naomi Watts starred as Ann Darrow in which remake?",
-    "answers": ["Godzilla", "King Kong", "Jurassic Park", "Planet of the Apes"],
+    "options": ["Godzilla", "King Kong", "Jurassic Park", "Planet of the Apes"],
     "correctIndex": 1,
     "explanation": "She starred in Peter Jackson’s King Kong (2005)."
   },
   {
     "id": "mv-1199",
     "title": "Robert Pattinson earned major critical acclaim for which gritty crime film?",
-    "answers": ["Tenet", "The Rover", "Good Time", "Cosmopolis"],
+    "options": ["Tenet", "The Rover", "Good Time", "Cosmopolis"],
     "correctIndex": 2,
     "explanation": "His role in Good Time (2017) was widely praised."
   },
   {
     "id": "mv-1200",
     "title": "Charlie Hunnam starred in which Guillermo del Toro science-fiction film?",
-    "answers": ["Pacific Rim", "Blade II", "Hellboy", "Crimson Peak"],
+    "options": ["Pacific Rim", "Blade II", "Hellboy", "Crimson Peak"],
     "correctIndex": 0,
     "explanation": "He starred in Pacific Rim (2013)."
   },
   {
     "id": "mv-1201",
     "title": "Nicholas Hoult portrayed which post-apocalyptic character in Mad Max: Fury Road?",
-    "answers": ["Max Rockatansky", "Immortan Joe", "Nux", "The Doof Warrior"],
+    "options": ["Max Rockatansky", "Immortan Joe", "Nux", "The Doof Warrior"],
     "correctIndex": 2,
     "explanation": "Hoult played Nux in Mad Max: Fury Road (2015)."
   },
   {
     "id": "mv-1202",
     "title": "Aaron Taylor-Johnson played which Marvel superhero?",
-    "answers": ["Vision", "Hawkeye", "Quicksilver", "Falcon"],
+    "options": ["Vision", "Hawkeye", "Quicksilver", "Falcon"],
     "correctIndex": 2,
     "explanation": "He portrayed Pietro Maximoff, also known as Quicksilver."
   },
   {
     "id": "mv-1203",
     "title": "Bryan Cranston won a Tony Award for portraying which U.S. president?",
-    "answers": ["John F. Kennedy", "Richard Nixon", "Lyndon B. Johnson", "Ronald Reagan"],
+    "options": ["John F. Kennedy", "Richard Nixon", "Lyndon B. Johnson", "Ronald Reagan"],
     "correctIndex": 2,
     "explanation": "He won for portraying Lyndon B. Johnson in All the Way."
   },
   {
     "id": "mv-1204",
     "title": "Gerard Butler starred in which romantic drama opposite Hilary Swank?",
-    "answers": ["The Ugly Truth", "P.S. I Love You", "Dear Frankie", "Timeline"],
+    "options": ["The Ugly Truth", "P.S. I Love You", "Dear Frankie", "Timeline"],
     "correctIndex": 1,
     "explanation": "He co-starred with Hilary Swank in P.S. I Love You (2007)."
   },
   {
     "id": "mv-1205",
     "title": "Paul Walker tragically died in:",
-    "answers": ["2010", "2011", "2012", "2013"],
+    "options": ["2010", "2011", "2012", "2013"],
     "correctIndex": 3,
     "explanation": "He died in a car accident in 2013."
   },
   {
     "id": "mv-1206",
     "title": "Karl Urban portrayed which Middle-earth character?",
-    "answers": ["Boromir", "Éomer", "Faramir", "Théoden"],
+    "options": ["Boromir", "Éomer", "Faramir", "Théoden"],
     "correctIndex": 1,
     "explanation": "He played Éomer in The Lord of the Rings trilogy."
   },
   {
     "id": "mv-1207",
     "title": "Logan Lerman starred as Percy Jackson in a film released in:",
-    "answers": ["2008", "2009", "2010", "2011"],
+    "options": ["2008", "2009", "2010", "2011"],
     "correctIndex": 2,
     "explanation": "The Lightning Thief was released in 2010."
   },
   {
     "id": "mv-1208",
     "title": "Dave Franco provided a voice role in which animated film?",
-    "answers": ["Toy Story 3", "The Lego Movie", "Wreck-It Ralph", "Frozen"],
+    "options": ["Toy Story 3", "The Lego Movie", "Wreck-It Ralph", "Frozen"],
     "correctIndex": 1,
     "explanation": "He voiced a character in The Lego Movie (2014)."
   },
   {
     "id": "mv-1209",
     "title": "Isla Fisher published which two novels while starring in 'Home and Away'?",
-    "answers": ["Seduced By Fame and Bewitched", "Home and Away and Bay City", "Paradise Beach and Bay City", "Wedding Crashers and Confessions of a Shopaholic"],
+    "options": ["Seduced By Fame and Bewitched", "Home and Away and Bay City", "Paradise Beach and Bay City", "Wedding Crashers and Confessions of a Shopaholic"],
     "correctIndex": 0,
     "explanation": "She published 'Seduced By Fame' and 'Bewitched'."
   },
   {
     "id": "mv-1210",
     "title": "Shailene Woodley gained worldwide fame playing Tris in which franchise?",
-    "answers": ["Twilight", "Divergent", "The Maze Runner", "The Hunger Games"],
+    "options": ["Twilight", "Divergent", "The Maze Runner", "The Hunger Games"],
     "correctIndex": 1,
     "explanation": "She played Tris in the Divergent film trilogy."
   },
   {
     "id": "mv-1211",
     "title": "Rebel Wilson made her U.S. film debut in which hit comedy?",
-    "answers": ["Bridesmaids", "Senior Year", "Jojo Rabbit", "Pitch Perfect"],
+    "options": ["Bridesmaids", "Senior Year", "Jojo Rabbit", "Pitch Perfect"],
     "correctIndex": 0,
     "explanation": "She moved to the U.S. with her role in Bridesmaids."
   },
   {
     "id": "mv-1212",
     "title": "Which film did Emma Roberts star in as Nancy Drew?",
-    "answers": ["Hotel for Dogs", "Blow", "Nancy Drew", "Scream 4"],
+    "options": ["Hotel for Dogs", "Blow", "Nancy Drew", "Scream 4"],
     "correctIndex": 2,
     "explanation": "She played the title role in Nancy Drew (2007)."
   },
   {
     "id": "mv-1213",
     "title": "Amber Heard starred opposite Johnny Depp in which film?",
-    "answers": ["Drive Angry", "The Rum Diary", "Never Back Down", "North Country"],
+    "options": ["Drive Angry", "The Rum Diary", "Never Back Down", "North Country"],
     "correctIndex": 1,
     "explanation": "They co-starred in The Rum Diary (2011)."
   },
   {
     "id": "mv-1214",
     "title": "Teresa Palmer was discovered and cast in her debut without an audition for which film?",
-    "answers": ["December Boys", "2:37", "Bedtime Stories", "The Grudge 2"],
+    "options": ["December Boys", "2:37", "Bedtime Stories", "The Grudge 2"],
     "correctIndex": 1,
     "explanation": "She was cast on the spot for 2:37 (2006)."
   },
   {
     "id": "mv-1215",
     "title": "What was Saoirse Ronan's breakthrough role that earned her first Oscar nomination?",
-    "answers": ["City of Ember", "I Could Never Be Your Woman", "Atonement", "The Lovely Bones"],
+    "options": ["City of Ember", "I Could Never Be Your Woman", "Atonement", "The Lovely Bones"],
     "correctIndex": 2,
     "explanation": "Saoirse got her first Oscar nomination for Atonement (2007)."
   },
   {
     "id": "mv-1216",
     "title": "Elizabeth Banks gained widespread recognition in which film as Effie Trinket?",
-    "answers": ["Pitch Perfect", "The Hunger Games", "Seabiscuit", "Scrubs"],
+    "options": ["Pitch Perfect", "The Hunger Games", "Seabiscuit", "Scrubs"],
     "correctIndex": 1,
     "explanation": "She played Effie in The Hunger Games (2012) series."
   },
   {
     "id": "mv-1217",
     "title": "Ida Lupino took over directing her first film after which director fell ill?",
-    "answers": ["Ida herself", "Her mother", "Elmer Clifton", "Edward G. Robinson"],
+    "options": ["Ida herself", "Her mother", "Elmer Clifton", "Edward G. Robinson"],
     "correctIndex": 2,
     "explanation": "She took over Not Wanted (1949) after Elmer Clifton fell ill."
   },
   {
     "id": "mv-1218",
     "title": "Natalie Dormer played who in HBO's 'Game of Thrones'?",
-    "answers": ["Anne Boleyn", "Sansa Stark", "Margaery Tyrell", "Cressida"],
+    "options": ["Anne Boleyn", "Sansa Stark", "Margaery Tyrell", "Cressida"],
     "correctIndex": 2,
     "explanation": "She played Margaery Tyrell."
   },
   {
     "id": "mv-1219",
     "title": "Brittany Snow is known for her role as Chloe in which musical film?",
-    "answers": ["Prom Night", "Pitch Perfect", "American Dreams", "Hairspray"],
+    "options": ["Prom Night", "Pitch Perfect", "American Dreams", "Hairspray"],
     "correctIndex": 1,
     "explanation": "She played Chloe Beale in Pitch Perfect."
   },
   {
     "id": "mv-1220",
     "title": "Kate Mara starred alongside Matt Damon as astronaut Beth Johanssen in which film?",
-    "answers": ["Morgan", "Stone of Destiny", "The Martian", "Captive"],
+    "options": ["Morgan", "Stone of Destiny", "The Martian", "Captive"],
     "correctIndex": 2,
     "explanation": "She played Beth Johanssen in The Martian (2015)."
   },
   {
     "id": "mv-1221",
     "title": "Julianne Hough won two Academy of Country Music Awards for her self-titled debut album in which genre?",
-    "answers": ["Rock", "Pop", "Jazz", "Country"],
+    "options": ["Rock", "Pop", "Jazz", "Country"],
     "correctIndex": 3,
     "explanation": "She won in the country music genre."
   },
   {
     "id": "mv-1222",
     "title": "Lily Collins played the starring role in which fantasy film based on a book series?",
-    "answers": ["Love, Rosie", "Mirror Mirror", "The Blind Side", "The Mortal Instruments: City of Bones"],
+    "options": ["Love, Rosie", "Mirror Mirror", "The Blind Side", "The Mortal Instruments: City of Bones"],
     "correctIndex": 3,
     "explanation": "She starred in The Mortal Instruments: City of Bones (2013)."
   },
   {
     "id": "mv-1223",
     "title": "Cobie Smulders is best known for her role as Robin in which sitcom?",
-    "answers": ["How I Met Your Mother", "Veritas: The Quest", "Special Unit 2", "The Avengers"],
+    "options": ["How I Met Your Mother", "Veritas: The Quest", "Special Unit 2", "The Avengers"],
     "correctIndex": 0,
     "explanation": "She played Robin Scherbatsky in How I Met Your Mother."
   },
   {
     "id": "mv-1224",
     "title": "Alice Eve attended which prestigious university?",
-    "answers": ["Cambridge", "Oxford", "Harvard", "NYU"],
+    "options": ["Cambridge", "Oxford", "Harvard", "NYU"],
     "correctIndex": 1,
     "explanation": "She studied English at St Catherine's College, Oxford."
   },
   {
     "id": "mv-1225",
     "title": "Jamie Chung's major break came with her appearance on which MTV reality show?",
-    "answers": ["The Challenge", "The Real World", "Road Rules", "Jersey Shore"],
+    "options": ["The Challenge", "The Real World", "Road Rules", "Jersey Shore"],
     "correctIndex": 1,
     "explanation": "She appeared in The Real World: San Diego."
   },
   {
     "id": "mv-1226",
     "title": "Noomi Rapace is internationally celebrated for portraying which literary character?",
-    "answers": ["Joan Harris", "Elizabeth Shaw", "Lisbeth Salander", "Lucinda Gonzales"],
+    "options": ["Joan Harris", "Elizabeth Shaw", "Lisbeth Salander", "Lucinda Gonzales"],
     "correctIndex": 2,
     "explanation": "She played Lisbeth Salander in The Girl with the Dragon Tattoo."
   },
   {
     "id": "mv-1227",
     "title": "Blake Lively's first major film role was in which movie?",
-    "answers": ["Gossip Girl", "The Shallows", "The Sisterhood of the Traveling Pants", "Age of Adaline"],
+    "options": ["Gossip Girl", "The Shallows", "The Sisterhood of the Traveling Pants", "Age of Adaline"],
     "correctIndex": 2,
     "explanation": "Her big break was The Sisterhood of the Traveling Pants."
   },
   {
     "id": "mv-1228",
     "title": "Maggie Grace is most recognized for her role as Althea in which AMC series?",
-    "answers": ["Breaking Bad", "Fear the Walking Dead", "Lost", "Taken"],
+    "options": ["Breaking Bad", "Fear the Walking Dead", "Lost", "Taken"],
     "correctIndex": 1,
     "explanation": "She stars as Althea in Fear the Walking Dead."
   },
   {
     "id": "mv-1229",
     "title": "Jessica Biel played Mary Camden on which WB series?",
-    "answers": ["The Texas Chainsaw Massacre", "7th Heaven", "The Rules of Attraction", "Stealth"],
+    "options": ["The Texas Chainsaw Massacre", "7th Heaven", "The Rules of Attraction", "Stealth"],
     "correctIndex": 1,
     "explanation": "She starred as Mary Camden in 7th Heaven."
   },
   {
     "id": "mv-1230",
     "title": "Eva Green's 'Casino Royale' role was as which memorable character?",
-    "answers": ["Joy", "Vesper Lynd", "Vanessa Ives", "Arsène Lupin"],
+    "options": ["Joy", "Vesper Lynd", "Vanessa Ives", "Arsène Lupin"],
     "correctIndex": 1,
     "explanation": "She played Bond girl Vesper Lynd."
   },
   {
     "id": "mv-1231",
     "title": "Peter Fonda's most iconic film as an actor, producer, and writer is?",
-    "answers": ["The Harvest", "Escape from L.A.", "Easy Rider", "Ocean's Twelve"],
+    "options": ["The Harvest", "Escape from L.A.", "Easy Rider", "Ocean's Twelve"],
     "correctIndex": 2,
     "explanation": "He was known for Easy Rider (1969)."
   },
   {
     "id": "mv-1232",
     "title": "Woody Harrelson is known for his role as Haymitch Abernathy in which franchise?",
-    "answers": ["True Detective", "Game Change", "The Hunger Games", "Cheers"],
+    "options": ["True Detective", "Game Change", "The Hunger Games", "Cheers"],
     "correctIndex": 2,
     "explanation": "He played Haymitch in The Hunger Games movies."
   },
   {
     "id": "mv-1233",
     "title": "Billy Bob Thornton won an Academy Award for which self-directed film?",
-    "answers": ["Ulee's Gold", "Sling Blade", "One False Move", "The Victors"],
+    "options": ["Ulee's Gold", "Sling Blade", "One False Move", "The Victors"],
     "correctIndex": 1,
     "explanation": "He wrote, directed, and starred in Sling Blade (1996)."
   },
   {
     "id": "mv-1234",
     "title": "Idris Elba voiced the character of Chief Bogo in which Disney animated film?",
-    "answers": ["Finding Dory", "The Jungle Book", "Zootopia", "Star Trek Beyond"],
+    "options": ["Finding Dory", "The Jungle Book", "Zootopia", "Star Trek Beyond"],
     "correctIndex": 2,
     "explanation": "He voiced Chief Bogo in Zootopia."
   },
   {
     "id": "mv-1235",
     "title": "Nigel Hawthorne was awarded the Laurence Olivier Theatre Award for playing which historical king?",
-    "answers": ["George II", "Henry II", "George III", "Richard III"],
+    "options": ["George II", "Henry II", "George III", "Richard III"],
     "correctIndex": 2,
     "explanation": "He portrayed George III in The Madness of King George."
   },
   {
     "id": "mv-1236",
     "title": "Laurence Fishburne played which mentor in 'The Matrix'?",
-    "answers": ["Morpheus", "Neo", "Agent Smith", "Cypher"],
+    "options": ["Morpheus", "Neo", "Agent Smith", "Cypher"],
     "correctIndex": 0,
     "explanation": "He played Morpheus in The Matrix."
   },
   {
     "id": "mv-1237",
     "title": "Stephen Rea achieved international success for his performance in which film?",
-    "answers": ["The Woman in Black", "V for Vendetta", "The Crying Game", "Hill Street Blues"],
+    "options": ["The Woman in Black", "V for Vendetta", "The Crying Game", "Hill Street Blues"],
     "correctIndex": 2,
     "explanation": "He was Oscar-nominated for The Crying Game."
   },
   {
     "id": "mv-1238",
     "title": "Warren Beatty is one of only two people nominated as actor, director, writer, and producer for the same film. Who is the other?",
-    "answers": ["Orson Welles", "Gene Hackman", "Robert Redford", "Francis Ford Coppola"],
+    "options": ["Orson Welles", "Gene Hackman", "Robert Redford", "Francis Ford Coppola"],
     "correctIndex": 0,
     "explanation": "Orson Welles (for Citizen Kane) is the other person."
   },
   {
     "id": "mv-1239",
     "title": "Richard Harris was born in which Irish city?",
-    "answers": ["Dublin", "Galway", "Limerick", "Cork"],
+    "options": ["Dublin", "Galway", "Limerick", "Cork"],
     "correctIndex": 2,
     "explanation": "He was born in Limerick, Ireland."
   },
   {
     "id": "mv-1240",
     "title": "Which magazine voted Isla Fisher as the 35th 'Sexiest Woman in the World' in 1997?",
-    "answers": ["People", "FHM", "Maxim", "Vanity Fair"],
+    "options": ["People", "FHM", "Maxim", "Vanity Fair"],
     "correctIndex": 1,
     "explanation": "FHM magazine ranked her #35."
   },
   {
     "id": "mv-1241",
     "title": "Shailene Woodley starred as Amy Juergens on which TV show?",
-    "answers": ["Big Little Lies", "The Secret Life of the American Teenager", "The Fallout", "The Mauritanian"],
+    "options": ["Big Little Lies", "The Secret Life of the American Teenager", "The Fallout", "The Mauritanian"],
     "correctIndex": 1,
     "explanation": "She starred as Amy in The Secret Life of the American Teenager."
   },
   {
     "id": "mv-1242",
     "title": "Rebel Wilson's directorial debut is based on which original property?",
-    "answers": ["Senior Year", "The Deb", "Bogan Pride", "Bride Hard"],
+    "options": ["Senior Year", "The Deb", "Bogan Pride", "Bride Hard"],
     "correctIndex": 1,
     "explanation": "Her debut is The Deb, which she also co-wrote."
   },
   {
     "id": "mv-1243",
     "title": "Emma Roberts studied English Literature at which college?",
-    "answers": ["Sarah Lawrence College", "UCLA", "NYU", "Brown University"],
+    "options": ["Sarah Lawrence College", "UCLA", "NYU", "Brown University"],
     "correctIndex": 0,
     "explanation": "She attended Sarah Lawrence College."
   },
   {
     "id": "mv-1244",
     "title": "Amber Heard starred in which 2009 hit zombie comedy?",
-    "answers": ["Paranoia", "Zombieland", "Pineapple Express", "Gamer"],
+    "options": ["Paranoia", "Zombieland", "Pineapple Express", "Gamer"],
     "correctIndex": 1,
     "explanation": "She starred in Zombieland."
   },
   {
     "id": "mv-1245",
     "title": "Teresa Palmer starred as a zombie in which romantic comedy?",
-    "answers": ["The Grudge 2", "2:37", "Warm Bodies", "Bedtime Stories"],
+    "options": ["The Grudge 2", "2:37", "Warm Bodies", "Bedtime Stories"],
     "correctIndex": 2,
     "explanation": "She starred as a zombie in Warm Bodies."
   },
   {
     "id": "mv-1246",
     "title": "Saoirse Ronan was Oscar-nominated for her performance in which coming-of-age film?",
-    "answers": ["Lady Bird", "Brooklyn", "Little Women", "Hanna"],
+    "options": ["Lady Bird", "Brooklyn", "Little Women", "Hanna"],
     "correctIndex": 0,
     "explanation": "She was Oscar-nominated for Lady Bird (2017)."
   },
   {
     "id": "mv-1247",
     "title": "Elizabeth Banks played a recurring doctor and J.D.'s love interest on which sitcom?",
-    "answers": ["Scrubs", "30 Rock", "Parks and Recreation", "The Office"],
+    "options": ["Scrubs", "30 Rock", "Parks and Recreation", "The Office"],
     "correctIndex": 0,
     "explanation": "She played Dr. Kim Briggs on Scrubs."
   },
   {
     "id": "mv-1248",
     "title": "Natalie Dormer played Anne Boleyn in which historical TV series?",
-    "answers": ["The Tudors", "Game of Thrones", "Elementary", "Mockingjay"],
+    "options": ["The Tudors", "Game of Thrones", "Elementary", "Mockingjay"],
     "correctIndex": 0,
     "explanation": "She played Anne Boleyn in The Tudors."
   },
   {
     "id": "mv-1249",
     "title": "Which film brought John Cusack a Best Actor nomination at the Independent Spirit Awards?",
-    "answers": ["Being John Malkovich", "Grosse Pointe Blank", "The Grifters", "High Fidelity"],
+    "options": ["Being John Malkovich", "Grosse Pointe Blank", "The Grifters", "High Fidelity"],
     "correctIndex": 0,
     "explanation": "He was nominated for his role in Being John Malkovich."
   },
   {
     "id": "mv-1250",
     "title": "Kenneth Branagh was Oscar-nominated as both Best Actor and Best Director for which film?",
-    "answers": ["Hamlet", "Henry V", "Frankenstein", "My Week with Marilyn"],
+    "options": ["Hamlet", "Henry V", "Frankenstein", "My Week with Marilyn"],
     "correctIndex": 1,
     "explanation": "He received nominations as both actor and director for Henry V (1989)."
   },
   {
     "id": "mv-1251",
     "title": "Edward James Olmos is best known to young audiences for which SYFY TV series?",
-    "answers": ["Miami Vice", "Battlestar Galactica", "Selena", "Stand and Deliver"],
+    "options": ["Miami Vice", "Battlestar Galactica", "Selena", "Stand and Deliver"],
     "correctIndex": 1,
     "explanation": "He played Admiral William Adama in Battlestar Galactica."
   },
   {
     "id": "mv-1252",
     "title": "Max von Sydow received his first Oscar nomination for which film?",
-    "answers": ["The Greatest Story Ever Told", "Awakenings", "Pelle the Conqueror", "Three Days of the Condor"],
+    "options": ["The Greatest Story Ever Told", "Awakenings", "Pelle the Conqueror", "Three Days of the Condor"],
     "correctIndex": 2,
     "explanation": "His first Oscar nomination was for Pelle the Conqueror."
   },
   {
     "id": "mv-1253",
     "title": "Which actor played real-life rancher George Spahn in 'Once Upon a Time in Hollywood'?",
-    "answers": ["Jack Nicholson", "Bruce Dern", "Al Pacino", "Brad Pitt"],
+    "options": ["Jack Nicholson", "Bruce Dern", "Al Pacino", "Brad Pitt"],
     "correctIndex": 1,
     "explanation": "Bruce Dern played George Spahn in the film."
   },
   {
     "id": "mv-1254",
     "title": "Bob Hoskins received an Oscar nomination for which film?",
-    "answers": ["Who Framed Roger Rabbit", "Mona Lisa", "The Cotton Club", "The Long Good Friday"],
+    "options": ["Who Framed Roger Rabbit", "Mona Lisa", "The Cotton Club", "The Long Good Friday"],
     "correctIndex": 1,
     "explanation": "He was nominated for Mona Lisa."
   },
   {
     "id": "mv-1255",
     "title": "James Woods was nominated for an Oscar for his performance as what character in 'Salvador'?",
-    "answers": ["H.R. Haldeman", "Roy Cohn", "Richard Boyle", "Carl Panzram"],
+    "options": ["H.R. Haldeman", "Roy Cohn", "Richard Boyle", "Carl Panzram"],
     "correctIndex": 2,
     "explanation": "He played abrasive journalist Richard Boyle in Salvador."
   },
   {
     "id": "mv-1256",
     "title": "John Hawkes received an Oscar nomination for which supporting role?",
-    "answers": ["Joe Albany", "Mark O'Brien", "Teardrop", "Everett"],
+    "options": ["Joe Albany", "Mark O'Brien", "Teardrop", "Everett"],
     "correctIndex": 2,
     "explanation": "He was nominated for Winter's Bone as Teardrop."
   },
   {
     "id": "mv-1257",
     "title": "Who played Jim Rockford in 'The Rockford Files'?",
-    "answers": ["James Garner", "Noah Beery Jr.", "Stuart Margolin", "David Butler"],
+    "options": ["James Garner", "Noah Beery Jr.", "Stuart Margolin", "David Butler"],
     "correctIndex": 0,
     "explanation": "James Garner starred as Jim Rockford."
   },
   {
     "id": "mv-1258",
     "title": "Sam Waterston received an Oscar nomination for his role in which film?",
-    "answers": ["Law & Order", "The Great Gatsby", "The Killing Fields", "Lincoln"],
+    "options": ["Law & Order", "The Great Gatsby", "The Killing Fields", "Lincoln"],
     "correctIndex": 2,
     "explanation": "He was nominated for The Killing Fields."
   },
   {
     "id": "mv-1259",
     "title": "Tom Hulce is best known for playing what composer in 'Amadeus'?",
-    "answers": ["Beethoven", "Wolfgang Amadeus Mozart", "Johann Strauss II", "Antonin Dvorak"],
+    "options": ["Beethoven", "Wolfgang Amadeus Mozart", "Johann Strauss II", "Antonin Dvorak"],
     "correctIndex": 1,
     "explanation": "He played Mozart in Amadeus."
   },
   {
     "id": "mv-1260",
     "title": "Which actor starred as Hercule Poirot in 'Murder on the Orient Express' (1974)?",
-    "answers": ["Peter O'Toole", "Albert Finney", "Tom Courtenay", "Richard Harris"],
+    "options": ["Peter O'Toole", "Albert Finney", "Tom Courtenay", "Richard Harris"],
     "correctIndex": 1,
     "explanation": "Albert Finney played Poirot in the film."
   },
   {
     "id": "mv-1261",
     "title": "Tom Conti played a scene-stealing role in which 1983 film starring David Bowie?",
-    "answers": ["Paddington 2", "Oppenheimer", "Merry Christmas Mr. Lawrence", "American Dreamer"],
+    "options": ["Paddington 2", "Oppenheimer", "Merry Christmas Mr. Lawrence", "American Dreamer"],
     "correctIndex": 2,
     "explanation": "He starred in Merry Christmas Mr. Lawrence."
   },
   {
     "id": "mv-1262",
     "title": "Who starred as the emotionally troubled Norman in 'The Norman Conquests' trilogy?",
-    "answers": ["Tom Conti", "Tom Hulce", "Tom Courtenay", "Albert Finney"],
+    "options": ["Tom Conti", "Tom Hulce", "Tom Courtenay", "Albert Finney"],
     "correctIndex": 2,
     "explanation": "Tom Courtenay played Norman."
   },
   {
     "id": "mv-1263",
     "title": "Who played the titular role in 'Arthur' (1981)?",
-    "answers": ["Peter Cook", "Jonathan Miller", "Dudley Moore", "George Segal"],
+    "options": ["Peter Cook", "Jonathan Miller", "Dudley Moore", "George Segal"],
     "correctIndex": 2,
     "explanation": "Dudley Moore starred as Arthur."
   },
   {
     "id": "mv-1264",
     "title": "John Hurt received an Oscar nomination for portraying which title character?",
-    "answers": ["Quentin Crisp", "Caligula", "The Elephant Man", "Adam Sutler"],
+    "options": ["Quentin Crisp", "Caligula", "The Elephant Man", "Adam Sutler"],
     "correctIndex": 2,
     "explanation": "He was nominated for The Elephant Man."
   },
   {
     "id": "mv-1265",
     "title": "Kat Dennings starred in which romantic comedy movie with Michael Cera?",
-    "answers": ["The House Bunny", "Nick and Norah's Infinite Playlist", "The 40-Year-Old Virgin", "Raising Dad"],
+    "options": ["The House Bunny", "Nick and Norah's Infinite Playlist", "The 40-Year-Old Virgin", "Raising Dad"],
     "correctIndex": 1,
     "explanation": "She starred in Nick and Norah's Infinite Playlist."
   },
   {
     "id": "mv-1266",
     "title": "Priyanka Chopra Jonas played a leading role in which acclaimed Indian film?",
-    "answers": ["Dil Dhadakne Do", "Barfi!", "Mary Kom", "Quantico"],
+    "options": ["Dil Dhadakne Do", "Barfi!", "Mary Kom", "Quantico"],
     "correctIndex": 1,
     "explanation": "She was one of the leads in Barfi!."
   },
   {
     "id": "mv-1267",
     "title": "Which groundbreaking film gave Emmanuelle Riva international fame?",
-    "answers": ["Kapo", "Therese", "Hiroshima Mon Amour", "Amour"],
+    "options": ["Kapo", "Therese", "Hiroshima Mon Amour", "Amour"],
     "correctIndex": 2,
     "explanation": "She became famous for Hiroshima Mon Amour."
   },
   {
     "id": "mv-1268",
     "title": "Who wrote and directed 'Lady Bird' starring Saoirse Ronan?",
-    "answers": ["Noah Baumbach", "Greta Gerwig", "Wes Anderson", "Whit Stillman"],
+    "options": ["Noah Baumbach", "Greta Gerwig", "Wes Anderson", "Whit Stillman"],
     "correctIndex": 1,
     "explanation": "Greta Gerwig wrote and directed Lady Bird."
   },
   {
     "id": "mv-1269",
     "title": "Brie Larson won the Academy Award for Best Actress for which film?",
-    "answers": ["Short Term 12", "Scott Pilgrim vs. the World", "Room", "The Trouble with Bliss"],
+    "options": ["Short Term 12", "Scott Pilgrim vs. the World", "Room", "The Trouble with Bliss"],
     "correctIndex": 2,
     "explanation": "She won the Oscar for her role in Room."
   },
   {
     "id": "mv-1270",
     "title": "Jessica Lucas starred in which found-footage monster movie?",
-    "answers": ["Evil Dead", "Cloverfield", "The Covenant", "Melrose Place"],
+    "options": ["Evil Dead", "Cloverfield", "The Covenant", "Melrose Place"],
     "correctIndex": 1,
     "explanation": "She appeared in Cloverfield."
   },
   {
     "id": "mv-1271",
     "title": "Which 1928 silent film made Maria Falconetti a film legend?",
-    "answers": ["La Dame aux camélias", "The Life of a Woman", "The Trojan War Will Not Happen", "The Passion of Joan of Arc"],
+    "options": ["La Dame aux camélias", "The Life of a Woman", "The Trojan War Will Not Happen", "The Passion of Joan of Arc"],
     "correctIndex": 3,
     "explanation": "She played Joan in The Passion of Joan of Arc."
   },
   {
     "id": "mv-1272",
     "title": "Greer Garson won her only Oscar for which film?",
-    "answers": ["That Forsyte Woman", "Pride and Prejudice", "Mrs. Miniver", "Madame Curie"],
+    "options": ["That Forsyte Woman", "Pride and Prejudice", "Mrs. Miniver", "Madame Curie"],
     "correctIndex": 2,
     "explanation": "She won for Mrs. Miniver."
   },
   {
     "id": "mv-1273",
     "title": "Rosalind Russell played Hildy Johnson in which classic comedy?",
-    "answers": ["Picnic", "Wonderful Town", "His Girl Friday", "The Women"],
+    "options": ["Picnic", "Wonderful Town", "His Girl Friday", "The Women"],
     "correctIndex": 2,
     "explanation": "She starred in His Girl Friday."
   },
   {
     "id": "mv-1274",
     "title": "Raquel Welch made her breakthrough in which prehistoric adventure film?",
-    "answers": ["Kansas City Bomber", "Bedazzled", "Myra Breckinridge", "One Million Years B.C."],
+    "options": ["Kansas City Bomber", "Bedazzled", "Myra Breckinridge", "One Million Years B.C."],
     "correctIndex": 3,
     "explanation": "She became famous in One Million Years B.C."
   },
   {
     "id": "mv-1275",
     "title": "Linda Fiorentino won the New York Film Critics Circle Award for Best Actress for which film?",
-    "answers": ["Jade", "After Hours", "The Last Seduction", "Men in Black"],
+    "options": ["Jade", "After Hours", "The Last Seduction", "Men in Black"],
     "correctIndex": 2,
     "explanation": "She was acclaimed for The Last Seduction."
   },
   {
     "id": "mv-1276",
     "title": "Gabourey Sidibe was Oscar-nominated for starring in which film?",
-    "answers": ["Yelling to the Sky", "Precious", "Empire", "Our Idiot Brother"],
+    "options": ["Yelling to the Sky", "Precious", "Empire", "Our Idiot Brother"],
     "correctIndex": 1,
     "explanation": "She was nominated for Precious."
   },
   {
     "id": "mv-1277",
     "title": "Judy Davis was Oscar-nominated for her performance in which Merchant Ivory film?",
-    "answers": ["Passage to India", "A Passage to India", "Husbands and Wives", "High Tide"],
+    "options": ["Passage to India", "A Passage to India", "Husbands and Wives", "High Tide"],
     "correctIndex": 1,
     "explanation": "She was nominated for A Passage to India."
   },
   {
     "id": "mv-1278",
     "title": "Mia Farrow gained attention for her lead role in which horror film?",
-    "answers": ["Rosemary's Baby", "The Great Gatsby", "Hannah and Her Sisters", "Broadway Danny Rose"],
+    "options": ["Rosemary's Baby", "The Great Gatsby", "Hannah and Her Sisters", "Broadway Danny Rose"],
     "correctIndex": 0,
     "explanation": "She starred in Rosemary's Baby."
   },
   {
     "id": "mv-1279",
     "title": "Max von Sydow played which iconic role in Ingmar Bergman's 'The Seventh Seal'?",
-    "answers": ["Karl Oskar Nilsson", "Death", "Nils the crofter", "A knight who plays chess with Death"],
+    "options": ["Karl Oskar Nilsson", "Death", "Nils the crofter", "A knight who plays chess with Death"],
     "correctIndex": 3,
     "explanation": "He played a knight who plays chess with Death."
   },
   {
     "id": "mv-1280",
     "title": "Bruce Dern holds the distinction of being the only man to do what on screen?",
-    "answers": ["Win an Oscar for a Western", "Star with his daughter", "Kill John Wayne", "Direct his own biopic"],
+    "options": ["Win an Oscar for a Western", "Star with his daughter", "Kill John Wayne", "Direct his own biopic"],
     "correctIndex": 2,
     "explanation": "He was the only man to kill John Wayne on screen in The Cowboys."
   },
   {
     "id": "mv-1281",
     "title": "Which sibling did John Cusack frequently collaborate with in films?",
-    "answers": ["Ann Cusack", "Joan Cusack", "Bill Cusack", "Susie Cusack"],
+    "options": ["Ann Cusack", "Joan Cusack", "Bill Cusack", "Susie Cusack"],
     "correctIndex": 1,
     "explanation": "He often worked with his sister Joan Cusack."
   },
   {
     "id": "mv-1282",
     "title": "Tom Hulce appeared as Dominick Luciano, a mentally handicapped twin, in which film?",
-    "answers": ["Echo Park", "National Lampoon's Animal House", "Dominick and Eugene", "The Heidi Chronicles"],
+    "options": ["Echo Park", "National Lampoon's Animal House", "Dominick and Eugene", "The Heidi Chronicles"],
     "correctIndex": 2,
     "explanation": "He starred in Dominick and Eugene."
   },
   {
     "id": "mv-1283",
     "title": "Who played the role of Admiral William Adama in 'Battlestar Galactica'?",
-    "answers": ["Max von Sydow", "Bruce Dern", "Bob Hoskins", "Edward James Olmos"],
+    "options": ["Max von Sydow", "Bruce Dern", "Bob Hoskins", "Edward James Olmos"],
     "correctIndex": 3,
     "explanation": "Edward James Olmos starred as Admiral Adama."
   },
   {
     "id": "mv-1284",
     "title": "Which animated Disney character was voiced and sung by Tom Hulce?",
-    "answers": ["Simba", "Quasimodo", "Aladdin", "Beast"],
+    "options": ["Simba", "Quasimodo", "Aladdin", "Beast"],
     "correctIndex": 1,
     "explanation": "He voiced and sang for Quasimodo in The Hunchback of Notre Dame (1996)."
   },
   {
     "id": "mv-1285",
     "title": "Who won a BAFTA for playing Winston Churchill in 'The Gathering Storm'?",
-    "answers": ["Albert Finney", "Tom Courtenay", "Kenneth Branagh", "Bruce Dern"],
+    "options": ["Albert Finney", "Tom Courtenay", "Kenneth Branagh", "Bruce Dern"],
     "correctIndex": 0,
     "explanation": "Albert Finney portrayed Churchill and won a BAFTA."
   },
   {
     "id": "mv-1286",
     "title": "Which actor played the personal assistant 'Norman' in the Oscar-nominated film 'The Dresser'?",
-    "answers": ["Tom Courtenay", "Albert Finney", "James Garner", "John Hurt"],
+    "options": ["Tom Courtenay", "Albert Finney", "James Garner", "John Hurt"],
     "correctIndex": 0,
     "explanation": "Tom Courtenay played Norman and received an Oscar nomination."
   },
   {
     "id": "mv-1287",
     "title": "John Hawkes reunited with which original cast for the 'Deadwood' TV movie?",
-    "answers": ["Three Billboards", "Identity", "Deadwood", "Contagion"],
+    "options": ["Three Billboards", "Identity", "Deadwood", "Contagion"],
     "correctIndex": 2,
     "explanation": "He reprised his role for the Deadwood reunion movie."
   },
   {
     "id": "mv-1288",
     "title": "Raquel Welch was memorably spoofed as herself in which sitcom?",
-    "answers": ["Friends", "Frasier", "Seinfeld", "The Nanny"],
+    "options": ["Friends", "Frasier", "Seinfeld", "The Nanny"],
     "correctIndex": 2,
     "explanation": "She parodied herself in Seinfeld."
   },
   {
     "id": "mv-1289",
     "title": "Audrey Tautou starred in which globally successful French film released in 2001?",
-    "answers": ["Amélie", "Venus Beauty Institute", "Dirty Pretty Things", "Coco Before Chanel"],
+    "options": ["Amélie", "Venus Beauty Institute", "Dirty Pretty Things", "Coco Before Chanel"],
     "correctIndex": 0,
     "explanation": "Her breakout and most famous role was in 'Amélie' (2001)."
   },
   {
     "id": "mv-1290",
     "title": "Who directed Jeanne Moreau in 'Elevator to the Gallows' (1958)?",
-    "answers": ["Francois Truffaut", "Louis Malle", "Jean-Luc Godard", "Claude Chabrol"],
+    "options": ["Francois Truffaut", "Louis Malle", "Jean-Luc Godard", "Claude Chabrol"],
     "correctIndex": 1,
     "explanation": "Louis Malle directed Jeanne Moreau in this film."
   },
   {
     "id": "mv-1291",
     "title": "Jane Wyman won her only Oscar for which 1948 film?",
-    "answers": ["The Blue Veil", "Pollyanna", "Johnny Belinda", "The Lost Weekend"],
+    "options": ["The Blue Veil", "Pollyanna", "Johnny Belinda", "The Lost Weekend"],
     "correctIndex": 2,
     "explanation": "'Johnny Belinda' (1948) earned Wyman her Oscar."
   },
   {
     "id": "mv-1292",
     "title": "Gena Rowlands received an Honorary Academy Award in which year?",
-    "answers": ["2008", "2012", "2015", "2018"],
+    "options": ["2008", "2012", "2015", "2018"],
     "correctIndex": 2,
     "explanation": "She received the Honorary Oscar in 2015."
   },
   {
     "id": "mv-1293",
     "title": "Which director has Lesley Manville worked extensively with?",
-    "answers": ["Woody Allen", "Mike Leigh", "Sam Mendes", "Joe Wright"],
+    "options": ["Woody Allen", "Mike Leigh", "Sam Mendes", "Joe Wright"],
     "correctIndex": 1,
     "explanation": "Lesley Manville is closely associated with director Mike Leigh."
   },
   {
     "id": "mv-1294",
     "title": "Elizabeth Olsen starred as which Marvel character, first appearing in a mid-credits scene in 'Captain America: The Winter Soldier'?",
-    "answers": ["Black Widow", "Pepper Potts", "Scarlet Witch", "Wasp"],
+    "options": ["Black Widow", "Pepper Potts", "Scarlet Witch", "Wasp"],
     "correctIndex": 2,
     "explanation": "She played Scarlet Witch in the Marvel Cinematic Universe."
   },
   {
     "id": "mv-1295",
     "title": "Nastassja Kinski played the title character in which 1979 Roman Polanski film?",
-    "answers": ["Cat People", "Stay as You Are", "Tess", "Paris, Texas"],
+    "options": ["Cat People", "Stay as You Are", "Tess", "Paris, Texas"],
     "correctIndex": 2,
     "explanation": "'Tess' (1979) starred Nastassja Kinski in the title role."
   },
   {
     "id": "mv-1296",
     "title": "Which Quentin Tarantino film did Mélanie Laurent co-star in, released in 2009?",
-    "answers": ["Pulp Fiction", "Inglourious Basterds", "Jackie Brown", "Django Unchained"],
+    "options": ["Pulp Fiction", "Inglourious Basterds", "Jackie Brown", "Django Unchained"],
     "correctIndex": 1,
     "explanation": "She played Shosanna in 'Inglourious Basterds' (2009)."
   },
   {
     "id": "mv-1297",
     "title": "Whitney Houston's debut acting role was in which 1992 film?",
-    "answers": ["Waiting to Exhale", "The Preacher's Wife", "Sparkle", "The Bodyguard"],
+    "options": ["Waiting to Exhale", "The Preacher's Wife", "Sparkle", "The Bodyguard"],
     "correctIndex": 3,
     "explanation": "'The Bodyguard' (1992) marked Houston's acting debut."
   },
   {
     "id": "mv-1298",
     "title": "Felicity Huffman was Oscar-nominated for playing a transgender woman in which 2005 film?",
-    "answers": ["Transamerica", "The Spanish Prisoner", "Georgia Rule", "Magnolia"],
+    "options": ["Transamerica", "The Spanish Prisoner", "Georgia Rule", "Magnolia"],
     "correctIndex": 0,
     "explanation": "She received an Oscar nomination for 'Transamerica' (2005)."
   },
   {
     "id": "mv-1299",
     "title": "Imelda Staunton is widely recognized for her role as which 'Harry Potter' character?",
-    "answers": ["Bellatrix Lestrange", "Minerva McGonagall", "Dolores Umbridge", "Molly Weasley"],
+    "options": ["Bellatrix Lestrange", "Minerva McGonagall", "Dolores Umbridge", "Molly Weasley"],
     "correctIndex": 2,
     "explanation": "She played Dolores Umbridge."
   },
   {
     "id": "mv-1300",
     "title": "Oscar Isaac is a graduate of which famous performing arts school?",
-    "answers": ["Juilliard", "Yale", "RADA", "NYU Tisch"],
+    "options": ["Juilliard", "Yale", "RADA", "NYU Tisch"],
     "correctIndex": 0,
     "explanation": "He graduated from Juilliard in 2005."
   },
   {
     "id": "mv-1301",
     "title": "Jon Heder is best known for his role in which 2004 indie comedy?",
-    "answers": ["Just Like Heaven", "The Benchwarmers", "Napoleon Dynamite", "Monster House"],
+    "options": ["Just Like Heaven", "The Benchwarmers", "Napoleon Dynamite", "Monster House"],
     "correctIndex": 2,
     "explanation": "'Napoleon Dynamite' (2004) made Jon Heder famous."
   },
   {
     "id": "mv-1302",
     "title": "Miles Teller starred as an ambitious jazz drummer in which 2014 film?",
-    "answers": ["Footloose", "Whiplash", "The Spectacular Now", "Project X"],
+    "options": ["Footloose", "Whiplash", "The Spectacular Now", "Project X"],
     "correctIndex": 1,
     "explanation": "'Whiplash' (2014) featured Teller in his acclaimed role as a drummer."
   },
   {
     "id": "mv-1303",
     "title": "Daniel Brühl played a German sniper in which Quentin Tarantino film?",
-    "answers": ["Jackie Brown", "Inglourious Basterds", "Django Unchained", "Kill Bill: Vol. 2"],
+    "options": ["Jackie Brown", "Inglourious Basterds", "Django Unchained", "Kill Bill: Vol. 2"],
     "correctIndex": 1,
     "explanation": "He played Fredrick Zoller in 'Inglourious Basterds' (2009)."
   },
   {
     "id": "mv-1304",
     "title": "James Gandolfini became world famous for his role in which TV show?",
-    "answers": ["Breaking Bad", "Boardwalk Empire", "The Sopranos", "Game of Thrones"],
+    "options": ["Breaking Bad", "Boardwalk Empire", "The Sopranos", "Game of Thrones"],
     "correctIndex": 2,
     "explanation": "He portrayed Tony Soprano in 'The Sopranos' (1999–2007)."
   },
   {
     "id": "mv-1305",
     "title": "Michael B. Jordan first gained notice on which TV crime drama?",
-    "answers": ["CSI: Miami", "The Wire", "Breaking Bad", "The Shield"],
+    "options": ["CSI: Miami", "The Wire", "Breaking Bad", "The Shield"],
     "correctIndex": 1,
     "explanation": "He played Wallace on 'The Wire' (2002)."
   },
   {
     "id": "mv-1306",
     "title": "Anthony Perkins became immortalized in cinema history for playing which character?",
-    "answers": ["Norman Bates", "Hannibal Lecter", "Jack Torrance", "Leatherface"],
+    "options": ["Norman Bates", "Hannibal Lecter", "Jack Torrance", "Leatherface"],
     "correctIndex": 0,
     "explanation": "He played Norman Bates in 'Psycho' (1960)."
   },
   {
     "id": "mv-1307",
     "title": "David Thewlis had his breakthrough playing Johnny in which 1993 Mike Leigh film?",
-    "answers": ["The Big Lebowski", "Naked", "Restoration", "DragonHeart"],
+    "options": ["The Big Lebowski", "Naked", "Restoration", "DragonHeart"],
     "correctIndex": 1,
     "explanation": "'Naked' (1993) earned him critical acclaim."
   },
   {
     "id": "mv-1308",
     "title": "Klaus Kinski often collaborated with which famously obsessive director?",
-    "answers": ["Werner Herzog", "Rainer Werner Fassbinder", "Wim Wenders", "Fritz Lang"],
+    "options": ["Werner Herzog", "Rainer Werner Fassbinder", "Wim Wenders", "Fritz Lang"],
     "correctIndex": 0,
     "explanation": "He worked on several films with Werner Herzog."
   },
   {
     "id": "mv-1309",
     "title": "Malcolm McDowell played Alex DeLarge in which controversial 1971 film?",
-    "answers": ["If....", "Caligula", "Our Friends in the North", "A Clockwork Orange"],
+    "options": ["If....", "Caligula", "Our Friends in the North", "A Clockwork Orange"],
     "correctIndex": 3,
     "explanation": "'A Clockwork Orange' (1971) is a landmark performance."
   },
   {
     "id": "mv-1310",
     "title": "Ray Winstone appeared in which 2006 film directed by Martin Scorsese?",
-    "answers": ["No Country for Old Men", "Nil by Mouth", "The Departed", "Hugo"],
+    "options": ["No Country for Old Men", "Nil by Mouth", "The Departed", "Hugo"],
     "correctIndex": 2,
     "explanation": "He played Mr. French in 'The Departed' (2006)."
   },
   {
     "id": "mv-1311",
     "title": "Jean-Paul Belmondo starred in this classic French New Wave film, directed by Jean-Luc Godard, in 1960:",
-    "answers": ["Léon Morin, Priest", "Breathless", "Pierrot le fou", "Itinerary of a Spoiled Child"],
+    "options": ["Léon Morin, Priest", "Breathless", "Pierrot le fou", "Itinerary of a Spoiled Child"],
     "correctIndex": 1,
     "explanation": "'Breathless' (1960) made Belmondo a star."
   },
   {
     "id": "mv-1312",
     "title": "Andy Serkis is best known for his groundbreaking motion-capture performance as which character?",
-    "answers": ["King Kong", "Gollum", "Caesar", "Supreme Leader Snoke"],
+    "options": ["King Kong", "Gollum", "Caesar", "Supreme Leader Snoke"],
     "correctIndex": 1,
     "explanation": "He's most famous for Gollum in the Lord of the Rings films."
   },
   {
     "id": "mv-1313",
     "title": "Matthew Broderick starred as the title character in which John Hughes comedy (1986)?",
-    "answers": ["WarGames", "Ferris Bueller's Day Off", "Addicted to Love", "Inspector Gadget"],
+    "options": ["WarGames", "Ferris Bueller's Day Off", "Addicted to Love", "Inspector Gadget"],
     "correctIndex": 1,
     "explanation": "'Ferris Bueller's Day Off' (1986) was a huge hit for Broderick."
   },
   {
     "id": "mv-1314",
     "title": "Dennis Hopper received widespread acclaim for starring and directing which 1969 road movie?",
-    "answers": ["Easy Rider", "Blue Velvet", "Apocalypse Now", "River's Edge"],
+    "options": ["Easy Rider", "Blue Velvet", "Apocalypse Now", "River's Edge"],
     "correctIndex": 0,
     "explanation": "He co-wrote, directed, and starred in 'Easy Rider' (1969)."
   },
   {
     "id": "mv-1315",
     "title": "Michael Rooker is well known to Marvel fans for playing which blue-skinned space pirate?",
-    "answers": ["Star-Lord", "Drax", "Yondu", "Ronan the Accuser"],
+    "options": ["Star-Lord", "Drax", "Yondu", "Ronan the Accuser"],
     "correctIndex": 2,
     "explanation": "He played Yondu in the 'Guardians of the Galaxy' films."
   },
   {
     "id": "mv-1316",
     "title": "Vincent Gallo wrote, directed, and starred in which 1998 indie cult favorite?",
-    "answers": ["The Brown Bunny", "Promises Written in Water", "Buffalo '66", "The Way It Is"],
+    "options": ["The Brown Bunny", "Promises Written in Water", "Buffalo '66", "The Way It Is"],
     "correctIndex": 2,
     "explanation": "'Buffalo '66' (1998) is Gallo's cult classic."
   },
   {
     "id": "mv-1317",
     "title": "Kevin Spacey won his first Oscar for which 1995 film?",
-    "answers": ["Seven", "L.A. Confidential", "Glengarry Glen Ross", "The Usual Suspects"],
+    "options": ["Seven", "L.A. Confidential", "Glengarry Glen Ross", "The Usual Suspects"],
     "correctIndex": 3,
     "explanation": "He won Best Supporting Actor for 'The Usual Suspects' (1995)."
   },
   {
     "id": "mv-1318",
     "title": "Vincent Cassel earned a César nomination for his breakout role in which 1995 film?",
-    "answers": ["Irreversible", "Black Swan", "La Haine", "Mesrine: Public Enemy No. 1"],
+    "options": ["Irreversible", "Black Swan", "La Haine", "Mesrine: Public Enemy No. 1"],
     "correctIndex": 2,
     "explanation": "'La Haine' (1995) was his big breakthrough."
   },
   {
     "id": "mv-1319",
     "title": "Which award did Lesley Manville receive from the Queen's Birthday Honours in 2015?",
-    "answers": ["Order of the British Empire", "Commander of the Order of the British Empire", "Order of the Garter", "Victoria Cross"],
+    "options": ["Order of the British Empire", "Commander of the Order of the British Empire", "Order of the Garter", "Victoria Cross"],
     "correctIndex": 0,
     "explanation": "She was awarded Officer of the Order of the British Empire (OBE) in 2015."
   },
   {
     "id": "mv-1320",
     "title": "Who played Edie Parker in the 2013 film 'Kill Your Darlings'?",
-    "answers": ["Dakota Fanning", "Elizabeth Olsen", "Elle Fanning", "Ashley Olsen"],
+    "options": ["Dakota Fanning", "Elizabeth Olsen", "Elle Fanning", "Ashley Olsen"],
     "correctIndex": 1,
     "explanation": "Olsen played Edie Parker in 'Kill Your Darlings'."
   },
   {
     "id": "mv-1321",
     "title": "This 1984 Wim Wenders film starring Nastassja Kinski won the Palme d'Or at Cannes:",
-    "answers": ["One From the Heart", "Tess", "Paris, Texas", "Terminal Velocity"],
+    "options": ["One From the Heart", "Tess", "Paris, Texas", "Terminal Velocity"],
     "correctIndex": 2,
     "explanation": "'Paris, Texas' (1984) won the festival's top prize."
   },
   {
     "id": "mv-1322",
     "title": "Whitney Houston signed with which label in 1983 and remained throughout her career?",
-    "answers": ["Motown", "Epic", "Arista", "Sony"],
+    "options": ["Motown", "Epic", "Arista", "Sony"],
     "correctIndex": 2,
     "explanation": "Arista Records signed Whitney Houston in 1983."
   },
   {
     "id": "mv-1323",
     "title": "Which Coen Brothers film did Oscar Isaac star in, earning a Golden Globe nomination?",
-    "answers": ["A Serious Man", "Inside Llewyn Davis", "Burn After Reading", "Fargo"],
+    "options": ["A Serious Man", "Inside Llewyn Davis", "Burn After Reading", "Fargo"],
     "correctIndex": 1,
     "explanation": "'Inside Llewyn Davis' (2013) featured Isaac in a Golden Globe-nominated role."
   },
   {
     "id": "mv-1324",
     "title": "Who played a villainous evolution of 'the Joker' stereotype in David Lynch's 'Blue Velvet' (1986)?",
-    "answers": ["Dennis Hopper", "Kevin Spacey", "Michael Rooker", "James Gandolfini"],
+    "options": ["Dennis Hopper", "Kevin Spacey", "Michael Rooker", "James Gandolfini"],
     "correctIndex": 0,
     "explanation": "Dennis Hopper played the intense Frank Booth."
   },
   {
     "id": "mv-1325",
     "title": "Imelda Staunton has won how many Laurence Olivier Awards?",
-    "answers": ["One", "Two", "Three", "Four"],
+    "options": ["One", "Two", "Three", "Four"],
     "correctIndex": 3,
     "explanation": "She has won four Laurence Olivier Awards."
   },
   {
     "id": "mv-1326",
     "title": "Matthew Broderick broke his leg in a car crash with which actress, his then fiancée?",
-    "answers": ["Sarah Jessica Parker", "Helen Hunt", "Jennifer Grey", "Lili Taylor"],
+    "options": ["Sarah Jessica Parker", "Helen Hunt", "Jennifer Grey", "Lili Taylor"],
     "correctIndex": 2,
     "explanation": "He was in the crash with Jennifer Grey."
   },
   {
     "id": "mv-1327",
     "title": "Ray Winstone played voice roles in which 2011 animated film?",
-    "answers": ["Chicken Run", "Shrek Forever After", "Rango", "Arthur Christmas"],
+    "options": ["Chicken Run", "Shrek Forever After", "Rango", "Arthur Christmas"],
     "correctIndex": 2,
     "explanation": "He did voice work for 'Rango' (2011)."
   },
   {
     "id": "mv-1328",
     "title": "Who took over the recurring role of Angela Channing in 'Falcon Crest' (1981)?",
-    "answers": ["Susan Sullivan", "Lorenzo Lamas", "Jane Wyman", "David Selby"],
+    "options": ["Susan Sullivan", "Lorenzo Lamas", "Jane Wyman", "David Selby"],
     "correctIndex": 2,
     "explanation": "Jane Wyman played Angela Channing."
   }
