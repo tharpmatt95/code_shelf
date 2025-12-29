@@ -13204,5 +13204,2265 @@
     "options": ["Andy Samberg", "Rufus Sewell", "Jonathan Rhys Meyers", "Ioan Gruffudd"],
     "correctIndex": 3,
     "explanation": "Ioan Gruffudd played John Gray."
+  },
+  {
+    "id": "mv-1849",
+    "title": "Which TV series centers on the Shelby crime family in post-WWI Birmingham?",
+    "options": ["Peaky Blinders", "Boardwalk Empire", "Taboo", "The Crown"],
+    "correctIndex": 0,
+    "explanation": "'Peaky Blinders' focuses on the Shelby family."
+  },
+  {
+    "id": "mv-1850",
+    "title": "Who played the role of Tony Soprano in 'The Sopranos'?",
+    "options": ["Michael Imperioli", "James Gandolfini", "Robert Iler", "Steve Schirripa"],
+    "correctIndex": 1,
+    "explanation": "James Gandolfini portrayed Tony Soprano."
+  },
+  {
+    "id": "mv-1851",
+    "title": "Which series features the fictitious Dunder Mifflin Paper Company?",
+    "options": ["Superstore", "Mad Men", "The Office", "Parks and Recreation"],
+    "correctIndex": 2,
+    "explanation": "'The Office' takes place at Dunder Mifflin."
+  },
+  {
+    "id": "mv-1852",
+    "title": "In 'Game of Thrones,' what is the ancestral home of House Stark?",
+    "options": ["Winterfell", "Highgarden", "Casterly Rock", "Riverrun"],
+    "correctIndex": 0,
+    "explanation": "Winterfell is House Stark's home."
+  },
+  {
+    "id": "mv-1853",
+    "title": "Who stars as the chemistry teacher-turned-meth kingpin in 'Breaking Bad'?",
+    "options": ["Aaron Paul", "Bryan Cranston", "Bob Odenkirk", "Dean Norris"],
+    "correctIndex": 1,
+    "explanation": "Bryan Cranston is Walter White."
+  },
+  {
+    "id": "mv-1854",
+    "title": "Which show imagines a group of friends navigating life in 1990s Manhattan?",
+    "options": ["How I Met Your Mother", "Friends", "Seinfeld", "Brooklyn Nine-Nine"],
+    "correctIndex": 1,
+    "explanation": "'Friends' is set in 1990s Manhattan."
+  },
+  {
+    "id": "mv-1855",
+    "title": "Which series is set far from the authority of the New Republic and follows a bounty hunter?",
+    "options": ["Firefly", "The Mandalorian", "Battlestar Galactica", "Andor"],
+    "correctIndex": 1,
+    "explanation": "'The Mandalorian' features a lone bounty hunter."
+  },
+  {
+    "id": "mv-1856",
+    "title": "Name the TV show about a group of cash-strapped people joining a deadly contest in Korea.",
+    "options": ["All of Us Are Dead", "Sweet Home", "Squid Game", "Kingdom"],
+    "correctIndex": 2,
+    "explanation": "'Squid Game' centers on a deadly contest."
+  },
+  {
+    "id": "mv-1857",
+    "title": "The fictional gang sewing razor blades in their caps is featured in which series?",
+    "options": ["Mindhunter", "Boardwalk Empire", "Peaky Blinders", "The Americans"],
+    "correctIndex": 2,
+    "explanation": "Peaky Blinders is about the gang with razor blades."
+  },
+  {
+    "id": "mv-1858",
+    "title": "Which drama presents an anthology with stand-alone episodes exploring tech nightmares?",
+    "options": ["Black Mirror", "Mr. Robot", "Westworld", "Humans"],
+    "correctIndex": 0,
+    "explanation": "'Black Mirror' features stand-alone techno-paranoia episodes."
+  },
+  {
+    "id": "mv-1859",
+    "title": "In 'Dexter,' what is Dexter Morgan's day job?",
+    "options": ["Forensic blood spatter analyst", "Police detective", "Lawyer", "Coroner"],
+    "correctIndex": 0,
+    "explanation": "He is a forensic blood spatter analyst."
+  },
+  {
+    "id": "mv-1860",
+    "title": "Which animated series follows a mad genius and his nervous grandson on multiverse adventures?",
+    "options": ["Final Space", "Rick and Morty", "Family Guy", "Solar Opposites"],
+    "correctIndex": 1,
+    "explanation": "'Rick and Morty' follows the scientist/grandson duo."
+  },
+  {
+    "id": "mv-1861",
+    "title": "'The Boys' revolves around ordinary people fighting against whom?",
+    "options": ["Police officers", "Corrupt superheroes", "Aliens", "Zombies"],
+    "correctIndex": 1,
+    "explanation": "They fight against corrupt superheroes."
+  },
+  {
+    "id": "mv-1862",
+    "title": "Which show is known for its slow reveal of how the protagonist met his future wife?",
+    "options": ["The Big Bang Theory", "How I Met Your Mother", "Modern Family", "Friends"],
+    "correctIndex": 1,
+    "explanation": "'How I Met Your Mother' uses this narrative."
+  },
+  {
+    "id": "mv-1863",
+    "title": "Who plays criminal lawyer Jimmy McGill in 'Better Call Saul'?",
+    "options": ["Jonathan Banks", "Aaron Paul", "Bob Odenkirk", "Giancarlo Esposito"],
+    "correctIndex": 2,
+    "explanation": "Bob Odenkirk stars as Jimmy McGill."
+  },
+  {
+    "id": "mv-1864",
+    "title": "Which series is best known for a group of survivors led by Rick Grimes during a zombie apocalypse?",
+    "options": ["The Walking Dead", "Fear the Walking Dead", "Z Nation", "Black Summer"],
+    "correctIndex": 0,
+    "explanation": "'The Walking Dead' features Rick Grimes."
+  },
+  {
+    "id": "mv-1865",
+    "title": "Who leads the Shelby gang in 'Peaky Blinders'?",
+    "options": ["Arthur Shelby", "John Shelby", "Tommy Shelby", "Finn Shelby"],
+    "correctIndex": 2,
+    "explanation": "Cillian Murphy plays Tommy Shelby, the leader."
+  },
+  {
+    "id": "mv-1866",
+    "title": "This series is set in a futuristic amusement park with android hosts. Name it.",
+    "options": ["Altered Carbon", "Humans", "Westworld", "Devs"],
+    "correctIndex": 2,
+    "explanation": "'Westworld' is set in an android-filled park."
+  },
+  {
+    "id": "mv-1867",
+    "title": "Which TV series begins with a plane crashing on a mysterious island?",
+    "options": ["Manifest", "Lost", "Survivor", "The Leftovers"],
+    "correctIndex": 1,
+    "explanation": "'Lost' starts with a plane crash."
+  },
+  {
+    "id": "mv-1868",
+    "title": "The main character of 'House' is a doctor who specializes in what?",
+    "options": ["Surgery", "Diagnostic medicine", "Pathology", "Pediatrics"],
+    "correctIndex": 1,
+    "explanation": "House specializes in diagnostics."
+  },
+  {
+    "id": "mv-1869",
+    "title": "Which TV show centers around a Pasadena apartment and two socially awkward scientists?",
+    "options": ["Friends", "The Big Bang Theory", "Community", "Silicon Valley"],
+    "correctIndex": 1,
+    "explanation": "'The Big Bang Theory' centers on two physicists."
+  },
+  {
+    "id": "mv-1870",
+    "title": "'Stranger Things' is mostly set in which state of the United States?",
+    "options": ["Illinois", "Indiana", "Georgia", "Ohio"],
+    "correctIndex": 1,
+    "explanation": "The show is set in Indiana."
+  },
+  {
+    "id": "mv-1871",
+    "title": "A famous sitcom about three related families living in Los Angeles is called?",
+    "options": ["Brooklyn Nine-Nine", "The Middle", "Modern Family", "Family Matters"],
+    "correctIndex": 2,
+    "explanation": "'Modern Family' follows three interrelated families."
+  },
+  {
+    "id": "mv-1872",
+    "title": "Which post-apocalyptic series stars Pedro Pascal and Bella Ramsey?",
+    "options": ["Station Eleven", "The 100", "The Last of Us", "The Stand"],
+    "correctIndex": 2,
+    "explanation": "'The Last of Us' stars Pascal and Ramsey."
+  },
+  {
+    "id": "mv-1873",
+    "title": "This Spanish series is about a carefully planned robbery involving the Royal Mint.",
+    "options": ["Sky Rojo", "Money Heist", "Elite", "Locked Up"],
+    "correctIndex": 1,
+    "explanation": "'Money Heist' is centered around the Royal Mint heist."
+  },
+  {
+    "id": "mv-1874",
+    "title": "In which film did the character Walter White first appear?",
+    "options": ["El Camino", "Breaking Bad", "Better Call Saul", "The Office"],
+    "correctIndex": 1,
+    "explanation": "Walter White is from 'Breaking Bad.'"
+  },
+  {
+    "id": "mv-1875",
+    "title": "Which animated show focuses on a group of kids encountering supernatural forces in the '80s?",
+    "options": ["Gravity Falls", "Stranger Things", "South Park", "The Simpsons"],
+    "correctIndex": 1,
+    "explanation": "'Stranger Things' is about supernatural events in the '80s."
+  },
+  {
+    "id": "mv-1876",
+    "title": "Who plays John Watson in 'Sherlock'?",
+    "options": ["Martin Freeman", "Benedict Cumberbatch", "David Tennant", "Paul McGann"],
+    "correctIndex": 0,
+    "explanation": "Martin Freeman is Dr. John Watson."
+  },
+  {
+    "id": "mv-1877",
+    "title": "Which TV show is a mockumentary set in Scranton, Pennsylvania?",
+    "options": ["The Office", "The IT Crowd", "Superstore", "Archer"],
+    "correctIndex": 0,
+    "explanation": "'The Office' is set in Scranton."
+  },
+  {
+    "id": "mv-1878",
+    "title": "Which show focuses on the quirky duo of Sherlock Holmes and John Watson in a modern London?",
+    "options": ["Elementary", "House", "Sherlock", "Holmes & Watson"],
+    "correctIndex": 2,
+    "explanation": "'Sherlock' transposes the detective to modern times."
+  },
+  {
+    "id": "mv-1879",
+    "title": "Who stars as Geralt of Rivia in 'The Witcher' series?",
+    "options": ["Liam Hemsworth", "Henry Cavill", "Matt Bomer", "Charlie Hunnam"],
+    "correctIndex": 1,
+    "explanation": "Henry Cavill played Geralt of Rivia for three seasons."
+  },
+  {
+    "id": "mv-1880",
+    "title": "Which show is famous for its phrase, 'You win or you die'?",
+    "options": ["House of Cards", "Game of Thrones", "Succession", "Empire"],
+    "correctIndex": 1,
+    "explanation": "This is a quote from 'Game of Thrones.'"
+  },
+  {
+    "id": "mv-1881",
+    "title": "In 'Attack on Titan', who vows to destroy the Titans after his hometown is attacked?",
+    "options": ["Armin Arlert", "Levi Ackerman", "Eren Jaeger", "Mikasa Ackerman"],
+    "correctIndex": 2,
+    "explanation": "Eren Jaeger is the main protagonist."
+  },
+  {
+    "id": "mv-1882",
+    "title": "This political drama features Frank Underwood's climb to power in D.C.",
+    "options": ["Scandal", "The West Wing", "House of Cards", "Designated Survivor"],
+    "correctIndex": 2,
+    "explanation": "'House of Cards' is about Frank Underwood."
+  },
+  {
+    "id": "mv-1883",
+    "title": "What is the real job of the gang leader in 'Prison Break' that allows him to infiltrate prison?",
+    "options": ["Architect", "Structural engineer", "Electrician", "Doctor"],
+    "correctIndex": 1,
+    "explanation": "Michael Scofield is a structural engineer."
+  },
+  {
+    "id": "mv-1884",
+    "title": "Which series is a blend of suspense, dark humor, and high-stakes legal drama starring a Breaking Bad character?",
+    "options": ["Fargo", "Narcos", "Better Call Saul", "Mad Men"],
+    "correctIndex": 2,
+    "explanation": "'Better Call Saul' is the legal drama spin-off."
+  },
+  {
+    "id": "mv-1885",
+    "title": "Who plays the lead role in 'Dexter'?",
+    "options": ["Michael C. Hall", "David Boreanaz", "Jim Parsons", "Anthony Michael Hall"],
+    "correctIndex": 0,
+    "explanation": "Michael C. Hall is Dexter Morgan."
+  },
+  {
+    "id": "mv-1886",
+    "title": "Which actor played the founder and main member of the Heisenberg meth empire?",
+    "options": ["Aaron Paul", "Jonathan Banks", "Bryan Cranston", "Bob Odenkirk"],
+    "correctIndex": 2,
+    "explanation": "Bryan Cranston plays Walter White."
+  },
+  {
+    "id": "mv-1887",
+    "title": "Which TV series features a high-functioning sociopath detective?",
+    "options": ["Mindhunter", "Elementary", "Sherlock", "Luther"],
+    "correctIndex": 2,
+    "explanation": "'Sherlock' uses the sociopath descriptor."
+  },
+  {
+    "id": "mv-1888",
+    "title": "'Money Heist' originally comes from which country?",
+    "options": ["Italy", "Mexico", "Spain", "Argentina"],
+    "correctIndex": 2,
+    "explanation": "It is a Spanish series."
+  },
+  {
+    "id": "mv-1889",
+    "title": "In 'Suits', who is the brilliant college dropout that ends up working at a top New York law firm?",
+    "options": ["Mike Ross", "Harvey Specter", "Louis Litt", "Donna Paulsen"],
+    "correctIndex": 0,
+    "explanation": "Mike Ross is the brilliant dropout hired by Harvey Specter."
+  },
+  {
+    "id": "mv-1890",
+    "title": "What is the name of the lawyer Mike Ross ends up working for in 'Suits'?",
+    "options": ["Louis Litt", "Harvey Specter", "Jessica Pearson", "Donna Paulsen"],
+    "correctIndex": 1,
+    "explanation": "Harvey Specter hires Mike Ross."
+  },
+  {
+    "id": "mv-1891",
+    "title": "Which TV show follows two brothers who hunt supernatural creatures across America?",
+    "options": ["True Detective", "The X-Files", "Supernatural", "The Vampire Diaries"],
+    "correctIndex": 2,
+    "explanation": "Supernatural is about two brothers hunting monsters."
+  },
+  {
+    "id": "mv-1892",
+    "title": "Who stars as the blind lawyer and vigilante in 'Daredevil'?",
+    "options": ["Charlie Cox", "Ben Affleck", "Andrew Lincoln", "Jon Bernthal"],
+    "correctIndex": 0,
+    "explanation": "Charlie Cox plays Matt Murdock/Daredevil."
+  },
+  {
+    "id": "mv-1893",
+    "title": "In 'Dark', what event triggers the exploration of family secrets?",
+    "options": ["A murder", "A bank robbery", "The disappearance of two children", "A flood"],
+    "correctIndex": 2,
+    "explanation": "The show starts with the disappearance of two children."
+  },
+  {
+    "id": "mv-1894",
+    "title": "Which series focuses on the criminal empire of Pablo Escobar?",
+    "options": ["Breaking Bad", "Ozark", "Narcos", "Homeland"],
+    "correctIndex": 2,
+    "explanation": "'Narcos' is about Pablo Escobar's exploits."
+  },
+  {
+    "id": "mv-1895",
+    "title": "Which show is set before the events of 'Game of Thrones' and centers on House Targaryen?",
+    "options": ["The Witcher", "House of the Dragon", "The Rings of Power", "Peaky Blinders"],
+    "correctIndex": 1,
+    "explanation": "'House of the Dragon' is a prequel to 'Game of Thrones'."
+  },
+  {
+    "id": "mv-1896",
+    "title": "Who is the main protagonist attempting to solve mysteries at Nevermore Academy in 'Wednesday'?",
+    "options": ["Enid Sinclair", "Morticia Addams", "Xavier Thorpe", "Wednesday Addams"],
+    "correctIndex": 3,
+    "explanation": "Wednesday Addams is the main character of the series."
+  },
+  {
+    "id": "mv-1897",
+    "title": "Which animated series centers on the Simpson family's adventures in Springfield?",
+    "options": ["Family Guy", "The Simpsons", "Rick and Morty", "South Park"],
+    "correctIndex": 1,
+    "explanation": "'The Simpsons' is about the Simpson family."
+  },
+  {
+    "id": "mv-1898",
+    "title": "In 'Loki', the titular character resumes which of the following roles?",
+    "options": ["God of Mischief", "King of Asgard", "Iron Man", "God of Thunder"],
+    "correctIndex": 0,
+    "explanation": "Loki is known as the God of Mischief."
+  },
+  {
+    "id": "mv-1899",
+    "title": "Which anthology series is set in and around frozen Minnesota, with all tales leading back to Fargo?",
+    "options": ["The Sinner", "Fargo", "Better Call Saul", "Mindhunter"],
+    "correctIndex": 1,
+    "explanation": "'Fargo' is the anthology series set in Minnesota."
+  },
+  {
+    "id": "mv-1900",
+    "title": "Who comes into possession of a deadly notebook in 'Death Note'?",
+    "options": ["Light Yagami", "L Lawliet", "Ryuk", "Misa Amane"],
+    "correctIndex": 0,
+    "explanation": "Light Yagami finds the Death Note."
+  },
+  {
+    "id": "mv-1901",
+    "title": "Which series follows Oliver Queen returning to Starling City as a vigilante?",
+    "options": ["Arrow", "The Flash", "Homeland", "Luther"],
+    "correctIndex": 0,
+    "explanation": "Oliver Queen is the protagonist of 'Arrow'."
+  },
+  {
+    "id": "mv-1902",
+    "title": "Rami Malek plays a vigilante hacker in which series?",
+    "options": ["Breaking Bad", "Mr. Robot", "Sherlock", "Suits"],
+    "correctIndex": 1,
+    "explanation": "Rami Malek is the star of 'Mr. Robot'."
+  },
+  {
+    "id": "mv-1903",
+    "title": "Which show follows four foul-mouthed grade-schoolers in Colorado?",
+    "options": ["Family Guy", "Bob's Burgers", "South Park", "The Simpsons"],
+    "correctIndex": 2,
+    "explanation": "'South Park' is set in Colorado with four main kids."
+  },
+  {
+    "id": "mv-1904",
+    "title": "What is the name of the Amazon prequel series set in Middle-earth thousands of years before 'The Hobbit'?",
+    "options": ["Dark", "The Lord of the Rings: The Rings of Power", "The Witcher", "Fargo"],
+    "correctIndex": 1,
+    "explanation": "'The Rings of Power' is the Middle-earth prequel."
+  },
+  {
+    "id": "mv-1905",
+    "title": "Which show features an American coach managing a struggling British soccer team?",
+    "options": ["The Office", "Archer", "Ted Lasso", "Brooklyn Nine-Nine"],
+    "correctIndex": 2,
+    "explanation": "Ted Lasso is about an American coaching in England."
+  },
+  {
+    "id": "mv-1906",
+    "title": "Which animated series is set in the twin cities of Piltover and Zaun?",
+    "options": ["Arcane", "The Dragon Prince", "Death Note", "Avatar: The Last Airbender"],
+    "correctIndex": 0,
+    "explanation": "'Arcane' is set in Piltover and Zaun from League of Legends."
+  },
+  {
+    "id": "mv-1907",
+    "title": "In 'Avatar: The Last Airbender', who is the young boy tasked with bringing peace to the world?",
+    "options": ["Sokka", "Zuko", "Aang", "Iroh"],
+    "correctIndex": 2,
+    "explanation": "Aang is the Avatar who brings peace."
+  },
+  {
+    "id": "mv-1908",
+    "title": "Which drama series depicts Baltimore's drug scene through both police and criminals?",
+    "options": ["Mindhunter", "Narcos", "The Wire", "Breaking Bad"],
+    "correctIndex": 2,
+    "explanation": "'The Wire' is about Baltimore's drug scene."
+  },
+  {
+    "id": "mv-1909",
+    "title": "Which show is set in the NYPD's 99th Precinct and focuses on detective Jake Peralta?",
+    "options": ["Brooklyn Nine-Nine", "Family Guy", "Luther", "Sherlock"],
+    "correctIndex": 0,
+    "explanation": "Brooklyn Nine-Nine follows Jake Peralta."
+  },
+  {
+    "id": "mv-1910",
+    "title": "Which series features FBI agents studying the psychology behind murders in the late 1970s?",
+    "options": ["Mindhunter", "Bones", "Criminal Minds", "Luther"],
+    "correctIndex": 0,
+    "explanation": "Mindhunter is about FBI agents studying serial killers."
+  },
+  {
+    "id": "mv-1911",
+    "title": "Which show follows Lucifer Morningstar leaving Hell to live in Los Angeles?",
+    "options": ["The Good Place", "Lucifer", "Angel", "Supernatural"],
+    "correctIndex": 1,
+    "explanation": "'Lucifer' features the Devil relocating to L.A."
+  },
+  {
+    "id": "mv-1912",
+    "title": "In which animated series does a family face outlandish scenarios in Rhode Island?",
+    "options": ["The Simpsons", "Bob's Burgers", "Family Guy", "Futurama"],
+    "correctIndex": 2,
+    "explanation": "'Family Guy' takes place in Rhode Island."
+  },
+  {
+    "id": "mv-1913",
+    "title": "Which show involves a financial advisor laundering money for a drug boss in Missouri?",
+    "options": ["Narcos", "The Wire", "Ozark", "Breaking Bad"],
+    "correctIndex": 2,
+    "explanation": "'Ozark' is about money laundering in Missouri."
+  },
+  {
+    "id": "mv-1914",
+    "title": "Which CW series features Barry Allen gaining super speed after being struck by lightning?",
+    "options": ["Arrow", "The Flash", "Supernatural", "Heroes"],
+    "correctIndex": 1,
+    "explanation": "Barry Allen's story is told in 'The Flash'."
+  },
+  {
+    "id": "mv-1915",
+    "title": "Who is the neurotic comedian at the center of 'Seinfeld'?",
+    "options": ["Larry David", "Cosmo Kramer", "Jerry Seinfeld", "George Costanza"],
+    "correctIndex": 2,
+    "explanation": "Jerry Seinfeld stars as himself."
+  },
+  {
+    "id": "mv-1916",
+    "title": "Which series features a bipolar CIA operative tackling terrorism in the US?",
+    "options": ["Scandal", "Homeland", "Designated Survivor", "House of Cards"],
+    "correctIndex": 1,
+    "explanation": "Claire Danes stars in 'Homeland'."
+  },
+  {
+    "id": "mv-1917",
+    "title": "In 'The Vampire Diaries', where do supernatural beings torment the residents?",
+    "options": ["Beacon Hills", "Mystic Falls", "Sunnydale", "Storybrooke"],
+    "correctIndex": 1,
+    "explanation": "Mystic Falls is the haunted town in 'The Vampire Diaries'."
+  },
+  {
+    "id": "mv-1918",
+    "title": "Which long-running medical drama centers on surgical interns and supervisors?",
+    "options": ["New Amsterdam", "The Resident", "Grey's Anatomy", "The Good Doctor"],
+    "correctIndex": 2,
+    "explanation": "Grey's Anatomy focuses on surgical interns and attendings."
+  },
+  {
+    "id": "mv-1919",
+    "title": "Who is the assistant district attorney frequently working with Harvey Specter in 'Suits'?",
+    "options": ["Rachel Zane", "Jessica Pearson", "Donna Paulsen", "Louis Litt"],
+    "correctIndex": 1,
+    "explanation": "Jessica Pearson is Harvey's boss and often works with him."
+  },
+  {
+    "id": "mv-1920",
+    "title": "What is Wednesday Addams' unique ability explored in the 2022 Netflix series?",
+    "options": ["Invisibility", "Psychic powers", "Telekinesis", "Super strength"],
+    "correctIndex": 1,
+    "explanation": "She tries to master her emerging psychic ability."
+  },
+  {
+    "id": "mv-1921",
+    "title": "Which series was created by Seth MacFarlane and follows the Griffin family?",
+    "options": ["The Simpsons", "Family Guy", "South Park", "American Dad!"],
+    "correctIndex": 1,
+    "explanation": "'Family Guy' was created by Seth MacFarlane."
+  },
+  {
+    "id": "mv-1922",
+    "title": "What is the core theme of 'Dark', the German series?",
+    "options": ["Espionage", "Family saga with time travel", "Medical drama", "Illegal drugs"],
+    "correctIndex": 1,
+    "explanation": "'Dark' is about a supernatural family saga involving time travel."
+  },
+  {
+    "id": "mv-1923",
+    "title": "Which TV show did Jason Sudeikis star in as an American football coach turned soccer manager?",
+    "options": ["Brooklyn Nine-Nine", "Ted Lasso", "The League", "Scrubs"],
+    "correctIndex": 1,
+    "explanation": "Jason Sudeikis stars in 'Ted Lasso.'"
+  },
+  {
+    "id": "mv-1924",
+    "title": "Who voices Peter Griffin in 'Family Guy'?",
+    "options": ["Dan Castellaneta", "Seth MacFarlane", "Seth Green", "Mike Judge"],
+    "correctIndex": 1,
+    "explanation": "Seth MacFarlane voices Peter Griffin."
+  },
+  {
+    "id": "mv-1925",
+    "title": "Who is the main adversary of Daredevil in the 2015–2018 Netflix series?",
+    "options": ["Colin Farrell", "Kingpin", "Joker", "Red Skull"],
+    "correctIndex": 1,
+    "explanation": "The Kingpin (Wilson Fisk) is Daredevil's nemesis."
+  },
+  {
+    "id": "mv-1926",
+    "title": "Which cop comedy features a serious, stoic captain named Raymond Holt?",
+    "options": ["Brooklyn Nine-Nine", "The Office", "Parks and Recreation", "Community"],
+    "correctIndex": 0,
+    "explanation": "Captain Holt is a main character in 'Brooklyn Nine-Nine.'"
+  },
+  {
+    "id": "mv-1927",
+    "title": "Which show features a vigilante hacker named Elliot battling a mega-corporation?",
+    "options": ["Supernatural", "Mindhunter", "Mr. Robot", "The Office"],
+    "correctIndex": 2,
+    "explanation": "Elliot, played by Rami Malek, leads 'Mr. Robot.'"
+  },
+  {
+    "id": "mv-1928",
+    "title": "In 'House of the Dragon', what major event is the central focus?",
+    "options": ["Wildfire explosion", "Civil war of succession", "Dothraki invasion", "White Walker attack"],
+    "correctIndex": 1,
+    "explanation": "The series focuses on the Targaryen civil war of succession."
+  },
+  {
+    "id": "mv-1929",
+    "title": "Who plays Mark, the main character leading a mysterious team in 'Severance'?",
+    "options": ["Adam Scott", "Penn Badgley", "Jeremy Allen White", "Jason Bateman"],
+    "correctIndex": 0,
+    "explanation": "Adam Scott stars as Mark in Severance."
+  },
+  {
+    "id": "mv-1930",
+    "title": "Which TV series is an anthology horror drama created by Ryan Murphy and Brad Falchuk?",
+    "options": ["13 Reasons Why", "American Horror Story", "The Bear", "The Handmaid's Tale"],
+    "correctIndex": 1,
+    "explanation": "American Horror Story is co-created by Ryan Murphy and Brad Falchuk."
+  },
+  {
+    "id": "mv-1931",
+    "title": "'You' explores obsession and danger. Who plays the lead character Joe Goldberg?",
+    "options": ["Penn Badgley", "Adam Scott", "Nathan Fillion", "Alan Ritchson"],
+    "correctIndex": 0,
+    "explanation": "Penn Badgley stars as Joe Goldberg."
+  },
+  {
+    "id": "mv-1932",
+    "title": "Which TV show is set in a post-apocalyptic Los Angeles where people must live underground to survive nuclear fallout?",
+    "options": ["Firefly", "Fallout", "The 100", "Spartacus"],
+    "correctIndex": 1,
+    "explanation": "Fallout is set in post-apocalyptic Los Angeles with underground vaults."
+  },
+  {
+    "id": "mv-1933",
+    "title": "Which actor stars as Jackson 'Jax' Teller, a biker trying to balance family and club life in 'Sons of Anarchy'?",
+    "options": ["Charlie Hunnam", "Ryan Hurst", "Walton Goggins", "Mark Boone Junior"],
+    "correctIndex": 0,
+    "explanation": "Charlie Hunnam plays Jax Teller."
+  },
+  {
+    "id": "mv-1934",
+    "title": "'Succession' is a drama that revolves around which powerful family?",
+    "options": ["Bluth", "Roy", "White", "Reed"],
+    "correctIndex": 1,
+    "explanation": "Succession is about the Roy family."
+  },
+  {
+    "id": "mv-1935",
+    "title": "Who assumes control of a dysfunctional family after his father is imprisoned in 'Arrested Development'?",
+    "options": ["Michael Bluth", "Frank Castle", "Hannibal Lecter", "Mark Scout"],
+    "correctIndex": 0,
+    "explanation": "Michael Bluth (Jason Bateman) does in Arrested Development."
+  },
+  {
+    "id": "mv-1936",
+    "title": "What is the long-running anime series in which Monkey D. Luffy searches for a legendary treasure?",
+    "options": ["The 100", "One Piece", "Community", "Yellowstone"],
+    "correctIndex": 1,
+    "explanation": "One Piece stars Monkey D. Luffy, the rubber-bodied pirate."
+  },
+  {
+    "id": "mv-1937",
+    "title": "'13 Reasons Why' is centered around which character's quest to uncover the reasons behind a classmate's death?",
+    "options": ["Clay Jensen", "Eren Jaeger", "Raymond Reddington", "Luffy"],
+    "correctIndex": 0,
+    "explanation": "Clay Jensen tries to unravel the mystery."
+  },
+  {
+    "id": "mv-1938",
+    "title": "Which TV show details Piper Chapman's experiences after being convicted of a decade-old crime?",
+    "options": ["Shameless", "Community", "Orange Is the New Black", "Reacher"],
+    "correctIndex": 2,
+    "explanation": "Orange Is the New Black focuses on Piper Chapman."
+  },
+  {
+    "id": "mv-1939",
+    "title": "Who is the patriarch of the feisty Chicago family in 'Shameless'?",
+    "options": ["Mark Boone Junior", "Frank Gallagher", "Michael Bluth", "John Dutton"],
+    "correctIndex": 1,
+    "explanation": "Frank Gallagher, played by William H. Macy."
+  },
+  {
+    "id": "mv-1940",
+    "title": "Which series depicts the journey of three friends preparing for tough public service exams in India?",
+    "options": ["The Bear", "Aspirants", "Fallout", "Euphoria"],
+    "correctIndex": 1,
+    "explanation": "Aspirants is about UPSC aspirants in India."
+  },
+  {
+    "id": "mv-1941",
+    "title": "Which superhero family must reunite to save the world in a Netflix series?",
+    "options": ["The Bluths", "The Roys", "The Umbrella Academy", "The Gallaghers"],
+    "correctIndex": 2,
+    "explanation": "The Umbrella Academy is about a superhero family."
+  },
+  {
+    "id": "mv-1942",
+    "title": "'Parks and Recreation' humorously follows which small town's public officials?",
+    "options": ["Stars Hollow", "Montana", "Tanaka", "Pawnee"],
+    "correctIndex": 3,
+    "explanation": "Pawnee, Indiana is the fictional town."
+  },
+  {
+    "id": "mv-1943",
+    "title": "The White Lotus takes place primarily in what kind of location?",
+    "options": ["Police Station", "Office Building", "Luxury Resort", "Spaceship"],
+    "correctIndex": 2,
+    "explanation": "The White Lotus is at a luxury resort."
+  },
+  {
+    "id": "mv-1944",
+    "title": "A suspended lawyer enrolls in community college in which sitcom?",
+    "options": ["Hannibal", "Parks and Recreation", "Community", "Shameless"],
+    "correctIndex": 2,
+    "explanation": "Community centers around expelled lawyer Jeff Winger."
+  },
+  {
+    "id": "mv-1945",
+    "title": "Who plays the cannibalistic psychiatrist in 'Hannibal'?",
+    "options": ["Jim Rash", "William H. Macy", "Mads Mikkelsen", "J.K. Simmons"],
+    "correctIndex": 2,
+    "explanation": "Mads Mikkelsen is Hannibal Lecter."
+  },
+  {
+    "id": "mv-1946",
+    "title": "Who plays culinary prodigy Carmen 'Carmy' Berzatto in 'The Bear'?",
+    "options": ["Penn Badgley", "Jeremy Allen White", "Devon Bostick", "Jeffrey Tambor"],
+    "correctIndex": 1,
+    "explanation": "Jeremy Allen White stars as Carmy."
+  },
+  {
+    "id": "mv-1947",
+    "title": "In 'The 100', how many juvenile delinquents return to Earth to see if it's habitable?",
+    "options": ["25", "50", "100", "10"],
+    "correctIndex": 2,
+    "explanation": "The premise is 100 delinquents return."
+  },
+  {
+    "id": "mv-1948",
+    "title": "'Firefly' is a space western about a crew traveling in which type of vehicle?",
+    "options": ["Bus", "Submarine", "Spacecraft", "Train"],
+    "correctIndex": 2,
+    "explanation": "The group travels on a small spacecraft."
+  },
+  {
+    "id": "mv-1949",
+    "title": "'Yellowstone' is primarily set in which American state?",
+    "options": ["California", "Montana", "Texas", "Nevada"],
+    "correctIndex": 1,
+    "explanation": "Yellowstone is set in Montana."
+  },
+  {
+    "id": "mv-1950",
+    "title": "Who stars as Raymond Reddington, a mysterious criminal mastermind in 'The Blacklist'?",
+    "options": ["James Spader", "Will Arnett", "Aaron Paul", "Penn Badgley"],
+    "correctIndex": 0,
+    "explanation": "James Spader leads as Red Reddington."
+  },
+  {
+    "id": "mv-1951",
+    "title": "'Invincible' is an animated superhero series featuring whose son as the protagonist?",
+    "options": ["The most dangerous man on Earth", "The head chef", "The world's strongest superhero", "The head of a luxury resort"],
+    "correctIndex": 2,
+    "explanation": "Invincible is the son of the planet's strongest superhero."
+  },
+  {
+    "id": "mv-1952",
+    "title": "'Two and a Half Men' involves a jingle writer whose life changes when whom moves in with him?",
+    "options": ["His brother and nephew", "His wife and son", "His college friends", "His students"],
+    "correctIndex": 0,
+    "explanation": "Brother and nephew move in with Charlie."
+  },
+  {
+    "id": "mv-1953",
+    "title": "Which Marvel character is known for his violent methods and gets his own Netflix series?",
+    "options": ["Daredevil", "The Punisher", "Jessica Jones", "Luke Cage"],
+    "correctIndex": 1,
+    "explanation": "The Punisher, led by Frank Castle, is notorious for violence."
+  },
+  {
+    "id": "mv-1954",
+    "title": "'The Handmaid's Tale' is set in a dystopian society ruled by a theocratic dictatorship. Who plays the lead role?",
+    "options": ["Kate Mulgrew", "Elisabeth Moss", "Zendaya", "Natasha Lyonne"],
+    "correctIndex": 1,
+    "explanation": "Elisabeth Moss is Offred/June."
+  },
+  {
+    "id": "mv-1955",
+    "title": "Spartacus leads a rebellion against which empire in the series 'Spartacus'?",
+    "options": ["Greek", "Roman", "Egyptian", "British"],
+    "correctIndex": 1,
+    "explanation": "Spartacus is set in Roman times."
+  },
+  {
+    "id": "mv-1956",
+    "title": "'Euphoria' is a series mainly focusing on which age group?",
+    "options": ["Teenagers", "Middle-aged adults", "Seniors", "Young kids"],
+    "correctIndex": 0,
+    "explanation": "Teenagers are the main group."
+  },
+  {
+    "id": "mv-1957",
+    "title": "Which TV show provides a dramatic look at an advertising agency in 1960s New York?",
+    "options": ["Succession", "Mad Men", "Severance", "Money Heist"],
+    "correctIndex": 1,
+    "explanation": "Mad Men is the drama set in 1960s NYC ad world."
+  },
+  {
+    "id": "mv-1958",
+    "title": "Who plays Jack Reacher in the Amazon series based on Lee Child's novels?",
+    "options": ["Bryan Cranston", "Alan Ritchson", "Jeremy Strong", "Ron Perlman"],
+    "correctIndex": 1,
+    "explanation": "Alan Ritchson is Jack Reacher."
+  },
+  {
+    "id": "mv-1959",
+    "title": "'Firefly' is acclaimed as what genre-blending TV series?",
+    "options": ["Historical Drama", "Romantic Comedy", "Space Western", "Animated Horror"],
+    "correctIndex": 2,
+    "explanation": "Firefly is a space western."
+  },
+  {
+    "id": "mv-1960",
+    "title": "Which show features Steve Howey and Cameron Monaghan as part of the Gallagher family?",
+    "options": ["Euphoria", "Shameless", "Succession", "Yellowstone"],
+    "correctIndex": 1,
+    "explanation": "Shameless stars both actors."
+  },
+  {
+    "id": "mv-1961",
+    "title": "What is the surname of the dysfunctional family in 'Arrested Development'?",
+    "options": ["Bluth", "Roy", "Snook", "Sagal"],
+    "correctIndex": 0,
+    "explanation": "Bluth is the family in Arrested Development."
+  },
+  {
+    "id": "mv-1962",
+    "title": "Which Netflix series involves women in prison and stars Taylor Schilling as Piper Chapman?",
+    "options": ["The Handmaid's Tale", "Orange Is the New Black", "Parks and Recreation", "Euphoria"],
+    "correctIndex": 1,
+    "explanation": "Orange Is the New Black is a prison dramedy."
+  },
+  {
+    "id": "mv-1963",
+    "title": "Which TV dramedy features Adam Scott, Rashida Jones, and Amy Poehler among a town's quirky officials?",
+    "options": ["Community", "Parks and Recreation", "The Bear", "Invincible"],
+    "correctIndex": 1,
+    "explanation": "Parks and Recreation’s ensemble includes them."
+  },
+  {
+    "id": "mv-1964",
+    "title": "What is the primary group facing danger in 'The Umbrella Academy'?",
+    "options": ["Pirates", "Teen Chefs", "Superheroes", "Culinary Students"],
+    "correctIndex": 2,
+    "explanation": "The family members are former superheroes."
+  },
+  {
+    "id": "mv-1965",
+    "title": "Which series is about a family ranching dynasty up against land grabbers?",
+    "options": ["Succession", "Yellowstone", "Euphoria", "Invincible"],
+    "correctIndex": 1,
+    "explanation": "Yellowstone is about a ranching family in Montana."
+  },
+  {
+    "id": "mv-1966",
+    "title": "'Severance' divides its characters' memories between personal and ______ lives.",
+    "options": ["romantic", "work", "school", "family"],
+    "correctIndex": 1,
+    "explanation": "Memories are split between work and personal life."
+  },
+  {
+    "id": "mv-1967",
+    "title": "Which show is an animated adaptation of a superhero comic by Skybound/Image?",
+    "options": ["Firefly", "Community", "Invincible", "Arrested Development"],
+    "correctIndex": 2,
+    "explanation": "Invincible is based on Image comics."
+  },
+  {
+    "id": "mv-1968",
+    "title": "Who plays the chef returning to Chicago in 'The Bear'?",
+    "options": ["Jeremy Allen White", "Frank Castle", "Bryan Cranston", "Penn Badgley"],
+    "correctIndex": 0,
+    "explanation": "Jeremy Allen White is the lead in The Bear."
+  },
+  {
+    "id": "mv-1969",
+    "title": "Who learns the ways of medicine, friendship, and life in 'Scrubs'?",
+    "options": ["John 'J.D.' Dorian", "Turk", "Dr. Cox", "Elliot Reid"],
+    "correctIndex": 0,
+    "explanation": "J.D. is the protagonist learning about medicine and life."
+  },
+  {
+    "id": "mv-1970",
+    "title": "Which TV show is set in an Irish pub in Philadelphia?",
+    "options": ["Two and a Half Men", "It's Always Sunny in Philadelphia", "Community", "Cheers"],
+    "correctIndex": 1,
+    "explanation": "'It's Always Sunny in Philadelphia' centers on a bar in Philly."
+  },
+  {
+    "id": "mv-1971",
+    "title": "Which series follows the political rivalries of Queen Elizabeth II’s reign?",
+    "options": ["The Tudors", "The Queen's Gambit", "The Crown", "Victoria"],
+    "correctIndex": 2,
+    "explanation": "'The Crown' is about Queen Elizabeth II."
+  },
+  {
+    "id": "mv-1972",
+    "title": "In 'Futurama', what is Philip J. Fry’s occupation before being frozen?",
+    "options": ["Delivery boy", "Scientist", "Police officer", "Chef"],
+    "correctIndex": 0,
+    "explanation": "Fry was a pizza delivery boy in the 20th century."
+  },
+  {
+    "id": "mv-1973",
+    "title": "Who is the telepathic waitress in 'True Blood'?",
+    "options": ["Jessica Hamby", "Sookie Stackhouse", "Pam Swynford De Beaufort", "Lafayette Reynolds"],
+    "correctIndex": 1,
+    "explanation": "Sookie Stackhouse is the telepathic waitress."
+  },
+  {
+    "id": "mv-1974",
+    "title": "Which TV series features Fox Mulder and Dana Scully investigating unexplained cases?",
+    "options": ["Supernatural", "Medium", "The X-Files", "Ghost Whisperer"],
+    "correctIndex": 2,
+    "explanation": "'The X-Files' features these two FBI agents."
+  },
+  {
+    "id": "mv-1975",
+    "title": "Who is the institutionalized scientist in 'Fringe'?",
+    "options": ["Peter Bishop", "Lincoln Lee", "Walter Bishop", "Nina Sharp"],
+    "correctIndex": 2,
+    "explanation": "Walter Bishop is the institutionalized scientist."
+  },
+  {
+    "id": "mv-1976",
+    "title": "Which long-running British series was revived in 2005?",
+    "options": ["The Bill", "Torchwood", "Doctor Who", "Luther"],
+    "correctIndex": 2,
+    "explanation": "'Doctor Who' returned in 2005."
+  },
+  {
+    "id": "mv-1977",
+    "title": "Who becomes a Rebel hero in the series 'Andor'?",
+    "options": ["Han Solo", "Luke Skywalker", "Cassian Andor", "Obi-Wan Kenobi"],
+    "correctIndex": 2,
+    "explanation": "Cassian Andor is the main character."
+  },
+  {
+    "id": "mv-1978",
+    "title": "In 'New Girl', what is Jess's profession?",
+    "options": ["Teacher", "Painter", "Chef", "Writer"],
+    "correctIndex": 0,
+    "explanation": "Jess is a teacher in the show."
+  },
+  {
+    "id": "mv-1979",
+    "title": "Which series centers on ordinary people discovering they have powers?",
+    "options": ["Alphas", "Heroes", "Smallville", "The Boys"],
+    "correctIndex": 1,
+    "explanation": "'Heroes' features characters discovering powers."
+  },
+  {
+    "id": "mv-1980",
+    "title": "Who is the detective rising to prominence in Gotham City before Batman?",
+    "options": ["Bruce Wayne", "James Gordon", "Harvey Bullock", "Oswald Cobblepot"],
+    "correctIndex": 1,
+    "explanation": "James Gordon is the central character in 'Gotham.'"
+  },
+  {
+    "id": "mv-1981",
+    "title": "In 'Once Upon a Time', where is the small town full of fairy tale characters?",
+    "options": ["Storybrooke", "Derry", "Stars Hollow", "Salem"],
+    "correctIndex": 0,
+    "explanation": "Storybrooke, Maine, is the town in the show."
+  },
+  {
+    "id": "mv-1982",
+    "title": "Which show chronicles the lives of the aristocratic Crawley family?",
+    "options": ["Poldark", "Downton Abbey", "The Crown", "Victoria"],
+    "correctIndex": 1,
+    "explanation": "'Downton Abbey' is about the Crawley family."
+  },
+  {
+    "id": "mv-1983",
+    "title": "Which series follows two 17-year-olds, James and Alyssa, on a road trip?",
+    "options": ["Skins", "The End of the F***ing World", "Degrassi", "Misfits"],
+    "correctIndex": 1,
+    "explanation": "'The End of the F***ing World' features James and Alyssa."
+  },
+  {
+    "id": "mv-1984",
+    "title": "Which series reveals secrets among upper-class mothers in Monterey?",
+    "options": ["Desperate Housewives", "Big Little Lies", "The OC", "Revenge"],
+    "correctIndex": 1,
+    "explanation": "Monterey is the setting for 'Big Little Lies.'"
+  },
+  {
+    "id": "mv-1985",
+    "title": "Which cult series has Agent Dale Cooper investigating a murder?",
+    "options": ["True Detective", "Broadchurch", "Twin Peaks", "Riverdale"],
+    "correctIndex": 2,
+    "explanation": "'Twin Peaks' stars Kyle MacLachlan as Cooper."
+  },
+  {
+    "id": "mv-1986",
+    "title": "Who wrote and starred in 'Fleabag'?",
+    "options": ["Olivia Colman", "Jodie Comer", "Phoebe Waller-Bridge", "Claire Foy"],
+    "correctIndex": 2,
+    "explanation": "Phoebe Waller-Bridge created and stars in 'Fleabag.'"
+  },
+  {
+    "id": "mv-1987",
+    "title": "Which anime follows two brothers as they search for a Philosopher’s Stone?",
+    "options": ["Blue Exorcist", "Naruto", "Fullmetal Alchemist: Brotherhood", "Bleach"],
+    "correctIndex": 2,
+    "explanation": "'Fullmetal Alchemist: Brotherhood' features the Elric brothers."
+  },
+  {
+    "id": "mv-1988",
+    "title": "Which show continues the story of 'The Karate Kid' movies?",
+    "options": ["Kickin' It", "Cobra Kai", "Into the Badlands", "The Art of Karate"],
+    "correctIndex": 1,
+    "explanation": "'Cobra Kai' is the sequel to the classic films."
+  },
+  {
+    "id": "mv-1989",
+    "title": "Which character is a private investigator in Marvel’s New York City?",
+    "options": ["Trish Walker", "Jessica Jones", "Peggy Carter", "Claire Temple"],
+    "correctIndex": 1,
+    "explanation": "Jessica Jones is the protagonist and PI."
+  },
+  {
+    "id": "mv-1990",
+    "title": "The Behavioral Analysis Unit is featured in which TV series?",
+    "options": ["Criminal Minds", "CSI: Miami", "NCIS", "The Blacklist"],
+    "correctIndex": 0,
+    "explanation": "'Criminal Minds' focuses on the BAU."
+  },
+  {
+    "id": "mv-1991",
+    "title": "Which historical drama features Lord Yoshii Toranaga?",
+    "options": ["Shōgun", "Marco Polo", "Samurai Champloo", "The Last Kingdom"],
+    "correctIndex": 0,
+    "explanation": "Lord Yoshii Toranaga is in 'Shōgun.'"
+  },
+  {
+    "id": "mv-1992",
+    "title": "Who leads missions for the Strategic Homeland Intervention in 'Agents of S.H.I.E.L.D.'?",
+    "options": ["Steve Rogers", "Phil Coulson", "Tony Stark", "Bruce Banner"],
+    "correctIndex": 1,
+    "explanation": "Phil Coulson heads the missions in the series."
+  },
+  {
+    "id": "mv-1993",
+    "title": "Which animated anthology features short stories across different genres?",
+    "options": ["Spider-Man", "Batman: The Animated Series", "Love, Death & Robots", "Robot Chicken"],
+    "correctIndex": 2,
+    "explanation": "'Love, Death & Robots' is the animated anthology."
+  },
+  {
+    "id": "mv-1994",
+    "title": "Who voices the title character in 'BoJack Horseman'?",
+    "options": ["Will Arnett", "Aaron Paul", "Alison Brie", "Paul F. Tompkins"],
+    "correctIndex": 0,
+    "explanation": "Will Arnett is the voice of BoJack."
+  },
+  {
+    "id": "mv-1995",
+    "title": "Which series features Patrick Jane, a former 'psychic' now working with police?",
+    "options": ["Lie to Me", "The Mentalist", "Monk", "Elementary"],
+    "correctIndex": 1,
+    "explanation": "Patrick Jane is the lead of 'The Mentalist.'"
+  },
+  {
+    "id": "mv-1996",
+    "title": "Whose punch can defeat any enemy instantly?",
+    "options": ["Genos", "Mumen Rider", "Saitama", "King"],
+    "correctIndex": 2,
+    "explanation": "Saitama, known as One Punch Man, can defeat any foe with a single punch."
+  },
+  {
+    "id": "mv-1997",
+    "title": "Which docu-drama presents real life stories of infamous killers?",
+    "options": ["Broadchurch", "Making a Murderer", "Monster", "The People v. O.J. Simpson"],
+    "correctIndex": 2,
+    "explanation": "'Monster' chronicles infamous killers."
+  },
+  {
+    "id": "mv-1998",
+    "title": "Who is Nucky Thompson an Atlantic City politician in?",
+    "options": ["Boardwalk Empire", "Peaky Blinders", "The Sopranos", "Mad Men"],
+    "correctIndex": 0,
+    "explanation": "Nucky Thompson is the protagonist of 'Boardwalk Empire.'"
+  },
+  {
+    "id": "mv-1999",
+    "title": "Which sitcom features four single men and a quirky woman in a loft?",
+    "options": ["Friends", "New Girl", "How I Met Your Mother", "Brooklyn Nine-Nine"],
+    "correctIndex": 1,
+    "explanation": "'New Girl' is set in a Los Angeles loft."
+  },
+  {
+    "id": "mv-2000",
+    "title": "Who created and starred in the play that became 'Fleabag'?",
+    "options": ["Olivia Colman", "Phoebe Waller-Bridge", "Jodie Comer", "Sandra Oh"],
+    "correctIndex": 1,
+    "explanation": "Phoebe Waller-Bridge created and starred in 'Fleabag.'"
+  },
+  {
+    "id": "mv-2001",
+    "title": "Which show blends suspense, dark humor, and high-stakes legal drama?",
+    "options": ["Ozark", "Mad Men", "Better Call Saul", "The Office"],
+    "correctIndex": 2,
+    "explanation": "'Better Call Saul' is the correct answer."
+  },
+  {
+    "id": "mv-2002",
+    "title": "'Shōgun' is set in which country?",
+    "options": ["Japan", "China", "Korea", "Thailand"],
+    "correctIndex": 0,
+    "explanation": "The story takes place in Japan."
+  },
+  {
+    "id": "mv-2003",
+    "title": "Which main character in 'Fullmetal Alchemist: Brotherhood' wears a suit of armor?",
+    "options": ["Alphonse Elric", "Edward Elric", "Roy Mustang", "Winry Rockbell"],
+    "correctIndex": 0,
+    "explanation": "Alphonse Elric's soul is bound to a suit of armor."
+  },
+  {
+    "id": "mv-2004",
+    "title": "Which series features Meryl Streep, Nicole Kidman, and Reese Witherspoon?",
+    "options": ["The Undoing", "Big Little Lies", "Sharp Objects", "The Morning Show"],
+    "correctIndex": 1,
+    "explanation": "All three star in 'Big Little Lies.'"
+  },
+  {
+    "id": "mv-2005",
+    "title": "Who is the skeptical FBI agent in 'The X-Files'?",
+    "options": ["Alex Krycek", "Fox Mulder", "Dana Scully", "Walter Skinner"],
+    "correctIndex": 2,
+    "explanation": "Dana Scully is the skeptic in the partnership."
+  },
+  {
+    "id": "mv-2006",
+    "title": "In 'Cobra Kai', who was Daniel LaRusso’s karate rival in 1984?",
+    "options": ["Miguel Diaz", "Robby Keene", "Johnny Lawrence", "Hawk"],
+    "correctIndex": 2,
+    "explanation": "Johnny Lawrence was the rival from the original film."
+  },
+  {
+    "id": "mv-2007",
+    "title": "Who is the idolized crime fighter in 'Gotham' before Batman?",
+    "options": ["Harvey Bullock", "Barbara Kean", "Jim Gordon", "Bruce Wayne"],
+    "correctIndex": 2,
+    "explanation": "Jim Gordon rises to become a hero before Batman's era."
+  },
+  {
+    "id": "mv-2008",
+    "title": "Who investigates supernatural cases with Fox Mulder?",
+    "options": ["Monica Reyes", "Dana Scully", "John Doggett", "Walter Skinner"],
+    "correctIndex": 1,
+    "explanation": "Dana Scully is Mulder's long-time partner."
+  },
+  {
+    "id": "mv-2009",
+    "title": "Who is determined to become recognized and eventually the leader of his ninja village in 'Naruto: Shippuden'?",
+    "options": ["Naruto Uzumaki", "Sasuke Uchiha", "Gaara", "Kakashi Hatake"],
+    "correctIndex": 0,
+    "explanation": "Naruto Uzumaki wants to become Hokage."
+  },
+  {
+    "id": "mv-2010",
+    "title": "'Demon Slayer: Kimetsu no Yaiba' follows Tanjiro and which family member on their quest?",
+    "options": ["Father", "Sister", "Brother", "Mother"],
+    "correctIndex": 1,
+    "explanation": "It's Tanjiro and his sister Nezuko."
+  },
+  {
+    "id": "mv-2011",
+    "title": "Which show is set in London high society following the romantic pursuits of siblings?",
+    "options": ["Bridgerton", "Downton Abbey", "The Crown", "Outlander"],
+    "correctIndex": 0,
+    "explanation": "Bridgerton is based on the Bridgerton family."
+  },
+  {
+    "id": "mv-2012",
+    "title": "'Gossip Girl' is narrated by a character who operates as what?",
+    "options": ["Headmaster", "Mystery Blogger", "Socialite", "Teacher"],
+    "correctIndex": 1,
+    "explanation": "It's an anonymous blogger."
+  },
+  {
+    "id": "mv-2013",
+    "title": "Which TV series focuses on Dream, the personification of dreams?",
+    "options": ["Lucifer", "The Witcher", "The Sandman", "Supernatural"],
+    "correctIndex": 2,
+    "explanation": "'The Sandman' is about Dream."
+  },
+  {
+    "id": "mv-2014",
+    "title": "Who is the lead Counter Terrorism Agent in the series '24'?",
+    "options": ["Jack Bauer", "James Bond", "Jason Bourne", "Michael Weston"],
+    "correctIndex": 0,
+    "explanation": "Jack Bauer is the main character of 24."
+  },
+  {
+    "id": "mv-2015",
+    "title": "In the show 'Silo' (2023), where do humans believe they are being protected from a toxic surface?",
+    "options": ["In a forest", "In a giant silo underground", "Under the sea", "On a space station"],
+    "correctIndex": 1,
+    "explanation": "They live in a giant silo underground."
+  },
+  {
+    "id": "mv-2016",
+    "title": "Who does Harold Finch hire to stop violent crimes before they happen in 'Person of Interest'?",
+    "options": ["John Reese", "James Gordon", "Michael Scott", "Rick Grimes"],
+    "correctIndex": 0,
+    "explanation": "John Reese is hired by Harold Finch."
+  },
+  {
+    "id": "mv-2017",
+    "title": "Which historical TV series is set during the decline of the Roman Republic?",
+    "options": ["Spartacus", "Peaky Blinders", "Rome", "Marco Polo"],
+    "correctIndex": 2,
+    "explanation": "'Rome' is set during the Roman Republic's last days."
+  },
+  {
+    "id": "mv-2018",
+    "title": "Which sci-fi series revolves around consciousness being digitized and bodies being swapped?",
+    "options": ["Altered Carbon", "The Expanse", "Westworld", "Humans"],
+    "correctIndex": 0,
+    "explanation": "'Altered Carbon' features digitized consciousness."
+  },
+  {
+    "id": "mv-2019",
+    "title": "Three neighbors form a true crime podcast in which comedy-mystery show?",
+    "options": ["Only Murders in the Building", "Community", "The Office", "Brooklyn Nine-Nine"],
+    "correctIndex": 0,
+    "explanation": "'Only Murders in the Building' is about amateur detectives with a podcast."
+  },
+  {
+    "id": "mv-2020",
+    "title": "Which series is recognized for its group of teenage friends set in 1970s Wisconsin?",
+    "options": ["Friends", "Freaks and Geeks", "That '70s Show", "How I Met Your Mother"],
+    "correctIndex": 2,
+    "explanation": "'That '70s Show' is about teens in 70s Wisconsin."
+  },
+  {
+    "id": "mv-2021",
+    "title": "In 'Outlander', where does Claire Randall time-travel to?",
+    "options": ["1912 France", "2022 New York", "1743 Scotland", "1865 London"],
+    "correctIndex": 2,
+    "explanation": "Claire is transported to 1743 Scotland."
+  },
+  {
+    "id": "mv-2022",
+    "title": "Who struggles to balance writing, addiction, and family in the series 'Californication'?",
+    "options": ["Don Draper", "Hank Moody", "Will Truman", "Dexter Morgan"],
+    "correctIndex": 1,
+    "explanation": "Hank Moody is the main character."
+  },
+  {
+    "id": "mv-2023",
+    "title": "Which character is an up-and-coming CIA analyst in 'Tom Clancy's Jack Ryan'?",
+    "options": ["Jack Ryan", "Jason Bourne", "James Bond", "Jack Bauer"],
+    "correctIndex": 0,
+    "explanation": "The main character is Jack Ryan."
+  },
+  {
+    "id": "mv-2024",
+    "title": "What is the main plot driver in 'The Expanse'?",
+    "options": [
+      "Political conflict and a missing heiress",
+      "Zombie outbreak",
+      "Time travel",
+      "Cursed treasure hunt"
+    ],
+    "correctIndex": 0,
+    "explanation": "The disappearance of an heiress drives the story."
+  },
+  {
+    "id": "mv-2025",
+    "title": "Which of these series pairs an FBI agent with an anthropologist to solve crimes?",
+    "options": ["Bones", "Criminal Minds", "True Detective", "Elementary"],
+    "correctIndex": 0,
+    "explanation": "'Bones' features this unique partnership."
+  },
+  {
+    "id": "mv-2026",
+    "title": "In 'Pretty Little Liars', which group comes together against an anonymous foe?",
+    "options": ["Four friends", "Five brothers", "Twin sisters", "High school teachers"],
+    "correctIndex": 0,
+    "explanation": "Four friends are central to the plot."
+  },
+  {
+    "id": "mv-2027",
+    "title": "'Peacemaker' is a spin-off series from which film?",
+    "options": ["Wonder Woman", "The Suicide Squad", "Aquaman", "Batman v Superman"],
+    "correctIndex": 1,
+    "explanation": "It continues from 'The Suicide Squad'."
+  },
+  {
+    "id": "mv-2028",
+    "title": "Which show features the battle between humans and Cylons after the destruction of the 12 colonies?",
+    "options": ["Firefly", "Star Trek", "Battlestar Galactica", "Lost"],
+    "correctIndex": 2,
+    "explanation": "'Battlestar Galactica' is about this conflict."
+  },
+  {
+    "id": "mv-2029",
+    "title": "Who teams up with NYPD Detective Kate Beckett to solve crimes in 'Castle'?",
+    "options": ["Richard Castle", "John Luther", "Adrian Monk", "Jessica Fletcher"],
+    "correctIndex": 0,
+    "explanation": "Richard Castle is the main character."
+  },
+  {
+    "id": "mv-2030",
+    "title": "What is Uhtred’s goal in 'The Last Kingdom'?",
+    "options": ["Become King", "Claim his ancestral birthright", "Conquer Vikings", "Find the Holy Grail"],
+    "correctIndex": 1,
+    "explanation": "Uhtred fights for his birthright."
+  },
+  {
+    "id": "mv-2031",
+    "title": "Which anime follows Gon Freecss in his quest to become a Hunter?",
+    "options": ["Dragon Ball Z", "Naruto", "Hunter x Hunter", "Attack on Titan"],
+    "correctIndex": 2,
+    "explanation": "'Hunter x Hunter' is the correct answer."
+  },
+  {
+    "id": "mv-2032",
+    "title": "Which series depicts Monkey D. Luffy's adventure with a crew for treasure?",
+    "options": ["Hunter x Hunter", "One Piece", "Bleach", "Sailor Moon"],
+    "correctIndex": 1,
+    "explanation": "Luffy is the protagonist in 'One Piece'."
+  },
+  {
+    "id": "mv-2033",
+    "title": "Which show follows a movie star navigating Los Angeles with his friends and agent?",
+    "options": ["Friends", "Entourage", "The Big Bang Theory", "How I Met Your Mother"],
+    "correctIndex": 1,
+    "explanation": "Vince Chase and his crew in 'Entourage'."
+  },
+  {
+    "id": "mv-2034",
+    "title": "Who is Richard Hendricks in 'Silicon Valley'?",
+    "options": ["A startup founder", "A lawyer", "A chef", "A detective"],
+    "correctIndex": 0,
+    "explanation": "He strives to build his own company."
+  },
+  {
+    "id": "mv-2035",
+    "title": "Viola Davis stars as a brilliant criminal defense professor in which TV series?",
+    "options": [
+      "True Detective",
+      "How to Get Away with Murder",
+      "Scandal",
+      "Law & Order: SVU"
+    ],
+    "correctIndex": 1,
+    "explanation": "She plays Annalise Keating."
+  },
+  {
+    "id": "mv-2036",
+    "title": "Who is cursed after swallowing a demon talisman in 'Jujutsu Kaisen'?",
+    "options": ["Megumi Fushiguro", "Nobara Kugisaki", "Yuji Itadori", "Satoru Gojo"],
+    "correctIndex": 2,
+    "explanation": "Yuji Itadori becomes cursed."
+  },
+  {
+    "id": "mv-2037",
+    "title": "Which show centers around a teenager cursed with lycanthropy in Beacon Hills?",
+    "options": ["Teen Wolf", "Buffy the Vampire Slayer", "True Blood", "Vampire Diaries"],
+    "correctIndex": 0,
+    "explanation": "The series is 'Teen Wolf'."
+  },
+  {
+    "id": "mv-2038",
+    "title": "Which of these shows features a main cast including Takahiro Sakurai and Hiro Shimono?",
+    "options": [
+      "One Punch Man",
+      "My Hero Academia",
+      "Demon Slayer: Kimetsu no Yaiba",
+      "Cowboy Bebop"
+    ],
+    "correctIndex": 2,
+    "explanation": "They voice characters in 'Demon Slayer'."
+  },
+  {
+    "id": "mv-2039",
+    "title": "Which series is known for a tight group of siblings seeking love in high society?",
+    "options": ["Gossip Girl", "Bridgerton", "The Crown", "Dynasty"],
+    "correctIndex": 1,
+    "explanation": "Bridgerton features sibling storylines in high society."
+  },
+  {
+    "id": "mv-2040",
+    "title": "What is the setting for most of 'The Expanse'?",
+    "options": ["Ancient Rome", "Post-apocalyptic earth", "Solar system with Earth, Mars, and the Belt", "Fantasy kingdom"],
+    "correctIndex": 2,
+    "explanation": "Earth, Mars, and the Asteroid Belt."
+  },
+  {
+    "id": "mv-2041",
+    "title": "Who is the teacher in 'How to Get Away with Murder'?",
+    "options": ["Olivia Pope", "Raymond Holt", "Annalise Keating", "Jessica Pearson"],
+    "correctIndex": 2,
+    "explanation": "Viola Davis plays Annalise Keating."
+  },
+  {
+    "id": "mv-2042",
+    "title": "Who is the captain of the aged vessel in 'Battlestar Galactica'?",
+    "options": ["William Adama", "Benjamin Sisko", "Jean-Luc Picard", "Kara Thrace"],
+    "correctIndex": 0,
+    "explanation": "William Adama leads Galactica."
+  },
+  {
+    "id": "mv-2043",
+    "title": "Which show follows a cast including Mila Kunis and Ashton Kutcher?",
+    "options": ["Community", "Friends", "That '70s Show", "Modern Family"],
+    "correctIndex": 2,
+    "explanation": "They're in 'That '70s Show'."
+  },
+  {
+    "id": "mv-2044",
+    "title": "Which group is at the center of day-to-day scandals in 'Gossip Girl'?",
+    "options": ["Los Angeles friends", "Manhattan's wealthy teens", "London aristocrats", "Boston law students"],
+    "correctIndex": 1,
+    "explanation": "Manhattan's elite teens are central."
+  },
+  {
+    "id": "mv-2045",
+    "title": "Who is paired with Temperance Brennan to investigate murders in 'Bones'?",
+    "options": [
+      "Fox Mulder",
+      "Seeley Booth",
+      "Gil Grissom",
+      "Eliot Stabler"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seeley Booth is the agent."
+  },
+  {
+    "id": "mv-2046",
+    "title": "'Jujutsu Kaisen' involves characters searching for parts of what?",
+    "options": ["Cursed sword", "Ancient scroll", "Demon's body", "Magic ring"],
+    "correctIndex": 2,
+    "explanation": "Demon's body parts are central to the plot."
+  },
+  {
+    "id": "mv-2047",
+    "title": "Who is the family member that Tanjiro tries to save in 'Demon Slayer'?",
+    "options": ["His father", "His sister", "His cousin", "His uncle"],
+    "correctIndex": 1,
+    "explanation": "Tanjiro's goal is to save his sister."
+  },
+  {
+    "id": "mv-2048",
+    "title": "Which sci-fi series includes a detective named Miller, a ship captain, and a UN politician?",
+    "options": ["Westworld", "Altered Carbon", "The Expanse", "Firefly"],
+    "correctIndex": 2,
+    "explanation": "'The Expanse' features these characters."
+  },
+  {
+    "id": "mv-2049",
+    "title": "Who is the main protagonist in 'Dragon Ball Z'?",
+    "options": ["Goku", "Naruto", "Luffy", "Edward Elric"],
+    "correctIndex": 0,
+    "explanation": "Goku is the main protagonist in 'Dragon Ball Z'."
+  },
+  {
+    "id": "mv-2050",
+    "title": "Which show centers around twin siblings in Gravity Falls, Oregon?",
+    "options": ["Freaks and Geeks", "Stranger Things", "Gravity Falls", "The Originals"],
+    "correctIndex": 2,
+    "explanation": "'Gravity Falls' is about twins in Gravity Falls, Oregon."
+  },
+  {
+    "id": "mv-2051",
+    "title": "Who plays the role of Buffy in 'Buffy the Vampire Slayer'?",
+    "options": ["Lauren Graham", "Sarah Michelle Gellar", "Kerry Godliman", "Jane Lynch"],
+    "correctIndex": 1,
+    "explanation": "Sarah Michelle Gellar is Buffy."
+  },
+  {
+    "id": "mv-2052",
+    "title": "Which TV series features the Rose family losing their fortune and moving to a small town?",
+    "options": ["Schitt's Creek", "The Gentlemen", "Gilmore Girls", "Bodyguard"],
+    "correctIndex": 0,
+    "explanation": "'Schitt's Creek' follows the Rose family."
+  },
+  {
+    "id": "mv-2053",
+    "title": "In which show does Wilmer Valderrama play a major role connected to the Navy?",
+    "options": ["Riverdale", "True Detective", "The Originals", "NCIS"],
+    "correctIndex": 3,
+    "explanation": "Wilmer Valderrama stars in 'NCIS'."
+  },
+  {
+    "id": "mv-2054",
+    "title": "Which series follows a group of people who are mentally linked worldwide?",
+    "options": ["Luther", "Sense8", "After Life", "From"],
+    "correctIndex": 1,
+    "explanation": "'Sense8' features people mentally connected."
+  },
+  {
+    "id": "mv-2055",
+    "title": "Who stars as Larry David in 'Curb Your Enthusiasm'?",
+    "options": ["Larry David", "Ricky Gervais", "Bryan Cranston", "Tom Hardy"],
+    "correctIndex": 0,
+    "explanation": "Larry David stars as himself in the series."
+  },
+  {
+    "id": "mv-2056",
+    "title": "Which show is centered around a unique set of triplets and their family?",
+    "options": ["This Is Us", "Glee", "The IT Crowd", "Riverdale"],
+    "correctIndex": 0,
+    "explanation": "'This Is Us' is about a set of triplets and their parents."
+  },
+  {
+    "id": "mv-2057",
+    "title": "Who leads the Major Case Response Team in 'NCIS'?",
+    "options": ["Leroy Jethro Gibbs", "Tony DiNozzo", "Wilmer Valderrama", "Sean Murray"],
+    "correctIndex": 0,
+    "explanation": "Gibbs is the team leader in 'NCIS'."
+  },
+  {
+    "id": "mv-2058",
+    "title": "Which series is set in a medieval-inspired fantasy world and features Moiraine Damodred?",
+    "options": ["The Wheel of Time", "The Originals", "Buffy the Vampire Slayer", "Taboo"],
+    "correctIndex": 0,
+    "explanation": "'The Wheel of Time' features Moiraine Damodred."
+  },
+  {
+    "id": "mv-2059",
+    "title": "Futuristic bounty hunter Spike Spiegel is a character in which anime?",
+    "options": ["One Piece", "Bleach", "Cowboy Bebop", "Naruto"],
+    "correctIndex": 2,
+    "explanation": "Spike Spiegel is the protagonist of 'Cowboy Bebop'."
+  },
+  {
+    "id": "mv-2060",
+    "title": "Who plays Tony, the grieving husband, in 'After Life'?",
+    "options": ["Matthew Morrison", "Ricky Gervais", "Eugene Levy", "Michael C. Hall"],
+    "correctIndex": 1,
+    "explanation": "Ricky Gervais plays Tony."
+  },
+  {
+    "id": "mv-2061",
+    "title": "Which show features the moral stories of champions living in the 13th century city of Kharazm?",
+    "options": ["Buffy the Vampire Slayer", "The Heroes", "Luther", "Glee"],
+    "correctIndex": 1,
+    "explanation": "'The Heroes' is set in Kharazm city."
+  },
+  {
+    "id": "mv-2062",
+    "title": "Who stars as the main protagonist, Naruto Uzumaki, in the original Japanese anime?",
+    "options": ["Megumi Hayashibara", "Unshô Ishizuka", "Junko Takeuchi", "Koichi Yamadera"],
+    "correctIndex": 2,
+    "explanation": "Junko Takeuchi voices Naruto Uzumaki."
+  },
+  {
+    "id": "mv-2063",
+    "title": "Which TV series features zany secret agents and drones?",
+    "options": ["Schitt's Creek", "NCIS", "Archer", "Gilmore Girls"],
+    "correctIndex": 2,
+    "explanation": "'Archer' features eccentric secret agents."
+  },
+  {
+    "id": "mv-2064",
+    "title": "Who plays David Budd, the war veteran assigned to protect a politician in 'Bodyguard'?",
+    "options": ["Idris Elba", "Richard Madden", "Daniel Gillies", "Tom Hardy"],
+    "correctIndex": 1,
+    "explanation": "Richard Madden stars as David Budd."
+  },
+  {
+    "id": "mv-2065",
+    "title": "Which TV show centers on a group of IT workers managed by their grifting supervisor Jen?",
+    "options": ["The IT Crowd", "Archer", "Schitt's Creek", "Gilmore Girls"],
+    "correctIndex": 0,
+    "explanation": "'The IT Crowd' is about IT workers and Jen."
+  },
+  {
+    "id": "mv-2066",
+    "title": "Which actor stars as adventurer James Delaney in 'Taboo'?",
+    "options": ["Tom Hardy", "Bryan Cranston", "Michael C. Hall", "Eugene Levy"],
+    "correctIndex": 0,
+    "explanation": "Tom Hardy stars in 'Taboo'."
+  },
+  {
+    "id": "mv-2067",
+    "title": "Which TV series details the struggles of a family running a funeral home?",
+    "options": ["Gravity Falls", "Taboo", "Six Feet Under", "After Life"],
+    "correctIndex": 2,
+    "explanation": "'Six Feet Under' is about a family funeral home business."
+  },
+  {
+    "id": "mv-2068",
+    "title": "Who inherits an estate and finds it is home to a weed empire in 'The Gentlemen'?",
+    "options": ["Eddie", "Johnny Rose", "Roy", "David Budd"],
+    "correctIndex": 0,
+    "explanation": "Eddie inherits the estate in 'The Gentlemen'."
+  },
+  {
+    "id": "mv-2069",
+    "title": "Which series features the adventures of Archie and his friends in a mysterious town?",
+    "options": ["After Life", "Riverdale", "Bodyguard", "Taboo"],
+    "correctIndex": 1,
+    "explanation": "'Riverdale' follows Archie and his friends."
+  },
+  {
+    "id": "mv-2070",
+    "title": "Which show deals with the emotional story of the Fisher family handling death?",
+    "options": ["Glee", "Six Feet Under", "The Wheel of Time", "Buffy the Vampire Slayer"],
+    "correctIndex": 1,
+    "explanation": "'Six Feet Under' deals with the Fisher family and death."
+  },
+  {
+    "id": "mv-2071",
+    "title": "Who stars as Johnny Rose in 'Schitt's Creek'?",
+    "options": ["Eugene Levy", "Dan Levy", "Bryan Cranston", "Tom Hardy"],
+    "correctIndex": 0,
+    "explanation": "Eugene Levy plays Johnny Rose."
+  },
+  {
+    "id": "mv-2072",
+    "title": "'What If...?' is a Marvel series that explores what?",
+    "options": ["Pivotal Marvel events in alternate realities", "The origin story of the X-Men", "The defeat of Thanos", "Thor's rise to the throne"],
+    "correctIndex": 0,
+    "explanation": "'What If...?' is about alternate realities in the Marvel Universe."
+  },
+  {
+    "id": "mv-2073",
+    "title": "Luther's unconventional detective methods put him at odds with?",
+    "options": ["His team", "The press", "The mayor", "The FBI"],
+    "correctIndex": 0,
+    "explanation": "John Luther's methods cause friction with his team."
+  },
+  {
+    "id": "mv-2074",
+    "title": "Which show features Daniel Gillies and Joseph Morgan as ancient vampires?",
+    "options": ["The IT Crowd", "The Wheel of Time", "The Originals", "After Life"],
+    "correctIndex": 2,
+    "explanation": "'The Originals' features ancient vampires."
+  },
+  {
+    "id": "mv-2075",
+    "title": "Which actor provides the voice for the main character in 'Archer'?",
+    "options": ["Dan Levy", "H. Jon Benjamin", "Richard Madden", "Seth Rogen"],
+    "correctIndex": 1,
+    "explanation": "H. Jon Benjamin voices Sterling Archer."
+  },
+  {
+    "id": "mv-2076",
+    "title": "Which show follows a mismatched group singing to escape high school troubles?",
+    "options": ["Glee", "Taboo", "From", "The Heroes"],
+    "correctIndex": 0,
+    "explanation": "'Glee' is about a glee club in high school."
+  },
+  {
+    "id": "mv-2077",
+    "title": "Which actor plays Frances Conroy's on-screen son in 'Six Feet Under'?",
+    "options": ["Michael C. Hall", "Dan Levy", "Richard Madden", "Cory Monteith"],
+    "correctIndex": 0,
+    "explanation": "Michael C. Hall is Frances Conroy's son."
+  },
+  {
+    "id": "mv-2078",
+    "title": "Who attempts to rebuild his father's shipping empire in 'Taboo'?",
+    "options": ["James Keziah Delaney", "David Budd", "Eddie", "Roy"],
+    "correctIndex": 0,
+    "explanation": "James Keziah Delaney is the main character in 'Taboo'."
+  },
+  {
+    "id": "mv-2079",
+    "title": "Which show is set in the middle U.S.A. where no one can leave a mysterious town?",
+    "options": ["After Life", "The Gentlemen", "From", "Bodyguard"],
+    "correctIndex": 2,
+    "explanation": "'From' is set in a mysterious U.S.A. town."
+  },
+  {
+    "id": "mv-2080",
+    "title": "Which show features a mismatched group of high school mathletes and burnouts?",
+    "options": ["Buffy the Vampire Slayer", "Freaks and Geeks", "The IT Crowd", "Schitt's Creek"],
+    "correctIndex": 1,
+    "explanation": "'Freaks and Geeks' is about mathletes and burnouts."
+  },
+  {
+    "id": "mv-2081",
+    "title": "Which series features Moiraine Damodred searching for the prophesied child?",
+    "options": ["Schitt's Creek", "The Wheel of Time", "Taboo", "Gravity Falls"],
+    "correctIndex": 1,
+    "explanation": "Moiraine Damodred is from 'The Wheel of Time'."
+  },
+  {
+    "id": "mv-2082",
+    "title": "Which show focuses on pivotal moments of Marvel History re-imagined?",
+    "options": ["Naruto", "After Life", "What If...?", "Six Feet Under"],
+    "correctIndex": 2,
+    "explanation": "'What If...?' features re-imagined Marvel events."
+  },
+  {
+    "id": "mv-2083",
+    "title": "Who plays John Luther, the brilliant detective, in 'Luther'?",
+    "options": ["John Francis Daley", "Idris Elba", "Tom Hardy", "Richard Madden"],
+    "correctIndex": 1,
+    "explanation": "Idris Elba plays Luther."
+  },
+  {
+    "id": "mv-2084",
+    "title": "'Gilmore Girls' follows the story of which mother-daughter pair?",
+    "options": ["Emily and Lorelai", "Rory and Lorelai", "Jen and Moss", "Buffy and Willow"],
+    "correctIndex": 1,
+    "explanation": "Rory and Lorelai are the main duo."
+  },
+  {
+    "id": "mv-2085",
+    "title": "Which anime is known for its search for the mystical Dragonballs?",
+    "options": ["Naruto", "Cowboy Bebop", "Dragon Ball Z", "Bleach"],
+    "correctIndex": 2,
+    "explanation": "'Dragon Ball Z' is centered on the search for Dragonballs."
+  },
+  {
+    "id": "mv-2086",
+    "title": "Which show is set in a world plagued by existential danger from extraterrestrials?",
+    "options": ["Archer", "3 Body Problem", "Freaks and Geeks", "Glee"],
+    "correctIndex": 1,
+    "explanation": "'3 Body Problem' is about existential planetary threat."
+  },
+  {
+    "id": "mv-2087",
+    "title": "Which show is about people linked by telepathy and hunted for their connection?",
+    "options": ["Glee", "Sense8", "This Is Us", "The Gentlemen"],
+    "correctIndex": 1,
+    "explanation": "'Sense8' features people hunted for their telepathic link."
+  },
+  {
+    "id": "mv-2088",
+    "title": "Who inherits the family estate in 'The Gentlemen'?",
+    "options": ["Sam", "Roy", "Eddie", "Dipper"],
+    "correctIndex": 2,
+    "explanation": "Eddie inherits the estate."
+  },
+  {
+    "id": "mv-2089",
+    "title": "Which show follows Miriam 'Midge' Maisel discovering her talent for stand-up after her husband leaves her?",
+    "options": ["The Marvelous Mrs. Maisel", "The Morning Show", "Fleabag", "GLOW"],
+    "correctIndex": 0,
+    "explanation": "'The Marvelous Mrs. Maisel' is about Midge's journey into comedy."
+  },
+  {
+    "id": "mv-2090",
+    "title": "In which series does Assane Diop seek to avenge his father after reading about Arsène Lupin?",
+    "options": ["Sherlock", "Lupin", "Broadchurch", "Professor T"],
+    "correctIndex": 1,
+    "explanation": "Assane Diop is the main character of 'Lupin.'"
+  },
+  {
+    "id": "mv-2091",
+    "title": "Which sitcom features the quirky and dysfunctional family of a child genius named Malcolm?",
+    "options": ["Fresh Off the Boat", "Young Sheldon", "Malcolm in the Middle", "The Goldbergs"],
+    "correctIndex": 2,
+    "explanation": "Malcolm in the Middle revolves around Malcolm's family."
+  },
+  {
+    "id": "mv-2092",
+    "title": "Who plays the title character in the show 'Chuck'?",
+    "options": ["Zachary Levi", "Josh Radnor", "James Roday", "Joel McHale"],
+    "correctIndex": 0,
+    "explanation": "Zachary Levi stars as Chuck."
+  },
+  {
+    "id": "mv-2093",
+    "title": "This show is a spinoff set in Los Angeles, focusing on surviving the undead. What’s it called?",
+    "options": ["The Walking Dead", "Fear the Walking Dead", "The Last of Us", "iZombie"],
+    "correctIndex": 1,
+    "explanation": "Set in LA, it's 'Fear the Walking Dead.'"
+  },
+  {
+    "id": "mv-2094",
+    "title": "Who helps the FBI catch criminals as a reformed art thief in 'White Collar'?",
+    "options": ["Gregory House", "Patrick Jane", "Neal Caffrey", "Michael Westen"],
+    "correctIndex": 2,
+    "explanation": "Neal Caffrey is the reformed conman."
+  },
+  {
+    "id": "mv-2095",
+    "title": "Which classic 90s sitcom stars a Philadelphia teen relocated to Bel-Air?",
+    "options": ["The Fresh Prince of Bel-Air", "Sister, Sister", "Family Matters", "Boy Meets World"],
+    "correctIndex": 0,
+    "explanation": "Will Smith starred as the Fresh Prince."
+  },
+  {
+    "id": "mv-2096",
+    "title": "Who is NOT one of the main housewives in 'Desperate Housewives'?",
+    "options": ["Lynette Scavo", "Renee Perry", "Gabrielle Solis", "Olivia Pope"],
+    "correctIndex": 3,
+    "explanation": "Olivia Pope is from 'Scandal.'"
+  },
+  {
+    "id": "mv-2097",
+    "title": "Sandra Oh and Jodie Comer star in which drama of assassins and spies?",
+    "options": ["Killing Eve", "Bodyguard", "Orphan Black", "The Night Agent"],
+    "correctIndex": 0,
+    "explanation": "The answer is 'Killing Eve.'"
+  },
+  {
+    "id": "mv-2098",
+    "title": "Which series is centered on Detective Ambrose’s investigations?",
+    "options": ["Broadchurch", "The Sinner", "Marcella", "The Alienist"],
+    "correctIndex": 1,
+    "explanation": "'The Sinner' follows Detective Ambrose."
+  },
+  {
+    "id": "mv-2099",
+    "title": "Peter Sutherland, a low-level FBI agent, is the protagonist of which 2023 thriller?",
+    "options": ["The Night Agent", "The Bodyguard", "The Diplomat", "Jack Ryan"],
+    "correctIndex": 0,
+    "explanation": "'The Night Agent' follows Peter Sutherland."
+  },
+  {
+    "id": "mv-2100",
+    "title": "Which animated series follows Korra as she protects Republic City?",
+    "options": ["The Legend of Korra", "Avatar: The Last Airbender", "Voltron: Legendary Defender", "Castlevania"],
+    "correctIndex": 0,
+    "explanation": "'The Legend of Korra' is the correct answer."
+  },
+  {
+    "id": "mv-2101",
+    "title": "Who is the young alien with powers in the show set in Smallville?",
+    "options": ["Kara Danvers", "Diana Prince", "Clark Kent", "Lex Luthor"],
+    "correctIndex": 2,
+    "explanation": "Clark Kent is Superman as a teen in Smallville."
+  },
+  {
+    "id": "mv-2102",
+    "title": "Which comedic show features a bumbling, mostly silent man getting into misadventures in England?",
+    "options": ["Beanland", "Mr. Bean", "Absolutely Fabulous", "The IT Crowd"],
+    "correctIndex": 1,
+    "explanation": "Rowan Atkinson plays Mr. Bean."
+  },
+  {
+    "id": "mv-2103",
+    "title": "Who's the captain leading the Enterprise-D in 'Star Trek: The Next Generation'?",
+    "options": ["James T. Kirk", "Jean-Luc Picard", "Benjamin Sisko", "Michael Burnham"],
+    "correctIndex": 1,
+    "explanation": "Patrick Stewart plays Jean-Luc Picard."
+  },
+  {
+    "id": "mv-2104",
+    "title": "Which series goes behind the scenes of American breakfast TV?",
+    "options": ["The Morning Show", "Good Morning America", "The Newsroom", "UnREAL"],
+    "correctIndex": 0,
+    "explanation": "'The Morning Show' provides an insider look."
+  },
+  {
+    "id": "mv-2105",
+    "title": "Which Marvel series chronicles the adventures of Danny Rand and his mystical power?",
+    "options": ["Luke Cage", "Jessica Jones", "Daredevil", "Iron Fist"],
+    "correctIndex": 3,
+    "explanation": "Danny Rand is the hero in 'Iron Fist.'"
+  },
+  {
+    "id": "mv-2106",
+    "title": "Who becomes a super-powered fugitive in Harlem after a sabotaged experiment?",
+    "options": ["Matt Murdock", "Frank Castle", "Luke Cage", "Jessica Jones"],
+    "correctIndex": 2,
+    "explanation": "Luke Cage gains super strength and unbreakable skin."
+  },
+  {
+    "id": "mv-2107",
+    "title": "What is the title of the series set 10 years before Kirk and Spock, aboard the USS Discovery?",
+    "options": ["Star Trek: Prodigy", "Star Trek: Picard", "Star Trek: Discovery", "Star Trek: Enterprise"],
+    "correctIndex": 2,
+    "explanation": "'Star Trek: Discovery' is the answer."
+  },
+  {
+    "id": "mv-2108",
+    "title": "Which animated sitcom features CIA agent Stan Smith and his family?",
+    "options": ["American Dad!", "Family Guy", "The Simpsons", "South Park"],
+    "correctIndex": 0,
+    "explanation": "Stan Smith is the lead of 'American Dad!'"
+  },
+  {
+    "id": "mv-2109",
+    "title": "Which show is a college-set spin-off from 'The Boys' about superhero students?",
+    "options": ["Umbrella Academy", "Gen V", "The Winx Saga", "Raising Dion"],
+    "correctIndex": 1,
+    "explanation": "'Gen V' explores college-age superheroes."
+  },
+  {
+    "id": "mv-2110",
+    "title": "What is the name of the ex-con who assumes a sheriff's identity in small-town Pennsylvania?",
+    "options": ["Raylan Givens", "Lucas Hood", "Rick Grimes", "Dexter Morgan"],
+    "correctIndex": 1,
+    "explanation": "Lucas Hood is the protagonist of 'Banshee.'"
+  },
+  {
+    "id": "mv-2111",
+    "title": "Who leads the team investigating sex-related crimes on 'Law & Order: SVU'?",
+    "options": ["Olivia Benson", "Elliot Stabler", "Sonny Carisi", "Erin Reagan"],
+    "correctIndex": 0,
+    "explanation": "Benson is portrayed by Mariska Hargitay."
+  },
+  {
+    "id": "mv-2112",
+    "title": "Which show follows the childhood of Sheldon Cooper?",
+    "options": ["The Big Bang Theory", "Young Sheldon", "Speechless", "Young Rock"],
+    "correctIndex": 1,
+    "explanation": "'Young Sheldon' is about Sheldon's youth."
+  },
+  {
+    "id": "mv-2113",
+    "title": "Which k-drama is about an heir and his employee clashing in the hotel industry?",
+    "options": ["Itaewon Class", "King the Land", "My Love from the Star", "Vincenzo"],
+    "correctIndex": 1,
+    "explanation": "'King the Land' is a romantic k-drama."
+  },
+  {
+    "id": "mv-2114",
+    "title": "Which Japanese thriller thrusts players into deadly games in a deserted Tokyo?",
+    "options": ["Death Note", "Alice in Borderland", "Erased", "Parasyte"],
+    "correctIndex": 1,
+    "explanation": "'Alice in Borderland' is set in Tokyo."
+  },
+  {
+    "id": "mv-2115",
+    "title": "Which Star Wars series features a Jedi Master investigating crimes with his former Padawan?",
+    "options": ["The Mandalorian", "The Book of Boba Fett", "The Acolyte", "Obi-Wan Kenobi"],
+    "correctIndex": 2,
+    "explanation": "'The Acolyte' is about Jedi investigations."
+  },
+  {
+    "id": "mv-2116",
+    "title": "Which animated Star Wars show covers the wars between Jedi and Separatists?",
+    "options": ["Star Wars: Rebels", "Star Wars: Visions", "Star Wars: The Clone Wars", "The Bad Batch"],
+    "correctIndex": 2,
+    "explanation": "'The Clone Wars' is the answer."
+  },
+  {
+    "id": "mv-2117",
+    "title": "Who forms the investigative duo in 'Broadchurch' solving crimes in a coastal town?",
+    "options": ["Alec Hardy and Ellie Miller", "Rust Cohle and Marty Hart", "Sarah Linden and Stephen Holder", "Shawn Spencer and Burton Guster"],
+    "correctIndex": 0,
+    "explanation": "Alec Hardy and Ellie Miller are the detectives in 'Broadchurch.'"
+  },
+  {
+    "id": "mv-2118",
+    "title": "Which series revolves around a detective discovering his heritage as a Grimm?",
+    "options": ["Supernatural", "Grimm", "Lucifer", "Constantine"],
+    "correctIndex": 1,
+    "explanation": "'Grimm' is about a detective fighting folklore creatures."
+  },
+  {
+    "id": "mv-2119",
+    "title": "Which show stars Matt Bomer as a conman working with the FBI?",
+    "options": ["White Collar", "Suits", "Burn Notice", "The Mentalist"],
+    "correctIndex": 0,
+    "explanation": "Matt Bomer is Neal Caffrey in 'White Collar.'"
+  },
+  {
+    "id": "mv-2120",
+    "title": "Whose alter ego is the superhero that protects Harlem's community?",
+    "options": ["Peter Parker", "Matt Murdock", "Luke Cage", "Sam Wilson"],
+    "correctIndex": 2,
+    "explanation": "Luke Cage is Harlem's hero."
+  },
+  {
+    "id": "mv-2121",
+    "title": "In which show does a close group of women navigate secrets and crimes on Wisteria Lane?",
+    "options": ["Desperate Housewives", "Pretty Little Liars", "Big Little Lies", "Good Girls"],
+    "correctIndex": 0,
+    "explanation": "'Desperate Housewives' is set on Wisteria Lane."
+  },
+  {
+    "id": "mv-2122",
+    "title": "Who must balance family life and a CIA career in an animated comedy?",
+    "options": ["Peter Griffin", "Stan Smith", "Roger Smith", "Bob Belcher"],
+    "correctIndex": 1,
+    "explanation": "Stan Smith in 'American Dad!'"
+  },
+  {
+    "id": "mv-2123",
+    "title": "Who is the lead character forced to work the graveyard White House phone shift in 'The Night Agent'?",
+    "options": ["Saul Goodman", "Peter Sutherland", "Stan Beeman", "Evan Hawkins"],
+    "correctIndex": 1,
+    "explanation": "Peter Sutherland is the main character."
+  },
+  {
+    "id": "mv-2124",
+    "title": "Which show features a female Avatar who succeeds Aang?",
+    "options": ["Avatar: The Last Airbender", "Ben 10: Alien Force", "The Legend of Korra", "Power Rangers SPD"],
+    "correctIndex": 2,
+    "explanation": "Korra is Aang's successor."
+  },
+  {
+    "id": "mv-2125",
+    "title": "Who leads the Grand Army of the Republic in battles against Separatist droids?",
+    "options": ["Darth Maul", "Darth Vader", "Obi-Wan Kenobi", "Jedi Knights"],
+    "correctIndex": 3,
+    "explanation": "The Jedi Knights command the Grand Army."
+  },
+  {
+    "id": "mv-2126",
+    "title": "Which show depicts a homicide detective learning of his supernatural 'Grimm' inheritance?",
+    "options": ["Gotham", "Lucifer", "Castle", "Grimm"],
+    "correctIndex": 3,
+    "explanation": "'Grimm' is about this detective."
+  },
+  {
+    "id": "mv-2127",
+    "title": "Who is Midge Maisel's main rival in the stand-up comedy circuit?",
+    "options": ["Sophie Lennon", "Susie Myerson", "Esther Maisel", "Rose Weissman"],
+    "correctIndex": 0,
+    "explanation": "Sophie Lennon is her rival."
+  },
+  {
+    "id": "mv-2128",
+    "title": "Which actress is NOT in the main cast of 'The Morning Show'?",
+    "options": ["Jennifer Aniston", "Reese Witherspoon", "Minday Kaling", "Steve Carell"],
+    "correctIndex": 2,
+    "explanation": "Mindy Kaling doesn't star in 'The Morning Show.'"
+  },
+  {
+    "id": "mv-2129",
+    "title": "Which show stars Gary Oldman as a leader of a team of outcast MI5 agents?",
+    "options": ["Slow Horses", "The Americans", "Bodyguard", "Luther"],
+    "correctIndex": 0,
+    "explanation": "'Slow Horses' follows a misfit team of MI5 agents led by Gary Oldman."
+  },
+  {
+    "id": "mv-2130",
+    "title": "Which 2014-2016 series unites explorers and scientists to combat supernatural threats in Victorian London?",
+    "options": ["The Alienist", "Penny Dreadful", "The Frankenstein Chronicles", "Ripper Street"],
+    "correctIndex": 1,
+    "explanation": "'Penny Dreadful' brings together Sir Malcolm Murray and others to fight supernatural forces."
+  },
+  {
+    "id": "mv-2131",
+    "title": "Who is the main protagonist in 'Orphan Black'?",
+    "options": ["Alison Hendrix", "Helena", "Sarah Manning", "Rachel Duncan"],
+    "correctIndex": 2,
+    "explanation": "Sarah Manning is the streetwise protagonist drawn into a clone conspiracy."
+  },
+  {
+    "id": "mv-2132",
+    "title": "Which show sees a hit man from the Midwest get involved in LA's theatre scene?",
+    "options": ["Barry", "Ray Donovan", "Justified", "Banshee"],
+    "correctIndex": 0,
+    "explanation": "'Barry' stars Bill Hader as the hit man in LA."
+  },
+  {
+    "id": "mv-2133",
+    "title": "What is the profession of the main character in 'The Good Doctor'?",
+    "options": ["Lawyer", "Engineer", "Surgeon", "Detective"],
+    "correctIndex": 2,
+    "explanation": "Shaun Murphy is a surgical resident with autism in 'The Good Doctor'."
+  },
+  {
+    "id": "mv-2134",
+    "title": "In 'Batman: The Animated Series,' who is Bruce Wayne's alter ego?",
+    "options": ["Batman", "Robin", "Nightwing", "The Joker"],
+    "correctIndex": 0,
+    "explanation": "Bruce Wayne is secretly Batman."
+  },
+  {
+    "id": "mv-2135",
+    "title": "Which show is about the daily lives of four vampires living together on Staten Island?",
+    "options": ["Buffy the Vampire Slayer", "The Originals", "What We Do in the Shadows", "True Blood"],
+    "correctIndex": 2,
+    "explanation": "'What We Do in the Shadows' is a comedy about Staten Island vampires."
+  },
+  {
+    "id": "mv-2136",
+    "title": "Which series revolves around a talking sponge who works in a fast food restaurant?",
+    "options": ["Adventure Time", "SpongeBob SquarePants", "The Simpsons", "Family Guy"],
+    "correctIndex": 1,
+    "explanation": "SpongeBob SquarePants is the iconic sea sponge at the Krusty Krab."
+  },
+  {
+    "id": "mv-2137",
+    "title": "'Emily in Paris' is primarily set in which city?",
+    "options": ["Rome", "London", "Paris", "Madrid"],
+    "correctIndex": 2,
+    "explanation": "Emily moves to Paris for work in the series."
+  },
+  {
+    "id": "mv-2138",
+    "title": "Who is NOT a member of the hosting trio on 'Top Gear' (2002–2022)?",
+    "options": ["Richard Hammond", "James May", "Chris Evans", "Jeremy Clarkson"],
+    "correctIndex": 2,
+    "explanation": "Chris Evans was a later presenter but not one of the main trio."
+  },
+  {
+    "id": "mv-2139",
+    "title": "Which TV series follows Superman's cousin and her superhero career?",
+    "options": ["Superman & Lois", "Batgirl", "Supergirl", "Wonder Woman"],
+    "correctIndex": 2,
+    "explanation": "'Supergirl' focuses on Kara, Superman's cousin."
+  },
+  {
+    "id": "mv-2140",
+    "title": "What is the main occupation of Cal Lightman in 'Lie to Me'?",
+    "options": ["Linguist", "Deception researcher", "Cognitive neuroscientist", "Forensic accountant"],
+    "correctIndex": 1,
+    "explanation": "Cal Lightman is a deception researcher specializing in body language."
+  },
+  {
+    "id": "mv-2141",
+    "title": "'The Newsroom' centers around which kind of workplace?",
+    "options": ["Hospital", "Newsroom", "Police station", "Law firm"],
+    "correctIndex": 1,
+    "explanation": "The series is set behind the scenes in a TV newsroom."
+  },
+  {
+    "id": "mv-2142",
+    "title": "Which series set at the end of the 1800s features the corrupt town of Deadwood?",
+    "options": ["Godless", "Hell on Wheels", "Deadwood", "Longmire"],
+    "correctIndex": 2,
+    "explanation": "'Deadwood' is set in a lawless South Dakota town."
+  },
+  {
+    "id": "mv-2143",
+    "title": "Which character investigates a murder in Belfast in 'The Fall'?",
+    "options": ["Detective Inspector Hardy", "Detective Superintendent Stella Gibson", "Detective Sarah Linden", "Detective Olivia Benson"],
+    "correctIndex": 1,
+    "explanation": "Stella Gibson, played by Gillian Anderson, investigates in 'The Fall'."
+  },
+  {
+    "id": "mv-2144",
+    "title": "Who is the scientist character in 'Penny Dreadful'?",
+    "options": ["Victor Frankenstein", "Abraham Van Helsing", "John Seward", "Ethan Chandler"],
+    "correctIndex": 0,
+    "explanation": "Victor Frankenstein is the show's key scientist."
+  },
+  {
+    "id": "mv-2145",
+    "title": "Which show follows a group of vampires on Staten Island?",
+    "options": ["True Blood", "Dracula", "What We Do in the Shadows", "Being Human"],
+    "correctIndex": 2,
+    "explanation": "'What We Do in the Shadows' is about vampires in New York."
+  },
+  {
+    "id": "mv-2146",
+    "title": "'The Office' (UK version) stars which character as the manager?",
+    "options": ["Michael Scott", "David Brent", "Gareth Keenan", "Jim Halpert"],
+    "correctIndex": 1,
+    "explanation": "David Brent, played by Ricky Gervais, manages the office."
+  },
+  {
+    "id": "mv-2147",
+    "title": "Which series involves the adventures of a boy and his 28-year-old dog in a post-apocalyptic world?",
+    "options": ["Adventure Time", "The Regular Show", "Over the Garden Wall", "Gravity Falls"],
+    "correctIndex": 0,
+    "explanation": "'Adventure Time' features Finn and Jake in a bizarre future."
+  },
+  {
+    "id": "mv-2148",
+    "title": "Who is the main police investigator in 'The Killing' (US)?",
+    "options": ["Harry Ambrose", "Sarah Linden", "Jimmy McNulty", "Sherlock Holmes"],
+    "correctIndex": 1,
+    "explanation": "Sarah Linden investigates the central murder in 'The Killing'."
+  },
+  {
+    "id": "mv-2149",
+    "title": "Which series depicts a family dealing with the fallout of an unexpected purchase?",
+    "options": ["Dhindora", "Delhi Crime", "Made in Heaven", "Family Man"],
+    "correctIndex": 0,
+    "explanation": "'Dhindora' explores the daily lives and struggles of Bhuvan Bam’s family."
+  },
+  {
+    "id": "mv-2150",
+    "title": "'The Terminal List' features which main character investigating the ambush of his SEAL team?",
+    "options": ["Jack Ryan", "Jason Hayes", "James Reece", "John Clark"],
+    "correctIndex": 2,
+    "explanation": "James Reece seeks answers in 'The Terminal List'."
+  },
+  {
+    "id": "mv-2151",
+    "title": "'The OA' features a protagonist who regains which sense upon returning after being missing for years?",
+    "options": ["Sight", "Hearing", "Speech", "Taste"],
+    "correctIndex": 0,
+    "explanation": "Prairie regains her sight in 'The OA'."
+  },
+  {
+    "id": "mv-2152",
+    "title": "In which series does Timothy Olyphant play U.S. Marshal Raylan Givens?",
+    "options": ["Sons of Anarchy", "Longmire", "Justified", "Deadwood"],
+    "correctIndex": 2,
+    "explanation": "Raylan Givens is the central character in 'Justified'."
+  },
+  {
+    "id": "mv-2153",
+    "title": "Which series is based on Isaac Asimov's stories about a galaxy under the rule of an empire?",
+    "options": ["Dune", "The Expanse", "Foundation", "Altered Carbon"],
+    "correctIndex": 2,
+    "explanation": "'Foundation' adapts Asimov's classic sci-fi saga."
+  },
+  {
+    "id": "mv-2154",
+    "title": "Which dystopian series shows Japan and Germany controlling America after WWII?",
+    "options": ["The Plot Against America", "The Man in the High Castle", "SS-GB", "Resistance"],
+    "correctIndex": 1,
+    "explanation": "'The Man in the High Castle' depicts an Axis-occupied USA."
+  },
+  {
+    "id": "mv-2155",
+    "title": "Who stars as the main character in 'The Good Doctor'?",
+    "options": ["Freddie Highmore", "Norman Bates", "Shaun Evans", "Hugh Laurie"],
+    "correctIndex": 0,
+    "explanation": "Freddie Highmore plays Dr. Shaun Murphy."
+  },
+  {
+    "id": "mv-2156",
+    "title": "'Shadow and Bone' features Alina Starkov discovering what?",
+    "options": ["Her long-lost twin", "A secret map", "Extraordinary magical powers", "A hidden treasure"],
+    "correctIndex": 2,
+    "explanation": "Alina Starkov unleashes a powerful magic in 'Shadow and Bone'."
+  },
+  {
+    "id": "mv-2157",
+    "title": "Who is Dexter Morgan searching for in 'Dexter: Resurrection'?",
+    "options": ["Trinity Killer", "Hannah McKay", "Harrison", "Debra"],
+    "correctIndex": 2,
+    "explanation": "Dexter travels to New York City in search of his son, Harrison."
+  },
+  {
+    "id": "mv-2158",
+    "title": "Which series is about a marketing firm in Paris hiring a young American woman?",
+    "options": ["The Bold Type", "Emily in Paris", "Younger", "The Marvelous Mrs. Maisel"],
+    "correctIndex": 1,
+    "explanation": "'Emily in Paris' follows Lily Collins as the American in Paris."
+  },
+  {
+    "id": "mv-2159",
+    "title": "Which animated show is set in a pineapple under the sea?",
+    "options": ["The Ren & Stimpy Show", "SpongeBob SquarePants", "Rocko's Modern Life", "Fish Hooks"],
+    "correctIndex": 1,
+    "explanation": "SpongeBob lives in a pineapple at the bottom of the ocean."
+  },
+  {
+    "id": "mv-2160",
+    "title": "Which British TV series sees a newsroom undergo dramatic change with a new team?",
+    "options": ["Press", "The Newsroom", "State of Play", "Broadcast News"],
+    "correctIndex": 1,
+    "explanation": "'The Newsroom' is about the staff of a fictional British newsroom."
+  },
+  {
+    "id": "mv-2161",
+    "title": "'Weeds' focuses on a suburban mother who turns to what business?",
+    "options": ["Real estate", "Marijuana dealing", "Pawning", "Day care"],
+    "correctIndex": 1,
+    "explanation": "She starts selling marijuana to support her family."
+  },
+  {
+    "id": "mv-2162",
+    "title": "Which animated series involves Finn and his wise dog Jake?",
+    "options": ["Gravity Falls", "Steven Universe", "Adventure Time", "Rick and Morty"],
+    "correctIndex": 2,
+    "explanation": "'Adventure Time' features Finn and Jake's adventures."
+  },
+  {
+    "id": "mv-2163",
+    "title": "'Vinland Saga' features which main character on a journey for revenge?",
+    "options": ["Canute", "Thorfinn", "Askeladd", "Ragnar"],
+    "correctIndex": 1,
+    "explanation": "Thorfinn seeks vengeance in 'Vinland Saga'."
+  },
+  {
+    "id": "mv-2164",
+    "title": "Which TV show stars Alec Baldwin, Jane Krakowski, and Tina Fey in the making of a sketch-comedy show?",
+    "options": ["Saturday Night Live", "30 Rock", "Parks and Recreation", "Community"],
+    "correctIndex": 1,
+    "explanation": "'30 Rock' is a behind-the-scenes look at a comedy show."
+  },
+  {
+    "id": "mv-2165",
+    "title": "'Bates Motel' offers a modern look at whose teenage years?",
+    "options": ["Jason Voorhees", "Hannibal Lecter", "Norman Bates", "Freddy Krueger"],
+    "correctIndex": 2,
+    "explanation": "The series explores the early life of Norman Bates."
+  },
+  {
+    "id": "mv-2166",
+    "title": "Which pirate drama follows Captain Flint and the hunt for treasure?",
+    "options": ["Black Sails", "Crossbones", "Our Flag Means Death", "Vikings"],
+    "correctIndex": 0,
+    "explanation": "'Black Sails' is a pirate drama featuring Captain Flint."
+  },
+  {
+    "id": "mv-2167",
+    "title": "Who is at the center of the intricate legal drama in 'Better Call Saul'?",
+    "options": ["Walter White", "Jimmy McGill", "Mike Ehrmantraut", "Gus Fring"],
+    "correctIndex": 1,
+    "explanation": "Jimmy McGill becomes Saul Goodman in 'Better Call Saul'."
+  },
+  {
+    "id": "mv-2168",
+    "title": "Which TV series is about two married KGB spies in Cold War America?",
+    "options": ["The Spy", "Burn Notice", "The Americans", "Agent Carter"],
+    "correctIndex": 2,
+    "explanation": "'The Americans' are undercover Soviet agents in the US."
   }
 ]
