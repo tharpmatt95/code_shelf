@@ -16101,5 +16101,2005 @@
     "options": ["A career setback", "Death of her mother Judy Garland", "Losing her savings", "Breaking up with Halston"],
     "correctIndex": 1,
     "explanation": "Her journey starts after the death of her mother, Judy Garland."
+  },
+  {
+    "id": "mv-2260",
+    "title": "Which 2025 film centers on George Orwell’s writing of his final novel, 1984?",
+    "options": ["Orwell: 2 + 2 = 5", "Final Destination: Bloodlines", "Motel Destino", "Cheech and Chong's Last Movie"],
+    "correctIndex": 0,
+    "explanation": "Orwell: 2 + 2 = 5 (2025) focuses on Orwell's creation of 1984."
+  },
+  {
+    "id": "mv-2261",
+    "title": "Which movie sees an 8-year-old girl named Bobo experience childhood during a civil war on a Rhodesian farm, as released in 2025?",
+    "options": ["Fairyland", "Don't Let's Go to the Dogs Tonight", "Good Boy", "Every Little Thing"],
+    "correctIndex": 1,
+    "explanation": "Don't Let's Go to the Dogs Tonight (2025) unfolds on a Rhodesian farm during war."
+  },
+  {
+    "id": "mv-2262",
+    "title": "In Motel Destino (2025), what disrupts the daily life at the roadside attraction?",
+    "options": ["A celebrity visit", "A robbery", "The arrival of young Heraldo", "A government inspection"],
+    "correctIndex": 2,
+    "explanation": "The arrival of Heraldo changes everything in Motel Destino."
+  },
+  {
+    "id": "mv-2263",
+    "title": "Which 2025 documentary follows Terry Masear’s attempts to save hummingbirds in Los Angeles?",
+    "options": ["Zootopia 2", "Megadoc", "Every Little Thing", "Jane Austen Wrecked My Life"],
+    "correctIndex": 2,
+    "explanation": "Every Little Thing (2025) documents Terry Masear's wildlife rescue efforts."
+  },
+  {
+    "id": "mv-2264",
+    "title": "Which film released in 2025 focuses on virtual reality avatars allowing people to talk to digital versions of deceased loved ones?",
+    "options": ["Folktales", "Eternal You", "When Fall Is Coming", "Dust Bunny"],
+    "correctIndex": 1,
+    "explanation": "Eternal You (2025) delves into digital life after death with VR avatars."
+  },
+  {
+    "id": "mv-2265",
+    "title": "Is This Thing On? (2025) explores which theme?",
+    "options": ["The challenges of the New York comedy scene and an unraveling marriage", "A battle against AI robots", "A quest for lost treasure", "A mystical family reunion"],
+    "correctIndex": 0,
+    "explanation": "Is This Thing On? (2025) follows personal upheaval and comedy."
+  },
+  {
+    "id": "mv-2266",
+    "title": "Which 2025 film depicts Tabatha, a rebellious rancher, caring for horses and local teens in South Dakota?",
+    "options": ["East of Wall", "Good Boy", "Megadoc", "40 Acres"],
+    "correctIndex": 0,
+    "explanation": "East of Wall (2025) is set in the South Dakota Badlands."
+  },
+  {
+    "id": "mv-2267",
+    "title": "In 40 Acres (2025), which challenge does the Freeman family regularly face in a post-apocalyptic world?",
+    "options": ["Evading wild animals", "Fighting off raiders", "Curing a virus", "Building a spaceship"],
+    "correctIndex": 1,
+    "explanation": "The Freemans survive by fighting off raiders in 40 Acres (2025)."
+  },
+  {
+    "id": "mv-2268",
+    "title": "What trouble arises for Michelle and her daughter Valérie in the French drama When Fall Is Coming (2025)?",
+    "options": ["A lost inheritance", "A culinary accident undercuts their trust", "A runaway pet", "A mysterious illness"],
+    "correctIndex": 1,
+    "explanation": "A cooking accident strains Michelle and Valérie's relationship."
+  },
+  {
+    "id": "mv-2269",
+    "title": "Who is targeted with a ransom plot in Highest 2 Lowest (2025)?",
+    "options": ["An aspiring politician", "A music mogul with the 'best ears in the business'", "An art dealer", "A sports star"],
+    "correctIndex": 1,
+    "explanation": "Denzel Washington plays a music mogul in Highest 2 Lowest."
+  },
+  {
+    "id": "mv-2270",
+    "title": "Which 2025 film revolves around a character named Ashley asking for a divorce from her husband, Carey?",
+    "options": ["Splitsville", "Jane Austen Wrecked My Life", "When Fall Is Coming", "Orwell: 2 + 2 = 5"],
+    "correctIndex": 0,
+    "explanation": "Splitsville (2025) centers on divorce and relationship changes."
+  },
+  {
+    "id": "mv-2271",
+    "title": "Which horror franchise installment releases in 2025, centered on Stefanie trying to break her family's deadly curse?",
+    "options": ["Cheech and Chong's Last Movie", "Jane Austen Wrecked My Life", "Final Destination: Bloodlines", "Dust Bunny"],
+    "correctIndex": 2,
+    "explanation": "Final Destination: Bloodlines (2025) is part of the horror series."
+  },
+  {
+    "id": "mv-2272",
+    "title": "Cheech & Chong’s Last Movie (2025) documents the duo’s history using which unique style?",
+    "options": ["Animation and archival footage", "Stop-motion", "Claymation", "Exclusive interviews only"],
+    "correctIndex": 0,
+    "explanation": "Cheech & Chong’s Last Movie (2025) features animation and archival madness."
+  },
+  {
+    "id": "mv-2273",
+    "title": "I Wish You All the Best (2025) features Ben DeBacker, who identifies as what?",
+    "options": ["Asexual", "Nonbinary", "Gay", "Transgender"],
+    "correctIndex": 1,
+    "explanation": "Ben comes out as nonbinary in I Wish You All the Best."
+  },
+  {
+    "id": "mv-2274",
+    "title": "Who does fourteen-year-old Griffin Nafly meet that changes his life in Griffin in Summer (2025)?",
+    "options": ["A famous playwright", "His estranged father", "Handyman Brad", "A lost dog"],
+    "correctIndex": 2,
+    "explanation": "Griffin meets Brad, changing his life and play."
+  },
+  {
+    "id": "mv-2275",
+    "title": "In which 2025 film does Aurora enlist her mysterious neighbor to kill the monster she believes ate her family?",
+    "options": ["Final Destination: Bloodlines", "Dust Bunny", "Good Boy", "Highest 2 Lowest"],
+    "correctIndex": 1,
+    "explanation": "Dust Bunny (2025) features Aurora and her hitman neighbor."
+  },
+  {
+    "id": "mv-2276",
+    "title": "What do the main characters in Folktales (2025) rely on when they are dropped in the arctic wilderness?",
+    "options": ["A pack of loyal sled dogs and themselves", "Solar power", "Boats", "Telecommunications"],
+    "correctIndex": 0,
+    "explanation": "They rely on themselves and sled dogs."
+  },
+  {
+    "id": "mv-2277",
+    "title": "Fairyland (2025) is based on the memoir of which author?",
+    "options": ["Alysia Abbott", "Lena Dunham", "George Orwell", "Terry Masear"],
+    "correctIndex": 0,
+    "explanation": "The film is based on Alysia Abbott's memoir."
+  },
+  {
+    "id": "mv-2278",
+    "title": "Who is the canine protagonist in Good Boy (2025)?",
+    "options": ["Todd", "Brad", "Indy", "Griffin"],
+    "correctIndex": 2,
+    "explanation": "Indy is the main canine character in Good Boy."
+  },
+  {
+    "id": "mv-2279",
+    "title": "Which 2025 documentary gives an inside look into Francis Ford Coppola’s making of Megalopolis?",
+    "options": ["Megadoc", "Zootopia 2", "One Of Them Days", "Motel Destino"],
+    "correctIndex": 0,
+    "explanation": "Megadoc provides an inside look at Coppola's creative journey."
+  },
+  {
+    "id": "mv-2280",
+    "title": "Which 2025 comedy-drama follows Agathe, a clumsy woman working in Paris at Shakespeare & Co. bookshop?",
+    "options": ["East of Wall", "Final Destination: Bloodlines", "Jane Austen Wrecked My Life", "Splitsville"],
+    "correctIndex": 2,
+    "explanation": "Jane Austen Wrecked My Life follows Agathe's adventures in Paris."
+  },
+  {
+    "id": "mv-2281",
+    "title": "Nick Wilde and Judy Hopps return to solve a reptilian mystery in which 2025 animation sequel?",
+    "options": ["Good Boy", "Orwell: 2 + 2 = 5", "Zootopia 2", "Cheech and Chong's Last Movie"],
+    "correctIndex": 2,
+    "explanation": "Zootopia 2 follows Nick and Judy on a new case."
+  },
+  {
+    "id": "mv-2282",
+    "title": "What predicament do Dreux and Alyssa face in One Of Them Days (2025)?",
+    "options": ["Lost inheritance", "Eviction risk due to blown rent money", "Unbearable boss", "A lost dog"],
+    "correctIndex": 1,
+    "explanation": "They're racing to avoid eviction in One Of Them Days (2025)."
+  },
+  {
+    "id": "mv-2283",
+    "title": "Which 2025 film is set during the end of the Bush War, seen through the eyes of a child?",
+    "options": ["Don't Let's Go to the Dogs Tonight", "Cheech and Chong's Last Movie", "Megadoc", "Griffin in Summer"],
+    "correctIndex": 0,
+    "explanation": "Don't Let's Go to the Dogs Tonight is set as the Bush War ends."
+  },
+  {
+    "id": "mv-2284",
+    "title": "Which 2025 film explores the concept of bringing lost loved ones back through AI avatars?",
+    "options": ["When Fall Is Coming", "Orwell: 2 + 2 = 5", "Eternal You", "Folktales"],
+    "correctIndex": 2,
+    "explanation": "Eternal You (2025) examines AI and digital resurrection."
+  },
+  {
+    "id": "mv-2285",
+    "title": "Who supports Ben DeBacker when they are thrown out in I Wish You All the Best (2025)?",
+    "options": ["Their uncle", "Their older sister", "Their best friend", "A teacher"],
+    "correctIndex": 1,
+    "explanation": "Ben turns to their estranged older sister for support."
+  },
+  {
+    "id": "mv-2286",
+    "title": "Which 2025 film features a grandmother trying to repair family ties with her adult daughter?",
+    "options": ["Good Boy", "When Fall Is Coming", "Jane Austen Wrecked My Life", "Every Little Thing"],
+    "correctIndex": 1,
+    "explanation": "When Fall Is Coming focuses on Michelle and her daughter."
+  },
+  {
+    "id": "mv-2287",
+    "title": "Which film has its protagonist secretly growing closer to an outsider, risking family safety in post-apocalyptic times?",
+    "options": ["Fairyland", "Eastern Wall", "40 Acres", "Every Little Thing"],
+    "correctIndex": 2,
+    "explanation": "In 40 Acres, Emanuel's need for connection risks his family."
+  },
+  {
+    "id": "mv-2288",
+    "title": "Which main character is a wildlife rehabber in Every Little Thing (2025)?",
+    "options": ["Terry Masear", "Aurora", "Michelle", "Agathe"],
+    "correctIndex": 0,
+    "explanation": "Terry Masear is the focus of the documentary Every Little Thing."
+  },
+  {
+    "id": "mv-2289",
+    "title": "Who seeks to relive traumatic family events through a hitman neighbor in Dust Bunny (2025)?",
+    "options": ["Griffin", "Aurora", "Ashley", "Bobo"],
+    "correctIndex": 1,
+    "explanation": "Aurora seeks help from her hitman neighbor."
+  },
+  {
+    "id": "mv-2290",
+    "title": "Which 2025 Argentina-set drama explores forbidden desire, power, and violence at a roadside motel?",
+    "options": ["Splitsville", "Motel Destino", "Fairyland", "East of Wall"],
+    "correctIndex": 1,
+    "explanation": "Motel Destino is set on the coast in Argentina."
+  },
+  {
+    "id": "mv-2291",
+    "title": "Megadoc (2025) chronicles the making of which upcoming epic?",
+    "options": ["Fairyland", "Megalopolis", "Good Boy", "Dust Bunny"],
+    "correctIndex": 1,
+    "explanation": "Megadoc covers the making of Coppola's Megalopolis."
+  },
+  {
+    "id": "mv-2292",
+    "title": "Which friend supports Michelle in When Fall Is Coming (2025) after her accident?",
+    "options": ["Marie-Claude", "Ashley", "Julie", "Agathe"],
+    "correctIndex": 0,
+    "explanation": "Marie-Claude helps Michelle as her best friend."
+  },
+  {
+    "id": "mv-2293",
+    "title": "Which 2025 film blends classic road movie elements with archival footage and animation to tell a comic duo’s story?",
+    "options": ["Every Little Thing", "Cheech and Chong's Last Movie", "Good Boy", "Final Destination: Bloodlines"],
+    "correctIndex": 1,
+    "explanation": "Cheech and Chong's Last Movie uses road trip elements and animation."
+  },
+  {
+    "id": "mv-2294",
+    "title": "In Folktales (2025), teenagers enroll in what type of school in northern Norway?",
+    "options": ["Public high school", "Folk high school", "Military academy", "Boarding school"],
+    "correctIndex": 1,
+    "explanation": "They enroll in a folk high school for a year in the wilderness."
+  },
+  {
+    "id": "mv-2295",
+    "title": "What major social issue shapes the backdrop in Fairyland (2025)?",
+    "options": ["Great Depression", "AIDS crisis in San Francisco", "Vietnam War", "Spanish Civil War"],
+    "correctIndex": 1,
+    "explanation": "The AIDS crisis is central to Fairyland."
+  },
+  {
+    "id": "mv-2296",
+    "title": "In Zootopia 2 (2025), what species’ arrival disrupts the city?",
+    "options": ["New dog breeds", "A mysterious reptile", "A flock of birds", "A herd of elephants"],
+    "correctIndex": 1,
+    "explanation": "A mysterious reptile is central to the plot."
+  },
+  {
+    "id": "mv-2297",
+    "title": "Who faces a moral dilemma in Highest 2 Lowest (2025)?",
+    "options": ["A retired soldier", "A music mogul being blackmailed", "A young rebellious teenager", "A wildlife rehabber"],
+    "correctIndex": 1,
+    "explanation": "The music mogul faces a tough decision."
+  },
+  {
+    "id": "mv-2298",
+    "title": "Which film follows teens facing adulthood in the wilds of Norway, free from technology?",
+    "options": ["Highest 2 Lowest", "Folktales", "Jane Austen Wrecked My Life", "East of Wall"],
+    "correctIndex": 1,
+    "explanation": "Folktales is about teens living tech-free in Norway."
+  },
+  {
+    "id": "mv-2299",
+    "title": "Who must accept that some monsters are real in Dust Bunny (2025)?",
+    "options": ["Aurora", "Her mysterious neighbor", "Griffin", "Ben"],
+    "correctIndex": 1,
+    "explanation": "Aurora's hitman neighbor learns the reality of monsters."
+  },
+  {
+    "id": "mv-2300",
+    "title": "In Timestalker (2025), what unusual fate befalls Agnes every time she falls in love with the mysterious man?",
+    "options": [
+      "She is reincarnated after meeting her demise",
+      "She wins the lottery",
+      "She travels to the future",
+      "She loses her memory"
+    ],
+    "correctIndex": 0,
+    "explanation": "In Timestalker, Agnes is reincarnated each time she dies after meeting the mysterious man."
+  },
+  {
+    "id": "mv-2301",
+    "title": "Which actor plays the charismatic new neighbor Brian in Friendship (2025)?",
+    "options": [
+      "Tim Robinson",
+      "Paul Rudd",
+      "Colin Firth",
+      "Robert Pattinson"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paul Rudd portrays Brian, the new neighbor."
+  },
+  {
+    "id": "mv-2302",
+    "title": "What is the main occupation of Mickey Barnes in Mickey 17 (2025)?",
+    "options": [
+      "Space explorer",
+      "Journalist",
+      "Professional who dies for a living",
+      "Chef"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mickey Barnes works a job that requires him to die repeatedly."
+  },
+  {
+    "id": "mv-2303",
+    "title": "Which film released in 2025 offers a portrait of rising musician Jeff Buckley, who died in 1997?",
+    "options": [
+      "Bridget Jones: Mad About the Boy",
+      "It's Never Over, Jeff Buckley",
+      "Bob Trevino Likes It",
+      "Unicorns"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's Never Over, Jeff Buckley is about the musician who died in 1997."
+  },
+  {
+    "id": "mv-2304",
+    "title": "In Bugonia (2025), who do two obsessed young men kidnap, believing her to be an alien?",
+    "options": [
+      "A famous actress",
+      "The CEO of a major company",
+      "A school teacher",
+      "A politician"
+    ],
+    "correctIndex": 1,
+    "explanation": "They kidnap the CEO of a major company."
+  },
+  {
+    "id": "mv-2305",
+    "title": "Which character is widowed in Bridget Jones: Mad About the Boy (2025)?",
+    "options": [
+      "Bridget",
+      "Mabel",
+      "Daniel Cleaver",
+      "Billy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bridget is widowed, raising her two children alone."
+  },
+  {
+    "id": "mv-2306",
+    "title": "Grace, slipping into madness, is a key character in which 2025 film?",
+    "options": [
+      "The Long Walk",
+      "Die My Love",
+      "La Grazia",
+      "Companion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grace is the protagonist in Die My Love."
+  },
+  {
+    "id": "mv-2307",
+    "title": "A techno-entrepreneur named Karsh develops software related to the dead in which 2025 film?",
+    "options": [
+      "Superboys of Malegaon",
+      "The Friend",
+      "The Shrouds",
+      "Hedda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Karsh's technology features in The Shrouds."
+  },
+  {
+    "id": "mv-2308",
+    "title": "The story of Nasir Shaikh's DIY movies turning his hometown into a dream factory is told in which film?",
+    "options": [
+      "Rosemead",
+      "Superboys of Malegaon",
+      "The Great Escaper",
+      "Predator: Badlands"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superboys of Malegaon describes Nasir Shaikh's movie-making."
+  },
+  {
+    "id": "mv-2309",
+    "title": "In Rosemead (2025), what drastic measures is Lucy Liu's character forced to take?",
+    "options": [
+      "Run for office",
+      "Protect her troubled son",
+      "Open a restaurant",
+      "Investigate her neighbor"
+    ],
+    "correctIndex": 1,
+    "explanation": "She takes desperate actions to protect her son."
+  },
+  {
+    "id": "mv-2310",
+    "title": "Which contest do teenage boys compete in, risking death if they slow down, in The Long Walk (2025)?",
+    "options": [
+      "The Long Walk",
+      "Marathon of Pain",
+      "Endless Race",
+      "Speed Survival"
+    ],
+    "correctIndex": 0,
+    "explanation": "The film and contest are both called The Long Walk."
+  },
+  {
+    "id": "mv-2311",
+    "title": "Who is the real-life inspiration behind the 2025 film Love+War?",
+    "options": [
+      "Lynsey Addario",
+      "Lucy Liu",
+      "Bridget Jones",
+      "Jeff Buckley"
+    ],
+    "correctIndex": 0,
+    "explanation": "Photojournalist Lynsey Addario inspires the film."
+  },
+  {
+    "id": "mv-2312",
+    "title": "Which anime character fuses with his devil-dog Pochita to become Chainsaw Man in the 2025 movie Chainsaw Man - The Movie: Reze Arc?",
+    "options": [
+      "Jackson",
+      "Denji",
+      "Thia",
+      "Nasir"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denji fuses with Pochita to become Chainsaw Man."
+  },
+  {
+    "id": "mv-2313",
+    "title": "Who is the outcast that finds an ally in Thia on a remote planet in Predator: Badlands (2025)?",
+    "options": [
+      "A space pirate",
+      "A young Predator",
+      "A robot",
+      "A time traveler"
+    ],
+    "correctIndex": 1,
+    "explanation": "A young Predator is the outcast and protagonist."
+  },
+  {
+    "id": "mv-2314",
+    "title": "Bob Trevino Likes It (2025) is inspired by true events involving what sort of mistaken connection?",
+    "options": [
+      "A case of mistaken identity",
+      "A shared name on Facebook",
+      "Being neighbors",
+      "An online dating mix-up"
+    ],
+    "correctIndex": 1,
+    "explanation": "A woman connects with a stranger sharing her father's name on Facebook."
+  },
+  {
+    "id": "mv-2315",
+    "title": "Bernard Jordan escapes his care home for which event in The Great Escaper (2025)?",
+    "options": [
+      "The Olympics",
+      "The 70th Anniversary of D-Day",
+      "Wimbledon",
+      "A music festival"
+    ],
+    "correctIndex": 1,
+    "explanation": "He attends the D-Day anniversary."
+  },
+  {
+    "id": "mv-2316",
+    "title": "Which film in 2025 focuses on a queer South Asian nightclub performer and a mechanic?",
+    "options": [
+      "The Damned",
+      "Unicorns",
+      "Love+War",
+      "Rosemead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unicorns tells their story."
+  },
+  {
+    "id": "mv-2317",
+    "title": "Why does the protagonist in Gazer (2025) take a risky job?",
+    "options": [
+      "To pay for a vacation",
+      "To save money for her daughter's future",
+      "Out of boredom",
+      "For a news article"
+    ],
+    "correctIndex": 1,
+    "explanation": "She wants to secure her daughter's future."
+  },
+  {
+    "id": "mv-2318",
+    "title": "The Damned (2025) takes place during which major historical conflict?",
+    "options": [
+      "World War I",
+      "Civil War",
+      "Vietnam War",
+      "Roman Empire"
+    ],
+    "correctIndex": 1,
+    "explanation": "The American Civil War forms the backdrop."
+  },
+  {
+    "id": "mv-2319",
+    "title": "What genre mixing is highlighted for the 2025 movie Companion?",
+    "options": [
+      "Musical and Fantasy",
+      "Romance and Horror",
+      "Action and Comedy",
+      "Thriller and Western"
+    ],
+    "correctIndex": 1,
+    "explanation": "Companion is marketed as a new kind of romance/horror."
+  },
+  {
+    "id": "mv-2320",
+    "title": "Who finds herself torn between a past love and current life in a reimagined classic in Hedda (2025)?",
+    "options": [
+      "Iris",
+      "Hedda",
+      "Bridget",
+      "Grace"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tessa Thompson stars as Hedda."
+  },
+  {
+    "id": "mv-2321",
+    "title": "Which of the following is bequeathed to Iris after the death of her friend in The Friend (2025)?",
+    "options": [
+      "An inheritance",
+      "A large dog named Apollo",
+      "A book collection",
+      "A beach house"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iris is left with a Great Dane named Apollo."
+  },
+  {
+    "id": "mv-2322",
+    "title": "Which Italian president faces moral dilemmas at the end of his term in La Grazia (2025)?",
+    "options": [
+      "Mariano De Santis",
+      "Bernard Jordan",
+      "Mark Darcy",
+      "Jackson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mariano De Santis is the fictional president in La Grazia."
+  },
+  {
+    "id": "mv-2323",
+    "title": "Which 2025 film involves a mother entangled in murder and revenge after taking a risky job?",
+    "options": [
+      "Gazer",
+      "Companion",
+      "The Shrouds",
+      "Superboys of Malegaon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gazer features a mother drawn into murder and revenge."
+  },
+  {
+    "id": "mv-2324",
+    "title": "What does Karsh's new software allow in The Shrouds (2025)?",
+    "options": [
+      "Restoring lost memories",
+      "Tracking living people",
+      "Bearing witness to the decay of buried loved ones",
+      "Predicting the future"
+    ],
+    "correctIndex": 2,
+    "explanation": "The software allows families to watch their loved ones' remains decay."
+  },
+  {
+    "id": "mv-2325",
+    "title": "Who slashes his way onto the big screen for the first time in 2025's Chainsaw Man - The Movie: Reze Arc?",
+    "options": [
+      "Reze",
+      "Denji",
+      "Jeff Buckley",
+      "Craig"
+    ],
+    "correctIndex": 1,
+    "explanation": "Denji is Chainsaw Man."
+  },
+  {
+    "id": "mv-2326",
+    "title": "Who helps Bridget raise her children in Bridget Jones: Mad About the Boy (2025) after Mark’s death?",
+    "options": [
+      "Her mother",
+      "Daniel Cleaver and friends",
+      "Her boss",
+      "A neighbor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daniel Cleaver and loyal friends help Bridget."
+  },
+  {
+    "id": "mv-2327",
+    "title": "Friendship (2025) shows Craig's attempts to do what, threatening to ruin lives?",
+    "options": [
+      "Start a business",
+      "Make an adult male friend",
+      "Buy a house",
+      "Win a custody battle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Craig tries desperately to make a male friend."
+  },
+  {
+    "id": "mv-2328",
+    "title": "Which 2025 film features a company of soldiers sent to the western territories during the Civil War?",
+    "options": [
+      "The Damned",
+      "Predator: Badlands",
+      "Love+War",
+      "The Great Escaper"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Damned is set during the Civil War."
+  },
+  {
+    "id": "mv-2329",
+    "title": "Which main character seeks to escape a care facility to attend a historical event in The Great Escaper (2025)?",
+    "options": [
+      "Mariano De Santis",
+      "Bernard Jordan",
+      "Craig",
+      "Nasir Shaikh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bernard Jordan escapes his care home for the D-Day anniversary."
+  },
+  {
+    "id": "mv-2330",
+    "title": "Who is forced to make impossible choices to protect her teenage son in Rosemead (2025)?",
+    "options": [
+      "Iris",
+      "Lucy Liu's character",
+      "Reze",
+      "Mabel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lucy Liu stars as a mother protecting her son."
+  },
+  {
+    "id": "mv-2331",
+    "title": "Which profession is central to the storyline of Love+War (2025)?",
+    "options": [
+      "Space pilot",
+      "War photographer",
+      "Rock musician",
+      "Politician"
+    ],
+    "correctIndex": 1,
+    "explanation": "Photojournalism is the focus of Love+War."
+  },
+  {
+    "id": "mv-2332",
+    "title": "Which film involves a people-pleasing young woman who bonds with a childless man sharing her father's name?",
+    "options": [
+      "Friendship",
+      "Bob Trevino Likes It",
+      "Rosemead",
+      "The Damned"
+    ],
+    "correctIndex": 1,
+    "explanation": "That is the story of Bob Trevino Likes It."
+  },
+  {
+    "id": "mv-2333",
+    "title": "Who is sent to the western territories in The Damned (2025)?",
+    "options": [
+      "A family of farmers",
+      "A company of volunteer soldiers",
+      "A group of schoolchildren",
+      "A band of thieves"
+    ],
+    "correctIndex": 1,
+    "explanation": "The army sends volunteer soldiers."
+  },
+  {
+    "id": "mv-2334",
+    "title": "Companion (2025) is co-produced by which studio that brought you The Notebook?",
+    "options": [
+      "New Line Cinema",
+      "Miramax",
+      "A24",
+      "Warner Bros"
+    ],
+    "correctIndex": 0,
+    "explanation": "New Line Cinema is involved in Companion."
+  },
+  {
+    "id": "mv-2335",
+    "title": "What event does Bernard Jordan attend in The Great Escaper (2025)?",
+    "options": [
+      "The D-Day Landings Anniversary",
+      "A royal wedding",
+      "A Nobel Prize ceremony",
+      "The Boston Marathon"
+    ],
+    "correctIndex": 0,
+    "explanation": "He attends the D-Day anniversary."
+  },
+  {
+    "id": "mv-2336",
+    "title": "Which character is the Italian Republic President in La Grazia (2025)?",
+    "options": [
+      "Mariano De Santis",
+      "Craig",
+      "Jackson",
+      "Jeff Buckley"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mariano De Santis is president in the film."
+  },
+  {
+    "id": "mv-2337",
+    "title": "Which creature is a beloved pet and key to Denji’s transformation in Chainsaw Man - The Movie: Reze Arc (2025)?",
+    "options": [
+      "A dragon",
+      "A chainsaw-powered devil-dog named Pochita",
+      "A mechanical bird",
+      "A shape-shifting cat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pochita is instrumental in Denji's transformation."
+  },
+  {
+    "id": "mv-2338",
+    "title": "What genre does The Shrouds (2025) primarily belong to?",
+    "options": [
+      "Crime thriller",
+      "Sci-fi drama",
+      "Comedy",
+      "Sports"
+    ],
+    "correctIndex": 1,
+    "explanation": "The film is a near-future, tech-driven drama."
+  },
+  {
+    "id": "mv-2339",
+    "title": "Which 2025 movie is based on a community in India making no-budget films?",
+    "options": [
+      "Superboys of Malegaon",
+      "Unicorns",
+      "The Friend",
+      "Chainsaw Man - The Movie"
+    ],
+    "correctIndex": 0,
+    "explanation": "Superboys of Malegaon shows the story of Nasir Shaikh's town."
+  },
+  {
+    "id": "mv-2340",
+    "title": "In The Ugly Stepsister (2025), what is Elvira's main goal in the fairy-tale kingdom?",
+    "options": [
+      "To catch the prince’s eye",
+      "To become queen",
+      "To overthrow her stepsister",
+      "To open a bakery"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elvira will go to any length to catch the prince’s eye."
+  },
+  {
+    "id": "mv-2341",
+    "title": "Who feels torn between a perfect match and an imperfect ex in Materialists (2025)?",
+    "options": [
+      "A struggling actress",
+      "A young matchmaker",
+      "A wedding planner",
+      "A real estate agent"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protagonist is a young, ambitious New York City matchmaker."
+  },
+  {
+    "id": "mv-2342",
+    "title": "The Phoenician Scheme (2025) focuses on the story of what?",
+    "options": [
+      "A heist group",
+      "A political campaign",
+      "A family and a family business",
+      "An archaeological expedition"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's about a family and a family business."
+  },
+  {
+    "id": "mv-2343",
+    "title": "In The Threesome (2025), the story’s chaos ensues after what event?",
+    "options": [
+      "A car accident",
+      "An impulsive night",
+      "A failed job interview",
+      "A surprise birthday party"
+    ],
+    "correctIndex": 1,
+    "explanation": "The chaos starts after an impulsive night leads to a threesome."
+  },
+  {
+    "id": "mv-2344",
+    "title": "Relay (2025) features a broker who breaks his rules for what reason?",
+    "options": [
+      "Financial incentives",
+      "A new client's request for protection",
+      "Revenge",
+      "Personal vendetta"
+    ],
+    "correctIndex": 1,
+    "explanation": "He breaks his own rules when a new client seeks protection."
+  },
+  {
+    "id": "mv-2345",
+    "title": "What does Prime Minister (2025) primarily document?",
+    "options": [
+      "Life of Jacinda Ardern",
+      "Rise of Winston Churchill",
+      "Scandal in the British Parliament",
+      "Australian bushfires"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is about former New Zealand Prime Minister Jacinda Ardern."
+  },
+  {
+    "id": "mv-2346",
+    "title": "In Sex (2025), what causes the character confusion in one of the chimney sweeps?",
+    "options": [
+      "Winning the lottery",
+      "Visions of the future",
+      "Nocturnal dreams where he is a woman",
+      "A promotion at work"
+    ],
+    "correctIndex": 2,
+    "explanation": "He experiences dreams where he is a woman, leading to confusion."
+  },
+  {
+    "id": "mv-2347",
+    "title": "What happens to the elderly cab driver in The Accidental Getaway Driver (2025)?",
+    "options": [
+      "He is mistaken for a criminal",
+      "He wins a lottery",
+      "He is taken hostage at gunpoint",
+      "He gets lost in the city"
+    ],
+    "correctIndex": 2,
+    "explanation": "He is taken hostage at gunpoint by three convicts."
+  },
+  {
+    "id": "mv-2348",
+    "title": "The Day the Earth Blew Up: A Looney Tunes Movie (2025) features classic characters turning into heroes after what discovery?",
+    "options": [
+      "A secret treasure",
+      "A hidden time machine",
+      "An alien mind control plot",
+      "A portal to another world"
+    ],
+    "correctIndex": 2,
+    "explanation": "They uncover a secret alien mind control plot."
+  },
+  {
+    "id": "mv-2349",
+    "title": "What is the initial cause for the parents' distress in Hallow Road (2025)?",
+    "options": [
+      "A house fire",
+      "A late-night call from their daughter about a pedestrian accident",
+      "Their daughter's kidnapping",
+      "A burglary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Their daughter accidentally hits a pedestrian and calls them."
+  },
+  {
+    "id": "mv-2350",
+    "title": "In Diciannove (2025), the protagonist Leonardo moves from Palermo to where for his studies?",
+    "options": [
+      "Venice",
+      "Milan",
+      "Siena, via London",
+      "Rome"
+    ],
+    "correctIndex": 2,
+    "explanation": "He moves to Siena, via London."
+  },
+  {
+    "id": "mv-2351",
+    "title": "Who is the subject of the documentary John Candy: I Like Me (2025)?",
+    "options": [
+      "Robin Williams",
+      "John Candy",
+      "Gene Wilder",
+      "Chris Farley"
+    ],
+    "correctIndex": 1,
+    "explanation": "It explores the life of John Candy."
+  },
+  {
+    "id": "mv-2352",
+    "title": "Who does Emma Thompson play in Dead of Winter (2025)?",
+    "options": [
+      "A retired detective",
+      "A grief-stricken loner",
+      "A bookstore owner",
+      "A serial killer"
+    ],
+    "correctIndex": 1,
+    "explanation": "She plays a grief-stricken loner."
+  },
+  {
+    "id": "mv-2353",
+    "title": "Sacramento (2025) features two friends on a road trip from Los Angeles to which city?",
+    "options": [
+      "Las Vegas",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctIndex": 1,
+    "explanation": "The trip is from Los Angeles to Sacramento."
+  },
+  {
+    "id": "mv-2354",
+    "title": "In The Luckiest Man in America (2025), what is the protagonist's secret during his game show appearance?",
+    "options": [
+      "He can predict the lottery",
+      "He knows the host personally",
+      "He found the key to endless money",
+      "He's a famous actor"
+    ],
+    "correctIndex": 2,
+    "explanation": "He harbors a secret: the key to endless money."
+  },
+  {
+    "id": "mv-2355",
+    "title": "Which actor plays Sonny Hayes in F1: The Movie (2025)?",
+    "options": [
+      "Tom Hardy",
+      "Brad Pitt",
+      "Javier Bardem",
+      "Damson Idris"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brad Pitt stars as Sonny Hayes."
+  },
+  {
+    "id": "mv-2356",
+    "title": "Thunderbolts* (2025) is a Marvel film about what?",
+    "options": [
+      "A group of superheroes from Asgard",
+      "A dysfunctional team of antiheroes",
+      "A group of scientists",
+      "An alien invasion"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's about an unconventional team of antiheroes."
+  },
+  {
+    "id": "mv-2357",
+    "title": "What disrupts life in the village in Harvest (2025)?",
+    "options": [
+      "A raging fire",
+      "A mysterious disappearance",
+      "An invasion from the outside world",
+      "Economic collapse"
+    ],
+    "correctIndex": 2,
+    "explanation": "They face an invasion from the outside world."
+  },
+  {
+    "id": "mv-2358",
+    "title": "In Stranger Eyes (2025), what makes the young couple suspicious?",
+    "options": [
+      "Strange phone calls",
+      "Finding hidden cameras in their home",
+      "Receiving mysterious DVDs with footage of themselves",
+      "The sudden return of their daughter"
+    ],
+    "correctIndex": 2,
+    "explanation": "They receive DVDs with unnerving footage."
+  },
+  {
+    "id": "mv-2359",
+    "title": "V/H/S/Halloween (2025) is best described as which genre?",
+    "options": [
+      "Comedy",
+      "Romantic drama",
+      "Anthology horror",
+      "Historical fiction"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's a collection of Halloween-themed horror stories."
+  },
+  {
+    "id": "mv-2360",
+    "title": "In The Wedding Banquet (2025), what event complicates Min's marriage plans?",
+    "options": [
+      "Angela refuses to participate",
+      "Chris moves away",
+      "Min's grandmother throws an extravagant Korean wedding banquet",
+      "The wedding venue is double-booked"
+    ],
+    "correctIndex": 2,
+    "explanation": "Min's grandmother surprises them with a big celebration."
+  },
+  {
+    "id": "mv-2361",
+    "title": "Who is Ne Zha in Ne Zha 2 (2025)?",
+    "options": [
+      "A gentle wise elder",
+      "A rebellious young boy with wild powers",
+      "A powerful emperor",
+      "A magician from the East"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ne Zha is a rebellious young boy with powers."
+  },
+  {
+    "id": "mv-2362",
+    "title": "Superman (2025) presents the hero struggling primarily with what?",
+    "options": [
+      "Learning to fly",
+      "Reconciling his heritage with his human upbringing",
+      "Becoming a journalist",
+      "Fighting his nemesis, Lex Luthor"
+    ],
+    "correctIndex": 1,
+    "explanation": "He reconciles his heritage and human upbringing."
+  },
+  {
+    "id": "mv-2363",
+    "title": "What unexpected role do drag queens take on in Queens of the Dead (2025)?",
+    "options": [
+      "Fashion designers",
+      "Politicians",
+      "Zombie fighters",
+      "Wedding planners"
+    ],
+    "correctIndex": 2,
+    "explanation": "The group uses their unique skills to fight zombies."
+  },
+  {
+    "id": "mv-2364",
+    "title": "In The Ugly Stepsister (2025), how is beauty depicted in the kingdom?",
+    "options": [
+      "Irrelevant",
+      "A brutal business",
+      "A minor inconvenience",
+      "The secret to immortality"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beauty is a brutal business in the kingdom."
+  },
+  {
+    "id": "mv-2365",
+    "title": "In Materialists (2025), what industry does the main character work in?",
+    "options": [
+      "Finance",
+      "Matchmaking",
+      "Event planning",
+      "Real estate"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protagonist is a matchmaker."
+  },
+  {
+    "id": "mv-2366",
+    "title": "The Phoenician Scheme (2025) has a Metascore of what?",
+    "options": [
+      "75",
+      "80",
+      "70",
+      "65"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Metascore is 70."
+  },
+  {
+    "id": "mv-2367",
+    "title": "Which actor is NOT a part of The Threesome (2025)?",
+    "options": [
+      "Zoey Deutch",
+      "Jonah Hauer-King",
+      "Ruby Cruz",
+      "Timothée Chalamet"
+    ],
+    "correctIndex": 3,
+    "explanation": "Timothée Chalamet is not in the cast."
+  },
+  {
+    "id": "mv-2368",
+    "title": "Relay (2025) involves corporations and what?",
+    "options": [
+      "International espionage",
+      "Payoffs and threats",
+      "Deep-sea mining",
+      "Political campaigns"
+    ],
+    "correctIndex": 1,
+    "explanation": "It involves payoffs between corporations and individuals threatening them."
+  },
+  {
+    "id": "mv-2369",
+    "title": "Jacinda Ardern leads which country, as shown in Prime Minister (2025)?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Ireland",
+      "Canada"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jacinda Ardern is the former Prime Minister of New Zealand."
+  },
+  {
+    "id": "mv-2370",
+    "title": "Sex (2025) deals with which challenging topic for its married protagonists?",
+    "options": [
+      "Political corruption",
+      "Infidelity and sexuality",
+      "Adoption",
+      "Wealthy inheritance"
+    ],
+    "correctIndex": 1,
+    "explanation": "It challenges their views on sexuality and infidelity."
+  },
+  {
+    "id": "mv-2371",
+    "title": "The Accidental Getaway Driver (2025) is best described as what genre?",
+    "options": [
+      "Romantic comedy",
+      "Thriller",
+      "Animated adventure",
+      "Documentary"
+    ],
+    "correctIndex": 1,
+    "explanation": "It is a thriller with a hostage storyline."
+  },
+  {
+    "id": "mv-2372",
+    "title": "In The Day the Earth Blew Up: A Looney Tunes Movie (2025), the setting for the aliens’ discovery is what?",
+    "options": [
+      "A mall",
+      "A bubble gum factory",
+      "A mountain cabin",
+      "A haunted house"
+    ],
+    "correctIndex": 1,
+    "explanation": "Porky and Daffy make the discovery at the local bubble gum factory."
+  },
+  {
+    "id": "mv-2373",
+    "title": "What nightmarish trek do parents undertake in Hallow Road (2025)?",
+    "options": [
+      "Looking for a lost pet",
+      "Traveling through a haunted city",
+      "Racing to find their daughter after an accident",
+      "Attending a wedding"
+    ],
+    "correctIndex": 2,
+    "explanation": "They race to the scene of a pedestrian accident involving their daughter."
+  },
+  {
+    "id": "mv-2374",
+    "title": "Which emotion best defines Leonardo’s journey in Diciannove (2025)?",
+    "options": [
+      "Nostalgia",
+      "Restless youth clashing with adulthood",
+      "Pure joy",
+      "Despair"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's about the collision of restless youth and adulthood."
+  },
+  {
+    "id": "mv-2375",
+    "title": "John Candy: I Like Me (2025) tells the life story of a star renowned in which decades?",
+    "options": [
+      "2000s and 2010s",
+      "1940s and 1950s",
+      "1970s, 80s, and 90s",
+      "1920s"
+    ],
+    "correctIndex": 2,
+    "explanation": "John Candy was a star of the ’70s, ’80s, and ’90s."
+  },
+  {
+    "id": "mv-2376",
+    "title": "What event pushes the friends on a road trip in Sacramento (2025)?",
+    "options": [
+      "A job offer",
+      "A car accident",
+      "The death of Rickey's father",
+      "A wedding invitation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rickey convinces Glenn to travel after his father's death."
+  },
+  {
+    "id": "mv-2377",
+    "title": "What does The Luckiest Man in America (2025) reference as the ‘key’ for success?",
+    "options": [
+      "Secret family fortune",
+      "Game show-winning strategy",
+      "Sports talent",
+      "Stock market hacking"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protagonist knows a game show-winning strategy."
+  },
+  {
+    "id": "mv-2378",
+    "title": "In F1: The Movie (2025), what sets up the main conflict for Sonny Hayes’ return?",
+    "options": [
+      "His own desire for fame",
+      "A teammate's accident",
+      "A struggling team and an old rivalry",
+      "Discovering a secret track"
+    ],
+    "correctIndex": 2,
+    "explanation": "It's about being recruited to save a struggling team and competing with a new rookie."
+  },
+  {
+    "id": "mv-2379",
+    "title": "Which MCU property does Thunderbolts* (2025) connect to?",
+    "options": [
+      "Guardians of the Galaxy",
+      "Avengers",
+      "Daredevil",
+      "None; it's a standalone film"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thunderbolts* is linked to the wider Avengers/MCU storylines."
+  },
+  {
+    "id": "mv-2380",
+    "title": "In the 2025 film The Ick, what is the name of the high school football star turned science teacher?",
+    "options": ["Hank", "Ron", "Yannick", "Jeffrey"],
+    "correctIndex": 0,
+    "explanation": "Brandon Routh plays Hank in The Ick (2025)."
+  },
+  {
+    "id": "mv-2381",
+    "title": "Rental Family (2025) is set in which city?",
+    "options": ["London", "Tokyo", "New York", "Paris"],
+    "correctIndex": 1,
+    "explanation": "Rental Family (2025) is set in modern-day Tokyo."
+  },
+  {
+    "id": "mv-2382",
+    "title": "In Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025), what organization does Tanjiro Kamado join?",
+    "options": ["Yakuza", "Slayer Society", "Demon Slayer Corps", "Spirit Hunters"],
+    "correctIndex": 2,
+    "explanation": "Tanjiro Kamado joins the Demon Slayer Corps in the film."
+  },
+  {
+    "id": "mv-2383",
+    "title": "Which actor plays the role of the mob boss Yannick in Night Call (2025)?",
+    "options": ["Brandon Routh", "George Clooney", "Romain Duris", "Jacob Tremblay"],
+    "correctIndex": 2,
+    "explanation": "Romain Duris plays Yannick in Night Call."
+  },
+  {
+    "id": "mv-2384",
+    "title": "Who stars as Jay Kelly in the 2025 film Jay Kelly?",
+    "options": ["Adam Sandler", "George Clooney", "Brendan Fraser", "Jonathan Feltre"],
+    "correctIndex": 1,
+    "explanation": "George Clooney is the star of Jay Kelly (2025)."
+  },
+  {
+    "id": "mv-2385",
+    "title": "Sovereign (2025) centers around Jerry and Joseph Kane, who follow which controversial belief system?",
+    "options": ["Anarcho-Communism", "Sovereign Citizen", "Scientology", "Libertarian Nationalism"],
+    "correctIndex": 1,
+    "explanation": "Jerry and Joseph Kane follow the Sovereign Citizen system."
+  },
+  {
+    "id": "mv-2386",
+    "title": "Which detective story features 'Mr. Shiny' as a returning serial killer in 2025?",
+    "options": ["The Rule of Jenny Pen", "Mountainhead", "Strange Harvest", "Roofman"],
+    "correctIndex": 2,
+    "explanation": "'Mr. Shiny' is the villain in Strange Harvest (2025)."
+  },
+  {
+    "id": "mv-2387",
+    "title": "In The Legend of Ochi (2025), what are the mysterious forest creatures called?",
+    "options": ["Ochu", "Ochi", "Oshi", "Onii"],
+    "correctIndex": 1,
+    "explanation": "The creatures are called ochi in The Legend of Ochi."
+  },
+  {
+    "id": "mv-2388",
+    "title": "Who plays Ponyboi in the 2025 film of the same name?",
+    "options": ["River Gallo", "Kirsten Dunst", "Dylan O'Brien", "Brendan Fraser"],
+    "correctIndex": 0,
+    "explanation": "River Gallo is Ponyboi in Ponyboi (2025)."
+  },
+  {
+    "id": "mv-2389",
+    "title": "In The Surfer (2025), what activity brings the main character to an Australian beach?",
+    "options": ["Surfing", "Bodybuilding", "Fishing", "Skating"],
+    "correctIndex": 0,
+    "explanation": "The main character returns to surf with his son."
+  },
+  {
+    "id": "mv-2390",
+    "title": "The Life of Chuck (2025) is adapted from a novella by which writer?",
+    "options": ["Stephen King", "John Grisham", "Michael Crichton", "Olivier Assayas"],
+    "correctIndex": 0,
+    "explanation": "Stephen King wrote the novella The Life of Chuck is based on."
+  },
+  {
+    "id": "mv-2391",
+    "title": "Which 2025 film stars Tom Cruise as Ethan Hunt?",
+    "options": ["Mission: Impossible – The Final Reckoning", "Night Call", "Sunlight", "Deep Cover"],
+    "correctIndex": 0,
+    "explanation": "Tom Cruise stars in Mission: Impossible – The Final Reckoning."
+  },
+  {
+    "id": "mv-2392",
+    "title": "Who helps two people on the edge of life discover romance in the film Sunlight (2025)?",
+    "options": ["A mysterious alien", "Their pet dog", "An unlikely connection", "A police detective"],
+    "correctIndex": 2,
+    "explanation": "An unlikely connection helps them in Sunlight."
+  },
+  {
+    "id": "mv-2393",
+    "title": "Deep Cover (2025) follows improv actors undercover in which city's criminal underworld?",
+    "options": ["Los Angeles", "London", "New York", "Tokyo"],
+    "correctIndex": 1,
+    "explanation": "Deep Cover takes place in London's underworld."
+  },
+  {
+    "id": "mv-2394",
+    "title": "Which 2025 movie involves a sadistic game called 'The Rule of Jenny Pen' in a retirement home?",
+    "options": ["Ponyboi", "The Legend of Ochi", "The Rule of Jenny Pen", "Downton Abbey: The Grand Finale"],
+    "correctIndex": 2,
+    "explanation": "The Rule of Jenny Pen is the namesake of the game."
+  },
+  {
+    "id": "mv-2395",
+    "title": "What is the main character’s heritage in Last Swim (2025)?",
+    "options": ["Nigerian-American", "Chinese-British", "Iranian-British", "French-Indian"],
+    "correctIndex": 2,
+    "explanation": "Last Swim focuses on an Iranian-British teen."
+  },
+  {
+    "id": "mv-2396",
+    "title": "Roofman (2025) tells the true story of a criminal who robs what type of establishment?",
+    "options": ["Toys 'R' Us", "McDonald's", "Bank of America", "Subway"],
+    "correctIndex": 1,
+    "explanation": "Roofman robbed McDonald's restaurants."
+  },
+  {
+    "id": "mv-2397",
+    "title": "In All of You (2025), what causes tension between best friends Simon and Laura?",
+    "options": ["An unspoken love", "A fight about money", "A family tragedy", "Moving to different countries"],
+    "correctIndex": 0,
+    "explanation": "Their unspoken love is at the heart of the tension."
+  },
+  {
+    "id": "mv-2398",
+    "title": "In the film Elio (2025), what is the name of the interplanetary organization Elio encounters?",
+    "options": ["The Legion", "The Alliance", "Communiverse", "Planetary Council"],
+    "correctIndex": 2,
+    "explanation": "Elio is beamed up to the Communiverse."
+  },
+  {
+    "id": "mv-2399",
+    "title": "Which 2025 film depicts a family coming to terms with social change in the 1930s?",
+    "options": ["The Legend of Ochi", "Downton Abbey: The Grand Finale", "Suspended Time", "Strange Harvest"],
+    "correctIndex": 1,
+    "explanation": "Downton Abbey: The Grand Finale covers the 1930s era."
+  },
+  {
+    "id": "mv-2400",
+    "title": "Who is the main villain and sadistic game player in The Rule of Jenny Pen (2025)?",
+    "options": ["Dave Crealy", "Stefan Mortensen", "Yannick", "Jeffrey Manchester"],
+    "correctIndex": 0,
+    "explanation": "John Lithgow plays Dave Crealy, the villain."
+  },
+  {
+    "id": "mv-2401",
+    "title": "Who is Ponyboi’s abusive pimp in Ponyboi (2025)?",
+    "options": ["Ron", "Bruce", "Dylan O'Brien", "Yannick"],
+    "correctIndex": 2,
+    "explanation": "Dylan O'Brien plays the abusive pimp."
+  },
+  {
+    "id": "mv-2402",
+    "title": "Which actor portrays the Chief that Dog Man wants to impress in Dog Man (2025)?",
+    "options": ["Pete Davidson", "Nick Offerman", "Lil Rel Howery", "Murray Bartlett"],
+    "correctIndex": 2,
+    "explanation": "Lil Rel Howery voices the Chief in Dog Man (2025)."
+  },
+  {
+    "id": "mv-2403",
+    "title": "Whose perspective is the comedy Suspended Time (2025) mainly told from?",
+    "options": ["Carole", "Paul Berger", "Morgane", "Etienne"],
+    "correctIndex": 1,
+    "explanation": "Paul Berger is the main character."
+  },
+  {
+    "id": "mv-2404",
+    "title": "Which movie revolves around reuniting a baby ochi with its family?",
+    "options": ["Sunlight", "The Legend of Ochi", "Mountainhead", "Elio"],
+    "correctIndex": 1,
+    "explanation": "The Legend of Ochi follows this plot."
+  },
+  {
+    "id": "mv-2405",
+    "title": "Who is NOT a main character in The Ick (2025)?",
+    "options": ["Grace", "Staci", "Yuri", "Hank"],
+    "correctIndex": 2,
+    "explanation": "Yuri is from The Legend of Ochi, not The Ick."
+  },
+  {
+    "id": "mv-2406",
+    "title": "Which film involves a father-son relationship dealing with anti-government ideologies?",
+    "options": ["Sovereign", "Rental Family", "The Rule of Jenny Pen", "Sunlight"],
+    "correctIndex": 0,
+    "explanation": "Sovereign is about a father and son following Sovereign Citizen ideals."
+  },
+  {
+    "id": "mv-2407",
+    "title": "Who is the principal antagonist that the detectives are after in Strange Harvest (2025)?",
+    "options": ["Dave Crealy", "Mr. Shiny", "Bruce", "Yannick"],
+    "correctIndex": 1,
+    "explanation": "Mr. Shiny is the antagonist."
+  },
+  {
+    "id": "mv-2408",
+    "title": "What unique combination forms the protagonist in Dog Man (2025)?",
+    "options": ["Dog and Cat", "Dog and Man", "Dog and Robot", "Dog and Alien"],
+    "correctIndex": 1,
+    "explanation": "Dog Man is fused from a dog and his human police officer."
+  },
+  {
+    "id": "mv-2409",
+    "title": "In which film does a spate of crime force a reconciliation with power and freedom based on true events?",
+    "options": ["Mountainhead", "Sovereign", "The Surfer", "The Ick"],
+    "correctIndex": 1,
+    "explanation": "Sovereign is inspired by true events relating to authority."
+  },
+  {
+    "id": "mv-2410",
+    "title": "Which 2025 film is about a retired judge tormented by a cruel nursing home resident?",
+    "options": ["Sunlight", "Strange Harvest", "The Rule of Jenny Pen", "Last Swim"],
+    "correctIndex": 2,
+    "explanation": "The Rule of Jenny Pen centers on a judge in a retirement home."
+  },
+  {
+    "id": "mv-2411",
+    "title": "Which 2025 movie is about three improv actors working with police?",
+    "options": ["Deep Cover", "Rental Family", "Elio", "All of You"],
+    "correctIndex": 0,
+    "explanation": "Three improv actors go undercover in Deep Cover."
+  },
+  {
+    "id": "mv-2412",
+    "title": "Who hides inside a toy store in Roofman (2025)?",
+    "options": ["Bruce", "Simon", "Jeffrey Manchester", "Carole"],
+    "correctIndex": 2,
+    "explanation": "Jeffrey Manchester hid in Toys 'R' Us."
+  },
+  {
+    "id": "mv-2413",
+    "title": "Downton Abbey: The Grand Finale (2025) introduces the Crawley family to which decade?",
+    "options": ["1940s", "1920s", "1930s", "1950s"],
+    "correctIndex": 2,
+    "explanation": "The 1930s are the new era for Downton Abbey."
+  },
+  {
+    "id": "mv-2414",
+    "title": "In which movie do four billionaire friends reunite during global economic turmoil?",
+    "options": ["Mountainhead", "Deep Cover", "Jay Kelly", "Night Call"],
+    "correctIndex": 0,
+    "explanation": "Mountainhead features the reunion."
+  },
+  {
+    "id": "mv-2415",
+    "title": "Whose life is thrown into chaos by a drug deal in Ponyboi (2025)?",
+    "options": ["Simon", "Ponyboi", "Bruce", "Grace"],
+    "correctIndex": 1,
+    "explanation": "Ponyboi's life unravels after a drug deal."
+  },
+  {
+    "id": "mv-2416",
+    "title": "Who is the student who helps Hank uncover the truth in The Ick (2025)?",
+    "options": ["Carole", "Grace", "Laura", "Staci"],
+    "correctIndex": 1,
+    "explanation": "Grace joins Hank on the investigation."
+  },
+  {
+    "id": "mv-2417",
+    "title": "Which character is unexpectedly identified as Earth's leader in Elio (2025)?",
+    "options": ["Simone", "Elio", "Charles", "Yuri"],
+    "correctIndex": 1,
+    "explanation": "Elio is mistaken for Earth's leader."
+  },
+  {
+    "id": "mv-2418",
+    "title": "The film Last Swim (2025) is set around what major event in a teenager's life?",
+    "options": ["College graduation", "A-level results day", "Prom night", "Moving to a new city"],
+    "correctIndex": 1,
+    "explanation": "The story revolves around A-level results day."
+  },
+  {
+    "id": "mv-2419",
+    "title": "What is at stake for the Crawley family in Downton Abbey: The Grand Finale (2025)?",
+    "options": ["Family inheritance", "A royal wedding", "Threat of social disgrace", "Fire at the estate"],
+    "correctIndex": 2,
+    "explanation": "The threat of social disgrace looms."
+  },
+  {
+    "id": "mv-2420",
+    "title": "In The SpongeBob Movie: Search for Squarepants (2025), who does SpongeBob follow to prove his bravery to Mr. Krabs?",
+    "options": [
+      "The Flying Dutchman",
+      "Plankton",
+      "Patrick Star",
+      "Bubble Bass"
+    ],
+    "correctIndex": 0,
+    "explanation": "SpongeBob follows the ghost pirate, The Flying Dutchman, in this adventure."
+  },
+  {
+    "id": "mv-2421",
+    "title": "Steve (2025) is a film about a last-chance reform school headteacher coping with what personal struggle?",
+    "options": [
+      "Alcohol addiction",
+      "Mental health issues",
+      "Romantic breakup",
+      "Financial bankruptcy"
+    ],
+    "correctIndex": 1,
+    "explanation": "The film centers on Steve battling his own mental health issues."
+  },
+  {
+    "id": "mv-2422",
+    "title": "In Paddington in Peru (2025), where does Paddington go to look for Aunt Lucy?",
+    "options": [
+      "Canada",
+      "The wilds of Peru",
+      "London",
+      "France"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paddington travels to the wilds of Peru with the Brown family."
+  },
+  {
+    "id": "mv-2423",
+    "title": "Which character leaves Manhattan dentist Peter Pearce after 35 years of marriage in Ex-Husbands (2025)?",
+    "options": [
+      "Rosanna Arquette’s character",
+      "His son",
+      "His boss",
+      "His mother"
+    ],
+    "correctIndex": 0,
+    "explanation": "His wife (Rosanna Arquette’s character) leaves him."
+  },
+  {
+    "id": "mv-2424",
+    "title": "Shoshana (2025) is set in which historical location?",
+    "options": [
+      "London",
+      "Berlin",
+      "Tel Aviv",
+      "Cairo"
+    ],
+    "correctIndex": 2,
+    "explanation": "The romance unfolds in 1930s Tel Aviv."
+  },
+  {
+    "id": "mv-2425",
+    "title": "Who plays Millie in The Housemaid (2025)?",
+    "options": [
+      "Amanda Seyfried",
+      "Zoë Kravitz",
+      "Sydney Sweeney",
+      "Maika Monroe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sydney Sweeney stars as Millie."
+  },
+  {
+    "id": "mv-2426",
+    "title": "In Plainclothes (2025), what incriminating object does Lucas lose at a New Year’s Eve party?",
+    "options": [
+      "Wallet",
+      "Badge",
+      "Letter",
+      "Gun"
+    ],
+    "correctIndex": 2,
+    "explanation": "He loses a letter no one was meant to read."
+  },
+  {
+    "id": "mv-2427",
+    "title": "What is Remo Manfredi's profession in Kill the Jockey (2025)?",
+    "options": [
+      "Chef",
+      "Jockey",
+      "Detective",
+      "Banker"
+    ],
+    "correctIndex": 1,
+    "explanation": "Remo is a once-renowned jockey."
+  },
+  {
+    "id": "mv-2428",
+    "title": "What drives the protagonist in Rounding (2025) to transfer to a rural hospital?",
+    "options": [
+      "A traumatic incident",
+      "Better salary",
+      "Family nearby",
+      "Unresolved romance"
+    ],
+    "correctIndex": 0,
+    "explanation": "He wishes for a fresh start after a traumatic incident."
+  },
+  {
+    "id": "mv-2429",
+    "title": "In Caught Stealing (2025), what favor does Hank’s neighbor ask of him?",
+    "options": [
+      "Take care of his cat",
+      "Babysit his child",
+      "Drive his car",
+      "Water his plants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Russ asks Hank to care for his cat."
+  },
+  {
+    "id": "mv-2430",
+    "title": "Kiss of the Spider Woman (2025) is based on what type of source material?",
+    "options": [
+      "Broadway musical",
+      "Comic book",
+      "Novel by Stephen King",
+      "Video game"
+    ],
+    "correctIndex": 0,
+    "explanation": "It’s based on a Tony Award-winning Broadway musical."
+  },
+  {
+    "id": "mv-2431",
+    "title": "What is the main threat Zephyr faces in Dangerous Animals (2025)?",
+    "options": [
+      "Being lost at sea",
+      "A serial killer obsessed with sharks",
+      "Extreme weather",
+      "Ghost pirates"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zephyr is captive of a shark-obsessed serial killer."
+  },
+  {
+    "id": "mv-2432",
+    "title": "In 100 Nights of Hero (2025), who is Cherry's sharp-witted companion?",
+    "options": [
+      "Manfred",
+      "Lucy",
+      "Hero",
+      "Nina"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hero is Cherry’s maid and companion."
+  },
+  {
+    "id": "mv-2433",
+    "title": "In Drop (2025), why does the protagonist's evening become a nightmare?",
+    "options": [
+      "She loses her wallet",
+      "Her ex-boyfriend arrives",
+      "She receives threatening messages from a hooded figure",
+      "The restaurant serves spoiled food"
+    ],
+    "correctIndex": 2,
+    "explanation": "Violet gets threatening messages from a hooded figure."
+  },
+  {
+    "id": "mv-2434",
+    "title": "Killian Maddox is the protagonist of which 2025 film about bodybuilding?",
+    "options": [
+      "Ex-Husbands",
+      "Last Breath",
+      "Magazine Dreams",
+      "Dangerous Animals"
+    ],
+    "correctIndex": 2,
+    "explanation": "Magazine Dreams follows bodybuilder Killian Maddox."
+  },
+  {
+    "id": "mv-2435",
+    "title": "Which profession is NOT related to any main character in Queens of Drama (2025)?",
+    "options": [
+      "Opera singer",
+      "Pop diva",
+      "Punk icon",
+      "Stage performer"
+    ],
+    "correctIndex": 0,
+    "explanation": "No opera singers are mentioned; Mimi is a pop diva."
+  },
+  {
+    "id": "mv-2436",
+    "title": "In The Prosecutor (2025), who is convinced of a framed man's innocence?",
+    "options": [
+      "A journalist",
+      "A rookie cop",
+      "A prosecutor",
+      "A defense attorney"
+    ],
+    "correctIndex": 2,
+    "explanation": "A veteran prosecutor risks everything for justice."
+  },
+  {
+    "id": "mv-2437",
+    "title": "Which two actors star as rivals in Eddington (2025)?",
+    "options": [
+      "Tom Hardy and Cillian Murphy",
+      "Joaquin Phoenix and Pedro Pascal",
+      "Austin Butler and Matt Smith",
+      "Donnie Yen and Jay Lycurgo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Joaquin Phoenix and Pedro Pascal play sheriff and mayor."
+  },
+  {
+    "id": "mv-2438",
+    "title": "Who is the real-life subject of The Smashing Machine (2025)?",
+    "options": [
+      "Floyd Mayweather",
+      "Mike Tyson",
+      "Mark Kerr",
+      "Anderson Silva"
+    ],
+    "correctIndex": 2,
+    "explanation": "It tells the story of MMA fighter Mark Kerr."
+  },
+  {
+    "id": "mv-2439",
+    "title": "Which competition does Liane aspire to join in Wild Diamond (2025)?",
+    "options": [
+      "The Voice",
+      "Miracle Island",
+      "Big Brother",
+      "American Idol"
+    ],
+    "correctIndex": 1,
+    "explanation": "She auditions for a reality show called Miracle Island."
+  },
+  {
+    "id": "mv-2440",
+    "title": "The Fantastic Four: First Steps (2025) features a battle against what cosmic villain?",
+    "options": [
+      "Doctor Doom",
+      "Galactus",
+      "Thanos",
+      "Kang the Conqueror"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Fantastic Four face Galactus."
+  },
+  {
+    "id": "mv-2441",
+    "title": "Which genre best describes Last Breath (2025)?",
+    "options": [
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Animated musical"
+    ],
+    "correctIndex": 2,
+    "explanation": "Last Breath is a thriller based on a rescue mission."
+  },
+  {
+    "id": "mv-2442",
+    "title": "A Desert (2025) sees the protagonist drawn into what kind of spiral?",
+    "options": [
+      "A romantic story",
+      "A coming-of-age journey",
+      "A neo-noir horror spiral",
+      "A family comedy mishap"
+    ],
+    "correctIndex": 2,
+    "explanation": "He is plunged into a neo-noir spiral of horror."
+  },
+  {
+    "id": "mv-2443",
+    "title": "In The Housemaid (2025), who hires Millie as a live-in housemaid?",
+    "options": [
+      "Manfred",
+      "Nina and Andrew Winchester",
+      "Henry",
+      "Mimi Madamour"
+    ],
+    "correctIndex": 1,
+    "explanation": "She is hired by Nina and Andrew Winchester."
+  },
+  {
+    "id": "mv-2444",
+    "title": "Who stars as the political prisoner Valentín in Kiss of the Spider Woman (2025)?",
+    "options": [
+      "Ralph Ineson",
+      "Jay Lycurgo",
+      "Diego Luna",
+      "Pedro Pascal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diego Luna plays Valentín."
+  },
+  {
+    "id": "mv-2445",
+    "title": "What animal-related obsession does the villain in Dangerous Animals (2025) have?",
+    "options": [
+      "Snakes",
+      "Tigers",
+      "Sharks",
+      "Spiders"
+    ],
+    "correctIndex": 2,
+    "explanation": "The killer is obsessed with sharks."
+  },
+  {
+    "id": "mv-2446",
+    "title": "Who is the main female pop diva in Queens of Drama (2025)?",
+    "options": [
+      "Nina",
+      "Mimi Madamour",
+      "Cherry",
+      "Liane"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mimi Madamour is the diva in this story."
+  },
+  {
+    "id": "mv-2447",
+    "title": "In Steve (2025), who plays the troubled teen Shy?",
+    "options": [
+      "Joseph Quinn",
+      "Jay Lycurgo",
+      "Brandon Sklenar",
+      "Pedro Pascal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jay Lycurgo plays the troubled student Shy."
+  },
+  {
+    "id": "mv-2448",
+    "title": "Which 2025 film involves a Manhattan dentist crashing his son's bachelor party in Tulum?",
+    "options": [
+      "Rounding",
+      "Paddington in Peru",
+      "Ex-Husbands",
+      "Wild Diamond"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter Pearce goes to Tulum in Ex-Husbands."
+  },
+  {
+    "id": "mv-2449",
+    "title": "Who is the main protagonist in The Prosecutor (2025)?",
+    "options": [
+      "A determined prosecutor",
+      "A pop diva",
+      "A young medical resident",
+      "A retired bear"
+    ],
+    "correctIndex": 0,
+    "explanation": "The main character is a prosecutor seeking justice."
+  },
+  {
+    "id": "mv-2450",
+    "title": "What is the main clue to Aunt Lucy's whereabouts in Paddington in Peru (2025)?",
+    "options": [
+      "A phone call",
+      "A spot on a map",
+      "A letter",
+      "A ticket stub"
+    ],
+    "correctIndex": 1,
+    "explanation": "A spot marked on an enigmatic map is the main clue."
+  },
+  {
+    "id": "mv-2451",
+    "title": "Which animal does Remo hope to ride to a new life in Kill the Jockey (2025)?",
+    "options": [
+      "Kangaroo",
+      "Dog",
+      "Mishima, a thoroughbred horse",
+      "Donkey"
+    ],
+    "correctIndex": 2,
+    "explanation": "Remo's hope is placed in Mishima, a racehorse."
+  },
+  {
+    "id": "mv-2452",
+    "title": "Who is the main antagonist in The Fantastic Four: First Steps (2025)?",
+    "options": [
+      "Mysterio",
+      "Green Goblin",
+      "Galactus",
+      "Magneto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Galactus is the cosmic antagonist."
+  },
+  {
+    "id": "mv-2453",
+    "title": "Who is threatened via phone messages in Drop (2025)?",
+    "options": [
+      "Violet’s parents",
+      "Her boss",
+      "Her son and sister",
+      "Her new boyfriend"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hooded figure threatens her son and sister."
+  },
+  {
+    "id": "mv-2454",
+    "title": "What role does Donnie Yen play in The Prosecutor (2025)?",
+    "options": [
+      "Defense attorney",
+      "Veteran prosecutor",
+      "Jockey",
+      "Mayor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Donnie Yen plays a veteran prosecutor."
+  },
+  {
+    "id": "mv-2455",
+    "title": "Which real event inspires Last Breath (2025)?",
+    "options": [
+      "An Arctic expedition",
+      "A real-life deep-sea rescue",
+      "A superhero origin",
+      "A surfing competition"
+    ],
+    "correctIndex": 1,
+    "explanation": "It's based on the true story of a diving rescue."
+  },
+  {
+    "id": "mv-2456",
+    "title": "In 100 Nights of Hero (2025), who tries to seduce Cherry?",
+    "options": [
+      "Andrew",
+      "Mr. Krabs",
+      "Manfred",
+      "Valentín"
+    ],
+    "correctIndex": 2,
+    "explanation": "Manfred tries to seduce Cherry."
+  },
+  {
+    "id": "mv-2457",
+    "title": "Which year is Queens of Drama (2025) set to begin in?",
+    "options": [
+      "2010",
+      "1987",
+      "2005",
+      "2025"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mimi Madamour’s career peaks in 2005."
+  },
+  {
+    "id": "mv-2458",
+    "title": "Who is the superhero family at the center of The Fantastic Four: First Steps (2025)?",
+    "options": [
+      "The Incredibles",
+      "X-Men",
+      "The Avengers",
+      "The Fantastic Four"
+    ],
+    "correctIndex": 3,
+    "explanation": "It introduces Marvel’s First Family, The Fantastic Four."
+  },
+  {
+    "id": "mv-2459",
+    "title": "Which film features a main character consumed by a bodybuilding obsession?",
+    "options": [
+      "Dangerous Animals",
+      "Magazine Dreams",
+      "Steve",
+      "A Desert"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magazine Dreams centers on Killian Maddox, an aspiring bodybuilding star."
   }
 ]
