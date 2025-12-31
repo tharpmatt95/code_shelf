@@ -14984,2782 +14984,1122 @@
   },
   {
     "id": "mv-2100",
-    "title": "Which animated series follows Korra as she protects Republic City?",
-    "options": ["The Legend of Korra", "Avatar: The Last Airbender", "Voltron: Legendary Defender", "Castlevania"],
+    "title": "In which movie do twin brothers return to their hometown, only to discover a greater evil waiting for them?",
+    "options": ["Sinners", "The Perfect Neighbor", "The Librarians", "Hamnet"],
     "correctIndex": 0,
-    "explanation": "'The Legend of Korra' is the correct answer."
+    "explanation": "Sinners is about twin brothers confronting new evil after returning home."
   },
   {
     "id": "mv-2101",
-    "title": "Who is the young alien with powers in the show set in Smallville?",
-    "options": ["Kara Danvers", "Diana Prince", "Clark Kent", "Lex Luthor"],
-    "correctIndex": 2,
-    "explanation": "Clark Kent is Superman as a teen in Smallville."
+    "title": "What is the main setting for much of 'To a Land Unknown'?",
+    "options": ["Berlin", "Athens", "Paris", "Winnipeg"],
+    "correctIndex": 1,
+    "explanation": "The main characters hustle in Athens."
   },
   {
     "id": "mv-2102",
-    "title": "Which comedic show features a bumbling, mostly silent man getting into misadventures in England?",
-    "options": ["Beanland", "Mr. Bean", "Absolutely Fabulous", "The IT Crowd"],
-    "correctIndex": 1,
-    "explanation": "Rowan Atkinson plays Mr. Bean."
+    "title": "Which film tells the story of a six-year-old girl trapped in a car in Gaza, as volunteers try to rescue her?",
+    "options": ["The Librarians", "Misericordia", "The Voice of Hind Rajab", "Meeting with Pol Pot"],
+    "correctIndex": 2,
+    "explanation": "The Voice of Hind Rajab follows a rescue attempt for a trapped girl in Gaza."
   },
   {
     "id": "mv-2103",
-    "title": "Who's the captain leading the Enterprise-D in 'Star Trek: The Next Generation'?",
-    "options": ["James T. Kirk", "Jean-Luc Picard", "Benjamin Sisko", "Michael Burnham"],
-    "correctIndex": 1,
-    "explanation": "Patrick Stewart plays Jean-Luc Picard."
+    "title": "Which movie centers on a recreational baseball game stretching into extra innings on the field's last day?",
+    "options": ["Put Your Soul on Your Hand and Walk", "The Tale of Silyan", "Souleymane's Story", "Eephus"],
+    "correctIndex": 3,
+    "explanation": "Eephus is about a nostalgic baseball game on its final day."
   },
   {
     "id": "mv-2104",
-    "title": "Which series goes behind the scenes of American breakfast TV?",
-    "options": ["The Morning Show", "Good Morning America", "The Newsroom", "UnREAL"],
+    "title": "Which film weaves together stories from Tehran and Winnipeg, involving children finding money in ice?",
+    "options": ["Universal Language", "Jazzy", "The Kingdom", "Love"],
     "correctIndex": 0,
-    "explanation": "'The Morning Show' provides an insider look."
+    "explanation": "Universal Language involves characters in a surreal interzone between Tehran and Winnipeg."
   },
   {
     "id": "mv-2105",
-    "title": "Which Marvel series chronicles the adventures of Danny Rand and his mystical power?",
-    "options": ["Luke Cage", "Jessica Jones", "Daredevil", "Iron Fist"],
-    "correctIndex": 3,
-    "explanation": "Danny Rand is the hero in 'Iron Fist.'"
+    "title": "What kind of animal is rescued in 'The Tale of Silyan'?",
+    "options": ["Horse", "Dog", "White stork", "Goat"],
+    "correctIndex": 2,
+    "explanation": "The Tale of Silyan is about a farmer rescuing a wounded white stork."
   },
   {
     "id": "mv-2106",
-    "title": "Who becomes a super-powered fugitive in Harlem after a sabotaged experiment?",
-    "options": ["Matt Murdock", "Frank Castle", "Luke Cage", "Jessica Jones"],
-    "correctIndex": 2,
-    "explanation": "Luke Cage gains super strength and unbreakable skin."
+    "title": "Which documentary features video calls between Sepideh Farsi and a Palestinian photojournalist during conflict?",
+    "options": ["Love", "Put Your Soul on Your Hand and Walk", "The Librarians", "Viet and Nam"],
+    "correctIndex": 1,
+    "explanation": "Put Your Soul on Your Hand and Walk captures Gaza through video calls."
   },
   {
     "id": "mv-2107",
-    "title": "What is the title of the series set 10 years before Kirk and Spock, aboard the USS Discovery?",
-    "options": ["Star Trek: Prodigy", "Star Trek: Picard", "Star Trek: Discovery", "Star Trek: Enterprise"],
+    "title": "Which Texas-based documentary explores censorship and the banning of hundreds of books?",
+    "options": ["Meeting with Pol Pot", "Souleymane's Story", "The Librarians", "Misericordia"],
     "correctIndex": 2,
-    "explanation": "'Star Trek: Discovery' is the answer."
+    "explanation": "The Librarians documents book bans across the U.S."
   },
   {
     "id": "mv-2108",
-    "title": "Which animated sitcom features CIA agent Stan Smith and his family?",
-    "options": ["American Dad!", "Family Guy", "The Simpsons", "South Park"],
-    "correctIndex": 0,
-    "explanation": "Stan Smith is the lead of 'American Dad!'"
+    "title": "Which film uses police bodycam footage to tell the story of neighborhood harassment escalating into violence?",
+    "options": ["Viet and Nam", "Wallace & Gromit: Vengeance Most Fowl", "Peter Hujar's Day", "The Perfect Neighbor"],
+    "correctIndex": 3,
+    "explanation": "The Perfect Neighbor follows harassment turning into violence, captured by police footage."
   },
   {
     "id": "mv-2109",
-    "title": "Which show is a college-set spin-off from 'The Boys' about superhero students?",
-    "options": ["Umbrella Academy", "Gen V", "The Winx Saga", "Raising Dion"],
-    "correctIndex": 1,
-    "explanation": "'Gen V' explores college-age superheroes."
+    "title": "Who is searching for his father's remains in 'Viet and Nam'?",
+    "options": ["Nam", "Totone", "Lesia", "Pierre-Paul"],
+    "correctIndex": 0,
+    "explanation": "Nam is the young miner searching for his father's remains."
   },
   {
     "id": "mv-2110",
-    "title": "What is the name of the ex-con who assumes a sheriff's identity in small-town Pennsylvania?",
-    "options": ["Raylan Givens", "Lucas Hood", "Rick Grimes", "Dexter Morgan"],
+    "title": "Which film follows Jasmine Bearkiller Shangreaux as her childhood friendships change?",
+    "options": ["Hamnet", "Jazzy", "Holy Cow", "To a Land Unknown"],
     "correctIndex": 1,
-    "explanation": "Lucas Hood is the protagonist of 'Banshee.'"
+    "explanation": "Jazzy is a coming-of-age story about Jasmine Bearkiller Shangreaux."
   },
   {
     "id": "mv-2111",
-    "title": "Who leads the team investigating sex-related crimes on 'Law & Order: SVU'?",
-    "options": ["Olivia Benson", "Elliot Stabler", "Sonny Carisi", "Erin Reagan"],
-    "correctIndex": 0,
-    "explanation": "Benson is portrayed by Mariska Hargitay."
+    "title": "In 'Love', what is Tor's profession?",
+    "options": ["Musician", "Nurse", "Artist", "Lawyer"],
+    "correctIndex": 1,
+    "explanation": "Tor is a compassionate nurse."
   },
   {
     "id": "mv-2112",
-    "title": "Which show follows the childhood of Sheldon Cooper?",
-    "options": ["The Big Bang Theory", "Young Sheldon", "Speechless", "Young Rock"],
-    "correctIndex": 1,
-    "explanation": "'Young Sheldon' is about Sheldon's youth."
+    "title": "Which movie is inspired by the story that led to Shakespeare creating Hamlet?",
+    "options": ["Hamnet", "The Kingdom", "Hey Viktor!", "Sinners"],
+    "correctIndex": 0,
+    "explanation": "Hamnet explores the story inspiring Shakespeare’s Hamlet."
   },
   {
     "id": "mv-2113",
-    "title": "Which k-drama is about an heir and his employee clashing in the hotel industry?",
-    "options": ["Itaewon Class", "King the Land", "My Love from the Star", "Vincenzo"],
-    "correctIndex": 1,
-    "explanation": "'King the Land' is a romantic k-drama."
+    "title": "Which film is set when French journalists visit Democratic Kampuchea at the invitation of the Khmer Rouge?",
+    "options": ["Misericordia", "Put Your Soul on Your Hand and Walk", "Meeting with Pol Pot", "Hamnet"],
+    "correctIndex": 2,
+    "explanation": "Meeting with Pol Pot follows French journalists in 1978 Cambodia."
   },
   {
     "id": "mv-2114",
-    "title": "Which Japanese thriller thrusts players into deadly games in a deserted Tokyo?",
-    "options": ["Death Note", "Alice in Borderland", "Erased", "Parasyte"],
-    "correctIndex": 1,
-    "explanation": "'Alice in Borderland' is set in Tokyo."
+    "title": "Who is Wallace's sidekick in 'Wallace & Gromit: Vengeance Most Fowl'?",
+    "options": ["Shaun", "Feathers McGraw", "Gromit", "Totone"],
+    "correctIndex": 2,
+    "explanation": "Gromit is Wallace's loyal canine sidekick."
   },
   {
     "id": "mv-2115",
-    "title": "Which Star Wars series features a Jedi Master investigating crimes with his former Padawan?",
-    "options": ["The Mandalorian", "The Book of Boba Fett", "The Acolyte", "Obi-Wan Kenobi"],
-    "correctIndex": 2,
-    "explanation": "'The Acolyte' is about Jedi investigations."
+    "title": "Which invention is featured in 'Wallace & Gromit: Vengeance Most Fowl'?",
+    "options": ["Gardening machine", "Rocket ship", "Cheese detector", "Cheese vacuum"],
+    "correctIndex": 0,
+    "explanation": "A gardening invention is central in this Wallace & Gromit story."
   },
   {
     "id": "mv-2116",
-    "title": "Which animated Star Wars show covers the wars between Jedi and Separatists?",
-    "options": ["Star Wars: Rebels", "Star Wars: Visions", "Star Wars: The Clone Wars", "The Bad Batch"],
+    "title": "Which movie begins with Jérémie attending his former boss's funeral?",
+    "options": ["Souleymane's Story", "The Tale of Silyan", "Misericordia", "Viet and Nam"],
     "correctIndex": 2,
-    "explanation": "'The Clone Wars' is the answer."
+    "explanation": "Misericordia starts with Jérémie at the funeral."
   },
   {
     "id": "mv-2117",
-    "title": "Who forms the investigative duo in 'Broadchurch' solving crimes in a coastal town?",
-    "options": ["Alec Hardy and Ellie Miller", "Rust Cohle and Marty Hart", "Sarah Linden and Stephen Holder", "Shawn Spencer and Burton Guster"],
-    "correctIndex": 0,
-    "explanation": "Alec Hardy and Ellie Miller are the detectives in 'Broadchurch.'"
+    "title": "Which island is the main setting for 'The Kingdom'?",
+    "options": ["Sicily", "Ibiza", "Corsica", "Crete"],
+    "correctIndex": 2,
+    "explanation": "The Kingdom takes place on the island of Corsica."
   },
   {
     "id": "mv-2118",
-    "title": "Which series revolves around a detective discovering his heritage as a Grimm?",
-    "options": ["Supernatural", "Grimm", "Lucifer", "Constantine"],
-    "correctIndex": 1,
-    "explanation": "'Grimm' is about a detective fighting folklore creatures."
+    "title": "What type of business is central in 'Blue Sun Palace'?",
+    "options": ["Restaurant", "Florist", "Massage parlor", "Bookstore"],
+    "correctIndex": 2,
+    "explanation": "Blue Sun Palace takes place in a massage parlor."
   },
   {
     "id": "mv-2119",
-    "title": "Which show stars Matt Bomer as a conman working with the FBI?",
-    "options": ["White Collar", "Suits", "Burn Notice", "The Mentalist"],
-    "correctIndex": 0,
-    "explanation": "Matt Bomer is Neal Caffrey in 'White Collar.'"
+    "title": "In 'Holy Cow', what does Totone enter a competition for?",
+    "options": ["Best farm", "Most innovative dairy", "Best cheese", "Strongest bull"],
+    "correctIndex": 2,
+    "explanation": "Totone competes for best Comte cheese in Holy Cow."
   },
   {
     "id": "mv-2120",
-    "title": "Whose alter ego is the superhero that protects Harlem's community?",
-    "options": ["Peter Parker", "Matt Murdock", "Luke Cage", "Sam Wilson"],
-    "correctIndex": 2,
-    "explanation": "Luke Cage is Harlem's hero."
+    "title": "Who delivers meals and faces an asylum application interview in Paris?",
+    "options": ["Cheung", "Souleymane", "Nam", "Matthew"],
+    "correctIndex": 1,
+    "explanation": "Souleymane cycles around Paris as a meal courier."
   },
   {
     "id": "mv-2121",
-    "title": "In which show does a close group of women navigate secrets and crimes on Wisteria Lane?",
-    "options": ["Desperate Housewives", "Pretty Little Liars", "Big Little Lies", "Good Girls"],
+    "title": "Which film features a long-lost 1974 recorded conversation illuminating New York's downtown art scene?",
+    "options": ["Peter Hujar's Day", "Hamnet", "Eephus", "Universal Language"],
     "correctIndex": 0,
-    "explanation": "'Desperate Housewives' is set on Wisteria Lane."
+    "explanation": "Peter Hujar's Day brings a vintage conversation of New York’s art scene to light."
   },
   {
     "id": "mv-2122",
-    "title": "Who must balance family life and a CIA career in an animated comedy?",
-    "options": ["Peter Griffin", "Stan Smith", "Roger Smith", "Bob Belcher"],
-    "correctIndex": 1,
-    "explanation": "Stan Smith in 'American Dad!'"
+    "title": "In 'To a Land Unknown', what is Reda and Chatila's dream destination?",
+    "options": ["France", "America", "Germany", "Canada"],
+    "correctIndex": 2,
+    "explanation": "They aim to make it to Germany."
   },
   {
     "id": "mv-2123",
-    "title": "Who is the lead character forced to work the graveyard White House phone shift in 'The Night Agent'?",
-    "options": ["Saul Goodman", "Peter Sutherland", "Stan Beeman", "Evan Hawkins"],
-    "correctIndex": 1,
-    "explanation": "Peter Sutherland is the main character."
+    "title": "Which movie depicts the memories of youth miners facing danger underground?",
+    "options": ["Blue Sun Palace", "Put Your Soul on Your Hand and Walk", "Viet and Nam", "Jazzy"],
+    "correctIndex": 2,
+    "explanation": "Viet and Nam follows young Vietnamese miners."
   },
   {
     "id": "mv-2124",
-    "title": "Which show features a female Avatar who succeeds Aang?",
-    "options": ["Avatar: The Last Airbender", "Ben 10: Alien Force", "The Legend of Korra", "Power Rangers SPD"],
-    "correctIndex": 2,
-    "explanation": "Korra is Aang's successor."
+    "title": "Who leads a group of tourists in Universal Language?",
+    "options": ["Massoud", "Pierre-Paul", "Nam", "Amy"],
+    "correctIndex": 0,
+    "explanation": "Massoud is the tour leader in Universal Language."
   },
   {
     "id": "mv-2125",
-    "title": "Who leads the Grand Army of the Republic in battles against Separatist droids?",
-    "options": ["Darth Maul", "Darth Vader", "Obi-Wan Kenobi", "Jedi Knights"],
-    "correctIndex": 3,
-    "explanation": "The Jedi Knights command the Grand Army."
+    "title": "In which film does a neighborhood experience dozens of 911 calls before violence erupts?",
+    "options": ["Eephus", "The Kingdom", "The Perfect Neighbor", "Put Your Soul on Your Hand and Walk"],
+    "correctIndex": 2,
+    "explanation": "The Perfect Neighbor chronicles chaos leading up to violence."
   },
   {
     "id": "mv-2126",
-    "title": "Which show depicts a homicide detective learning of his supernatural 'Grimm' inheritance?",
-    "options": ["Gotham", "Lucifer", "Castle", "Grimm"],
-    "correctIndex": 3,
-    "explanation": "'Grimm' is about this detective."
+    "title": "Which 2025 film is about rescuing a wounded bird from a landfill?",
+    "options": ["The Tale of Silyan", "Souleymane's Story", "Viet and Nam", "Universal Language"],
+    "correctIndex": 0,
+    "explanation": "The Tale of Silyan centers on saving a stork."
   },
   {
     "id": "mv-2127",
-    "title": "Who is Midge Maisel's main rival in the stand-up comedy circuit?",
-    "options": ["Sophie Lennon", "Susie Myerson", "Esther Maisel", "Rose Weissman"],
+    "title": "Who becomes closer than ever with her mob boss father after they go on the run?",
+    "options": ["Lesia", "Amy", "Didi", "Fatma"],
     "correctIndex": 0,
-    "explanation": "Sophie Lennon is her rival."
+    "explanation": "Lesia grows close to her father in The Kingdom."
   },
   {
     "id": "mv-2128",
-    "title": "Which actress is NOT in the main cast of 'The Morning Show'?",
-    "options": ["Jennifer Aniston", "Reese Witherspoon", "Minday Kaling", "Steve Carell"],
-    "correctIndex": 2,
-    "explanation": "Mindy Kaling doesn't star in 'The Morning Show.'"
+    "title": "Which movie includes a support system among women working in a Queens massage parlor?",
+    "options": ["Meeting with Pol Pot", "Blue Sun Palace", "Misericordia", "Jazzy"],
+    "correctIndex": 1,
+    "explanation": "Blue Sun Palace features sisterhood among massage parlor workers."
   },
   {
     "id": "mv-2129",
-    "title": "Which show stars Gary Oldman as a leader of a team of outcast MI5 agents?",
-    "options": ["Slow Horses", "The Americans", "Bodyguard", "Luther"],
-    "correctIndex": 0,
-    "explanation": "'Slow Horses' follows a misfit team of MI5 agents led by Gary Oldman."
+    "title": "Which character is a photojournalist and poet in Gaza?",
+    "options": ["Martine", "Fatma Hassona", "Amy", "Cheung"],
+    "correctIndex": 1,
+    "explanation": "Fatma Hassona is the subject in Put Your Soul on Your Hand and Walk."
   },
   {
     "id": "mv-2130",
-    "title": "Which 2014-2016 series unites explorers and scientists to combat supernatural threats in Victorian London?",
-    "options": ["The Alienist", "Penny Dreadful", "The Frankenstein Chronicles", "Ripper Street"],
+    "title": "In which movie do the lives of Negin and Nazgol change after discovering money in ice?",
+    "options": ["Holy Cow", "Universal Language", "Misericordia", "To a Land Unknown"],
     "correctIndex": 1,
-    "explanation": "'Penny Dreadful' brings together Sir Malcolm Murray and others to fight supernatural forces."
+    "explanation": "Their story is part of Universal Language."
   },
   {
     "id": "mv-2131",
-    "title": "Who is the main protagonist in 'Orphan Black'?",
-    "options": ["Alison Hendrix", "Helena", "Sarah Manning", "Rachel Duncan"],
+    "title": "Which film's protagonist is forced to choose her own destiny after tragedy on Lunar New Year?",
+    "options": ["Holy Cow", "Jazzy", "Blue Sun Palace", "Hamnet"],
     "correctIndex": 2,
-    "explanation": "Sarah Manning is the streetwise protagonist drawn into a clone conspiracy."
+    "explanation": "Blue Sun Palace follows Amy after Lunar New Year tragedy."
   },
   {
     "id": "mv-2132",
-    "title": "Which show sees a hit man from the Midwest get involved in LA's theatre scene?",
-    "options": ["Barry", "Ray Donovan", "Justified", "Banshee"],
-    "correctIndex": 0,
-    "explanation": "'Barry' stars Bill Hader as the hit man in LA."
+    "title": "Who is the subject of repeated meal deliveries across Paris, seeking asylum?",
+    "options": ["Cheung", "Reda", "Souleymane", "Tor"],
+    "correctIndex": 2,
+    "explanation": "Souleymane in Souleymane's Story."
   },
   {
     "id": "mv-2133",
-    "title": "What is the profession of the main character in 'The Good Doctor'?",
-    "options": ["Lawyer", "Engineer", "Surgeon", "Detective"],
-    "correctIndex": 2,
-    "explanation": "Shaun Murphy is a surgical resident with autism in 'The Good Doctor'."
+    "title": "Who finds a sum of money frozen in the ice in 'Universal Language'?",
+    "options": ["Negin and Nazgol", "Matthew and Massoud", "Chatila and Reda", "Amy and Didi"],
+    "correctIndex": 0,
+    "explanation": "Negin and Nazgol make the discovery."
   },
   {
     "id": "mv-2134",
-    "title": "In 'Batman: The Animated Series,' who is Bruce Wayne's alter ego?",
-    "options": ["Batman", "Robin", "Nightwing", "The Joker"],
-    "correctIndex": 0,
-    "explanation": "Bruce Wayne is secretly Batman."
+    "title": "What drives the conflict in 'The Librarians'?",
+    "options": ["Neighborhood disputes", "Book bans and censorship", "Organized crime", "Migration policies"],
+    "correctIndex": 1,
+    "explanation": "The film is about censorship and book bans."
   },
   {
     "id": "mv-2135",
-    "title": "Which show is about the daily lives of four vampires living together on Staten Island?",
-    "options": ["Buffy the Vampire Slayer", "The Originals", "What We Do in the Shadows", "True Blood"],
+    "title": "Which film is about a cheese competition in the French Alps?",
+    "options": ["Eephus", "Hamnet", "Holy Cow", "Meeting with Pol Pot"],
     "correctIndex": 2,
-    "explanation": "'What We Do in the Shadows' is a comedy about Staten Island vampires."
+    "explanation": "Holy Cow features a cheese competition."
   },
   {
     "id": "mv-2136",
-    "title": "Which series revolves around a talking sponge who works in a fast food restaurant?",
-    "options": ["Adventure Time", "SpongeBob SquarePants", "The Simpsons", "Family Guy"],
+    "title": "Who hatches a reckless plan in 'To a Land Unknown'?",
+    "options": ["Reda", "Chatila", "Lesia", "Nam"],
     "correctIndex": 1,
-    "explanation": "SpongeBob SquarePants is the iconic sea sponge at the Krusty Krab."
+    "explanation": "Chatila is the risk-taker."
   },
   {
     "id": "mv-2137",
-    "title": "'Emily in Paris' is primarily set in which city?",
-    "options": ["Rome", "London", "Paris", "Madrid"],
-    "correctIndex": 2,
-    "explanation": "Emily moves to Paris for work in the series."
+    "title": "Which 2025 film features a mother-daughter relationship journey in Québec?",
+    "options": ["Universal Language", "Misericordia", "Meeting with Pol Pot", "Peter Hujar's Day"],
+    "correctIndex": 0,
+    "explanation": "Matthew's journey to visit his mother is in Universal Language."
   },
   {
     "id": "mv-2138",
-    "title": "Who is NOT a member of the hosting trio on 'Top Gear' (2002–2022)?",
-    "options": ["Richard Hammond", "James May", "Chris Evans", "Jeremy Clarkson"],
-    "correctIndex": 2,
-    "explanation": "Chris Evans was a later presenter but not one of the main trio."
+    "title": "Which character is a widowed baker's wife in 'Misericordia'?",
+    "options": ["Fatma", "Martine", "Cheung", "Amy"],
+    "correctIndex": 1,
+    "explanation": "Martine is the widow."
   },
   {
     "id": "mv-2139",
-    "title": "Which TV series follows Superman's cousin and her superhero career?",
-    "options": ["Superman & Lois", "Batgirl", "Supergirl", "Wonder Woman"],
+    "title": "What historical event forms the backdrop of 'Meeting with Pol Pot'?",
+    "options": ["Great Depression", "French Revolution", "Khmer Rouge regime", "9/11"],
     "correctIndex": 2,
-    "explanation": "'Supergirl' focuses on Kara, Superman's cousin."
+    "explanation": "Set in Democratic Kampuchea during the Khmer Rouge regime."
   },
   {
     "id": "mv-2140",
-    "title": "What is the main occupation of Cal Lightman in 'Lie to Me'?",
-    "options": ["Linguist", "Deception researcher", "Cognitive neuroscientist", "Forensic accountant"],
-    "correctIndex": 1,
-    "explanation": "Cal Lightman is a deception researcher specializing in body language."
+    "title": "In 'Grand Theft Hamlet' (2025), Sam and Mark stage which Shakespeare play inside a video game during lockdown?",
+    "options": ["Hamlet", "Macbeth", "Romeo and Juliet", "Othello"],
+    "correctIndex": 0,
+    "explanation": "They stage 'Hamlet' within Grand Theft Auto."
   },
   {
     "id": "mv-2141",
-    "title": "'The Newsroom' centers around which kind of workplace?",
-    "options": ["Hospital", "Newsroom", "Police station", "Law firm"],
-    "correctIndex": 1,
-    "explanation": "The series is set behind the scenes in a TV newsroom."
+    "title": "Which controversial figure is the subject of 'Riefenstahl' (2025)?",
+    "options": ["Leni Riefenstahl", "Eva Braun", "Marlene Dietrich", "Hannah Arendt"],
+    "correctIndex": 0,
+    "explanation": "The documentary examines filmmaker Leni Riefenstahl."
   },
   {
     "id": "mv-2142",
-    "title": "Which series set at the end of the 1800s features the corrupt town of Deadwood?",
-    "options": ["Godless", "Hell on Wheels", "Deadwood", "Longmire"],
-    "correctIndex": 2,
-    "explanation": "'Deadwood' is set in a lawless South Dakota town."
+    "title": "Which movement's role in Jair Bolsonaro's rise is explored in 'Apocalypse in the Tropics' (2025)?",
+    "options": ["Evangelical movement", "Socialist movement", "Labor movement", "Environmental movement"],
+    "correctIndex": 0,
+    "explanation": "The film focuses on the evangelical movement."
   },
   {
     "id": "mv-2143",
-    "title": "Which character investigates a murder in Belfast in 'The Fall'?",
-    "options": ["Detective Inspector Hardy", "Detective Superintendent Stella Gibson", "Detective Sarah Linden", "Detective Olivia Benson"],
-    "correctIndex": 1,
-    "explanation": "Stella Gibson, played by Gillian Anderson, investigates in 'The Fall'."
+    "title": "Which location forms the backdrop for the stories in 'From Ground Zero' (2025)?",
+    "options": ["Gaza", "Jerusalem", "Beirut", "Damascus"],
+    "correctIndex": 0,
+    "explanation": "The filmmakers are living in Gaza amidst war."
   },
   {
     "id": "mv-2144",
-    "title": "Who is the scientist character in 'Penny Dreadful'?",
-    "options": ["Victor Frankenstein", "Abraham Van Helsing", "John Seward", "Ethan Chandler"],
+    "title": "Secret Mall Apartment (2025) chronicles a secret living space established in which place?",
+    "options": ["A busy mall", "An abandoned school", "A subway station", "A downtown library"],
     "correctIndex": 0,
-    "explanation": "Victor Frankenstein is the show's key scientist."
+    "explanation": "The documentary is about a hidden apartment in a mall."
   },
   {
     "id": "mv-2145",
-    "title": "Which show follows a group of vampires on Staten Island?",
-    "options": ["True Blood", "Dracula", "What We Do in the Shadows", "Being Human"],
-    "correctIndex": 2,
-    "explanation": "'What We Do in the Shadows' is about vampires in New York."
+    "title": "In 'Vulcanizadora' (2025), what are the two friends attempting in the Michigan forest?",
+    "options": ["Following through on a disturbing pact", "Finding lost treasure", "Documenting wildlife", "Escaping the police"],
+    "correctIndex": 0,
+    "explanation": "Their pact goes shockingly awry in the forest."
   },
   {
     "id": "mv-2146",
-    "title": "'The Office' (UK version) stars which character as the manager?",
-    "options": ["Michael Scott", "David Brent", "Gareth Keenan", "Jim Halpert"],
-    "correctIndex": 1,
-    "explanation": "David Brent, played by Ricky Gervais, manages the office."
+    "title": "'Deaf President Now!' (2025) recounts protests at which university?",
+    "options": ["Gallaudet University", "Yale University", "Harvard University", "Stanford University"],
+    "correctIndex": 0,
+    "explanation": "Gallaudet University is the world's only university for the deaf."
   },
   {
     "id": "mv-2147",
-    "title": "Which series involves the adventures of a boy and his 28-year-old dog in a post-apocalyptic world?",
-    "options": ["Adventure Time", "The Regular Show", "Over the Garden Wall", "Gravity Falls"],
+    "title": "In 'Weapons' (2025), what event sets the story in motion?",
+    "options": ["The vanishing of all but one child from a class", "A deadly shooting", "A massive explosion", "A severe storm"],
     "correctIndex": 0,
-    "explanation": "'Adventure Time' features Finn and Jake in a bizarre future."
+    "explanation": "All but one child from a class mysteriously vanish."
   },
   {
     "id": "mv-2148",
-    "title": "Who is the main police investigator in 'The Killing' (US)?",
-    "options": ["Harry Ambrose", "Sarah Linden", "Jimmy McNulty", "Sherlock Holmes"],
-    "correctIndex": 1,
-    "explanation": "Sarah Linden investigates the central murder in 'The Killing'."
+    "title": "'Sirât' (2025) follows a father and son searching for whom?",
+    "options": ["Mar, their daughter/sister", "Their lost dog", "Stolen money", "A family heirloom"],
+    "correctIndex": 0,
+    "explanation": "They are searching for Mar, who vanished at a rave."
   },
   {
     "id": "mv-2149",
-    "title": "Which series depicts a family dealing with the fallout of an unexpected purchase?",
-    "options": ["Dhindora", "Delhi Crime", "Made in Heaven", "Family Man"],
+    "title": "In 'Little Trouble Girls' (2025), what prompts Lucia to join the choir?",
+    "options": ["Her mother's urging", "A teacher's request", "Her best friend's invitation", "A music audition"],
     "correctIndex": 0,
-    "explanation": "'Dhindora' explores the daily lives and struggles of Bhuvan Bam’s family."
+    "explanation": "Lucia joins the choir at her mother's urging."
   },
   {
     "id": "mv-2150",
-    "title": "'The Terminal List' features which main character investigating the ambush of his SEAL team?",
-    "options": ["Jack Ryan", "Jason Hayes", "James Reece", "John Clark"],
-    "correctIndex": 2,
-    "explanation": "James Reece seeks answers in 'The Terminal List'."
+    "title": "Which character becomes especially important to Amélie in 'Little Amélie or the Character of Rain' (2025)?",
+    "options": ["Nishio-san", "Her teacher", "Her brother", "Her neighbor"],
+    "correctIndex": 1,
+    "explanation": "Amélie forms a deep attachment to the family’s housekeeper, Nishio-san."
   },
   {
     "id": "mv-2151",
-    "title": "'The OA' features a protagonist who regains which sense upon returning after being missing for years?",
-    "options": ["Sight", "Hearing", "Speech", "Taste"],
-    "correctIndex": 0,
-    "explanation": "Prairie regains her sight in 'The OA'."
+    "title": "Who are the poets at the center of the love story in 'Come See Me in the Good Light' (2025)?",
+    "options": ["Andrea Gibson and Megan Falley", "Amanda Gorman and Michael Rosen", "Mary Oliver and Adrienne Rich", "Elizabeth Bishop and Allen Ginsberg"],
+    "correctIndex": 1,
+    "explanation": "The film is about Andrea Gibson and Megan Falley."
   },
   {
     "id": "mv-2152",
-    "title": "In which series does Timothy Olyphant play U.S. Marshal Raylan Givens?",
-    "options": ["Sons of Anarchy", "Longmire", "Justified", "Deadwood"],
-    "correctIndex": 2,
-    "explanation": "Raylan Givens is the central character in 'Justified'."
+    "title": "In the film 'Dreams' (2025), Johanne's family considers what regarding her written work?",
+    "options": ["Whether to publish it", "Whether to destroy it", "Whether to hide it", "Whether to adapt it to a play"],
+    "correctIndex": 1,
+    "explanation": "They debate if it has literary potential and consider publishing."
   },
   {
     "id": "mv-2153",
-    "title": "Which series is based on Isaac Asimov's stories about a galaxy under the rule of an empire?",
-    "options": ["Dune", "The Expanse", "Foundation", "Altered Carbon"],
-    "correctIndex": 2,
-    "explanation": "'Foundation' adapts Asimov's classic sci-fi saga."
+    "title": "Which city is Aishe located in at the start of 'Preparation for the Next Life' (2025)?",
+    "options": ["New York City", "Los Angeles", "London", "Paris"],
+    "correctIndex": 1,
+    "explanation": "Aishe is a Uyghur woman who migrates to NYC."
   },
   {
     "id": "mv-2154",
-    "title": "Which dystopian series shows Japan and Germany controlling America after WWII?",
-    "options": ["The Plot Against America", "The Man in the High Castle", "SS-GB", "Resistance"],
+    "title": "Who returns for his most dangerous case in 'Wake Up Dead Man: A Knives Out Mystery' (2025)?",
+    "options": ["Benoit Blanc", "Sherlock Holmes", "Lisbeth Salander", "Hercule Poirot"],
     "correctIndex": 1,
-    "explanation": "'The Man in the High Castle' depicts an Axis-occupied USA."
+    "explanation": "The detective Benoit Blanc reprises his role."
   },
   {
     "id": "mv-2155",
-    "title": "Who stars as the main character in 'The Good Doctor'?",
-    "options": ["Freddie Highmore", "Norman Bates", "Shaun Evans", "Hugh Laurie"],
-    "correctIndex": 0,
-    "explanation": "Freddie Highmore plays Dr. Shaun Murphy."
+    "title": "In 'The Things You Kill' (2025), who is pressured to commit an act of vengeance?",
+    "options": ["The gardener", "The professor himself", "The police chief", "His neighbor"],
+    "correctIndex": 1,
+    "explanation": "The university professor coerces his enigmatic gardener."
   },
   {
     "id": "mv-2156",
-    "title": "'Shadow and Bone' features Alina Starkov discovering what?",
-    "options": ["Her long-lost twin", "A secret map", "Extraordinary magical powers", "A hidden treasure"],
-    "correctIndex": 2,
-    "explanation": "Alina Starkov unleashes a powerful magic in 'Shadow and Bone'."
+    "title": "The film 'The Mastermind' (2025) follows the first heist by which character?",
+    "options": ["JB Mooney", "Sammy Powers", "Luke Howard", "Alex Turner"],
+    "correctIndex": 1,
+    "explanation": "Unemployed carpenter JB Mooney is the protagonist."
   },
   {
     "id": "mv-2157",
-    "title": "Who is Dexter Morgan searching for in 'Dexter: Resurrection'?",
-    "options": ["Trinity Killer", "Hannah McKay", "Harrison", "Debra"],
-    "correctIndex": 2,
-    "explanation": "Dexter travels to New York City in search of his son, Harrison."
+    "title": "'Twinless' (2025) is about two young men who meet where?",
+    "options": ["A twin bereavement support group", "A college dorm", "A hospital", "An online forum"],
+    "correctIndex": 1,
+    "explanation": "They bond in a support group for those who lost their twin."
   },
   {
     "id": "mv-2158",
-    "title": "Which series is about a marketing firm in Paris hiring a young American woman?",
-    "options": ["The Bold Type", "Emily in Paris", "Younger", "The Marvelous Mrs. Maisel"],
+    "title": "What role does Sara Shahverdi play in 'Cutting Through Rocks' (2025)?",
+    "options": ["First elected councilwoman of her village", "School principal", "Village doctor", "Local journalist"],
     "correctIndex": 1,
-    "explanation": "'Emily in Paris' follows Lily Collins as the American in Paris."
+    "explanation": "She is the first elected councilwoman in her Iranian village."
   },
   {
     "id": "mv-2159",
-    "title": "Which animated show is set in a pineapple under the sea?",
-    "options": ["The Ren & Stimpy Show", "SpongeBob SquarePants", "Rocko's Modern Life", "Fish Hooks"],
+    "title": "What film is being shot at the studio Jeanne visits in 'The Ice Tower' (2025)?",
+    "options": ["The Snow Queen", "The Little Prince", "La Belle et la Bête", "The Sleeping Beauty"],
     "correctIndex": 1,
-    "explanation": "SpongeBob lives in a pineapple at the bottom of the ocean."
+    "explanation": "They are filming 'The Snow Queen.'"
   },
   {
     "id": "mv-2160",
-    "title": "Which British TV series sees a newsroom undergo dramatic change with a new team?",
-    "options": ["Press", "The Newsroom", "State of Play", "Broadcast News"],
-    "correctIndex": 1,
-    "explanation": "'The Newsroom' is about the staff of a fictional British newsroom."
+    "title": "Which band is profiled in 'Devo' (2025), known for their song 'Whip It'?",
+    "options": ["Devo", "Talking Heads", "Blondie", "Echo & the Bunnymen"],
+    "correctIndex": 2,
+    "explanation": "'Devo' is the new wave band with the song 'Whip It.'"
   },
   {
     "id": "mv-2161",
-    "title": "'Weeds' focuses on a suburban mother who turns to what business?",
-    "options": ["Real estate", "Marijuana dealing", "Pawning", "Day care"],
-    "correctIndex": 1,
-    "explanation": "She starts selling marijuana to support her family."
+    "title": "'The Falling Sky' (2025) follows the struggles of which indigenous group?",
+    "options": ["Yanomami people", "Ainu people", "Cherokee people", "Maasai people"],
+    "correctIndex": 2,
+    "explanation": "The documentary focuses on the Yanomami people."
   },
   {
     "id": "mv-2162",
-    "title": "Which animated series involves Finn and his wise dog Jake?",
-    "options": ["Gravity Falls", "Steven Universe", "Adventure Time", "Rick and Morty"],
+    "title": "What material is explored in 'Architecton' (2025) as a building block of habitats?",
+    "options": ["Concrete", "Wood", "Glass", "Steel"],
     "correctIndex": 2,
-    "explanation": "'Adventure Time' features Finn and Jake's adventures."
+    "explanation": "The journey is through concrete and its ancestor, stone."
   },
   {
     "id": "mv-2163",
-    "title": "'Vinland Saga' features which main character on a journey for revenge?",
-    "options": ["Canute", "Thorfinn", "Askeladd", "Ragnar"],
-    "correctIndex": 1,
-    "explanation": "Thorfinn seeks vengeance in 'Vinland Saga'."
+    "title": "Which U.S. presidential administration is featured in 'The White House Effect' (2025)?",
+    "options": ["George H.W. Bush", "Bill Clinton", "George W. Bush", "Ronald Reagan"],
+    "correctIndex": 2,
+    "explanation": "It covers the George H.W. Bush administration."
   },
   {
     "id": "mv-2164",
-    "title": "Which TV show stars Alec Baldwin, Jane Krakowski, and Tina Fey in the making of a sketch-comedy show?",
-    "options": ["Saturday Night Live", "30 Rock", "Parks and Recreation", "Community"],
-    "correctIndex": 1,
-    "explanation": "'30 Rock' is a behind-the-scenes look at a comedy show."
+    "title": "In 'Grand Theft Hamlet' (2025), Sam and Mark find connection through what?",
+    "options": ["Shakespeare", "Music", "Cooking", "Chess"],
+    "correctIndex": 0,
+    "explanation": "They connect through staging Hamlet and Shakespeare."
   },
   {
     "id": "mv-2165",
-    "title": "'Bates Motel' offers a modern look at whose teenage years?",
-    "options": ["Jason Voorhees", "Hannibal Lecter", "Norman Bates", "Freddy Krueger"],
-    "correctIndex": 2,
-    "explanation": "The series explores the early life of Norman Bates."
+    "title": "What type of aesthetics are explored in Leni Riefenstahl’s films, featured in 'Riefenstahl' (2025)?",
+    "options": ["Fascist", "Expressionist", "Futurist", "Impressionist"],
+    "correctIndex": 0,
+    "explanation": "Her films are defined by fascist aesthetics."
   },
   {
     "id": "mv-2166",
-    "title": "Which pirate drama follows Captain Flint and the hunt for treasure?",
-    "options": ["Black Sails", "Crossbones", "Our Flag Means Death", "Vikings"],
+    "title": "What genre mix is used in the film 'From Ground Zero' (2025)?",
+    "options": ["Animation, documentary, and fiction", "Documentary and comedy", "Horror and romance", "Action and musical"],
     "correctIndex": 0,
-    "explanation": "'Black Sails' is a pirate drama featuring Captain Flint."
+    "explanation": "It blends animation, documentary, and fiction."
   },
   {
     "id": "mv-2167",
-    "title": "Who is at the center of the intricate legal drama in 'Better Call Saul'?",
-    "options": ["Walter White", "Jimmy McGill", "Mike Ehrmantraut", "Gus Fring"],
-    "correctIndex": 1,
-    "explanation": "Jimmy McGill becomes Saul Goodman in 'Better Call Saul'."
+    "title": "Between which locations do the events of 'Vulcanizadora' (2025) take place?",
+    "options": ["A Michigan forest and a small town", "A Texas desert and a border city", "A New York alley and a casino", "A Miami beach and a boat"],
+    "correctIndex": 0,
+    "explanation": "The action unfolds in a Michigan forest."
   },
   {
     "id": "mv-2168",
-    "title": "Which TV series is about two married KGB spies in Cold War America?",
-    "options": ["The Spy", "Burn Notice", "The Americans", "Agent Carter"],
-    "correctIndex": 2,
-    "explanation": "'The Americans' are undercover Soviet agents in the US."
+    "title": "Who became Gallaudet University's first Deaf president in 'Deaf President Now!' (2025)?",
+    "options": ["Dr. I. King Jordan", "Dr. Angela Davis", "Dr. Robert Smith", "Dr. Henry Louis Gates"],
+    "correctIndex": 0,
+    "explanation": "Dr. I. King Jordan became the university’s first Deaf president."
   },
   {
     "id": "mv-2169",
-    "title": "Which deadly competition forms the plot of 'Squid Game'?",
-    "options": ["A series of children's games", "Espionage missions", "Corporate takeovers", "Survival on an island"],
+    "title": "The film 'Weapons' (2025) deals with the disappearance of which group?",
+    "options": ["Children from the same class", "A set of siblings", "Elderly residents", "College students"],
     "correctIndex": 0,
-    "explanation": "'Squid Game' centers around deadly children's games."
+    "explanation": "All but one child from the same class vanish."
   },
   {
     "id": "mv-2170",
-    "title": "'Babylon Berlin' is set in which country's capital during the Golden Twenties?",
-    "options": ["Paris", "Berlin", "Rome", "London"],
-    "correctIndex": 1,
-    "explanation": "The series is set in Berlin, Germany."
+    "title": "Where does the climactic rave take place in 'Sirât' (2025)?",
+    "options": ["In the mountains of Morocco", "On a European beach", "In a Tokyo nightclub", "On a Los Angeles rooftop"],
+    "correctIndex": 0,
+    "explanation": "The rave is in the mountains of southern Morocco."
   },
   {
     "id": "mv-2171",
-    "title": "Who is the main character haunted by the past in 'The Returned'?",
-    "options": ["Victor", "Mie", "Jung Hee Joo", "Sira"],
+    "title": "Which main theme is explored in 'Little Trouble Girls' (2025)?",
+    "options": ["Awakening sexuality and self-discovery", "Parental divorce", "Environmental activism", "Political intrigue"],
     "correctIndex": 0,
-    "explanation": "Victor is one of the central figures among the returned."
+    "explanation": "Lucia's story is about her awakening sexuality and questioning beliefs."
   },
   {
     "id": "mv-2172",
-    "title": "In 'Memories of the Alhambra', Yoo Jin Woo travels to which country for business?",
-    "options": ["Italy", "Spain", "Norway", "Brazil"],
-    "correctIndex": 1,
-    "explanation": "He travels to Spain."
+    "title": "What sparks Amélie's curiosity in 'Little Amélie or the Character of Rain' (2025)?",
+    "options": ["Chocolate", "An old book", "A stray cat", "A mysterious letter"],
+    "correctIndex": 0,
+    "explanation": "A miraculous encounter with chocolate ignites her curiosity."
   },
   {
     "id": "mv-2173",
-    "title": "'The Mechanism' is inspired by real-life corruption in which country's corporations?",
-    "options": ["Mexico", "Argentina", "Brazil", "France"],
-    "correctIndex": 2,
-    "explanation": "It's inspired by Brazilian corruption scandals."
+    "title": "In 'Come See Me in the Good Light' (2025), how do Andrea Gibson and Megan Falley face a cancer diagnosis?",
+    "options": ["With joy, wit, and unshakable partnership", "By moving to Paris", "Through denial", "By making a documentary"],
+    "correctIndex": 0,
+    "explanation": "They face it with joy, wit, and love."
   },
   {
     "id": "mv-2174",
-    "title": "What genre best describes the German series 'Dark'?",
-    "options": ["Sitcom", "Supernatural thriller", "Documentary", "Comedy"],
-    "correctIndex": 1,
-    "explanation": "Dark is a supernatural thriller."
+    "title": "In 'Dreams' (2025), Johanne’s family reacts how to her writings at first?",
+    "options": ["They are shocked", "They are delighted", "They ignore her", "They destroy her writings"],
+    "correctIndex": 0,
+    "explanation": "Her mother and grandmother are initially shocked."
   },
   {
     "id": "mv-2175",
-    "title": "'Gran Hotel' is set in which year in the fictional Spanish town of Cantaloa?",
-    "options": ["1905", "1860", "2001", "1920"],
+    "title": "In ‘Preparation for the Next Life’ (2025), whom does Aishe fall in love with?",
+    "options": ["Skinner, a young American soldier", "Her landlord", "A film director", "A taxi driver"],
     "correctIndex": 0,
-    "explanation": "It is set in 1905."
+    "explanation": "She falls for Skinner, an American soldier."
   },
   {
     "id": "mv-2176",
-    "title": "In 'Gameboys', what brings Cairo and Gavreel together?",
-    "options": ["They are classmates", "A popular mobile game", "They are neighbors", "They're coworkers"],
-    "correctIndex": 1,
-    "explanation": "They connect over a mobile game competition."
+    "title": "Benoit Blanc is the detective protagonist in which 2025 mystery film?",
+    "options": ["Wake Up Dead Man: A Knives Out Mystery", "Clue Again", "Death in the Library", "Midnight at the Orient"],
+    "correctIndex": 0,
+    "explanation": "Benoit Blanc stars in 'Wake Up Dead Man: A Knives Out Mystery.'"
   },
   {
     "id": "mv-2177",
-    "title": "'The Girl with the Dragon Tattoo' is originally in which language?",
-    "options": ["French", "German", "Swedish", "English"],
-    "correctIndex": 2,
-    "explanation": "It's adapted from the Swedish-language novel."
+    "title": "'The Things You Kill' (2025) centers on what familial relationship?",
+    "options": ["Mother and son", "Father and daughter", "Uncle and nephew", "Cousins"],
+    "correctIndex": 0,
+    "explanation": "A university professor haunted by his mother’s death."
   },
   {
     "id": "mv-2178",
-    "title": "Who is Lisbeth's legal defender and main advocate in 'The Girl Who Kicked the Hornet's Nest'?",
-    "options": ["Henrik Vanger", "Mikael Blomkvist", "Armansky", "Dirch Frode"],
-    "correctIndex": 1,
-    "explanation": "Mikael Blomkvist is her main supporter."
+    "title": "'The Mastermind' (2025) features a heist gone wrong in which decade?",
+    "options": ["1970s", "1980s", "1990s", "2000s"],
+    "correctIndex": 0,
+    "explanation": "Set in a quiet corner of Massachusetts in the 1970s."
   },
   {
     "id": "mv-2179",
-    "title": "'The No. 1 Ladies' Detective Agency' is set in which African country?",
-    "options": ["Kenya", "Botswana", "Nigeria", "South Africa"],
-    "correctIndex": 1,
-    "explanation": "It is set in Botswana."
+    "title": "'Twinless' (2025) is primarily about what type of relationship?",
+    "options": ["Bromance", "Rivalry", "Romantic love", "Therapeutic relationship"],
+    "correctIndex": 0,
+    "explanation": "Two young men form an unlikely bromance."
   },
   {
     "id": "mv-2180",
-    "title": "The lead character in 'The Girl Who Played with Fire' is a skilled what?",
-    "options": ["Police officer", "Lawyer", "Hacker", "Chef"],
-    "correctIndex": 2,
-    "explanation": "Lisbeth Salander is a hacker."
+    "title": "In 'Endless Cookie' (2025), what is the relationship between the two main characters?",
+    "options": ["Half-brothers", "Father and son", "Old friends", "Detective partners"],
+    "correctIndex": 0,
+    "explanation": "They are half-brothers—one Indigenous, one white."
   },
   {
     "id": "mv-2181",
-    "title": "In 'Okkupert', who invades Norway due to halted oil production?",
-    "options": ["United States", "Russia", "China", "Germany"],
+    "title": "Which language does Marlee Matlin primarily use to reflect on her life in the 2025 documentary 'Marlee Matlin: Not Alone Anymore'?",
+    "options": ["Spanish", "American Sign Language", "British Sign Language", "German"],
     "correctIndex": 1,
-    "explanation": "Russia invades Norway."
+    "explanation": "She reflects in American Sign Language."
   },
   {
     "id": "mv-2182",
-    "title": "The protagonist of 'Tabula Rasa' struggles with what condition?",
-    "options": ["Blindness", "Amnesia", "Paralysis", "Bipolar disorder"],
+    "title": "'One to One: John & Yoko' (2025) focuses on which pivotal event in the couple’s life?",
+    "options": ["Their wedding", "The One to One charity concert", "Lennon's final recording session", "Their visit to India"],
     "correctIndex": 1,
-    "explanation": "She has amnesia."
+    "explanation": "Centered around the One to One charity concert for special needs children."
   },
   {
     "id": "mv-2183",
-    "title": "The French series 'Un village français' takes place during which war?",
-    "options": ["World War I", "World War II", "The Cold War", "Vietnam War"],
+    "title": "Which 2025 film revolves around intertwined lives at Green Lake?",
+    "options": ["Urchin", "Sunfish (& Other Stories on Green Lake)", "Reflection in a Dead Diamond", "KPop Demon Hunters"],
     "correctIndex": 1,
-    "explanation": "It is set during WWII."
+    "explanation": "Multiple stories are connected at Green Lake."
   },
   {
     "id": "mv-2184",
-    "title": "Which department is at the center of French espionage in 'The Bureau'?",
-    "options": ["Bureau des Légendes", "Interpol", "Sûreté Nationale", "La Résistance"],
-    "correctIndex": 0,
-    "explanation": "'The Bureau' centers on the Bureau des Légendes."
+    "title": "In 'Lurker' (2025), which profession does the main character have before infiltrating an artist’s circle?",
+    "options": ["Police officer", "Retail employee", "Teacher", "Journalist"],
+    "correctIndex": 1,
+    "explanation": "The protagonist is a retail employee."
   },
   {
     "id": "mv-2185",
-    "title": "Sira, the protagonist of 'The Time in Between', is a:",
-    "options": ["Doctor", "Seamstress/dressmaker", "Detective", "Chef"],
+    "title": "Which film depicts a cast and crew suddenly placed into COVID-19 lockdown while trying to finish a movie?",
+    "options": ["The Testament of Ann Lee", "An Unfinished Film", "The Chronology of Water", "Rebuilding"],
     "correctIndex": 1,
-    "explanation": "Sira is a dressmaker."
+    "explanation": "Lockdown occurs while completing 'An Unfinished Film' (2025)."
   },
   {
     "id": "mv-2186",
-    "title": "In 'Borgen', Birgitte Nyborg is the:",
-    "options": ["Queen", "Prime Minister", "Defense Minister", "Foreign Minister"],
-    "correctIndex": 1,
-    "explanation": "She is the prime minister."
+    "title": "In 'Sketch' (2025), what causes chaos in the town?",
+    "options": ["A haunted theater", "A toxic gas leak", "A girl's sketches coming to life", "Mass amnesia"],
+    "correctIndex": 2,
+    "explanation": "Drawings from a girl's sketchbook become real and dangerous."
   },
   {
     "id": "mv-2187",
-    "title": "The 'Millennium' miniseries focuses on the partnership of Blomkvist and:",
-    "options": ["Harriet Vanger", "Nils Bjurman", "Lisbeth Salander", "Erika Berger"],
+    "title": "'Warfare' (2025) is told primarily through whose recollections?",
+    "options": ["War reporters", "Journalists", "Participants' memories", "CIA agents"],
     "correctIndex": 2,
-    "explanation": "They partner with Lisbeth Salander."
+    "explanation": "It's based on memories of those who lived it."
   },
   {
     "id": "mv-2188",
-    "title": "'Grenseland' features a detective who must cover up a crime to protect his:",
-    "options": ["Reputation", "Family", "Partner", "Job"],
+    "title": "Which three 'Predator: Killer of Killers' (2025) characters become prey for the ultimate hunter?",
+    "options": ["Scientists", "Fiercest warriors in human history", "Soldiers' families", "FBI agents"],
     "correctIndex": 1,
-    "explanation": "He does this to protect his family."
+    "explanation": "Three fierce historical warriors are hunted."
   },
   {
     "id": "mv-2189",
-    "title": "'Cause You Are My Boy' revolves around a rivalry started by a botched:",
-    "options": ["Cooking class", "Haircut", "Exam", "Football match"],
-    "correctIndex": 1,
-    "explanation": "It was caused by a bad haircut."
+    "title": "'Merrily We Roll Along' (2025) is based on a work originally produced on which stage?",
+    "options": ["West End", "Off-Broadway", "Broadway", "Hollywood Bowl"],
+    "correctIndex": 2,
+    "explanation": "Originally produced on Broadway in 1981."
   },
   {
     "id": "mv-2190",
-    "title": "Nessa Stein, in 'The Honorable Woman', inherits her father's business in what field?",
-    "options": ["Arms", "Publishing", "Oil", "Textiles"],
-    "correctIndex": 0,
-    "explanation": "She inherits an arms business."
+    "title": "'The Ballad of Wallis Island' (2025) centers on Charles and his dream involving what?",
+    "options": ["A lost treasure", "Hosting his favorite band's reunion", "Saving the island from disaster", "Writing a novel"],
+    "correctIndex": 1,
+    "explanation": "Charles dreams of reuniting his favorite musicians."
   },
   {
     "id": "mv-2191",
-    "title": "'Alice in Borderland' is based on the adventures of Arisu, who is what?",
-    "options": ["Scientist", "Video-game-obsessed young man", "Police officer", "Chef"],
+    "title": "Who is the subject of 'The Testament of Ann Lee' (2025)?",
+    "options": ["Mary Baker Eddy", "Ann Lee", "Lidia Yuknavitch", "Ruby Bridges"],
     "correctIndex": 1,
-    "explanation": "He is a video-game-obsessed young man."
+    "explanation": "Ann Lee, founder of the Shakers."
   },
   {
     "id": "mv-2192",
-    "title": "Which country is the setting for the women's prison in 'Capadocia'?",
-    "options": ["Argentina", "Mexico", "France", "Brazil"],
+    "title": "In 'Blue Moon' (2025), which lyricist faces inner turmoil on the opening night of 'Oklahoma!'?",
+    "options": ["Irving Berlin", "Lorenz Hart", "Cole Porter", "Oscar Hammerstein"],
     "correctIndex": 1,
-    "explanation": "It is set in Mexico."
+    "explanation": "Lorenz Hart is the focal character."
   },
   {
     "id": "mv-2193",
-    "title": "Which two main themes are blended in 'Sotus the Series'?",
-    "options": ["Horror and comedy", "LGBTQ romance and college drama", "Science fiction and mystery", "Political thriller and history"],
-    "correctIndex": 1,
-    "explanation": "'Sotus the Series' features college drama with LGBTQ romance."
+    "title": "'The Chronology of Water' (2025) is adapted from a memoir by which author?",
+    "options": ["Lidia Yuknavitch", "Joan Didion", "Jack Kerouac", "Cheryl Strayed"],
+    "correctIndex": 0,
+    "explanation": "Lidia Yuknavitch wrote the source material."
   },
   {
     "id": "mv-2194",
-    "title": "'Tientsin Mystic' is set during which Chinese era?",
-    "options": ["Ming Dynasty", "Republic years", "Qing Dynasty", "Modern times"],
+    "title": "'Frankenstein' (2025) is a story about whom?",
+    "options": ["Ambitious alchemists", "An egotistical scientist and his creature", "Warring kingdoms", "Alien invaders"],
     "correctIndex": 1,
-    "explanation": "It is set during the Republic years."
+    "explanation": "The classic story of scientist and his tragic creation."
   },
   {
     "id": "mv-2195",
-    "title": "'Äkta människor' focuses on the implications of which technology?",
-    "options": ["Nuclear power", "Robots/humanoids", "Cryptocurrency", "Virtual reality"],
+    "title": "What devastates Dusty's ranch in 'Rebuilding' (2025)?",
+    "options": ["Bankruptcy", "A wildfire", "A tornado", "A flood"],
     "correctIndex": 1,
-    "explanation": "It focuses on companion robots called hubots."
+    "explanation": "A wildfire destroys the ranch."
   },
   {
     "id": "mv-2196",
-    "title": "Who is the main criminal figure in 'Narcos' season 1?",
-    "options": ["El Chapo", "Pablo Escobar", "Griselda Blanco", "Miguel Ángel Félix Gallardo"],
+    "title": "In 'KPop Demon Hunters' (2025), what is the rival enemy group?",
+    "options": ["A ghost squad", "A boy band of demons", "A government agency", "A rival drama company"],
     "correctIndex": 1,
-    "explanation": "Pablo Escobar is the main focus."
+    "explanation": "Their rivals are a demon boy band in disguise."
   },
   {
     "id": "mv-2197",
-    "title": "'Metrosexuality' follows the adventures of which character?",
-    "options": ["Kwame", "Drake", "Simon", "Johan"],
-    "correctIndex": 0,
-    "explanation": "Kwame is the central character."
+    "title": "Frank Dillane plays Mike, who is struggling to escape which situation in 'Urchin' (2025)?",
+    "options": ["Addiction", "A wealthy family", "Homelessness", "Political scandal"],
+    "correctIndex": 2,
+    "explanation": "He is homeless and tries to change his life."
   },
   {
     "id": "mv-2198",
-    "title": "Which sector is investigated in 'Bedrag'?",
-    "options": ["Education", "Sustainable energy company", "Real estate", "Banking"],
+    "title": "Which legendary musician is the subject of 'Sly Lives!' (2025)?",
+    "options": ["Prince", "Sly Stone", "James Brown", "Sam Cooke"],
     "correctIndex": 1,
-    "explanation": "Bedrag is about crime in the sustainable energy sector."
+    "explanation": "Sly Stone of Sly & The Family Stone."
   },
   {
     "id": "mv-2199",
-    "title": "'Squid Game' was created by:",
-    "options": ["Park Shin-hye", "Lee Jung-jae", "Hwang Dong-hyuk", "Jun Lana"],
+    "title": "'Left-Handed Girl' (2025) centers on family secrets that unravel when which family member uses her 'devil hand'?",
+    "options": ["The oldest daughter", "The grandfather", "The youngest daughter", "The mother"],
     "correctIndex": 2,
-    "explanation": "Hwang Dong-hyuk is the creator."
+    "explanation": "The youngest, left-handed granddaughter."
   },
   {
     "id": "mv-2200",
-    "title": "Season 1 of 'Babylon Berlin' is available with English subtitles on which platform?",
-    "options": ["Disney+", "Netflix", "Apple TV", "Amazon Prime"],
-    "correctIndex": 1,
-    "explanation": "It is available on Netflix."
+    "title": "Which 2025 film follows a family who believes they are not alone in their new suburban home?",
+    "options": ["Presence", "Urchin", "Lurker", "If I Had Legs I'd Kick You"],
+    "correctIndex": 0,
+    "explanation": "The family in 'Presence' feels watched."
   },
   {
     "id": "mv-2201",
-    "title": "What major twist is central to 'The Returned'?",
-    "options": ["People come back to life years after dying", "Aliens invade", "A town is frozen in time", "A dam explodes"],
-    "correctIndex": 0,
-    "explanation": "The dead return as if nothing happened."
+    "title": "Rose Byrne stars as Linda in which 2025 film?",
+    "options": ["Reflection in a Dead Diamond", "If I Had Legs I'd Kick You", "Rebuilding", "Sunfish"],
+    "correctIndex": 1,
+    "explanation": "Rose Byrne plays Linda in 'If I Had Legs I'd Kick You.'"
   },
   {
     "id": "mv-2202",
-    "title": "Which instrument did Jung Hee Joo play in 'Memories of the Alhambra'?",
-    "options": ["Violin", "Classical guitar", "Piano", "Flute"],
+    "title": "'Reflection in a Dead Diamond' (2025) is set in which luxurious location?",
+    "options": ["A ski chalet", "A grand hotel on the Côte d’Azur", "A mountain villa", "A yacht in Monaco"],
     "correctIndex": 1,
-    "explanation": "She was a former classical guitarist."
+    "explanation": "Set in a grand hotel on the Côte d’Azur."
   },
   {
     "id": "mv-2203",
-    "title": "'The Mechanism' was created by which director?",
-    "options": ["Muye Zhang", "José Padilha", "Baran bo Odar", "Achim von Borries"],
-    "correctIndex": 1,
-    "explanation": "José Padilha is the creator."
+    "title": "In which year is '28 Years Later' (2025) set after the outbreak?",
+    "options": ["2021", "1973", "28 years after the original virus escape", "2105"],
+    "correctIndex": 2,
+    "explanation": "It takes place roughly 28 years after the virus outbreak (originally 2002)."
   },
   {
     "id": "mv-2204",
-    "title": "Which theme is NOT central in 'Dark'?",
-    "options": ["Time travel", "Drug trafficking", "Supernatural events", "Family secrets"],
+    "title": "Which of these elements is NOT part of 'Sketch' (2025)?",
+    "options": ["Sketches coming to life", "Time travel", "A town in chaos", "A family adventure"],
     "correctIndex": 1,
-    "explanation": "Dark is not about drug trafficking."
+    "explanation": "Time travel is not featured; it's about sketches coming to life."
   },
   {
     "id": "mv-2205",
-    "title": "Who stars as Mikael Blomkvist in the original Swedish 'The Girl with the Dragon Tattoo'?",
-    "options": ["Michael Nyqvist", "Daniel Craig", "Jonathan Zaccaï", "Lars Lundström"],
+    "title": "Which film features a character named Dusty trying to rebuild his life post-wildfire?",
+    "options": ["Rebuilding", "Left-Handed Girl", "Sunfish", "Reflection in a Dead Diamond"],
     "correctIndex": 0,
-    "explanation": "Michael Nyqvist plays Blomkvist."
+    "explanation": "'Rebuilding' follows Dusty's story."
   },
   {
     "id": "mv-2206",
-    "title": "In 'The No. 1 Ladies' Detective Agency', Jill Scott plays:",
-    "options": ["Mary", "Precious Ramotswe", "Liv Lisa Fries", "Nessa Stein"],
-    "correctIndex": 1,
-    "explanation": "Jill Scott is the star, playing Precious Ramotswe."
+    "title": "Who is the reclusive protagonist in 'Reflection in a Dead Diamond' (2025)?",
+    "options": ["John", "Charles", "Mike", "Dusty"],
+    "correctIndex": 0,
+    "explanation": "John lives in the hotel on the Côte d’Azur."
   },
   {
     "id": "mv-2207",
-    "title": "Which show is also known by the English title 'Real Humans'?",
-    "options": ["The Returned", "Äkta människor", "Dark", "Capadocia"],
+    "title": "Which genre best describes 'Frankenstein' (2025)?",
+    "options": ["Historical documentary", "Science fiction horror", "Romantic comedy", "Sports drama"],
     "correctIndex": 1,
-    "explanation": "'Äkta människor' is 'Real Humans.'"
+    "explanation": "It is a science fiction horror adaptation."
   },
   {
     "id": "mv-2208",
-    "title": "Who is the lead detective in 'Borgen'?",
-    "options": ["Justesen", "Nikolai", "Birgitte Nyborg", "Gereon Rath"],
-    "correctIndex": 2,
-    "explanation": "Birgitte Nyborg is the protagonist, but not a detective, rather the Prime Minister."
+    "title": "'Warfare' (2025) is primarily set in which country?",
+    "options": ["Afghanistan", "Iraq", "Syria", "Iran"],
+    "correctIndex": 1,
+    "explanation": "Set in Iraq with American Navy SEALs overwatching US troop movement."
   },
   {
     "id": "mv-2209",
-    "title": "Which meld of genres best describes 'Tientsin Mystic'?",
-    "options": ["Romantic comedy", "Action-thriller", "Fantasy and martial arts", "Animation"],
-    "correctIndex": 2,
-    "explanation": "'Tientsin Mystic' blends fantasy and martial arts."
+    "title": "'Marlee Matlin: Not Alone Anymore' (2025) highlights which major milestone in Matlin's career?",
+    "options": ["Directing her first film", "Winning an Academy Award", "Receiving a Tony Award", "Becoming a Broadway star"],
+    "correctIndex": 1,
+    "explanation": "She became the first Deaf actor to win an Academy Award."
   },
   {
     "id": "mv-2210",
-    "title": "In the post-apocalyptic Brazilian series '3%', what must people undergo to join the privileged society?",
-    "options": ["A competitive process", "A lottery", "A birthright", "A public vote"],
-    "correctIndex": 0,
-    "explanation": "Candidates must undergo an intense and competitive process."
+    "title": "'The Chronology of Water' (2025) thematically deals with which recurring element?",
+    "options": ["Sports", "Literature and trauma", "Supernatural horror", "Space travel"],
+    "correctIndex": 1,
+    "explanation": "The transformation of trauma through art and literature."
   },
   {
     "id": "mv-2211",
-    "title": "Which series is about an ex-Soviet spy couple in Israel facing demands from Russian Intelligence about their son?",
-    "options": ["Tehran", "The Gordin Cell", "Valley of Tears", "Fauda"],
+    "title": "'Predator: Killer of Killers' (2025) can best be categorized as which kind of movie?",
+    "options": ["Romantic comedy", "Science fiction action", "Mystery", "Historical epic"],
     "correctIndex": 1,
-    "explanation": "'The Gordin Cell' is about a family of ex-Soviet spies in Israel."
+    "explanation": "It is a sci-fi action thriller."
   },
   {
     "id": "mv-2212",
-    "title": "Which two countries share jurisdiction in the murder investigation in 'The Bridge'?",
-    "options": ["Norway and Finland", "Germany and Austria", "Denmark and Sweden", "France and Belgium"],
-    "correctIndex": 2,
-    "explanation": "Danish and Swedish detectives must work together."
+    "title": "Which musical legend's new show is premiering as 'Blue Moon' (2025) opens?",
+    "options": ["West Side Story", "Oklahoma!", "Les Misérables", "Hamilton"],
+    "correctIndex": 1,
+    "explanation": "'Oklahoma!' premieres on the same night."
   },
   {
     "id": "mv-2213",
-    "title": "Who does Rasmus fall in love with in the midst of the AIDS epidemic in 'Don't Ever Wipe Tears Without Gloves'?",
-    "options": ["Adam", "Benjamin", "David", "Lars"],
-    "correctIndex": 1,
-    "explanation": "Rasmus finds love in Benjamin."
+    "title": "In 'Sunfish (& Other Stories on Green Lake)' (2025), what challenge is one of the main characters pursuing?",
+    "options": ["Learning to swim", "Becoming mayor", "Fighting for first chair in music", "Winning a cooking contest"],
+    "correctIndex": 2,
+    "explanation": "A boy is fighting for first chair (music)."
   },
   {
     "id": "mv-2214",
-    "title": "'Suburra: Blood on Rome' is set primarily in which European country?",
-    "options": ["Italy", "Greece", "France", "Portugal"],
-    "correctIndex": 0,
-    "explanation": "It takes place near Rome, Italy."
+    "title": "Which 2025 film is a fable based on the founder of the Shakers?",
+    "options": ["Urchin", "The Testament of Ann Lee", "Rebuilding", "One to One: John & Yoko"],
+    "correctIndex": 1,
+    "explanation": "'The Testament of Ann Lee' centers on the Shakers' founder."
   },
   {
     "id": "mv-2215",
-    "title": "Which show follows young officers helping the resistance in Poland during WWII?",
-    "options": ["Warsaw 44", "Time of Honor", "1944", "Secret Army"],
-    "correctIndex": 1,
-    "explanation": "'Time of Honor' covers the story of Polish parachute officers."
+    "title": "In 'If I Had Legs I'd Kick You' (2025), what is NOT a problem Linda faces?",
+    "options": ["Her child’s mysterious illness", "Her absent husband", "Corrupt city officials", "A missing person"],
+    "correctIndex": 2,
+    "explanation": "Corrupt officials are not mentioned."
   },
   {
     "id": "mv-2216",
-    "title": "In 'Cable Girls', what is the main setting where the four female protagonists work?",
-    "options": ["A hospital", "A phone company", "A newspaper", "A bank"],
+    "title": "'Merrily We Roll Along' (2025) features songs by which famous composer?",
+    "options": ["Andrew Lloyd Webber", "Stephen Sondheim", "Cole Porter", "Lin-Manuel Miranda"],
     "correctIndex": 1,
-    "explanation": "They work as operators for a phone company."
+    "explanation": "Stephen Sondheim composed the songs."
   },
   {
     "id": "mv-2217",
-    "title": "'Malgudi Days' is based on the works of which famous Indian author?",
-    "options": ["R.K. Narayan", "Salman Rushdie", "Vikram Seth", "Arundhati Roy"],
+    "title": "Who is the main character attempting to save his family in 'Sketch' (2025)?",
+    "options": ["The father", "The mayor", "The girl's teacher", "A police detective"],
     "correctIndex": 0,
-    "explanation": "'Malgudi Days' brings R.K. Narayan's stories to life."
+    "explanation": "Their father attempts to reunite and save them."
   },
   {
     "id": "mv-2218",
-    "title": "Which TV series follows Paris cops who often use violence and intimidation, blurring the boundaries of the law?",
-    "options": ["Braquo", "Spiral", "Engrenages", "Witnesses"],
-    "correctIndex": 0,
-    "explanation": "Braquo is about Paris police at the edge of legality."
+    "title": "'Sly Lives!' (2025) explores the impact and burden of success for whom?",
+    "options": ["Asian-American actors", "Black artists in America", "Russian ballet dancers", "Rural teachers"],
+    "correctIndex": 1,
+    "explanation": "It focuses on the burden of Black artists' success."
   },
   {
     "id": "mv-2219",
-    "title": "Who is the female detective known for her complex investigations in 'The Killing'?",
-    "options": ["Saga Norén", "Sarah Lund", "Lisbeth Salander", "Elin Hammar"],
-    "correctIndex": 1,
-    "explanation": "Sarah Lund is the central character in 'The Killing'."
+    "title": "'Presence' (2025) is best described as belonging to which genre?",
+    "options": ["Romance", "Thriller", "Horror", "Animated musical"],
+    "correctIndex": 2,
+    "explanation": "A horror about a potentially haunted suburban house."
   },
   {
     "id": "mv-2220",
-    "title": "Which Chilean series involves a journalist launching a news site and investigating a suspicious death?",
-    "options": ["Bala Loca", "El Marginal", "Los 80", "Profugos"],
+    "title": "Who plays Jeonim in 'By the Stream' (2025)?",
+    "options": ["Kim Minhee", "Kwon Haehyo", "Cho Yunhee", "Janeane Garofalo"],
     "correctIndex": 0,
-    "explanation": "The show 'Bala Loca' centers on press freedom and corruption."
+    "explanation": "Kim Minhee stars as Jeonim in 'By the Stream'."
   },
   {
     "id": "mv-2221",
-    "title": "Which Spanish-language series centers on a team robbing the Royal Mint of Spain?",
-    "options": ["Locked Up", "Money Heist", "El ministerio del tiempo", "Las Chicas del Cable"],
+    "title": "In 'Liza: A Truly Terrific Absolutely True Story' (2025), Liza Minnelli seeks guidance from which mentor who was also her godmother?",
+    "options": ["Chita Rivera", "Kay Thompson", "Fred Ebb", "Bob Fosse"],
     "correctIndex": 1,
-    "explanation": "Money Heist is about a heist on the Spanish Royal Mint."
+    "explanation": "Kay Thompson was Liza Minnelli's godmother and mentor."
   },
   {
     "id": "mv-2222",
-    "title": "'Marseille', starring Gérard Depardieu, is primarily set in which country?",
-    "options": ["Italy", "Spain", "France", "Belgium"],
-    "correctIndex": 2,
-    "explanation": "Marseille is a prominent French city."
+    "title": "Which actor plays Billy 5000 in 'Boys Go to Jupiter' (2025)?",
+    "options": ["Taron Egerton", "Jack Corbett", "Adam Bessa", "Ben Stiller"],
+    "correctIndex": 1,
+    "explanation": "Jack Corbett plays Billy 5000."
   },
   {
     "id": "mv-2223",
-    "title": "Which series is also known by its original French title, 'Spin'?",
-    "options": ["Engrenages", "Spin", "Marseille", "Lupin"],
+    "title": "What position does Jeonim hold in 'By the Stream' (2025)?",
+    "options": ["Professor of Theatre", "Artist and Lecturer", "University Dean", "Play Director"],
     "correctIndex": 1,
-    "explanation": "The show is called 'Spin' in English."
+    "explanation": "She is an artist and lecturer at a university."
   },
   {
     "id": "mv-2224",
-    "title": "What is the main mission of Pastor in the Argentinian series 'El marginal'?",
-    "options": [
-      "To expose gang leaders",
-      "To rescue a judge's daughter",
-      "To run for office",
-      "To escape the country"
-    ],
-    "correctIndex": 1,
-    "explanation": "Pastor is an undercover cop sent to rescue a judge's daughter."
+    "title": "What is the profession of Yoshii in 'Cloud' (2025)?",
+    "options": ["Teacher", "Delivery Driver", "Online Reseller", "University Professor"],
+    "correctIndex": 2,
+    "explanation": "Yoshii is a young man who resells goods online."
   },
   {
     "id": "mv-2225",
-    "title": "In 'The Legacy', what triggers a battle for inheritance among the family?",
-    "options": [
-      "A new will",
-      "The matriarch's death",
-      "Parental divorce",
-      "Surviving war"
-    ],
-    "correctIndex": 1,
-    "explanation": "The death of the matriarch brings out family secrets and conflict."
+    "title": "Who is Billy's crush in 'Boys Go to Jupiter' (2025)?",
+    "options": ["Rozebud", "Didi", "Diane", "Charlotte"],
+    "correctIndex": 0,
+    "explanation": "Billy's former classmate and crush is Rozebud."
   },
   {
     "id": "mv-2226",
-    "title": "'Prisoners of War' focuses on Israeli soldiers who spent years as what?",
-    "options": [
-      "Refugees",
-      "Captives",
-      "Mercenaries",
-      "Politicians"
-    ],
+    "title": "In 'Nouvelle Vague' (2025), which filmmaker is the subject of the movie about making 'Breathless'?",
+    "options": ["François Truffaut", "Jean-Luc Godard", "Jacques Demy", "Agnès Varda"],
     "correctIndex": 1,
-    "explanation": "They were captives for many years."
+    "explanation": "Jean-Luc Godard is the subject of 'Nouvelle Vague'."
   },
   {
     "id": "mv-2227",
-    "title": "Martin Rauch is recruited as a spy in West Germany in which mini-series?",
-    "options": [
-      "Deutschland 83",
-      "Our Mothers, Our Fathers",
-      "Line of Separation",
-      "Generation War"
-    ],
-    "correctIndex": 0,
-    "explanation": "Deutschland 83 is about East German espionage."
+    "title": "Which character is known as 'the man who refuses to die' in 'Sisu: Road to Revenge' (2025)?",
+    "options": ["Assane Diop", "Jorma Tommila", "Neal Caffrey", "Jack Corbett"],
+    "correctIndex": 1,
+    "explanation": "Jorma Tommila plays 'the man who refuses to die'."
   },
   {
     "id": "mv-2228",
-    "title": "What is Anne's profession in the crime drama 'Fortier'?",
-    "options": [
-      "Lawyer",
-      "Psychologist",
-      "Detective",
-      "Reporter"
-    ],
+    "title": "'Pavements' (2025) is primarily a documentary about which 90s alternative band?",
+    "options": ["Blur", "Pavement", "Nirvana", "R.E.M."],
     "correctIndex": 1,
-    "explanation": "She is a criminal psychologist."
+    "explanation": "It's about the band Pavement."
   },
   {
     "id": "mv-2229",
-    "title": "Which Swedish drama series follows characters trying to obtain quick money illegally?",
-    "options": [
-      "Tusenbröder",
-      "Beck",
-      "Wallander",
-      "Kopps"
-    ],
+    "title": "In 'Sisu: Road to Revenge' (2025), who plays the returning Red Army commander?",
+    "options": ["Stephen Lang", "Jack Corbett", "Josh Radnor", "Adam Bessa"],
     "correctIndex": 0,
-    "explanation": "Tusenbröder tells how desperation leads to crime."
+    "explanation": "Stephen Lang plays the Red Army commander."
   },
   {
     "id": "mv-2230",
-    "title": "Which show is set after a worldwide disaster and follows the crew of the Estrella Polar?",
-    "options": [
-      "Money Heist",
-      "The Boat",
-      "Gran Hotel",
-      "El Barco"
-    ],
+    "title": "Who tells the story in 'Stiller & Meara: Nothing Is Lost' (2025)?",
+    "options": ["Joel Grey", "Ben Stiller", "Anne Meara", "Michael Feinstein"],
     "correctIndex": 1,
-    "explanation": "'The Boat' is about survival after a global catastrophe."
+    "explanation": "Ben Stiller tells the story of his parents."
   },
   {
     "id": "mv-2231",
-    "title": "What city is the center of the Dublin gang crime scene in 'Love/Hate'?",
-    "options": [
-      "London",
-      "Dublin",
-      "Belfast",
-      "Cork"
-    ],
+    "title": "What kind of unusual creature is Donut in 'Boys Go to Jupiter' (2025)?",
+    "options": ["Dog", "Bizarre alien", "Cat", "Talking Juice Box"],
     "correctIndex": 1,
-    "explanation": "Set in the organized crime world of Dublin."
+    "explanation": "Donut is a bizarre creature from another world."
   },
   {
     "id": "mv-2232",
-    "title": "In 'Gomorrah', who risks his life to become the next boss of the syndicate?",
-    "options": [
-      "Marco D'Amore",
-      "Gennaro Savastano",
-      "Ciro",
-      "Salvatore Contini"
-    ],
-    "correctIndex": 2,
-    "explanation": "Ciro breaks with tradition to become the boss."
+    "title": "Which film released in 2025 is about seeking revenge and justice post Syria conflict?",
+    "options": ["Happyend", "Ghost Trail", "Bring Her Back", "Coexistence, My Ass!"],
+    "correctIndex": 1,
+    "explanation": "'Ghost Trail' is about justice post Syria conflict."
   },
   {
     "id": "mv-2233",
-    "title": "Which series features a prosecutor with reduced emotional capacity assisted by a female detective?",
-    "options": [
-      "Signal",
-      "Stranger",
-      "Bad Guys",
-      "Tunnel"
-    ],
-    "correctIndex": 1,
-    "explanation": "Stranger follows the duo battling political corruption."
+    "title": "Who is the protagonist of 'Father Mother Sister Brother' (2025)?",
+    "options": ["Didi", "Cliff", "Estranged siblings", "Hamid"],
+    "correctIndex": 2,
+    "explanation": "Estranged siblings are the central characters."
   },
   {
     "id": "mv-2234",
-    "title": "What is the narrative style of 'Performances' (Forestillinger)?",
-    "options": [
-      "One timeline, multiple perspectives",
-      "Single perspective",
-      "Parallel timelines",
-      "First-person narration"
-    ],
+    "title": "Which classic spoof series is continued in 'The Naked Gun' (2025)?",
+    "options": ["Police Squad", "The Sinner", "Family Matters", "Fear the Walking Dead"],
     "correctIndex": 0,
-    "explanation": "Events are told from different characters' points of view."
+    "explanation": "'The Naked Gun' continues the Police Squad series."
   },
   {
     "id": "mv-2235",
-    "title": "In 'The Ministry of Time', what do the main characters guard against?",
-    "options": [
-      "Alien invasions",
-      "Time travel manipulation",
-      "Political assassinations",
-      "Espionage"
-    ],
+    "title": "What is the secret profession of Hamid in 'Ghost Trail' (2025)?",
+    "options": ["Secret agent", "Literature professor", "Online reseller", "Comedian"],
     "correctIndex": 1,
-    "explanation": "They prevent people from changing history via time travel."
+    "explanation": "He's a mild-mannered literature professor undercover."
   },
   {
     "id": "mv-2236",
-    "title": "Which series is structured in two parts, 'Beta Project' and 'Grand New World'?",
-    "options": [
-      "Stranger",
-      "Circle",
-      "Signal",
-      "Defendant"
-    ],
+    "title": "Which upcoming film features Jerry Stiller and Anne Meara's lives and careers?",
+    "options": ["The Plague", "Stiller & Meara: Nothing Is Lost", "The Baltimorons", "Liza: A Truly Terrific Absolutely True Story"],
     "correctIndex": 1,
-    "explanation": "Circle is a dual-timeline sci-fi drama."
+    "explanation": "'Stiller & Meara: Nothing Is Lost' is about Jerry Stiller and Anne Meara."
   },
   {
     "id": "mv-2237",
-    "title": "In the Taiwanese series 'Nie zi', what major issue is faced by the protagonist, A Qing?",
-    "options": [
-      "Religious discrimination",
-      "Homophobia",
-      "Poverty",
-      "Political oppression"
-    ],
+    "title": "Who is Hamid hunting in 'Ghost Trail' (2025)?",
+    "options": ["His mother", "His torturer", "His brother", "Rozebud"],
     "correctIndex": 1,
-    "explanation": "A Qing faces intolerance due to his sexual orientation."
+    "explanation": "Hamid is tracking his torturer."
   },
   {
     "id": "mv-2238",
-    "title": "'Braquo' features a squad of Paris cops led by which actor?",
-    "options": [
-      "Jean-Hugues Anglade",
-      "Rodolphe Vaillant",
-      "Vincent Cassel",
-      "Emmanuel Béart"
-    ],
-    "correctIndex": 0,
-    "explanation": "Jean-Hugues Anglade stars as Eddy Caplan."
+    "title": "What traumatic event do the siblings in 'Father Mother Sister Brother' (2025) confront?",
+    "options": ["Financial hardship", "Childhood accident", "Estrangement and unresolved tensions", "Loss of a pet"],
+    "correctIndex": 2,
+    "explanation": "They confront estrangement and unresolved tensions."
   },
   {
     "id": "mv-2239",
-    "title": "In 'Cable Girls', what era is depicted regarding four women's struggles in Madrid?",
-    "options": [
-      "1950s",
-      "1920s",
-      "1990s",
-      "1980s"
-    ],
+    "title": "Who becomes suspicious of CW in 'Influencers' (2025)?",
+    "options": ["Charlotte", "Diane", "Hamid", "Uma"],
     "correctIndex": 1,
-    "explanation": "Set in the 1920s during the early days of telephone operation."
+    "explanation": "Diane begins to suspect the truth."
   },
   {
     "id": "mv-2240",
-    "title": "Which Danish-Swedish series opens with a body found on a bridge?",
-    "options": [
-      "The Bridge",
-      "The Investigation",
-      "The Tunnel",
-      "The Killing"
-    ],
-    "correctIndex": 0,
-    "explanation": "The Bridge begins with a murder on the Øresund Bridge."
+    "title": "In 'Happyend' (2025), what precipitates the installation of school surveillance?",
+    "options": ["Student uprising", "A prank on the principal", "Earthquake", "Theft"],
+    "correctIndex": 1,
+    "explanation": "A prank on the principal before graduation leads to surveillance."
   },
   {
     "id": "mv-2241",
-    "title": "'Suburra: Blood on Rome' pits organized crime against which other institutions?",
-    "options": [
-      "Journalists",
-      "Politicians and Vatican",
-      "Police",
-      "Royal family"
-    ],
-    "correctIndex": 1,
-    "explanation": "Political corruption and the Vatican are involved in the conflict."
+    "title": "Who does Cliff go on an adventure with in 'The Baltimorons' (2025)?",
+    "options": ["Didi, his emergency dentist", "Rozebud", "Millie", "Uma"],
+    "correctIndex": 0,
+    "explanation": "Didi is Cliff's emergency dentist."
   },
   {
     "id": "mv-2242",
-    "title": "In 'Malgudi Days', what is the main setting?",
-    "options": [
-      "Fictional Indian town",
-      "Urban Mumbai",
-      "Himalayan village",
-      "Delhi suburb"
-    ],
-    "correctIndex": 0,
-    "explanation": "All stories are set in the fictitious town of Malgudi."
+    "title": "Which film tells the true story of Sally Ride’s romance and life in space (2025)?",
+    "options": ["Stiller & Meara: Nothing Is Lost", "Sally", "My Dead Friend Zoe", "My Mom Jayne"],
+    "correctIndex": 1,
+    "explanation": "'Sally' tells her story."
   },
   {
     "id": "mv-2243",
-    "title": "What is the primary weapon the Money Heist team wants from the Royal Mint?",
-    "options": [
-      "Gold bars",
-      "Money printing press",
-      "Diamonds",
-      "Treasury bonds"
-    ],
-    "correctIndex": 1,
-    "explanation": "They plan to print untraceable money at the Mint."
+    "title": "Who is the central comedic figure of 'Coexistence, My Ass!' (2025)?",
+    "options": ["Noam Shuster Eliassi", "Ben Stiller", "Sally Ride", "Halston"],
+    "correctIndex": 0,
+    "explanation": "Noam Shuster Eliassi is the comedian starring in the film."
   },
   {
     "id": "mv-2244",
-    "title": "Which show portrays the battle for family inheritance in Denmark?",
-    "options": [
-      "The Rain",
-      "The Legacy",
-      "Follow the Money",
-      "Rita"
-    ],
+    "title": "What genre best describes 'The Plague' (2025)?",
+    "options": ["Superhero", "Coming-of-age drama", "Historical epic", "Science fiction"],
     "correctIndex": 1,
-    "explanation": "The Legacy deals with the fallout after a matriarch's death."
+    "explanation": "'The Plague' is a coming-of-age drama."
   },
   {
     "id": "mv-2245",
-    "title": "'Prisoners of War' inspired which acclaimed American series?",
-    "options": [
-      "Homeland",
-      "The Americans",
-      "24",
-      "Jericho"
-    ],
+    "title": "In 'My Mom Jayne' (2025), who is the daughter of Jayne Mansfield?",
+    "options": ["Mariska Hargitay", "Kay Thompson", "Miya Folick", "Anne Meara"],
     "correctIndex": 0,
-    "explanation": "'Prisoners of War' is the basis for 'Homeland'."
+    "explanation": "Mariska Hargitay is Jayne Mansfield's daughter."
   },
   {
     "id": "mv-2246",
-    "title": "Who is the main antagonist after the president's assassination in 'Spin'?",
-    "options": [
-      "A radical group",
-      "The Secretary of State",
-      "The Prime Minister",
-      "The Foreign Minister"
-    ],
+    "title": "Which movie is set in near-future Tokyo and deals with a catastrophic quake ('Happyend', 2025)?",
+    "options": ["The Baltimorons", "Happyend", "Ghost Trail", "Cloud"],
     "correctIndex": 1,
-    "explanation": "The Secretary of State enters the presidential race."
+    "explanation": "'Happyend' is set in near-future Tokyo."
   },
   {
     "id": "mv-2247",
-    "title": "In 'Don't Ever Wipe Tears Without Gloves', what major epidemic hits Stockholm?",
-    "options": [
-      "Cholera",
-      "AIDS",
-      "SARS",
-      "Spanish flu"
-    ],
+    "title": "In 'Bring Her Back' (2025), who unravels the terrifying ritual?",
+    "options": ["Billy 5000", "A brother and sister", "Cliff and Didi", "Noam Shuster Eliassi"],
     "correctIndex": 1,
-    "explanation": "The AIDS crisis is central to the story."
+    "explanation": "A brother and sister uncover the ritual."
   },
   {
     "id": "mv-2248",
-    "title": "Which character from 'Money Heist' is the mastermind of the heist?",
-    "options": [
-      "The Professor",
-      "Berlin",
-      "Tokyo",
-      "Moscow"
-    ],
+    "title": "Uma tries to fit in as a housewife in which 2025 movie?",
+    "options": ["Sister Midnight", "Nouvelle Vague", "She Rides Shotgun", "Father Mother Sister Brother"],
     "correctIndex": 0,
-    "explanation": "The Professor is the planner and leader."
+    "explanation": "'Sister Midnight' is about Uma."
   },
   {
     "id": "mv-2249",
-    "title": "Which genre best describes 'Braquo'?",
-    "options": [
-      "Comedy",
-      "Crime drama",
-      "Historical fiction",
-      "Science fiction"
-    ],
+    "title": "Which film uses a multiplayer video game for secret communication ('Ghost Trail', 2025)?",
+    "options": ["Stiller & Meara: Nothing Is Lost", "Ghost Trail", "Liza: A Truly Terrific Absolutely True Story", "The Baltimorons"],
     "correctIndex": 1,
-    "explanation": "Braquo is a gritty police crime drama."
+    "explanation": "The cell in 'Ghost Trail' uses a multiplayer video game."
   },
   {
     "id": "mv-2250",
-    "title": "Which series follows the story of the Banda della Magia, a prolific Italian crime family in 1970s Rome?",
-    "options": ["Romanzo criminale - La serie", "Gomorrah", "Suburra", "ZeroZeroZero"],
+    "title": "Who is the powerful CEO in 'Boys Go to Jupiter' (2025)?",
+    "options": ["Janeane Garofalo", "Charlotte", "Halston", "Kim Minhee"],
     "correctIndex": 0,
-    "explanation": "'Romanzo criminale - La serie' is set in 1970s Rome and tells the story of the Banda della Magia."
+    "explanation": "Janeane Garofalo plays Dr. Dolphin, the CEO."
   },
   {
     "id": "mv-2251",
-    "title": "In which series do two 15-year-old boys secretly meet in a forest and witness a blood bath?",
-    "options": ["Trapped", "Eyewitness", "The Bridge", "The Fall"],
+    "title": "In 'My Dead Friend Zoe' (2025), who does the protagonist have a mysterious relationship with?",
+    "options": ["Her girlfriend", "Her dead best friend", "Her uncle", "Her daughter"],
     "correctIndex": 1,
-    "explanation": "'Eyewitness' is about two boys who meet in the forest and become witnesses to a crime."
+    "explanation": "It's her dead best friend from the Army."
   },
   {
     "id": "mv-2252",
-    "title": "What is the mysterious object that connects the characters in 'Utopia'?",
-    "options": ["An old map", "A secret tape", "A graphic novel", "A coded website"],
-    "correctIndex": 2,
-    "explanation": "In 'Utopia', a graphic novel is the central object holding mysterious answers."
+    "title": "What does CW obsess over in 'Influencers' (2025)?",
+    "options": ["Fame and fortune", "Murder and stolen identities", "Being a social media influencer", "Collecting rare books"],
+    "correctIndex": 1,
+    "explanation": "CW is obsessed with murder and stolen identities."
   },
   {
     "id": "mv-2253",
-    "title": "Which show is set in a department store and follows a young woman caught up in the charms of the modern world?",
-    "options": ["Mr. Selfridge", "The Paradise", "Velvet", "Self Made"],
+    "title": "Who tells Sally Ride's full story in 'Sally' (2025)?",
+    "options": ["Sally Ride", "Tam O’Shaughnessy", "Chita Rivera", "Fred Ebb"],
     "correctIndex": 1,
-    "explanation": "'The Paradise' chronicles the life of a young woman working in a department store."
+    "explanation": "Tam O’Shaughnessy, Sally Ride’s life partner, tells the story."
   },
   {
     "id": "mv-2254",
-    "title": "Who plays Detective Robin Griffin in 'Top of the Lake'?",
-    "options": ["Joanna Vanderham", "Gabriel Byrne", "Elisabeth Moss", "Anneke von der Lippe"],
-    "correctIndex": 2,
-    "explanation": "Elisabeth Moss plays the main detective in 'Top of the Lake'."
+    "title": "Which film explores a prank-gone-wrong in a Japanese school before graduation?",
+    "options": ["Pavements", "Happyend", "The Plague", "Sally"],
+    "correctIndex": 1,
+    "explanation": "'Happyend' starts with a prank before graduation."
   },
   {
     "id": "mv-2255",
-    "title": "Which show includes a controversial hydroelectric project as a key backdrop?",
-    "options": ["Reykjavik", "The Lava Field", "The Cliff", "Trapped"],
-    "correctIndex": 1,
-    "explanation": "'The Lava Field' features a controversial hydroelectric project."
+    "title": "Who must fight against enemies in 'She Rides Shotgun' (2025)?",
+    "options": ["Nate", "Billy", "Uma", "Rozebud"],
+    "correctIndex": 0,
+    "explanation": "Nate, played by Taron Egerton, is marked for death."
   },
   {
     "id": "mv-2256",
-    "title": "In 'Shuga', which city does the first season primarily take place in?",
-    "options": ["Nairobi", "Lagos", "Cape Town", "Accra"],
-    "correctIndex": 0,
-    "explanation": "Season one of 'Shuga' is set in Nairobi, Kenya."
+    "title": "In 'Together' (2025), which actors play Tim and Millie?",
+    "options": ["Ben Stiller and Alison Brie", "Dave Franco and Alison Brie", "Ben Vereen and Mia Farrow", "Liam Neeson and Miya Folick"],
+    "correctIndex": 1,
+    "explanation": "Dave Franco and Alison Brie star as Tim and Millie."
   },
   {
     "id": "mv-2257",
-    "title": "In '100 Code', what connects the string of murders in New York and Stockholm?",
-    "options": ["Red roses left at the scene", "Victims are all journalists", "Meadows of Asphodel flowers", "Signed notes from the killer"],
-    "correctIndex": 2,
-    "explanation": "The victims are found in meadows where Asphodel flowers grow."
+    "title": "Who becomes a stowaway in 'Boys Go to Jupiter' (2025)?",
+    "options": ["Didi", "Donut", "Hamid", "Sally Ride"],
+    "correctIndex": 1,
+    "explanation": "Donut, the creature, stows away with Billy."
   },
   {
     "id": "mv-2258",
-    "title": "'Clona' is also known by what alternative English title?",
-    "options": ["Photograph", "The Click", "The Lens", "The Case"],
-    "correctIndex": 2,
-    "explanation": "'Clona' is also released as 'The Lens'."
+    "title": "Who cracks a tooth on Christmas Eve in 'The Baltimorons' (2025)?",
+    "options": ["Rozebud", "Cliff", "Donut", "Noam Shuster Eliassi"],
+    "correctIndex": 1,
+    "explanation": "Cliff cracks a tooth."
   },
   {
     "id": "mv-2259",
-    "title": "Which Spanish series is set in a fashion house in Madrid during the late 1950s?",
-    "options": ["Cable Girls", "Gran Hotel", "Velvet", "The Paradise"],
-    "correctIndex": 2,
-    "explanation": "'Velvet' centers on a 1950s fashion house in Madrid."
-  },
-  {
-    "id": "mv-2260",
-    "title": "Who stars as chief pathologist Quirke in the Irish series 'Quirke'?",
-    "options": ["Adeel Akhtar", "Brian Gleeson", "Stephen Wight", "Gabriel Byrne"],
-    "correctIndex": 3,
-    "explanation": "Gabriel Byrne plays Quirke."
-  },
-  {
-    "id": "mv-2261",
-    "title": "Which Icelandic series revolves around a hard-hitting tabloid journalist?",
-    "options": ["The Press", "The Cliff", "Trapped", "The Lava Field"],
-    "correctIndex": 0,
-    "explanation": "'The Press' is about an Icelandic tabloid journalist."
-  },
-  {
-    "id": "mv-2262",
-    "title": "In 'Impulse', what power does the main character discover she has?",
-    "options": ["Super strength", "Mind reading", "Teleportation", "Time manipulation"],
-    "correctIndex": 2,
-    "explanation": "The protagonist of 'Impulse' can teleport."
-  },
-  {
-    "id": "mv-2263",
-    "title": "'Pigalle, la nuit' is predominantly set in which district?",
-    "options": ["Le Marais", "Montmartre", "Pigalle", "La Défense"],
-    "correctIndex": 2,
-    "explanation": "The mini-series is set in the Pigalle red light district."
-  },
-  {
-    "id": "mv-2264",
-    "title": "'Top Boy' is set in which part of London?",
-    "options": ["West London", "North London", "East London", "South London"],
-    "correctIndex": 2,
-    "explanation": "'Top Boy' takes place in East London."
-  },
-  {
-    "id": "mv-2265",
-    "title": "In which Dutch drama does a steamy affair entangle a photographer and a lawyer?",
-    "options": ["The Adulterer", "Overspel", "The Arrangement", "The Affair"],
+    "title": "What tragic event leads to Liza Minnelli's journey in 'Liza: A Truly Terrific Absolutely True Story' (2025)?",
+    "options": ["A career setback", "Death of her mother Judy Garland", "Losing her savings", "Breaking up with Halston"],
     "correctIndex": 1,
-    "explanation": "'Overspel' is the Dutch drama focusing on a photographer and a lawyer's affair."
-  },
-  {
-    "id": "mv-2266",
-    "title": "What triggers the investigation in 'Virage Nord'?",
-    "options": ["A robbery", "A fire in a stadium", "Death of a soccer fan", "A match-fixing scandal"],
-    "correctIndex": 2,
-    "explanation": "The series begins after the death of a 17-year-old soccer fan."
-  },
-  {
-    "id": "mv-2267",
-    "title": "Which series centers around ambitious Jana navigating the high-stakes world of finance in Germany?",
-    "options": ["Dark", "Bad Banks", "Babylon Berlin", "Deutschland 83"],
-    "correctIndex": 1,
-    "explanation": "'Bad Banks' follows Jana in the financial world."
-  },
-  {
-    "id": "mv-2268",
-    "title": "Who is Hugo Lopez in 'Malicia'?",
-    "options": ["A brave detective", "The DA", "The cult leader antagonist", "A journalist"],
-    "correctIndex": 2,
-    "explanation": "Hugo Lopez is the leader of The Sons of Saturn cult."
-  },
-  {
-    "id": "mv-2269",
-    "title": "Which long-running French crime show is known as 'Engrenages' in its original language?",
-    "options": ["Braquo", "Spiral", "La Mante", "The Bureau"],
-    "correctIndex": 1,
-    "explanation": "'Spiral' is known as 'Engrenages' in French."
-  },
-  {
-    "id": "mv-2270",
-    "title": "In 'TharnType', what upends Type's life as a college student?",
-    "options": ["He changes his major", "He leaves school", "He gets a new roommate", "He discovers a secret club"],
-    "correctIndex": 2,
-    "explanation": "Type's life is changed when he gets a new roommate, Tharn."
-  },
-  {
-    "id": "mv-2271",
-    "title": "'Lulu & Leon' is a drama from which country?",
-    "options": ["Denmark", "Norway", "Sweden", "Finland"],
-    "correctIndex": 0,
-    "explanation": "'Lulu & Leon' is a Danish TV series."
-  },
-  {
-    "id": "mv-2272",
-    "title": "In 'The Rain', what catastrophic event puts siblings on a perilous journey?",
-    "options": ["A war", "A brutal virus outbreak", "A solar flare", "Mass flooding"],
-    "correctIndex": 1,
-    "explanation": "A brutal virus wipes out most of the population in 'The Rain'."
-  },
-  {
-    "id": "mv-2273",
-    "title": "Who suffers from Dissociative Identity Disorder (multiple personalities) in 'Kill Me, Heal Me'?",
-    "options": ["Oh Ri Jin", "Lee Ki-joon", "Cha Do Hyun", "Park Seo-joon"],
-    "correctIndex": 2,
-    "explanation": "Cha Do Hyun has 7 personalities due to DID."
-  },
-  {
-    "id": "mv-2274",
-    "title": "'Fugitives' is a drama from which country?",
-    "options": ["Chile", "Argentina", "Colombia", "Mexico"],
-    "correctIndex": 0,
-    "explanation": "'Fugitives' (Prófugos) is a Chilean drama."
-  },
-  {
-    "id": "mv-2275",
-    "title": "Where do two siblings go after their parents vanish at sea in 'The Boarding School'?",
-    "options": ["A relative's farm", "An exclusive boarding school", "A city apartment", "A hospital"],
-    "correctIndex": 1,
-    "explanation": "They enter an exclusive boarding school."
-  },
-  {
-    "id": "mv-2276",
-    "title": "Who returns to his Norwegian hometown after being acquitted of murder in 'Acquitted'?",
-    "options": ["Aksel Borgen", "Henrik Rafaelsen", "Siv Rajendram", "Esben Toft Jacobsen"],
-    "correctIndex": 0,
-    "explanation": "Aksel Borgen is the protagonist of 'Acquitted'."
-  },
-  {
-    "id": "mv-2277",
-    "title": "Which Hungarian family drama follows a corrupt businessman facing legal and financial problems?",
-    "options": ["Fargo", "The Rain", "Aranyélet", "The Bureau"],
-    "correctIndex": 2,
-    "explanation": "'Aranyélet' is about a corrupt businessman in Hungary."
-  },
-  {
-    "id": "mv-2278",
-    "title": "What is the main premise of 'The Refugees'?",
-    "options": ["Aliens invade Earth", "Time travelers join present-day society", "A virus threatens humanity", "A wealthy family loses everything"],
-    "correctIndex": 1,
-    "explanation": "It's about a mass exodus of humans from the future to the present time."
-  },
-  {
-    "id": "mv-2279",
-    "title": "Which actor portrays the infamous drug lord in 'El Chapo'?",
-    "options": ["Wagner Moura", "Marco de la O", "Luis Guzmán", "Diego Luna"],
-    "correctIndex": 1,
-    "explanation": "Marco de la O plays El Chapo."
-  },
-  {
-    "id": "mv-2280",
-    "title": "In 'Pigalle, la nuit', what is the setting famous for?",
-    "options": ["Financial district", "Political intrigue", "Red light district", "University campus"],
-    "correctIndex": 2,
-    "explanation": "Pigalle is Paris's red light district."
-  },
-  {
-    "id": "mv-2281",
-    "title": "Which show includes characters like Mohau Cele and Ange Eric N'Guessan and is set in Nairobi?",
-    "options": ["The Rain", "Clona", "Shuga", "El Chapo"],
-    "correctIndex": 2,
-    "explanation": "'Shuga' is set in Nairobi and stars Mohau Cele."
-  },
-  {
-    "id": "mv-2282",
-    "title": "What is the name of the main crime organization in 'Romanzo criminale - La serie'?",
-    "options": ["La Cosa Nostra", "Banda della Magia", "Camorra", "Sacra Corona Unita"],
-    "correctIndex": 1,
-    "explanation": "'Romanzo criminale' centers on the Banda della Magia."
-  },
-  {
-    "id": "mv-2283",
-    "title": "'Quirke' investigates what kind of cases?",
-    "options": ["Political corruption", "Sudden death victims", "Art theft", "Corporate espionage"],
-    "correctIndex": 1,
-    "explanation": "Quirke is a pathologist investigating sudden deaths."
-  },
-  {
-    "id": "mv-2284",
-    "title": "'Velvet' is mainly about the workings of which industry?",
-    "options": ["Technology", "Automobile", "Fashion", "Banking"],
-    "correctIndex": 2,
-    "explanation": "The show is set in a fashion house."
-  },
-  {
-    "id": "mv-2285",
-    "title": "What kind of journalist is at the core of 'The Press'?",
-    "options": ["Sports journalist", "Tabloid journalist", "Political journalist", "Science journalist"],
-    "correctIndex": 1,
-    "explanation": "'The Press' is about a tabloid journalist."
-  },
-  {
-    "id": "mv-2286",
-    "title": "'Utopia' features a group being hunted by which group?",
-    "options": ["The Consortium", "The Network", "The Secret Society", "The Phoenix"],
-    "correctIndex": 1,
-    "explanation": "The Network hunts the protagonists in 'Utopia'."
-  },
-  {
-    "id": "mv-2287",
-    "title": "The Icelandic drama 'The Lava Field' is known for being:",
-    "options": ["A sitcom", "A period drama", "A modern mystery crime mini-series", "A historical epic"],
-    "correctIndex": 2,
-    "explanation": "'The Lava Field' is a modern crime mystery."
-  },
-  {
-    "id": "mv-2288",
-    "title": "What is the real profession of the main character in 'Clona'?",
-    "options": ["Artist", "Traffic photographer", "Police detective", "Prosecutor"],
-    "correctIndex": 1,
-    "explanation": "He is a traffic photographer who helps the police."
-  },
-  {
-    "id": "mv-2289",
-    "title": "Which Scandinavian series follows siblings searching for safety in a post-apocalyptic world?",
-    "options": ["The Rain", "Trapped", "Acquitted", "Borgen"],
-    "correctIndex": 0,
-    "explanation": "'The Rain' is a post-apocalyptic series from Denmark."
-  },
-  {
-    "id": "mv-2290",
-    "title": "Who takes over the Corsican mob in 'Mafiosa' after Francois Paoli's murder?",
-    "options": ["Sandra Paoli", "Eric Fraticelli", "Phareelle Onoyan", "Frédéric Graziani"],
-    "correctIndex": 0,
-    "explanation": "Sandra Paoli, the niece, takes over after her uncle's death."
-  },
-  {
-    "id": "mv-2291",
-    "title": "In 'Signal', which item allows characters to solve cold cases across different years?",
-    "options": ["Cell phone", "Walkie-talkie", "Book", "USB drive"],
-    "correctIndex": 1,
-    "explanation": "The profiler in 2015 and detective in 1989 communicate via a special walkie-talkie."
-  },
-  {
-    "id": "mv-2292",
-    "title": "What is the central family dilemma in 'Better Than Us'?",
-    "options": ["Robot adoption", "Divorce papers", "Missing child", "Bankruptcy"],
-    "correctIndex": 0,
-    "explanation": "A family on the brink of splitting up acquires a robot."
-  },
-  {
-    "id": "mv-2293",
-    "title": "Who is one of the central professions in 'Estocolmo'?",
-    "options": ["Judge", "Undercover agent", "Driver", "Nurse"],
-    "correctIndex": 1,
-    "explanation": "One main character is an undercover agent."
-  },
-  {
-    "id": "mv-2294",
-    "title": "In 'Une chance de trop', what happens to the main character's daughter?",
-    "options": ["She is kidnapped", "She is adopted", "She is injured", "She is found guilty"],
-    "correctIndex": 0,
-    "explanation": "Her infant daughter is kidnapped during a brutal attack."
-  },
-  {
-    "id": "mv-2295",
-    "title": "What event kickstarts the investigation in 'The Break'?",
-    "options": ["Assassination", "Kidnapping", "The finding of a young man's body", "Heist"],
-    "correctIndex": 2,
-    "explanation": "Crime series begins with finding a young man's body."
-  },
-  {
-    "id": "mv-2296",
-    "title": "The Israeli series 'Fauda' depicts the human stories behind which conflict?",
-    "options": ["Iraq War", "Israel-Palestine conflict", "Syrian War", "Bosnian War"],
-    "correctIndex": 1,
-    "explanation": "It focuses on the Israel-Palestine conflict."
-  },
-  {
-    "id": "mv-2297",
-    "title": "'Four Seasons in Havana' follows which profession as its main character?",
-    "options": ["Lawyer", "Doctor", "Lieutenant police officer", "Chef"],
-    "correctIndex": 2,
-    "explanation": "Lieutenant Conde is the main character, a police officer."
-  },
-  {
-    "id": "mv-2298",
-    "title": "'Black Spot' is set in a town on the edge of what?",
-    "options": ["Desert", "Forest", "Mountain", "Sea"],
-    "correctIndex": 1,
-    "explanation": "The town is at the edge of a mysterious forest."
-  },
-  {
-    "id": "mv-2299",
-    "title": "Which country serves as the setting for 'Bordertown'?",
-    "options": ["Norway", "Russia", "Finland", "Germany"],
-    "correctIndex": 2,
-    "explanation": "The quirky detective works in Finland."
-  },
-  {
-    "id": "mv-2300",
-    "title": "What is stolen at the beginning of 'Cannabis'?",
-    "options": ["Weapons", "Huge marijuana shipment", "Money", "Artworks"],
-    "correctIndex": 1,
-    "explanation": "A huge marijuana shipment falls prey to thieves."
-  },
-  {
-    "id": "mv-2301",
-    "title": "Which city is central to the drama of 'Skam'?",
-    "options": ["Copenhagen", "Oslo", "Stockholm", "Gothenburg"],
-    "correctIndex": 1,
-    "explanation": "'Skam' centers on teenagers at a secondary school in Oslo."
-  },
-  {
-    "id": "mv-2302",
-    "title": "'Sin identidad' revolves around which shocking discovery by the protagonist?",
-    "options": ["She was adopted", "She was divorced", "She had a twin", "She inherited a fortune"],
-    "correctIndex": 0,
-    "explanation": "Mary is shocked to discover she is adopted."
-  },
-  {
-    "id": "mv-2303",
-    "title": "Which of the following best describes 'Bajo sospecha'?",
-    "options": ["Sci-fi drama", "Romantic comedy", "Murder mystery with family secrets", "Sports show"],
-    "correctIndex": 2,
-    "explanation": "It's a murder mystery full of family secrets and intrigue."
-  },
-  {
-    "id": "mv-2304",
-    "title": "In 'Section Zéro', what organization is cop Sirius fighting against?",
-    "options": ["Drug cartel", "Private militias", "Royal family", "Alien invaders"],
-    "correctIndex": 1,
-    "explanation": "He fights against private militias trying to replace police."
-  },
-  {
-    "id": "mv-2305",
-    "title": "'Life: Love on the Line' is a story about two boys who meet when they both attempt to do what?",
-    "options": ["Ride a bike", "Walk along the white line on the sidewalk", "Catch a train", "Climb a tree"],
-    "correctIndex": 1,
-    "explanation": "They meet when attempting to walk along the white line."
-  },
-  {
-    "id": "mv-2306",
-    "title": "In 'Les témoins', what implicates the former chief-of-police?",
-    "options": ["Buried treasure", "Hidden documents", "The dead family found in a house", "Car accident"],
-    "correctIndex": 2,
-    "explanation": "A dead family found in a house for sale implicates him."
-  },
-  {
-    "id": "mv-2307",
-    "title": "What draws the estranged children back home in 'Thicker Than Water'?",
-    "options": ["An inheritance", "Wedding", "Postcards from their mother", "Murder"],
-    "correctIndex": 2,
-    "explanation": "Mother sends them postcards with advice."
-  },
-  {
-    "id": "mv-2308",
-    "title": "In 'Misfits', what causes the group of young offenders to develop superpowers?",
-    "options": ["Genetic experiment", "Radioactive leak", "Lightning during a storm", "A virus outbreak"],
-    "correctIndex": 2,
-    "explanation": "They are struck by lightning during a storm."
-  },
-  {
-    "id": "mv-2309",
-    "title": "Who plays the ex-policeman protagonist in 'The Hunter'?",
-    "options": ["Cauã Reymond", "Nanda Costa", "Alton Graça", "Cleo Pires"],
-    "correctIndex": 0,
-    "explanation": "Cauã Reymond stars as the ex-policeman."
-  },
-  {
-    "id": "mv-2310",
-    "title": "'Orphan Black' begins when Sarah Manning witnesses what?",
-    "options": ["A kidnapping", "A girl identical to her committing suicide", "Bank robbery", "Car accident"],
-    "correctIndex": 1,
-    "explanation": "Sarah sees a girl who looks just like her commit suicide."
-  },
-  {
-    "id": "mv-2311",
-    "title": "Which genre best classifies 'The House of Flowers'?",
-    "options": ["Historical", "Thriller", "Comedy-drama", "Horror"],
-    "correctIndex": 2,
-    "explanation": "It's a blend of comedic and dramatic tones about a family."
-  },
-  {
-    "id": "mv-2312",
-    "title": "What do the main characters start in 'How to Sell Drugs Online (Fast)'?",
-    "options": ["A band", "Clothing store", "Europe's largest online drug business", "Political party"],
-    "correctIndex": 2,
-    "explanation": "They create an online drug business."
-  },
-  {
-    "id": "mv-2313",
-    "title": "Who is Béatrice Clément in 'Au secours de Béatrice'?",
-    "options": ["Lawyer", "Nurse", "Emergency doctor", "Teacher"],
-    "correctIndex": 2,
-    "explanation": "She is a 48-year-old emergency doctor."
-  },
-  {
-    "id": "mv-2314",
-    "title": "'Midnight Sun' features an investigation in which country besides France?",
-    "options": ["Norway", "Sweden", "Tunisia", "Italy"],
-    "correctIndex": 1,
-    "explanation": "French homicide investigator travels to Kiruna, Sweden."
-  },
-  {
-    "id": "mv-2315",
-    "title": "In 'Heartless', what curse do the twin siblings suffer from?",
-    "options": ["Draw life energy from humans", "Time traveling", "Werewolf transformation", "Mind reading"],
-    "correctIndex": 0,
-    "explanation": "They must drain energy from humans to survive."
-  },
-  {
-    "id": "mv-2316",
-    "title": "Which question drives the core of 'Breathe'?",
-    "options": ["How far will you go to protect the one you love?", "Who is the killer?", "Is the world real?", "What happened in the past?"],
-    "correctIndex": 0,
-    "explanation": "It asks how far characters will go for their loved ones."
-  },
-  {
-    "id": "mv-2317",
-    "title": "'Unité 9' is primarily set in what location?",
-    "options": ["Hospital", "Police station", "Prison", "Law firm"],
-    "correctIndex": 2,
-    "explanation": "The series is about a woman in prison."
-  },
-  {
-    "id": "mv-2318",
-    "title": "What is the backdrop for the investigations in 'Duel au soleil'?",
-    "options": ["Marseille", "Corsica", "Lyon", "Paris"],
-    "correctIndex": 1,
-    "explanation": "Corsica is the setting for the show's investigations."
-  },
-  {
-    "id": "mv-2319",
-    "title": "Which character is central in 'Fauda' as both creator and star?",
-    "options": ["Avi Issacharoff", "Lior Raz", "Itzik Cohen", "Netta Garti"],
-    "correctIndex": 1,
-    "explanation": "Lior Raz is both a creator and star."
-  },
-  {
-    "id": "mv-2320",
-    "title": "Which show features a police chief investigating crimes in an isolated forested town?",
-    "options": ["Bordertown", "Black Spot", "The Break", "Section Zéro"],
-    "correctIndex": 1,
-    "explanation": "'Black Spot' is centered in an isolated forest-adjacent town."
-  },
-  {
-    "id": "mv-2321",
-    "title": "Who is the lead actress in 'Une chance de trop'?",
-    "options": ["Alexandra Lamy", "Marie Dompnier", "Sophie Lorain", "Julie Zangenberg"],
-    "correctIndex": 0,
-    "explanation": "Alexandra Lamy plays the protagonist."
-  },
-  {
-    "id": "mv-2322",
-    "title": "'Breathe' stars which leading actor?",
-    "options": ["Madhavan", "Amit Sadh", "Sapna Pabbi", "Atharva Vishwakarma"],
-    "correctIndex": 0,
-    "explanation": "Madhavan is one of the stars of 'Breathe.'"
-  },
-  {
-    "id": "mv-2323",
-    "title": "In 'Misfits', which genre does the show combine with its superpower element?",
-    "options": ["Medical drama", "Crime procedural", "British comedy-drama", "Soap opera"],
-    "correctIndex": 2,
-    "explanation": "It combines comedy-drama with sci-fi elements."
-  },
-  {
-    "id": "mv-2324",
-    "title": "Who is the creator of 'Skam'?",
-    "options": ["Julie Andem", "Måns Mårlind", "Henrik Jansson-Schweizer", "Howard Overman"],
-    "correctIndex": 0,
-    "explanation": "Julie Andem is the creator."
-  },
-  {
-    "id": "mv-2325",
-    "title": "'Heartless' features twins who attend which type of institution?",
-    "options": ["Military school", "Boarding school", "High school", "University"],
-    "correctIndex": 1,
-    "explanation": "The show is set at a boarding school."
-  },
-  {
-    "id": "mv-2326",
-    "title": "Which series is based on a family maintaining a facade after secrets are exposed?",
-    "options": ["Au secours de Béatrice", "How to Sell Drugs Online (Fast)", "The House of Flowers", "Midnight Sun"],
-    "correctIndex": 2,
-    "explanation": "'The House of Flowers' is about family facade and secrets."
-  },
-  {
-    "id": "mv-2327",
-    "title": "'Four Seasons in Havana' is set in which city?",
-    "options": ["Bogotá", "Havana", "Madrid", "Rio de Janeiro"],
-    "correctIndex": 1,
-    "explanation": "The series is set in Havana, Cuba."
-  },
-  {
-    "id": "mv-2328",
-    "title": "Who created 'Better Than Us'?",
-    "options": ["Paulina Andreeva", "Alexander Kessel", "Kirill Käro", "Aleksandr Ustyugov"],
-    "correctIndex": 1,
-    "explanation": "Alexander Kessel is the creator."
-  },
-  {
-    "id": "mv-2329",
-    "title": "What do the twins in 'Heartless' strive to do?",
-    "options": ["Travel the world", "Reverse their curse", "Write a book", "Start a business"],
-    "correctIndex": 1,
-    "explanation": "They try to break the curse requiring them to drain energy."
-  },
-  {
-    "id": "mv-2330",
-    "title": "Which series is set in 1932, focusing on the final years of British colonial rule in India?",
-    "options": ["Indian Summers", "The Neighbors", "Before We Die", "Weinberg"],
-    "correctIndex": 0,
-    "explanation": "'Indian Summers' is set in 1932 India during the final years of British colonial rule."
-  },
-  {
-    "id": "mv-2331",
-    "title": "In which Danish series does the police create an international team to investigate cross-border crimes?",
-    "options": ["Salamander", "Ørnen", "Night and Day", "The Chalet"],
-    "correctIndex": 1,
-    "explanation": "'Ørnen' is about an international Danish police investigation team."
-  },
-  {
-    "id": "mv-2332",
-    "title": "Who leads the investigation in the French thriller about missing girls?",
-    "options": ["Clara Segura", "Matteo Simoni", "Jacques Gamblin", "Kida Khodr Ramadan"],
-    "correctIndex": 2,
-    "explanation": "Jacques Gamblin is a star in 'Forgotten Girls'."
-  },
-  {
-    "id": "mv-2333",
-    "title": "Which series features Peter and Eva, a couple affected by the loss of a child and secrets about paternity?",
-    "options": ["The Lawyer", "Callboys", "The Neighbors", "Erased"],
-    "correctIndex": 2,
-    "explanation": "'The Neighbors' follows Peter and Eva and their strained relationship."
-  },
-  {
-    "id": "mv-2334",
-    "title": "Which miniseries involves a man found dead from hanging and another body in a wolverine enclosure?",
-    "options": ["Nobel", "Arne Dahl: Europa Blues", "Before We Die", "Detective Anna"],
-    "correctIndex": 1,
-    "explanation": "'Arne Dahl: Europa Blues' begins with these two crimes."
-  },
-  {
-    "id": "mv-2335",
-    "title": "Who stars as the main protagonist in 'Ingobernable', the first lady of Mexico?",
-    "options": ["Kate del Castillo", "Leah Allers", "Chloé Lambert", "Gudrun Landgrebe"],
-    "correctIndex": 0,
-    "explanation": "Kate del Castillo plays the first lady in 'Ingobernable'."
-  },
-  {
-    "id": "mv-2336",
-    "title": "In which series does Liv's life turn upside down after her husband dies in a plane crash?",
-    "options": ["10", "Flight HS13", "Nobel", "Fariña"],
-    "correctIndex": 1,
-    "explanation": "Liv's husband's death is the premise of 'Flight HS13'."
-  },
-  {
-    "id": "mv-2337",
-    "title": "Which TV-MA series follows four gigolos as their business spirals?",
-    "options": ["Callboys", "Van God los", "Weinberg", "The Team"],
-    "correctIndex": 0,
-    "explanation": "'Callboys' is a black comedy about gigolos."
-  },
-  {
-    "id": "mv-2338",
-    "title": "Who is the main protagonist using time-travel to prevent his mother's death in 'Erased'?",
-    "options": ["Matteo Simoni", "Satoru", "Peter", "Toni"],
-    "correctIndex": 1,
-    "explanation": "Satoru is the protagonist of 'Erased'."
-  },
-  {
-    "id": "mv-2339",
-    "title": "Which show has Toni, who wants to leave behind his criminal life in Berlin's Arab gang scene?",
-    "options": ["Salamander", "Byw Celwydd", "4 Blocks", "Smoking"],
-    "correctIndex": 2,
-    "explanation": "'4 Blocks' follows Toni in the Berlin Arab gang world."
-  },
-  {
-    "id": "mv-2340",
-    "title": "Who is the forensic doctor torn between normal life and a hunt for a serial killer in 'Night and Day'?",
-    "options": ["Sara Grau", "Liv", "Laura Maurier", "Nadia Poulain"],
-    "correctIndex": 0,
-    "explanation": "Sara Grau is the lead in 'Night and Day'."
-  },
-  {
-    "id": "mv-2341",
-    "title": "Which series revolves around the robbery of 66 safe deposit boxes at a private bank in Brussels?",
-    "options": ["Smoking", "Salamander", "Indian Summers", "The Team"],
-    "correctIndex": 1,
-    "explanation": "'Salamander' is about a major Brussels bank heist."
-  },
-  {
-    "id": "mv-2342",
-    "title": "Which 2016 miniseries features an amnesiac who must unravel a mystery in a secretive town?",
-    "options": ["The Chalet", "Nobel", "Weinberg", "Fariña"],
-    "correctIndex": 2,
-    "explanation": "'Weinberg' centers on a town full of secrets and an amnesiac."
-  },
-  {
-    "id": "mv-2343",
-    "title": "Who plays the lead in 'Nobel,' a returning soldier embroiled in an international game?",
-    "options": ["Aksel Hennie", "Bartek Kaminski", "Javier Rey", "Frederick Lau"],
-    "correctIndex": 0,
-    "explanation": "Aksel Hennie is the star of 'Nobel'."
-  },
-  {
-    "id": "mv-2344",
-    "title": "In which series does a group of newcomers train on the job with Paris police?",
-    "options": ["Les bleus: premiers pas dans la police", "The Team", "Byw Celwydd", "Forgotten Girls"],
-    "correctIndex": 0,
-    "explanation": "'Les bleus: premiers pas dans la police' features rookie Paris police officers."
-  },
-  {
-    "id": "mv-2345",
-    "title": "Which show is about young Polish academic Tomasz searching for his father in Norway?",
-    "options": ["Erased", "Struggle for Life", "Fariña", "The Lawyer"],
-    "correctIndex": 1,
-    "explanation": "'Struggle for Life' follows Tomasz's journey in Norway."
-  },
-  {
-    "id": "mv-2346",
-    "title": "Which show features a young woman with supernatural powers who helps solve crimes in Russia?",
-    "options": ["Forgotten Girls", "Detective Anna", "The Neighbors", "Night and Day"],
-    "correctIndex": 1,
-    "explanation": "'Detective Anna' revolves around a supernatural crime-solving protagonist."
-  },
-  {
-    "id": "mv-2347",
-    "title": "Which series is set during 1980s Galicia, chronicling the rise of drug trafficking through the fishing industry?",
-    "options": ["Nobel", "Fariña", "De Dag", "Indian Summers"],
-    "correctIndex": 1,
-    "explanation": "'Fariña' is set in 1980s Galicia and focuses on contraband and drug trafficking."
-  },
-  {
-    "id": "mv-2348",
-    "title": "Which show follows a team responding to a bank hostage situation, showing events from both sides?",
-    "options": ["Guyane", "4 Blocks", "De Dag", "The Lawyer"],
-    "correctIndex": 2,
-    "explanation": "'De Dag' unfolds a hostage situation from multiple perspectives."
-  },
-  {
-    "id": "mv-2349",
-    "title": "In which series does Frank Nordling discover his parents' murderer is his firm's biggest client?",
-    "options": ["The Lawyer", "Weinberg", "Guyane", "Mr. Sunshine"],
-    "correctIndex": 0,
-    "explanation": "'The Lawyer' is about Frank Nordling confronting the criminal underworld."
-  },
-  {
-    "id": "mv-2350",
-    "title": "Which drama is about an elite team of detectives in Sweden solving unusual crimes?",
-    "options": ["Erased", "Arne Dahl: Europa Blues", "The Team", "Forgotten Girls"],
-    "correctIndex": 1,
-    "explanation": "'Arne Dahl: Europa Blues' centers on an elite Swedish detective team."
-  },
-  {
-    "id": "mv-2351",
-    "title": "Which series portrays a multi-generational Spanish family that has amassed wealth through questionable means?",
-    "options": ["Crematorium", "Indian Summers", "Mr. Sunshine", "Byw Celwydd"],
-    "correctIndex": 0,
-    "explanation": "'Crematorium' tells the story of the Bertomeus family's rise."
-  },
-  {
-    "id": "mv-2352",
-    "title": "Which show focuses on a European joint investigation team battling organized crime across borders?",
-    "options": ["The Team", "Guyane", "Van God los", "De Dag"],
-    "correctIndex": 0,
-    "explanation": "'The Team' features cross-border European police efforts."
-  },
-  {
-    "id": "mv-2353",
-    "title": "Which series is set during the coalition government tensions in fictional Cardiff Bay?",
-    "options": ["Salamander", "Byw Celwydd", "Callboys", "The Chalet"],
-    "correctIndex": 1,
-    "explanation": "'Byw Celwydd' is set among politicians in fictional Cardiff Bay."
-  },
-  {
-    "id": "mv-2354",
-    "title": "Which series involves a poker game with high stakes and diverse players in Switzerland?",
-    "options": ["10", "Guyane", "Weinberg", "Les bleus: premiers pas dans la police"],
-    "correctIndex": 0,
-    "explanation": "'10' is a tense miniseries about a high-stakes poker game."
-  },
-  {
-    "id": "mv-2355",
-    "title": "What is the focus of the show 'Smoking'?",
-    "options": ["A time-traveling detective", "Homeless assassins who deliver tattooed skin as proof", "Political intrigue in Norway", "Cross-border gang wars"],
-    "correctIndex": 1,
-    "explanation": "'Smoking' is about homeless assassins delivering tattooed skin."
-  },
-  {
-    "id": "mv-2356",
-    "title": "Which TV series explores moral questions about killing and becoming a victim, airing from 2011 to 2017?",
-    "options": ["Indian Summers", "4 Blocks", "Van God los", "The Lawyer"],
-    "correctIndex": 2,
-    "explanation": "'Van God los' examines what it takes to kill or be a victim."
-  },
-  {
-    "id": "mv-2357",
-    "title": "Who plays the main role in the 2018 South Korean historical drama about a boy returning from the U.S.?",
-    "options": ["Kim Tae-ri", "Nam Sang-ji", "Lee Byung-hun", "Tristán Ulloa"],
-    "correctIndex": 2,
-    "explanation": "Lee Byung-hun stars in 'Mr. Sunshine'."
-  },
-  {
-    "id": "mv-2358",
-    "title": "Which show follows the activities of a young Parisian recruited into gold trafficking in French Guiana?",
-    "options": ["Erased", "Fariña", "Guyane", "Night and Day"],
-    "correctIndex": 2,
-    "explanation": "'Guyane' is about gold trafficking in French Guiana."
-  },
-  {
-    "id": "mv-2359",
-    "title": "Which French series is set in a chalet where a reunion turns into a deadly struggle?",
-    "options": ["Night and Day", "Forgotten Girls", "The Chalet", "Les bleus: premiers pas dans la police"],
-    "correctIndex": 2,
-    "explanation": "'The Chalet' features a reunion gone wrong in the Alps."
-  },
-  {
-    "id": "mv-2360",
-    "title": "Which show features a policewoman investigating a motorcycle club undercover, only to disappear herself?",
-    "options": ["Mr. Sunshine", "Before We Die", "De Dag", "Salamander"],
-    "correctIndex": 1,
-    "explanation": "'Before We Die' starts with a policewoman's disappearance."
-  },
-  {
-    "id": "mv-2361",
-    "title": "In which show do cocky police academy graduates train for real on the streets of Paris?",
-    "options": ["Les bleus: premiers pas dans la police", "The Lawyer", "Crematorium", "Erased"],
-    "correctIndex": 0,
-    "explanation": "'Les bleus: premiers pas dans la police' follows rookie Paris officers."
-  },
-  {
-    "id": "mv-2362",
-    "title": "Which 2018 series centers on a band of assassins seeking justice by skinning their victims?",
-    "options": ["Indian Summers", "Smoking", "The Chalet", "4 Blocks"],
-    "correctIndex": 1,
-    "explanation": "'Smoking' features homeless assassins with a unique way of proving their hits."
-  },
-  {
-    "id": "mv-2363",
-    "title": "Which character learns the truth about his parents' death in a Scandinavian legal thriller?",
-    "options": ["Frank Nordling", "Toni", "Vincent", "Satoru"],
-    "correctIndex": 0,
-    "explanation": "Frank Nordling is the protagonist in 'The Lawyer'."
-  },
-  {
-    "id": "mv-2364",
-    "title": "Which series focuses on a diverse group of police rookies and their personal challenges?",
-    "options": ["Weinberg", "Les bleus: premiers pas dans la police", "Flight HS13", "The Lawyer"],
-    "correctIndex": 1,
-    "explanation": "'Les bleus: premiers pas dans la police' follows rookies with varied backgrounds."
-  },
-  {
-    "id": "mv-2365",
-    "title": "Who is the leader trying to keep British colonial rule during India's move for independence?",
-    "options": ["Armin Arlert", "Henry Lloyd-Hughes", "Eren Jaeger", "Leah Allers"],
-    "correctIndex": 1,
-    "explanation": "Henry Lloyd-Hughes stars in 'Indian Summers' about British colonial rule."
-  },
-  {
-    "id": "mv-2366",
-    "title": "Which series is set in Brussels and revolves around a high-profile bank robbery?",
-    "options": ["Smoking", "Salamander", "Erased", "10"],
-    "correctIndex": 1,
-    "explanation": "'Salamander' begins with a robbery of 66 safe deposit boxes."
-  },
-  {
-    "id": "mv-2367",
-    "title": "Which main character in 'Night and Day' is torn between her job as a forensic doctor and her marriage?",
-    "options": ["Chloé Lambert", "Sara Grau", "Julie Walters", "Aleksandra Nikiforova"],
-    "correctIndex": 1,
-    "explanation": "The show follows Sara Grau's double life."
-  },
-  {
-    "id": "mv-2368",
-    "title": "Which 2014-2015 Polish-Norwegian series explores family secrets and satirizes modern Norwegian society?",
-    "options": ["Byw Celwydd", "Struggle for Life", "Flight HS13", "4 Blocks"],
-    "correctIndex": 1,
-    "explanation": "'Struggle for Life' satirizes Norwegian society through a Polish academic searching for his father."
-  },
-  {
-    "id": "mv-2369",
-    "title": "Which crime drama follows an elite unit led by the half-Icelandic 'Ørnen'?",
-    "options": ["Nobel", "Ørnen", "Crematorium", "Before We Die"],
-    "correctIndex": 1,
-    "explanation": "'Ørnen' is led by a half-Icelandic head detective."
-  },
-  {
-    "id": "mv-2370",
-    "title": "In 'Elite', what event causes the lives of several students at an exclusive school to change forever?",
-    "options": ["Expulsion scandal", "Murder", "Cheating on exams", "Kidnapping"],
-    "correctIndex": 1,
-    "explanation": "A murder occurs, forever changing the lives of the students."
-  },
-  {
-    "id": "mv-2371",
-    "title": "Which profession does Karin in 'O Negócio' apply marketing knowledge to?",
-    "options": ["Real estate", "Retail", "Law", "Sex work"],
-    "correctIndex": 3,
-    "explanation": "Karin and her friends are call girls and use marketing in sex work."
-  },
-  {
-    "id": "mv-2372",
-    "title": "Who wakes up in the body of a police officer in the series 'Transferts'?",
-    "options": ["Florian", "Camille", "Raphael", "Hugo"],
-    "correctIndex": 0,
-    "explanation": "Florian, a woodworker and family man, wakes up in the new body."
-  },
-  {
-    "id": "mv-2373",
-    "title": "Which city does Alice move to in the series 'Alice'?",
-    "options": ["Rio de Janeiro", "São Paulo", "Belo Horizonte", "Porto Alegre"],
-    "correctIndex": 1,
-    "explanation": "Alice moves to São Paulo after her father's death."
-  },
-  {
-    "id": "mv-2374",
-    "title": "In 'Deadwind', who triggers a series of events by discovering a young woman's body?",
-    "options": ["Lauri Tilkanen", "Sofia Karppi", "Mimosa Willamo", "Rike Jokela"],
-    "correctIndex": 1,
-    "explanation": "Sofia Karppi is the detective who finds the body."
-  },
-  {
-    "id": "mv-2375",
-    "title": "In 'Greyzone', what is the focus of the series?",
-    "options": ["Terror attack", "Bank robbery", "Medical drama", "Prison escape"],
-    "correctIndex": 0,
-    "explanation": "It's a thriller about the events leading to a terror attack."
-  },
-  {
-    "id": "mv-2376",
-    "title": "Which show features an online community using technology to solve crimes?",
-    "options": ["Ultraviolet", "Deadwind", "Elite", "Osmosis"],
-    "correctIndex": 0,
-    "explanation": "'Ultraviolet' is about amateur sleuths solving crimes online."
-  },
-  {
-    "id": "mv-2377",
-    "title": "In '1983', what keeps Poland as a police state decades after a pivotal event?",
-    "options": ["Biological accident", "Terrorist attack", "Drought", "Military coup"],
-    "correctIndex": 1,
-    "explanation": "A 1983 terrorist attack leads to ongoing repression."
-  },
-  {
-    "id": "mv-2378",
-    "title": "What kind of supernatural force does the team battle in 'Demon'?",
-    "options": ["Vampires", "Werewolves", "Demons", "Zombies"],
-    "correctIndex": 2,
-    "explanation": "The main characters battle demons."
-  },
-  {
-    "id": "mv-2379",
-    "title": "In 'Dogs of Berlin', what forces the two main characters to team up?",
-    "options": ["Drug trafficking", "Murder investigation", "Art heist", "Terror plot"],
-    "correctIndex": 1,
-    "explanation": "A politically sensitive murder investigation is at the center."
-  },
-  {
-    "id": "mv-2380",
-    "title": "Who is the series 'Veni Vidi Vici' centered around?",
-    "options": ["A Danish film director", "A Swedish detective", "A British lawyer", "A German scientist"],
-    "correctIndex": 0,
-    "explanation": "The story is about a Danish director in decline."
-  },
-  {
-    "id": "mv-2381",
-    "title": "Which series follows a student at the Police Academy investigating a cold case?",
-    "options": ["Quicksand", "Springfloden", "O sabor das margaridas", "Missions"],
-    "correctIndex": 1,
-    "explanation": "'Springfloden' features a Police Academy student reopening a case."
-  },
-  {
-    "id": "mv-2382",
-    "title": "Who is NOT one of the creators of 'Conspiracy of Silence'?",
-    "options": ["Fredrik T. Olsson", "Peter Arrhenius", "Rafael Edholm", "Jens Hultén"],
-    "correctIndex": 2,
-    "explanation": "Rafael Edholm is not a creator; he is associated with 'Veni Vidi Vici'."
-  },
-  {
-    "id": "mv-2383",
-    "title": "What is 'Kingdom' primarily about?",
-    "options": ["Zombie plague", "Political coups", "School rivalry", "Corporate intrigue"],
-    "correctIndex": 0,
-    "explanation": "The outbreak of a mysterious plague (zombies) grips the kingdom."
-  },
-  {
-    "id": "mv-2384",
-    "title": "Which show involves a dating app that mines brain data to find soulmates?",
-    "options": ["Transferts", "Osmosis", "Shadow", "Nox"],
-    "correctIndex": 1,
-    "explanation": "'Osmosis' is about a tech dating app mining users' brain data."
-  },
-  {
-    "id": "mv-2385",
-    "title": "Who is the lead male character in 'Together with Me'?",
-    "options": ["Tul Pakorn", "Copter Panuwat", "Max Nattapol", "Thanit Itthipat"],
-    "correctIndex": 2,
-    "explanation": "Max Nattapol plays Knock, the male lead."
-  },
-  {
-    "id": "mv-2386",
-    "title": "In 'If I Hadn't Met You', what does the main character discover he can do?",
-    "options": ["Teleport", "Read minds", "Travel to alternate universes", "See the future"],
-    "correctIndex": 2,
-    "explanation": "The protagonist can travel to alternate universes."
-  },
-  {
-    "id": "mv-2387",
-    "title": "The crew of which show approaches Mars in a manned mission?",
-    "options": ["Veni Vidi Vici", "Shadow", "Missions", "Girls from Ipanema"],
-    "correctIndex": 2,
-    "explanation": "'Missions' follows the crew on a Mars mission."
-  },
-  {
-    "id": "mv-2388",
-    "title": "Which series is set in a tight-knit Galician town with a missing girl investigation?",
-    "options": ["O sabor das margaridas", "Springfloden", "Quicksand", "The Accident"],
-    "correctIndex": 0,
-    "explanation": "'O sabor das margaridas' is set in Galicia and about a missing girl."
-  },
-  {
-    "id": "mv-2389",
-    "title": "What is the main story in 'Quicksand'?",
-    "options": ["Bank heist", "School shooting and murder trial", "Environmental catastrophe", "Art forgery"],
-    "correctIndex": 1,
-    "explanation": "'Quicksand' centers around a school shooting and trial."
-  },
-  {
-    "id": "mv-2390",
-    "title": "Which show involves time-travel and witches?",
-    "options": ["Osmosis", "Elite", "Always a Witch", "Girls from Ipanema"],
-    "correctIndex": 2,
-    "explanation": "'Always a Witch' features a time-traveling witch."
-  },
-  {
-    "id": "mv-2391",
-    "title": "Who is the creator of 'O Negócio'?",
-    "options": ["Rodrigo Castilho", "Luca Paiva Mello", "Fábio Mendes", "Audrey Fouché"],
-    "correctIndex": 1,
-    "explanation": "Luca Paiva Mello is one of the creators."
-  },
-  {
-    "id": "mv-2392",
-    "title": "'The Accident' occurs in which country?",
-    "options": ["Spain", "France", "Sweden", "Brazil"],
-    "correctIndex": 1,
-    "explanation": "The show is set in Brittany, France."
-  },
-  {
-    "id": "mv-2393",
-    "title": "What type of series is 'Eyewitness'?",
-    "options": ["Sitcom", "Crime drama", "Fantasy", "Medical drama"],
-    "correctIndex": 1,
-    "explanation": "'Eyewitness' is a crime drama series based on teenagers witnessing a crime."
-  },
-  {
-    "id": "mv-2394",
-    "title": "Which show features characters dealing with money laundering and church scandals?",
-    "options": ["Innocente", "Girls from Ipanema", "2 Moons: The Series", "Greyzone"],
-    "correctIndex": 0,
-    "explanation": "'Innocente' deals with scandals in a Baptist church family."
-  },
-  {
-    "id": "mv-2395",
-    "title": "In 'Crime Diaries: The Candidate', whose assassination is investigated?",
-    "options": ["A judge", "Luis Donaldo Colosio", "A journalist", "A businessman"],
-    "correctIndex": 1,
-    "explanation": "Luis Donaldo Colosio's assassination is central to the series."
-  },
-  {
-    "id": "mv-2396",
-    "title": "Which city is key to 'Girls from Ipanema'?",
-    "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Porto Alegre"],
-    "correctIndex": 1,
-    "explanation": "The show focuses on Rio de Janeiro."
-  },
-  {
-    "id": "mv-2397",
-    "title": "In 'Nox', what happens to the main character's daughter Julie?",
-    "options": ["Kidnapped", "Wins lottery", "Disappears during police mission", "Becomes president"],
-    "correctIndex": 2,
-    "explanation": "Julie disappears during a mission, leading her mother on a search."
-  },
-  {
-    "id": "mv-2398",
-    "title": "Which group is featured in '2 Moons: The Series'?",
-    "options": ["University rugby team", "Sorority", "Freshman and upperclassman males", "Police squad"],
-    "correctIndex": 2,
-    "explanation": "It follows university romance between two male students."
-  },
-  {
-    "id": "mv-2399",
-    "title": "What distinguishes 'Shadow' as a crime drama?",
-    "options": ["Set in Paris", "Features technology-based crimes", "Set in Johannesburg with a vigilante ex-cop", "Historical period drama"],
-    "correctIndex": 2,
-    "explanation": "The show is set in South Africa and features an ex-cop vigilante."
-  },
-  {
-    "id": "mv-2400",
-    "title": "Which of the following is set in Sweden and follows an organised crime investigation?",
-    "options": ["Elite", "Before We Die", "Eyewitness", "Deadwind"],
-    "correctIndex": 1,
-    "explanation": "'Before We Die' is set in Sweden with a police investigator lead."
-  },
-  {
-    "id": "mv-2401",
-    "title": "'Demon' features a legendary hunter, a fallen priest, and whom?",
-    "options": ["Angel", "Witch", "Modern-day superhero", "Scientist"],
-    "correctIndex": 2,
-    "explanation": "A modern-day superhero joins the team in 'Demon'."
-  },
-  {
-    "id": "mv-2402",
-    "title": "Who stars as the lead in 'Springfloden'?",
-    "options": ["Julia Ragnarsson", "Kjell Bergqvist", "Cecilia Nilsson", "Brune Renault"],
-    "correctIndex": 0,
-    "explanation": "Julia Ragnarsson is the lead."
-  },
-  {
-    "id": "mv-2403",
-    "title": "Which is NOT a theme in 'Ultraviolet'?",
-    "options": ["Online sleuthing", "Amateur detectives", "Romantic comedy", "Use of technology in crime solving"],
-    "correctIndex": 2,
-    "explanation": "'Ultraviolet' is not a romantic comedy."
-  },
-  {
-    "id": "mv-2404",
-    "title": "Which show is set in near-future Paris and revolves around high-tech love?",
-    "options": ["Osmosis", "Kingdom", "Always a Witch", "Together with Me"],
-    "correctIndex": 0,
-    "explanation": "'Osmosis' is about finding love using advanced technology."
-  },
-  {
-    "id": "mv-2405",
-    "title": "In 'Missions', what goes wrong as the crew approaches Mars?",
-    "options": ["They run out of fuel", "Crew starts to disappear", "Something unexpected happens right before landing", "Base collapses"],
-    "correctIndex": 2,
-    "explanation": "An unexpected event derails the Mars mission."
-  },
-  {
-    "id": "mv-2406",
-    "title": "Which show is NOT originally from Europe?",
-    "options": ["Shadow", "Crime Diaries: The Candidate", "Always a Witch", "Springfloden"],
-    "correctIndex": 0,
-    "explanation": "'Shadow' is from South Africa, while the others are European or South American."
-  },
-  {
-    "id": "mv-2407",
-    "title": "In 'Veni Vidi Vici', what prompts the protagonist to seek a 'real job'?",
-    "options": ["Divorce", "Financial support by wife", "Film festival win", "Police investigation"],
-    "correctIndex": 1,
-    "explanation": "He loses success and is supported by his wife financially."
-  },
-  {
-    "id": "mv-2408",
-    "title": "Which series has a protagonist who travels between alternate universes after family tragedy?",
-    "options": ["If I Hadn't Met You", "Ultraviolet", "Nox", "1983"],
-    "correctIndex": 0,
-    "explanation": "The main plot in 'If I Hadn't Met You' is multiverse travel."
-  },
-  {
-    "id": "mv-2409",
-    "title": "In 'Before We Die', what disappears after a meeting with a mysterious informer?",
-    "options": ["Organized crime family", "Inspector in police unit", "Drug shipment", "Politician"],
-    "correctIndex": 1,
-    "explanation": "The inspector from the organized crime unit vanishes."
-  },
-  {
-    "id": "mv-2410",
-    "title": "What is the main theme explored in the anthology series HIStory?",
-    "options": [
-      "Romantic relationships between men",
-      "Murder mysteries",
-      "Medical breakthroughs",
-      "Historical wars"
-    ],
-    "correctIndex": 0,
-    "explanation": "HIStory is a Taiwanese anthology series that presents stand-alone romances between two men."
-  },
-  {
-    "id": "mv-2411",
-    "title": "In 'Wisting', what relational complication does William Wisting face during his investigation?",
-    "options": [
-      "Rival detectives from another city",
-      "His journalist daughter's news story crosses his investigation",
-      "A love triangle with suspects",
-      "His suspect is his childhood friend"
-    ],
-    "correctIndex": 1,
-    "explanation": "Wisting’s serial killer investigation overlaps with his daughter’s reporting, putting her in danger."
-  },
-  {
-    "id": "mv-2412",
-    "title": "Which city is the setting for 'Morocco: Love in Times of War'?",
-    "options": [
-      "Barcelona",
-      "Madrid",
-      "Melilla",
-      "Tangier"
-    ],
-    "correctIndex": 2,
-    "explanation": "The series is set in the Spanish city of Melilla."
-  },
-  {
-    "id": "mv-2413",
-    "title": "What forces two sisters to reunite in 'Vida'?",
-    "options": [
-      "An arranged marriage",
-      "A citywide blackout",
-      "Their mother's death",
-      "Business bankruptcy"
-    ],
-    "correctIndex": 2,
-    "explanation": "The sisters return to their childhood neighborhood after their mother passes away."
-  },
-  {
-    "id": "mv-2414",
-    "title": "Which of the following best describes the business in 'Los Espookys'?",
-    "options": [
-      "A bakery",
-      "A horror-for-hire company",
-      "Tech start-up",
-      "Detective agency"
-    ],
-    "correctIndex": 1,
-    "explanation": "They provide horror as a peculiar business in a dreamy Latin American country."
-  },
-  {
-    "id": "mv-2415",
-    "title": "What event kickstarts the investigation in 'Tijuana'?",
-    "options": [
-      "Missing child",
-      "A presidential candidate is gunned down",
-      "Bank robbery",
-      "Drug trafficking"
-    ],
-    "correctIndex": 1,
-    "explanation": "A Mexican presidential candidate is killed, sparking a conspiracy investigation."
-  },
-  {
-    "id": "mv-2416",
-    "title": "Where do the mysterious deaths in 'High Seas' take place?",
-    "options": [
-      "In a Spanish mansion",
-      "On a luxury ship",
-      "At a Brazilian beach",
-      "During a mountain expedition"
-    ],
-    "correctIndex": 1,
-    "explanation": "The deaths occur on a ship traveling from Spain to Brazil."
-  },
-  {
-    "id": "mv-2417",
-    "title": "What is Inspector Sam Leroy's challenge in 'Unit 42'?",
-    "options": [
-      "Raising three children alone and working in cyber crime",
-      "Surviving a kidnapping",
-      "Balancing medical practice and police work",
-      "Dealing with his corrupt partner"
-    ],
-    "correctIndex": 0,
-    "explanation": "He must raise his children while adapting to cyber crime investigations."
-  },
-  {
-    "id": "mv-2418",
-    "title": "In 'Frontera Verde', what supernatural element complicates the detective's case?",
-    "options": [
-      "Time travel",
-      "Unexplained magic and origins",
-      "Zombie outbreak",
-      "Alien abduction"
-    ],
-    "correctIndex": 1,
-    "explanation": "The detective uncovers magic and her own supernatural origins."
-  },
-  {
-    "id": "mv-2419",
-    "title": "What type of attack starts the story in 'Victim Number 8'?",
-    "options": [
-      "Poisoning",
-      "A yihadist attack",
-      "Bombing",
-      "Cybercrime"
-    ],
-    "correctIndex": 1,
-    "explanation": "A jihadist attack in the Old Town of Bilbao is the central event."
-  },
-  {
-    "id": "mv-2420",
-    "title": "'Wild District' is centered on which type of main character?",
-    "options": [
-      "A retired police chief",
-      "A lethal guerrilla fighter trying to reintegrate",
-      "A medical researcher",
-      "A journalist investigating crimes"
-    ],
-    "correctIndex": 1,
-    "explanation": "The story follows Jhon Jeiver, a guerrilla fighter seeking a new life."
-  },
-  {
-    "id": "mv-2421",
-    "title": "Tep, the main character in 'Answer for Heaven', is what type of figure?",
-    "options": [
-      "Demon",
-      "Angel",
-      "Robot",
-      "Vampire"
-    ],
-    "correctIndex": 1,
-    "explanation": "Tep is an angel who descends to Earth."
-  },
-  {
-    "id": "mv-2422",
-    "title": "What unites the main group in 'When Heroes Fly'?",
-    "options": [
-      "They are members of a musical band",
-      "A reunion for a final mission after a falling out",
-      "Childhood friends running a business",
-      "Survivors of a plane crash"
-    ],
-    "correctIndex": 1,
-    "explanation": "Four friends reunite for a rescue mission after a long estrangement."
-  },
-  {
-    "id": "mv-2423",
-    "title": "Who stars as the accidental Ukrainian president in 'Servant of the People'?",
-    "options": [
-      "Stanislav Boklan",
-      "Viktor Saraykin",
-      "Volodymyr Zelenskyy",
-      "Ivan Makarevich"
-    ],
-    "correctIndex": 2,
-    "explanation": "Zelenskyy plays the lead, a teacher who becomes president."
-  },
-  {
-    "id": "mv-2424",
-    "title": "In 'The Day After', what brings together the 11 strangers?",
-    "options": [
-      "They are survivors of a shipwreck",
-      "Deadly virus intentionally released by a company",
-      "All are heirs to a secret fortune",
-      "They are competitors in a game show"
-    ],
-    "correctIndex": 1,
-    "explanation": "They're united by a virus released by a drug company."
-  },
-  {
-    "id": "mv-2425",
-    "title": "What is the futuristic premise in 'Ad Vitam'?",
-    "options": [
-      "Robotic uprising",
-      "Regeneration technology lets humans live indefinitely",
-      "Aliens invade earth",
-      "The last city on Mars"
-    ],
-    "correctIndex": 1,
-    "explanation": "In 'Ad Vitam', humanity can live indefinitely through regenerative tech."
-  },
-  {
-    "id": "mv-2426",
-    "title": "Which profession does the protagonist in 'Irmandade' have?",
-    "options": [
-      "Lawyer",
-      "Police officer",
-      "Criminal kingpin",
-      "News anchor"
-    ],
-    "correctIndex": 0,
-    "explanation": "She is a lawyer who discovers her brother's criminal involvement."
-  },
-  {
-    "id": "mv-2427",
-    "title": "During which historical period is 'The Road to Calvary' set?",
-    "options": [
-      "Cold War",
-      "French Revolution",
-      "World War I",
-      "Napoleonic Wars"
-    ],
-    "correctIndex": 2,
-    "explanation": "The series takes place during World War I in St. Petersburg."
-  },
-  {
-    "id": "mv-2428",
-    "title": "What type of institution is the focus of 'Charité'?",
-    "options": [
-      "University",
-      "Bank",
-      "Hospital",
-      "Prison"
-    ],
-    "correctIndex": 2,
-    "explanation": "'Charité' centers on a prestigious German hospital."
-  },
-  {
-    "id": "mv-2429",
-    "title": "What kind of crimes does Valeria Ferro investigate in 'Thou Shalt Not Kill'?",
-    "options": [
-      "White collar crimes",
-      "Crimes motivated by jealousy and anger",
-      "Supernatural crimes",
-      "Art theft"
-    ],
-    "correctIndex": 1,
-    "explanation": "She investigates crimes stemming from jealousy and anger."
-  },
-  {
-    "id": "mv-2430",
-    "title": "In 'War of the Worlds' (2019), what is humanity threatened by?",
-    "options": [
-      "Natural disasters",
-      "Nuclear war",
-      "Extra-terrestrial attack",
-      "Worldwide pandemic"
-    ],
-    "correctIndex": 2,
-    "explanation": "Mankind faces a devastating alien attack in this series."
-  },
-  {
-    "id": "mv-2431",
-    "title": "Which subject does Pol pursue in 'Merlí. Sapere Aude'?",
-    "options": [
-      "Engineering",
-      "Law",
-      "Philosophy",
-      "Medicine"
-    ],
-    "correctIndex": 2,
-    "explanation": "He studies philosophy at university."
-  },
-  {
-    "id": "mv-2432",
-    "title": "Who is known for revolutionizing students' lives in 'Merlí'?",
-    "options": [
-      "Francesc Orella as Merlí",
-      "Carlos Cuevas as Pol",
-      "Elisabet Casanovas as Tània",
-      "Pere Ponce as Eugeni"
-    ],
-    "correctIndex": 0,
-    "explanation": "Renegade philosophy teacher Merlí is the central character."
-  },
-  {
-    "id": "mv-2433",
-    "title": "What is the focus of the main characters in 'Woke'?",
-    "options": [
-      "Organizing political protests",
-      "Running an LGBT center",
-      "Journalism",
-      "Police investigations"
-    ],
-    "correctIndex": 1,
-    "explanation": "The story centers on activists at an LGBT Center."
-  },
-  {
-    "id": "mv-2434",
-    "title": "Which dystopian division is featured in 'Trepalium'?",
-    "options": [
-      "Wealthy and poor",
-      "Immigrants and citizens",
-      "The Actives and the Jobless",
-      "Old and young"
-    ],
-    "correctIndex": 2,
-    "explanation": "Society is split between the Actives (employed) and Jobless."
-  },
-  {
-    "id": "mv-2435",
-    "title": "'Project Orpheus' follows students admitted to which type of program?",
-    "options": [
-      "Medicine",
-      "Astronomy",
-      "Computer Science",
-      "Architecture"
-    ],
-    "correctIndex": 0,
-    "explanation": "A select group of medicine students joins a secretive program."
-  },
-  {
-    "id": "mv-2436",
-    "title": "In 'Water Boyy: The Series’, what causes tension between Waii and his father?",
-    "options": [
-      "Different religious beliefs",
-      "Father is the coach of his swimming team",
-      "Romantic relationship with teammate",
-      "Financial troubles"
-    ],
-    "correctIndex": 1,
-    "explanation": "Waii’s father is his swimming team's coach, creating friction."
-  },
-  {
-    "id": "mv-2437",
-    "title": "'Dark Blue Kiss' is a continuation of which show?",
-    "options": [
-      "Love By Chance",
-      "Kiss Me Again",
-      "Sotus",
-      "Together With Me"
-    ],
-    "correctIndex": 1,
-    "explanation": "It follows after the events of 'Kiss Me Again'."
-  },
-  {
-    "id": "mv-2438",
-    "title": "‘Tuzni bogatas’ is mainly set in which type of environment?",
-    "options": [
-      "A remote village",
-      "A Croatian city amid transition",
-      "A wartime military base",
-      "A rural farm"
-    ],
-    "correctIndex": 1,
-    "explanation": "The story is set in transitioning Zagreb, Croatia."
-  },
-  {
-    "id": "mv-2439",
-    "title": "What event leaves Marie searching for Viktor in 'The Sleepers'?",
-    "options": [
-      "A sudden revolution",
-      "Viktor's arrest by secret police",
-      "A car accident and Viktor's disappearance",
-      "A kidnapping by rebels"
-    ],
-    "correctIndex": 2,
-    "explanation": "Marie wakes up from a coma; Viktor is missing after an accident."
-  },
-  {
-    "id": "mv-2440",
-    "title": "Which of these shows is a Spanish series about volunteer Red Cross nurses in the 1920s?",
-    "options": [
-      "Vida",
-      "Morocco: Love in Times of War",
-      "Charité",
-      "Thou Shalt Not Kill"
-    ],
-    "correctIndex": 1,
-    "explanation": "'Morocco: Love in Times of War' follows Spanish nurses during the Rif War."
-  },
-  {
-    "id": "mv-2441",
-    "title": "Which character assists in solving crimes through a news station in 'Answer for Heaven'?",
-    "options": [
-      "Tep",
-      "Ad",
-      "Sun",
-      "Apo"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ad, a journalist, helps Tep and the police."
-  },
-  {
-    "id": "mv-2442",
-    "title": "In 'High Seas', what bonds the main female leads?",
-    "options": [
-      "They are business partners",
-      "They are sisters",
-      "They are rivals",
-      "They are old classmates"
-    ],
-    "correctIndex": 1,
-    "explanation": "The show features two sisters uncovering secrets on a ship."
-  },
-  {
-    "id": "mv-2443",
-    "title": "Who leads the criminal faction in 'Irmandade'?",
-    "options": [
-      "The protagonist's missing brother",
-      "A corrupt police officer",
-      "A wealthy industrialist",
-      "An ex-political leader"
-    ],
-    "correctIndex": 0,
-    "explanation": "Her missing brother is revealed as the leader."
-  },
-  {
-    "id": "mv-2444",
-    "title": "What do Los Espookys provide to their clients?",
-    "options": [
-      "Horror-themed experiences",
-      "Musical performances",
-      "Political campaigns",
-      "Sports training"
-    ],
-    "correctIndex": 0,
-    "explanation": "They provide horror as a service."
-  },
-  {
-    "id": "mv-2445",
-    "title": "What is the main conflict in 'Merlí'?",
-    "options": [
-      "Teacher breaks rules to inspire students",
-      "Campus drug trafficking",
-      "Dorm life drama",
-      "Supernatural occurrences"
-    ],
-    "correctIndex": 0,
-    "explanation": "Merlí is a rebellious philosophy teacher who changes students' lives."
-  },
-  {
-    "id": "mv-2446",
-    "title": "What unique feature does the world of 'Ad Vitam' have?",
-    "options": [
-      "Zombies are common",
-      "Humans live indefinitely",
-      "Magic is the basis of society",
-      "Alien cohabitation"
-    ],
-    "correctIndex": 1,
-    "explanation": "Humans can live forever thanks to regeneration technology."
-  },
-  {
-    "id": "mv-2447",
-    "title": "In 'Unit 42', which of the following best describes Billie Vebber?",
-    "options": [
-      "Former hacker with secret motivations",
-      "Ex-cop turned journalist",
-      "Veteran homicide detective",
-      "Medical examiner"
-    ],
-    "correctIndex": 0,
-    "explanation": "She is a hacker working covertly with her own objectives."
-  },
-  {
-    "id": "mv-2448",
-    "title": "In 'Tijuana', who drives the investigation forward after the assassination?",
-    "options": [
-      "A vigilante group",
-      "Local news reporters",
-      "The president's bodyguards",
-      "The victim's family"
-    ],
-    "correctIndex": 1,
-    "explanation": "Local reporters uncover the conspiracy."
-  },
-  {
-    "id": "mv-2449",
-    "title": "Who tries to create a perfect human race in 'The Day After'?",
-    "options": [
-      "A shadow government",
-      "A drug company",
-      "A secret society",
-      "A billionaire scientist"
-    ],
-    "correctIndex": 1,
-    "explanation": "A drug company releases the virus in an attempt to perfect humanity."
+    "explanation": "Her journey starts after the death of her mother, Judy Garland."
   }
 ]
