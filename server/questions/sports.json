@@ -3396,5 +3396,1170 @@
     "options": ["9", "74", "12", "27"],
     "correctIndex": 2,
     "explanation": "Number 12 has not been retired by the franchise."
+  },
+  {
+  "id": "sp-0450",
+  "title": "In which city were the Arizona Cardinals originally established?",
+  "options": ["Chicago", "Phoenix", "St. Louis", "Tempe"],
+  "correctIndex": 0,
+  "explanation": "The Cardinals were originally established in Chicago in 1898."
+  },
+  {
+  "id": "sp-0451",
+  "title": "Which division are the Arizona Cardinals members of in the NFL?",
+  "options": ["AFC South", "NFC West", "AFC West", "NFC East"],
+  "correctIndex": 1,
+  "explanation": "The Cardinals are in the NFC West division."
+  },
+  {
+  "id": "sp-0452",
+  "title": "How many NFL championships have the Cardinals won?",
+  "options": ["Three", "One", "Two", "Four"],
+  "correctIndex": 2,
+  "explanation": "They have won two NFL championships, in 1925 and 1947."
+  },
+  {
+  "id": "sp-0453",
+  "title": "Which year did the Cardinals move to Tempe, Arizona?",
+  "options": ["1982", "1994", "1975", "1988"],
+  "correctIndex": 3,
+  "explanation": "The Cardinals moved to Tempe, Arizona, in 1988."
+  },
+  {
+  "id": "sp-0454",
+  "title": "What was the team’s nickname to distinguish from the baseball team when in St. Louis?",
+  "options": ["Red Wings", "Gridbirds", "Red Sox", "Scarlet Birds"],
+  "correctIndex": 1,
+  "explanation": "They were called the 'Gridbirds' or 'Football Cardinals' in St. Louis."
+  },
+  {
+  "id": "sp-0455",
+  "title": "Who led the Cardinals to their only Super Bowl appearance as quarterback?",
+  "options": ["Kurt Warner", "Carson Palmer", "Ken Stabler", "Neil Lomax"],
+  "correctIndex": 0,
+  "explanation": "Kurt Warner led the Cardinals to Super Bowl XLIII."
+  },
+  {
+  "id": "sp-0456",
+  "title": "Which stadium do the Cardinals currently call home?",
+  "options": ["Sun Devil Stadium", "Levi's Stadium", "State Farm Stadium", "University of Phoenix Stadium"],
+  "correctIndex": 2,
+  "explanation": "The team currently plays at State Farm Stadium."
+  },
+  {
+  "id": "sp-0457",
+  "title": "Who became full-time head coach before the 2001 season?",
+  "options": ["Ken Whisenhunt", "Dave McGinnis", "Dennis Green", "Vince Tobin"],
+  "correctIndex": 1,
+  "explanation": "Dave McGinnis became the full-time head coach before the 2001 season."
+  },
+  {
+  "id": "sp-0458",
+  "title": "Which player holds the Cardinals’ franchise record for most career receptions?",
+  "options": ["Anquan Boldin", "Roy Green", "Larry Fitzgerald", "Sonny Randle"],
+  "correctIndex": 2,
+  "explanation": "Larry Fitzgerald holds the franchise record for receptions."
+  },
+  {
+  "id": "sp-0459",
+  "title": "What uniform color did the Cardinals introduce as a Color Rush alternate?",
+  "options": ["Gold", "Blue", "Red", "Black"],
+  "correctIndex": 3,
+  "explanation": "They debuted an all-black Color Rush uniform in 2017."
+  },
+  {
+  "id": "sp-0460",
+  "title": "Who was the Cardinals’ owner who nearly moved the team in the late 1950s?",
+  "options": ["Chris O'Brien", "Violet Bidwill Wolfner", "Charles Bidwill", "Bill Bidwill"],
+  "correctIndex": 1,
+  "explanation": "Violet Bidwill Wolfner was the owner interested in moving the team."
+  },
+  {
+  "id": "sp-0461",
+  "title": "Who became Cardinals head coach before the 2013 season?",
+  "options": ["Steve Wilks", "Bruce Arians", "Dennis Green", "Ken Whisenhunt"],
+  "correctIndex": 1,
+  "explanation": "Bruce Arians was hired before the 2013 season."
+  },
+  {
+  "id": "sp-0462",
+  "title": "What is the Cardinals’ regular home uniform color since moving to State Farm Stadium?",
+  "options": ["All-white", "Black", "All-red", "Gold"],
+  "correctIndex": 2,
+  "explanation": "The Cardinals wear all-red uniforms at home."
+  },
+  {
+  "id": "sp-0463",
+  "title": "Where did the Cardinals hold their summer training camp from 1988 to 2012 (except 2005)?",
+  "options": ["Tempe", "Northern Arizona University", "Prescott", "University of Phoenix"],
+  "correctIndex": 1,
+  "explanation": "Training camp was at Northern Arizona University in Flagstaff."
+  },
+  {
+  "id": "sp-0464",
+  "title": "In which year did the team change its name from Phoenix Cardinals to Arizona Cardinals?",
+  "options": ["1990", "1994", "1988", "2000"],
+  "correctIndex": 1,
+  "explanation": "The name was changed in 1994."
+  },
+  {
+  "id": "sp-0465",
+  "title": "Which year saw the Cardinals win their first NFC Championship Game since the merger?",
+  "options": ["2001", "2009", "2008", "2015"],
+  "correctIndex": 2,
+  "explanation": "They won the NFC Championship Game in the 2008 season."
+  },
+  {
+  "id": "sp-0466",
+  "title": "How many division titles have the Cardinals won since moving to Arizona in 1988?",
+  "options": ["One", "Five", "Three", "Six"],
+  "correctIndex": 2,
+  "explanation": "They have won three division titles since moving to Arizona."
+  },
+  {
+  "id": "sp-0467",
+  "title": "Which team did the Cardinals defeat for their first postseason win since 1947?",
+  "options": ["Minnesota Vikings", "San Francisco 49ers", "Dallas Cowboys", "Green Bay Packers"],
+  "correctIndex": 2,
+  "explanation": "They beat the Dallas Cowboys for their first playoff win since 1947."
+  },
+  {
+  "id": "sp-0468",
+  "title": "During which era did the Cardinals switch to wearing red pants with their white jerseys?",
+  "options": ["1950s", "2005-2006", "1960s", "2010s"],
+  "correctIndex": 1,
+  "explanation": "They started wearing red pants with white jerseys in 2005-2006."
+  },
+  {
+  "id": "sp-0469",
+  "title": "Which number of regular season losses have the Cardinals accrued, the most in NFL history as of 2024?",
+  "options": ["700", "822", "675", "901"],
+  "correctIndex": 1,
+  "explanation": "The franchise has lost 822 regular season games as of 2024."
+  },
+  {
+  "id": "sp-0470",
+  "title": "What was the Cardinals’ original team color, as described by Chris O’Brien in 1901?",
+  "options": ["Crimson", "Cardinal red", "Navy blue", "Maroon gold"],
+  "correctIndex": 1,
+  "explanation": "Chris O'Brien described the jerseys as 'Cardinal red.'"
+  },
+  {
+  "id": "sp-0471",
+  "title": "Who holds the franchise career record for passing yards as of 2024?",
+  "options": ["Carson Palmer", "Kurt Warner", "Jim Hart", "Jake Plummer"],
+  "correctIndex": 2,
+  "explanation": "Jim Hart holds the franchise passing yardage record."
+  },
+  {
+  "id": "sp-0472",
+  "title": "Which year did the Cardinals unveil their first black alternate jersey?",
+  "options": ["2015", "2010", "2021", "2002"],
+  "correctIndex": 1,
+  "explanation": "They debuted a black alternate jersey in 2010."
+  },
+  {
+  "id": "sp-0473",
+  "title": "How many playoff games have the Cardinals won at home?",
+  "options": ["Six", "Three", "Five", "Seven"],
+  "correctIndex": 2,
+  "explanation": "Their home playoff record is an undefeated 5-0."
+  },
+  {
+  "id": "sp-0474",
+  "title": "Which rival has played the most games versus the Cardinals?",
+  "options": ["Seattle Seahawks", "Chicago Bears", "Green Bay Packers", "Pittsburgh Steelers"],
+  "correctIndex": 1,
+  "explanation": "The Chicago Bears have the most games played against the Cardinals."
+  },
+  {
+  "id": "sp-0475",
+  "title": "Who kicked the most field goals in a single Cardinals season?",
+  "options": ["Pat Harder", "Jay Feely", "Neil Rackers", "Phil Dawson"],
+  "correctIndex": 2,
+  "explanation": "Neil Rackers kicked 40 field goals in 2005."
+  },
+  {
+  "id": "sp-0476",
+  "title": "Which player is the career leader in rushing yards for the Cardinals?",
+  "options": ["Edgerrin James", "David Johnson", "Ottis Anderson", "Stump Mitchell"],
+  "correctIndex": 2,
+  "explanation": "Ottis Anderson leads with 7,999 rushing yards."
+  },
+  {
+  "id": "sp-0477",
+  "title": "Who was the Cardinals' head coach for the 2018 season?",
+  "options": ["Bruce Arians", "Ken Whisenhunt", "Kliff Kingsbury", "Steve Wilks"],
+  "correctIndex": 3,
+  "explanation": "Steve Wilks was head coach in 2018."
+  },
+  {
+  "id": "sp-0478",
+  "title": "What was the nickname given to Cardinals fans?",
+  "options": ["Grid Gang", "Red Sea", "Card Nation", "Desert Kings"],
+  "correctIndex": 1,
+  "explanation": "Their fans are called the Red Sea."
+  },
+  {
+  "id": "sp-0479",
+  "title": "Who was drafted with the top overall pick by the Cardinals in 2019?",
+  "options": ["Carson Palmer", "Josh Rosen", "Kyler Murray", "Patrick Peterson"],
+  "correctIndex": 2,
+  "explanation": "Kyler Murray was taken first overall."
+  },
+  {
+  "id": "sp-0480",
+  "title": "In which year did the Cardinals earn their best regular season record while based in Arizona?",
+  "options": ["2009", "2008", "2015", "2021"],
+  "correctIndex": 2,
+  "explanation": "They set the franchise record with 13–3 in 2015."
+  },
+  {
+  "id": "sp-0481",
+  "title": "Which player was the leading scorer in franchise history as of 2024?",
+  "options": ["Pat Harder", "Larry Fitzgerald", "Jim Bakken", "Ollie Matson"],
+  "correctIndex": 2,
+  "explanation": "Jim Bakken scored 1,380 points for the franchise."
+  },
+  {
+  "id": "sp-0482",
+  "title": "Which rival team has never faced the Cardinals in the playoffs?",
+  "options": ["Chicago Bears", "San Francisco 49ers", "Seattle Seahawks", "Dallas Cowboys"],
+  "correctIndex": 1,
+  "explanation": "The 49ers and Cardinals have never met in the playoffs."
+  },
+  {
+  "id": "sp-0483",
+  "title": "Where did the Cardinals move their training camp in 2013?",
+  "options": ["Sun Devil Stadium", "Glendale", "University of Phoenix Stadium", "Prescott Valley High"],
+  "correctIndex": 2,
+  "explanation": "The team moved training camp to its home field (then University of Phoenix Stadium) in 2013."
+  },
+  {
+  "id": "sp-0484",
+  "title": "Which season did the Cardinals wear 'Rivalries' uniforms for the first time?",
+  "options": ["2026", "2024", "2023", "2025"],
+  "correctIndex": 3,
+  "explanation": "The 'Rivalries' uniforms were unveiled ahead of the 2025 season."
+  },
+  {
+  "id": "sp-0485",
+  "title": "Which player intercepted the most passes in Cardinals history?",
+  "options": ["Larry Wilson", "Aeneas Williams", "Patrick Peterson", "Antoine Bethea"],
+  "correctIndex": 0,
+  "explanation": "Larry Wilson had the most interceptions in team history."
+  },
+  {
+  "id": "sp-0486",
+  "title": "Who did the Cardinals hire as head coach for the 2007 season?",
+  "options": ["Kliff Kingsbury", "Ken Whisenhunt", "Steve Wilks", "Vince Tobin"],
+  "correctIndex": 1,
+  "explanation": "Ken Whisenhunt was hired as head coach for the 2007 season."
+  },
+  {
+  "id": "sp-0487",
+  "title": "In 2025, who became the first team in NFL history to lose three straight games to last-second field goals?",
+  "options": ["Seattle Seahawks", "San Francisco 49ers", "Arizona Cardinals", "Atlanta Falcons"],
+  "correctIndex": 2,
+  "explanation": "The Cardinals set this NFL record in 2025."
+  },
+  {
+  "id": "sp-0488",
+  "title": "Which Cardinals player won rushing touchdowns record as a rookie?",
+  "options": ["David Johnson", "Ottis Anderson", "Tim Hightower", "Chase Edmonds"],
+  "correctIndex": 2,
+  "explanation": "Tim Hightower set the rookie rushing touchdowns record."
+  },
+  {
+  "id": "sp-0489",
+  "title": "Who did the Cardinals lose to in their only Super Bowl appearance?",
+  "options": ["Green Bay Packers", "Pittsburgh Steelers", "New England Patriots", "Dallas Cowboys"],
+  "correctIndex": 1,
+  "explanation": "They lost to the Pittsburgh Steelers in Super Bowl XLIII."
+  },
+  {
+    "id": "sp-0490",
+    "title": "Who was the Ravens’ majority owner starting in 2004?",
+    "options": ["Steve Bisciotti", "Ozzie Newsome", "Art Modell", "Amy Adams Strunk"],
+    "correctIndex": 0,
+    "explanation": "Steve Bisciotti purchased the majority stake in 2004."
+  },
+  {
+    "id": "sp-0491",
+    "title": "Which poem inspired the name 'Ravens'?",
+    "options": ["The Road Not Taken", "The Raven", "Annabel Lee", "Ode to a Nightingale"],
+    "correctIndex": 1,
+    "explanation": "The team's name was inspired by Edgar Allan Poe's poem 'The Raven'."
+  },
+  {
+    "id": "sp-0492",
+    "title": "Which stadium do the Ravens play home games in as of 2024?",
+    "options": ["Camden Yards", "Memorial Stadium", "M&T Bank Stadium", "PSINet Stadium"],
+    "correctIndex": 2,
+    "explanation": "They play home games at M&T Bank Stadium."
+  },
+  {
+    "id": "sp-0493",
+    "title": "Who was the first head coach of the Baltimore Ravens?",
+    "options": ["John Harbaugh", "Brian Billick", "Ted Marchibroda", "Jim Caldwell"],
+    "correctIndex": 2,
+    "explanation": "Ted Marchibroda was the team’s first head coach."
+  },
+  {
+    "id": "sp-0494",
+    "title": "What AFC North rival did the Ravens defeat in their first-ever playoff game?",
+    "options": ["Cincinnati Bengals", "Cleveland Browns", "Pittsburgh Steelers", "Denver Broncos"],
+    "correctIndex": 3,
+    "explanation": "They defeated the Denver Broncos in their first playoff game."
+  },
+  {
+    "id": "sp-0495",
+    "title": "Which two Ravens were drafted in the first round in 1996 and became Hall of Famers?",
+    "options": ["Ray Lewis & Jonathan Ogden", "Joe Flacco & Ed Reed", "Haloti Ngata & Jamal Lewis", "Steve Smith Sr. & Terrell Suggs"],
+    "correctIndex": 0,
+    "explanation": "Ray Lewis and Jonathan Ogden were drafted in 1996 and are both Hall of Famers."
+  },
+  {
+    "id": "sp-0496",
+    "title": "Which Ravens quarterback won Super Bowl MVP in Super Bowl XLVII?",
+    "options": ["Lamar Jackson", "Joe Flacco", "Trent Dilfer", "Tony Banks"],
+    "correctIndex": 1,
+    "explanation": "Joe Flacco was named Super Bowl MVP in Super Bowl XLVII."
+  },
+  {
+    "id": "sp-0497",
+    "title": "Which division do the Ravens play in?",
+    "options": ["AFC South", "NFC North", "AFC North", "NFC East"],
+    "correctIndex": 2,
+    "explanation": "The Ravens compete in the AFC North division."
+  },
+  {
+    "id": "sp-0498",
+    "title": "Which player returned an interception for a touchdown in the 2000 AFC Divisional playoff at Tennessee?",
+    "options": ["Anthony Mitchell", "Al Del Greco", "Ray Lewis", "Shannon Sharpe"],
+    "correctIndex": 2,
+    "explanation": "Ray Lewis returned an interception for a TD in that win."
+  },
+  {
+    "id": "sp-0499",
+    "title": "What is the nickname for the unique, all-black Ravens uniforms worn in certain games?",
+    "options": ["Color Rush", "Pitch Black", "Purple Rising", "Night Vision"],
+    "correctIndex": 1,
+    "explanation": "The all-black uniform was introduced as 'Pitch Black' night."
+  },
+  {
+    "id": "sp-0500",
+    "title": "Who was the Ravens’ general manager from their founding until 2018?",
+    "options": ["Eric DeCosta", "Ozzie Newsome", "John Harbaugh", "Art Modell"],
+    "correctIndex": 1,
+    "explanation": "Ozzie Newsome was GM from 1996 to 2018."
+  },
+  {
+    "id": "sp-0501",
+    "title": "Which two teams are undefeated in multiple Super Bowl appearances as of 2023?",
+    "options": ["Ravens and Buccaneers", "Cowboys and Patriots", "Ravens and Giants", "Ravens and Eagles"],
+    "correctIndex": 0,
+    "explanation": "The Ravens and Buccaneers are both undefeated in multiple Super Bowl appearances."
+  },
+  {
+    "id": "sp-0502",
+    "title": "Which Ravens defender was drafted in 2002 and became a Hall of Fame safety?",
+    "options": ["Ray Lewis", "Ed Reed", "Rod Woodson", "Jarret Johnson"],
+    "correctIndex": 1,
+    "explanation": "Ed Reed was drafted in 2002 and became a Hall of Famer."
+  },
+  {
+    "id": "sp-0503",
+    "title": "What was the original name of the Ravens' stadium before it became M&T Bank Stadium?",
+    "options": ["Oriole Park", "PSINet Stadium", "Memorial Stadium", "Ravens Field"],
+    "correctIndex": 1,
+    "explanation": "It was originally PSINet Stadium."
+  },
+  {
+    "id": "sp-0504",
+    "title": "In 2024, the Ravens became the first NFL team to do what through their first six games?",
+    "options": [
+      "Score defensive touchdowns in every game",
+      "Have six straight games with at least 150 passing & one TD and 150 rushing & one TD",
+      "Hold six opponents under 10 points",
+      "Win six road games in a row"
+    ],
+    "correctIndex": 1,
+    "explanation": "They became the first to have six straight games with at least 150 passing yards & one TD and 150 rushing yards & one TD."
+  },
+  {
+    "id": "sp-0505",
+    "title": "With which NFL team do the Ravens have the most intense rivalry?",
+    "options": ["Pittsburgh Steelers", "Washington Commanders", "Buffalo Bills", "Cincinnati Bengals"],
+    "correctIndex": 0,
+    "explanation": "The Steelers are considered the Ravens' biggest rival."
+  },
+  {
+    "id": "sp-0506",
+    "title": "Who succeeded Ozzie Newsome as Ravens’ GM after the 2018 season?",
+    "options": ["Joe Flacco", "Eric DeCosta", "Steve Bisciotti", "Brian Billick"],
+    "correctIndex": 1,
+    "explanation": "Eric DeCosta was promoted to GM after Ozzie Newsome."
+  },
+  {
+    "id": "sp-0507",
+    "title": "Which team did the Ravens defeat in Super Bowl XLVII?",
+    "options": ["San Francisco 49ers", "New York Giants", "Oakland Raiders", "Denver Broncos"],
+    "correctIndex": 0,
+    "explanation": "They beat the San Francisco 49ers in Super Bowl XLVII."
+  },
+  {
+    "id": "sp-0508",
+    "title": "In which playoff round did the Ravens defeat the Houston Texans 34–10 in 2023?",
+    "options": ["Wild Card Round", "Divisional Round", "AFC Championship", "Super Bowl"],
+    "correctIndex": 1,
+    "explanation": "They won over Houston in the Divisional Round."
+  },
+  {
+    "id": "sp-0509",
+    "title": "Which of the following teams has never been in the AFC North with the Ravens?",
+    "options": ["Pittsburgh Steelers", "Cleveland Browns", "Cincinnati Bengals", "Houston Texans"],
+    "correctIndex": 3,
+    "explanation": "The Houston Texans are in the AFC South, not North."
+  },
+  {
+    "id": "sp-0510",
+    "title": "What unique record did Justin Tucker set in a 2021 game in Detroit?",
+    "options": [
+      "Longest punt return in Ravens history",
+      "Most PATs in a single game",
+      "NFL’s longest field goal (66 yards)",
+      "Most field goals in a season"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tucker set the NFL record with a 66-yard field goal."
+  },
+  {
+    "id": "sp-0511",
+    "title": "Which Ravens running back rushed for 2,066 yards in 2003?",
+    "options": ["Jamal Lewis", "Priest Holmes", "Ray Rice", "Willis McGahee"],
+    "correctIndex": 0,
+    "explanation": "Jamal Lewis rushed for 2,066 yards that season."
+  },
+  {
+    "id": "sp-0512",
+    "title": "Which famous author is buried in Baltimore and helped inspire the Ravens’ name?",
+    "options": ["Ernest Hemingway", "Edgar Allan Poe", "F. Scott Fitzgerald", "Robert Frost"],
+    "correctIndex": 1,
+    "explanation": "Edgar Allan Poe is both buried there and inspired the team name."
+  },
+  {
+    "id": "sp-0513",
+    "title": "Which team did the Ravens defeat to win their first ever Super Bowl (XXXV)?",
+    "options": ["New York Giants", "San Francisco 49ers", "Oakland Raiders", "Denver Broncos"],
+    "correctIndex": 0,
+    "explanation": "They beat the Giants in Super Bowl XXXV."
+  },
+  {
+    "id": "sp-0514",
+    "title": "Which coach replaced Brian Billick as Ravens head coach?",
+    "options": ["Eric DeCosta", "Jim Harbaugh", "John Harbaugh", "Gary Kubiak"],
+    "correctIndex": 2,
+    "explanation": "John Harbaugh took over after Billick in 2008."
+  },
+  {
+    "id": "sp-0515",
+    "title": "What playoff distinction do the Ravens and Titans share as of their first five playoff meetings?",
+    "options": [
+      "Home team always wins",
+      "Road team always wins",
+      "Games never exceed 20 points",
+      "They never met in playoffs"
+    ],
+    "correctIndex": 1,
+    "explanation": "In every playoff meeting, the road team has won."
+  },
+  {
+    "id": "sp-0516",
+    "title": "In what year did the Ravens first win the AFC North division?",
+    "options": ["2000", "2004", "2003", "2006"],
+    "correctIndex": 2,
+    "explanation": "The Ravens first won the AFC North in 2003."
+  },
+  {
+    "id": "sp-0517",
+    "title": "Who was inducted into the Pro Football Hall of Fame after playing tackle for the Ravens from 1996 through 2007?",
+    "options": [
+      "Jonathan Ogden",
+      "Marshal Yanda",
+      "Ray Lewis",
+      "Rod Woodson"
+    ],
+    "correctIndex": 0,
+    "explanation": "Jonathan Ogden is a Hall of Fame tackle and franchise legend."
+  },
+  {
+    "id": "sp-0518",
+    "title": "Who was the main running back for Ravens’ Super Bowl XXXV team?",
+    "options": ["Priest Holmes", "Jamal Lewis", "Ray Rice", "Willis McGahee"],
+    "correctIndex": 1,
+    "explanation": "Jamal Lewis was the rookie running back that year."
+  },
+  {
+    "id": "sp-0519",
+    "title": "Which stadium was the first home field for the Baltimore Ravens?",
+    "options": [
+      "Memorial Stadium",
+      "PSINet Stadium",
+      "M&T Bank Stadium",
+      "Camden Yards"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Ravens played their first two seasons at Memorial Stadium."
+  },
+  {
+    "id": "sp-0520",
+    "title": "Which rival team has the all-time postseason series edge over the Ravens, 3–2, as of 2024?",
+    "options": ["Pittsburgh Steelers", "Cincinnati Bengals", "Cleveland Browns", "Buffalo Bills"],
+    "correctIndex": 0,
+    "explanation": "The Steelers are 3–2 vs. Baltimore in the postseason."
+  },
+  {
+    "id": "sp-0521",
+    "title": "Which player threw the pass on the famous 'Mile High Miracle' that led to a Ravens playoff win in Denver?",
+    "options": [
+      "Lamar Jackson",
+      "Trent Dilfer",
+      "Joe Flacco",
+      "Kyle Boller"
+    ],
+    "correctIndex": 2,
+    "explanation": "Joe Flacco threw the game-tying pass in the epic 2012 divisional round."
+  },
+  {
+    "id": "sp-0522",
+    "title": "Which color have the Ravens worn head-to-toe only as part of the NFL's Color Rush uniform events?",
+    "options": ["Gold", "Purple", "Black", "White"],
+    "correctIndex": 1,
+    "explanation": "Their Color Rush uniform is all purple."
+  },
+  {
+    "id": "sp-0523",
+    "title": "What was the Ravens’ overall record in the 2023 regular season?",
+    "options": ["10–7", "13–4", "12–5", "14–2"],
+    "correctIndex": 1,
+    "explanation": "They went 13–4 in 2023."
+  },
+  {
+    "id": "sp-0524",
+    "title": "Which team famously blocked the Ravens’ NFL expansion bid in the early 1990s?",
+    "options": [
+      "New England Patriots",
+      "Washington Commanders (Redskins)",
+      "Cleveland Browns",
+      "Buffalo Bills"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jack Kent Cooke of the Redskins/Commanders lobbied against Baltimore's bid."
+  },
+  {
+    "id": "sp-0525",
+    "title": "In 2019, whom did the Ravens trade Joe Flacco to?",
+    "options": ["Denver Broncos", "New York Jets", "Buffalo Bills", "Arizona Cardinals"],
+    "correctIndex": 0,
+    "explanation": "Joe Flacco was traded to the Denver Broncos."
+  },
+  {
+    "id": "sp-0526",
+    "title": "Which team do the Ravens have an in-state and 'Beltway Bowl' rivalry with?",
+    "options": ["Pittsburgh Steelers", "Washington Commanders", "Philadelphia Eagles", "New York Giants"],
+    "correctIndex": 1,
+    "explanation": "Their Beltway Bowl rivalry is with Washington."
+  },
+  {
+    "id": "sp-0527",
+    "title": "Which QB became the youngest in NFL history to start a playoff game for the Ravens?",
+    "options": [
+      "Joe Flacco",
+      "Kyle Boller",
+      "Lamar Jackson",
+      "Trent Dilfer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lamar Jackson became the youngest QB to start a playoff game."
+  },
+  {
+    "id": "sp-0528",
+    "title": "Who led the Ravens as head coach starting in 2008?",
+    "options": ["Jim Caldwell", "Brian Billick", "John Harbaugh", "Gary Kubiak"],
+    "correctIndex": 2,
+    "explanation": "John Harbaugh became the Ravens’ head coach in 2008."
+  },
+  {
+    "id": "sp-0529",
+    "title": "Which former Oilers coach accused Jack Kent Cooke of being a “carpetbagger” regarding franchise moves?",
+    "options": [
+      "Art Modell",
+      "Peter Angelos",
+      "Gary Zauner",
+      "Tom Clancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peter Angelos made that accusation."
+  },
+  {
+    "id": "sp-0530",
+    "title": "In what year did the Atlanta Falcons play their first NFL season?",
+    "options": ["1966", "1965", "1970", "1962"],
+    "correctIndex": 0,
+    "explanation": "The Falcons began play as an NFL team in 1966."
+  },
+  {
+    "id": "sp-0531",
+    "title": "Who was the Atlanta Falcons' first-ever draft pick?",
+    "options": ["Deion Sanders", "Tommy Nobis", "Michael Vick", "Jamal Anderson"],
+    "correctIndex": 1,
+    "explanation": "Tommy Nobis was selected as the first-ever Falcon in the 1966 NFL Draft."
+  },
+  {
+    "id": "sp-0532",
+    "title": "How many Super Bowls have the Falcons appeared in as of 2024?",
+    "options": ["One", "Three", "Two", "Four"],
+    "correctIndex": 2,
+    "explanation": "The Falcons have appeared in two Super Bowls: XXXIII and LI."
+  },
+  {
+    "id": "sp-0533",
+    "title": "Which stadium became the Atlanta Falcons' home starting in 2017?",
+    "options": ["Georgia Dome", "Atlanta–Fulton County Stadium", "SunTrust Park", "Mercedes-Benz Stadium"],
+    "correctIndex": 3,
+    "explanation": "Mercedes-Benz Stadium became their home in 2017."
+  },
+  {
+    "id": "sp-0534",
+    "title": "Who was the owner that purchased the Falcons in 2002?",
+    "options": ["Arthur Blank", "Rankin Smith", "Scott Pioli", "Jim Mora"],
+    "correctIndex": 0,
+    "explanation": "Arthur Blank purchased the Falcons in 2002."
+  },
+  {
+    "id": "sp-0535",
+    "title": "Which year did the Falcons achieve their first division championship?",
+    "options": ["2010", "1978", "1998", "1980"],
+    "correctIndex": 3,
+    "explanation": "Their first division title was in 1980."
+  },
+  {
+    "id": "sp-0536",
+    "title": "Which running back rushed for a team-record 1,846 yards in a single season?",
+    "options": ["Michael Turner", "Warrick Dunn", "Jamal Anderson", "Gerald Riggs"],
+    "correctIndex": 2,
+    "explanation": "Jamal Anderson rushed for 1,846 yards in 1998."
+  },
+  {
+    "id": "sp-0537",
+    "title": "Who was the Falcons head coach during their run to Super Bowl XXXIII?",
+    "options": ["Mike Smith", "Leeman Bennett", "Dan Reeves", "Raheem Morris"],
+    "correctIndex": 2,
+    "explanation": "Dan Reeves was the head coach for the Falcons' first Super Bowl run."
+  },
+  {
+    "id": "sp-0538",
+    "title": "What was the Falcons’ regular season record in their franchise-best 1998 season?",
+    "options": ["14–2", "13–3", "12–4", "10–6"],
+    "correctIndex": 0,
+    "explanation": "They went 14–2 in the 1998 regular season."
+  },
+  {
+    "id": "sp-0539",
+    "title": "Which player had 300 receiving yards in one game for the Falcons?",
+    "options": ["Roddy White", "Calvin Ridley", "Julio Jones", "Tony Gonzalez"],
+    "correctIndex": 2,
+    "explanation": "Julio Jones had 300 receiving yards in a single game in 2016."
+  },
+  {
+    "id": "sp-0540",
+    "title": "Who was the Falcons' quarterback during their 2016 Super Bowl season?",
+    "options": ["Matt Schaub", "Matt Ryan", "Michael Vick", "Chris Chandler"],
+    "correctIndex": 1,
+    "explanation": "Matt Ryan was the starting quarterback in 2016."
+  },
+  {
+    "id": "sp-0541",
+    "title": "What nickname was given to the 1998 Falcons team?",
+    "options": ["The Flying Birds", "Red Wave", "Dirty Bird", "ATL Express"],
+    "correctIndex": 2,
+    "explanation": "They were known as the 'Dirty Bird' Falcons."
+  },
+  {
+    "id": "sp-0542",
+    "title": "In which stadium did the Falcons play between 1992 and 2016?",
+    "options": ["Atlanta–Fulton County Stadium", "Mercedes-Benz Stadium", "Turner Field", "Georgia Dome"],
+    "correctIndex": 3,
+    "explanation": "They played in the Georgia Dome from 1992 to 2016."
+  },
+  {
+    "id": "sp-0543",
+    "title": "Which coach was fired after the 2014 season with the Falcons?",
+    "options": ["Jim Mora", "Mike Smith", "Dan Quinn", "Arthur Smith"],
+    "correctIndex": 1,
+    "explanation": "Mike Smith was fired after the 2014 season."
+  },
+  {
+    "id": "sp-0544",
+    "title": "Which NFC South rival has the Falcons played the most as of 2024?",
+    "options": ["Tampa Bay Buccaneers", "Carolina Panthers", "New Orleans Saints", "Green Bay Packers"],
+    "correctIndex": 2,
+    "explanation": "They have played the Saints the most among NFC South rivals."
+  },
+  {
+    "id": "sp-0545",
+    "title": "Which city were the Falcons founded in?",
+    "options": ["Savannah", "Marietta", "Athens", "Atlanta"],
+    "correctIndex": 3,
+    "explanation": "They are an Atlanta-based franchise."
+  },
+  {
+    "id": "sp-0546",
+    "title": "Who replaced Michael Vick as starting quarterback after his suspension?",
+    "options": ["Joey Harrington", "Chris Redman", "Matt Ryan", "Kurt Warner"],
+    "correctIndex": 0,
+    "explanation": "Joey Harrington was the starter in 2007 after Vick's suspension."
+  },
+  {
+    "id": "sp-0547",
+    "title": "What is the Falcons’ current helmet color (as of 2024)?",
+    "options": ["Gold", "Red", "Black", "White"],
+    "correctIndex": 2,
+    "explanation": "Their helmets are black."
+  },
+  {
+    "id": "sp-0548",
+    "title": "Which head coach was hired by the Falcons in 2024?",
+    "options": ["Mike Smith", "Dan Quinn", "Arthur Smith", "Raheem Morris"],
+    "correctIndex": 3,
+    "explanation": "Raheem Morris was named head coach in 2024."
+  },
+  {
+    "id": "sp-0549",
+    "title": "What was Michael Vick the first quarterback to achieve in NFL history during the 2006 season?",
+    "options": ["Throw 40 TDs in a season", "Rush for over 1,000 yards in a season", "Win MVP and Super Bowl", "Pass for 5,000 yards"],
+    "correctIndex": 1,
+    "explanation": "Vick rushed for over 1,000 yards, a quarterback first."
+  },
+  {
+    "id": "sp-0550",
+    "title": "Who was Falcons general manager before Thomas Dimitroff?",
+    "options": ["Arthur Blank", "Thomas Dimitroff", "Rich McKay", "Scott Pioli"],
+    "correctIndex": 2,
+    "explanation": "Rich McKay served as GM before Dimitroff."
+  },
+  {
+    "id": "sp-0551",
+    "title": "Which Falcons running back scored 17 rushing TDs in 2008, a franchise single season record?",
+    "options": ["Devonta Freeman", "Jamal Anderson", "Michael Turner", "Warrick Dunn"],
+    "correctIndex": 2,
+    "explanation": "Michael Turner had 17 rushing touchdowns in 2008."
+  },
+  {
+    "id": "sp-0552",
+    "title": "What is the name of the Falcons' stadium they used from 1966 to 1991?",
+    "options": ["Turner Field", "Georgia Dome", "Atlanta–Fulton County Stadium", "SunTrust Park"],
+    "correctIndex": 2,
+    "explanation": "They played at Atlanta–Fulton County Stadium."
+  },
+  {
+    "id": "sp-0553",
+    "title": "Who did the Falcons defeat for their first-ever playoff win in 1978?",
+    "options": ["Dallas Cowboys", "Minnesota Vikings", "Philadelphia Eagles", "San Francisco 49ers"],
+    "correctIndex": 2,
+    "explanation": "Their first playoff win was over the Eagles."
+  },
+  {
+    "id": "sp-0554",
+    "title": "Which legendary cornerback did the Falcons draft in 1989?",
+    "options": ["DeAngelo Hall", "A.J. Terrell", "Deion Sanders", "Marshon Lattimore"],
+    "correctIndex": 2,
+    "explanation": "Deion Sanders was drafted in 1989."
+  },
+  {
+    "id": "sp-0555",
+    "title": "What was the Falcons' record during the 2023 NFL regular season?",
+    "options": ["7–10", "8–9", "9–8", "6–11"],
+    "correctIndex": 0,
+    "explanation": "They finished 7–10 in 2023."
+  },
+  {
+    "id": "sp-0556",
+    "title": "Which defensive lineman set a Falcons record with 6 sacks in a single game?",
+    "options": ["Takk McKinley", "Adrian Clayborn", "Vic Beasley", "John Abraham"],
+    "correctIndex": 1,
+    "explanation": "Adrian Clayborn had 6 sacks in one game in 2017."
+  },
+  {
+    "id": "sp-0557",
+    "title": "Who was the Falcons head coach immediately before Dan Quinn?",
+    "options": ["Jim Mora", "Arthur Smith", "Mike Smith", "Wade Phillips"],
+    "correctIndex": 2,
+    "explanation": "Mike Smith was head coach before Dan Quinn."
+  },
+  {
+    "id": "sp-0558",
+    "title": "What year did the Falcons lose the Super Bowl in overtime to New England?",
+    "options": ["2012", "2016", "2018", "2017"],
+    "correctIndex": 1,
+    "explanation": "Super Bowl LI was after the 2016 season."
+  },
+  {
+    "id": "sp-0559",
+    "title": "Which Falcon led the NFL with 136 catches in 2015?",
+    "options": ["Roddy White", "Julio Jones", "Tony Gonzalez", "Andre Rison"],
+    "correctIndex": 1,
+    "explanation": "Julio Jones led the NFL with 136 receptions in 2015."
+  },
+  {
+    "id": "sp-0560",
+    "title": "What event caused the Falcons to change home uniforms back to black as primary in 2020?",
+    "options": ["Matt Ryan trade", "Opening of new stadium", "Uniform redesign", "Super Bowl appearance"],
+    "correctIndex": 2,
+    "explanation": "A redesign in 2020 returned black as their home uniform."
+  },
+  {
+    "id": "sp-0561",
+    "title": "Who is the Falcons' all-time leader in receiving yards?",
+    "options": ["Julio Jones", "Roddy White", "Calvin Ridley", "Tony Gonzalez"],
+    "correctIndex": 0,
+    "explanation": "Julio Jones is the franchise leader in receiving yards."
+  },
+  {
+    "id": "sp-0562",
+    "title": "What nickname did Julia Elliott suggest for the Falcons, which was chosen as the team's name?",
+    "options": ["Hawks", "Eagles", "Falcons", "Warriors"],
+    "correctIndex": 2,
+    "explanation": "She suggested 'Falcons', which became the team's nickname."
+  },
+  {
+    "id": "sp-0563",
+    "title": "Which NFC team did the Falcons defeat in the 2016 NFC Championship to reach the Super Bowl?",
+    "options": ["Dallas Cowboys", "Seattle Seahawks", "Green Bay Packers", "Minnesota Vikings"],
+    "correctIndex": 2,
+    "explanation": "The Falcons defeated the Packers in the NFC Championship."
+  },
+  {
+    "id": "sp-0564",
+    "title": "What year was the Falcons' first winning season?",
+    "options": ["1973", "1969", "1971", "1978"],
+    "correctIndex": 2,
+    "explanation": "Their first winning season was in 1971."
+  },
+  {
+    "id": "sp-0565",
+    "title": "Which pair of Falcons teammates was dubbed the “Big Three” in the early 2010s?",
+    "options": ["Ryan, White, Turner", "Gonzalez, Jones, White", "Vick, Dunn, Crumpler", "Turner, Norwood, Finneran"],
+    "correctIndex": 1,
+    "explanation": "Gonzalez, Jones, and White were called the Big Three for their receiving prowess."
+  },
+  {
+    "id": "sp-0566",
+    "title": "Which stadium hosted the last game for the Atlanta Falcons before they moved to Mercedes-Benz Stadium?",
+    "options": ["Turner Field", "SunTrust Park", "Georgia Dome", "Grady Stadium"],
+    "correctIndex": 2,
+    "explanation": "Georgia Dome was their previous stadium."
+  },
+  {
+    "id": "sp-0567",
+    "title": "Which player was traded away from the Falcons to the Packers and became a Hall of Fame QB?",
+    "options": ["Michael Vick", "Chris Chandler", "Brett Favre", "Roddy White"],
+    "correctIndex": 2,
+    "explanation": "Brett Favre was traded to Green Bay, where he excelled."
+  },
+  {
+    "id": "sp-0568",
+    "title": "What is the nickname for the Falcons’ rivalry with the Carolina Panthers?",
+    "options": ["I-20 Rivalry", "Peach Bowl", "I-85 Rivalry", "Deep South Classic"],
+    "correctIndex": 2,
+    "explanation": "It's called the I-85 Rivalry."
+  },
+  {
+    "id": "sp-0569",
+    "title": "Against which team did the Falcons secure their first playoff win in franchise history?",
+    "options": ["Cowboys", "Saints", "Eagles", "Packers"],
+    "correctIndex": 2,
+    "explanation": "Their first playoff victory was against the Philadelphia Eagles in 1978."
+  },
+  {
+    "id": "sp-0570",
+    "title": "What city are the Buffalo Bills based in?",
+    "options": ["Buffalo", "Rochester", "Syracuse", "Albany"],
+    "correctIndex": 0,
+    "explanation": "The Buffalo Bills are based in the Buffalo–Niagara Falls metropolitan area."
+  },
+  {
+    "id": "sp-0571",
+    "title": "Who purchased the Buffalo Bills after Ralph Wilson’s death?",
+    "options": ["Doug Marrone", "Terry Pegula", "Sean McDermott", "Marv Levy"],
+    "correctIndex": 1,
+    "explanation": "Terry Pegula purchased the franchise after Ralph Wilson."
+  },
+  {
+    "id": "sp-0572",
+    "title": "What is the current home stadium of the Bills called?",
+    "options": ["Bills Stadium", "Ralph Wilson Stadium", "Highmark Stadium", "Rich Stadium"],
+    "correctIndex": 2,
+    "explanation": "The Bills play at Highmark Stadium."
+  },
+  {
+    "id": "sp-0573",
+    "title": "Which Bills quarterback led the team to four straight Super Bowl appearances?",
+    "options": ["Jim Kelly", "Doug Flutie", "Jack Kemp", "Ryan Fitzpatrick"],
+    "correctIndex": 0,
+    "explanation": "Jim Kelly led the Bills to four consecutive Super Bowls."
+  },
+  {
+    "id": "sp-0574",
+    "title": "How many Super Bowls have the Buffalo Bills won?",
+    "options": ["One", "Two", "Three", "Zero"],
+    "correctIndex": 3,
+    "explanation": "The Bills have not won a Super Bowl."
+  },
+  {
+    "id": "sp-0575",
+    "title": "From 2000 to 2016, how many seasons did the Bills go without a playoff appearance?",
+    "options": ["5", "10", "12", "17"],
+    "correctIndex": 3,
+    "explanation": "The Bills had a 17-year playoff drought."
+  },
+  {
+    "id": "sp-0576",
+    "title": "With which franchise do the Bills share the record for most Super Bowl appearances without a win?",
+    "options": ["Cleveland Browns", "New York Jets", "Minnesota Vikings", "Detroit Lions"],
+    "correctIndex": 2,
+    "explanation": "The Vikings have also lost four Super Bowls."
+  },
+  {
+    "id": "sp-0577",
+    "title": "Which quarterback did the Bills draft in the first round in 2018?",
+    "options": ["Josh Allen", "Nathan Peterman", "JP Losman", "Tyrod Taylor"],
+    "correctIndex": 0,
+    "explanation": "Josh Allen was drafted by Buffalo in 2018."
+  },
+  {
+    "id": "sp-0578",
+    "title": "What year was the Buffalo Bills franchise founded?",
+    "options": ["1960", "1959", "1970", "1965"],
+    "correctIndex": 1,
+    "explanation": "The franchise was established in 1959."
+  },
+  {
+    "id": "sp-0579",
+    "title": "What position did Thurman Thomas play for the Bills?",
+    "options": ["Wide receiver", "Running back", "Linebacker", "Quarterback"],
+    "correctIndex": 1,
+    "explanation": "Thurman Thomas was a running back."
+  },
+  {
+    "id": "sp-0580",
+    "title": "Who was the Bills' head coach when they broke their 17-year playoff drought?",
+    "options": ["Doug Marrone", "Rex Ryan", "Sean McDermott", "Mike Mularkey"],
+    "correctIndex": 2,
+    "explanation": "Sean McDermott led the Bills back to the postseason."
+  },
+  {
+    "id": "sp-0581",
+    "title": "What is the nickname for the Bills' passionate fan base?",
+    "options": ["Bills Crew", "Circle the Wagons", "Bills Mafia", "Lake Effect Army"],
+    "correctIndex": 2,
+    "explanation": "The fan base is widely known as 'Bills Mafia.'"
+  },
+  {
+    "id": "sp-0582",
+    "title": "Which number did Jim Kelly wear for the Buffalo Bills?",
+    "options": ["34", "12", "83", "15"],
+    "correctIndex": 1,
+    "explanation": "Jim Kelly wore number 12."
+  },
+  {
+    "id": "sp-0583",
+    "title": "Who is the Bills’ mascot?",
+    "options": ["Billy Buffalo", "Cap Buffalo", "Rex the Bison", "Buffa Bill"],
+    "correctIndex": 0,
+    "explanation": "Billy Buffalo is the team’s official mascot."
+  },
+  {
+    "id": "sp-0584",
+    "title": "What was the name of the Bills’ cheerleading squad that operated until 2013?",
+    "options": ["Buffalo Bombshells", "Queen City Cheer", "Buffalo Jills", "Empire Girls"],
+    "correctIndex": 2,
+    "explanation": "The Buffalo Jills were the team’s cheerleading squad."
+  },
+  {
+    "id": "sp-0585",
+    "title": "Which of these numbers is retired by the Buffalo Bills?",
+    "options": ["12", "21", "55", "32"],
+    "correctIndex": 0,
+    "explanation": "No. 12 is retired in honor of Jim Kelly."
+  },
+  {
+    "id": "sp-0586",
+    "title": "Who was the Bills’ head coach during their 2020 AFC Championship appearance?",
+    "options": ["Brian Daboll", "Doug Marrone", "Sean McDermott", "Rex Ryan"],
+    "correctIndex": 2,
+    "explanation": "Sean McDermott coached the Bills in 2020."
+  },
+  {
+    "id": "sp-0587",
+    "title": "Which AFC team did the Bills defeat to advance to their fourth straight Super Bowl?",
+    "options": ["Kansas City Chiefs", "Jacksonville Jaguars", "Miami Dolphins", "Kansas City Chiefs"],
+    "correctIndex": 0,
+    "explanation": "Buffalo beat Kansas City in the 1993 AFC Championship."
+  },
+  {
+    "id": "sp-0588",
+    "title": "What Buffalo Bills number is associated with O.J. Simpson?",
+    "options": ["34", "32", "12", "78"],
+    "correctIndex": 1,
+    "explanation": "O.J. Simpson wore number 32 for the Bills."
+  },
+  {
+    "id": "sp-0589",
+    "title": "Which team's stadium do the Bills share for an annual neutral-site game?",
+    "options": ["Rogers Centre", "MetLife Stadium", "Gillette Stadium", "Ford Field"],
+    "correctIndex": 0,
+    "explanation": "The Bills have played games in Toronto at the Rogers Centre."
+  },
+  {
+    "id": "sp-0590",
+    "title": "Who holds the NFL record for career sacks and played for the Bills?",
+    "options": ["Reggie White", "Bruce Smith", "Andre Reed", "Mike Stratton"],
+    "correctIndex": 1,
+    "explanation": "Bruce Smith holds the NFL record for sacks."
+  },
+  {
+    "id": "sp-0591",
+    "title": "What is the name of the Bills' all-white uniform worn once a year?",
+    "options": ["White Out", "Cold Front", "Snow Day", "Glacier Gear"],
+    "correctIndex": 1,
+    "explanation": "The all-white alternate is called 'Cold Front.'"
+  },
+  {
+    "id": "sp-0592",
+    "title": "Which of the following is NOT a Bills AFC East rival?",
+    "options": ["Dolphins", "Jets", "Patriots", "Steelers"],
+    "correctIndex": 3,
+    "explanation": "The Steelers are not in the AFC East."
+  },
+  {
+    "id": "sp-0593",
+    "title": "Which of these players was NOT a quarterback for the Buffalo Bills?",
+    "options": ["Drew Bledsoe", "Trent Edwards", "Jim Kelly", "Bruce Smith"],
+    "correctIndex": 3,
+    "explanation": "Bruce Smith was a defensive end."
+  },
+  {
+    "id": "sp-0594",
+    "title": "Which music act’s song 'Mr. Brightside' became a Bills team tradition in 2024?",
+    "options": ["Coldplay", "The Killers", "Green Day", "U2"],
+    "correctIndex": 1,
+    "explanation": "'Mr. Brightside' is by The Killers."
+  },
+  {
+    "id": "sp-0595",
+    "title": "Where did the Bills hold training camp as of 2023?",
+    "options": ["SUNY Fredonia", "Niagara University", "St. John Fisher University", "Erie Community College"],
+    "correctIndex": 2,
+    "explanation": "The team uses St. John Fisher University."
+  },
+  {
+    "id": "sp-0596",
+    "title": "Which color was added to the Bills’ uniforms in the early 1960s?",
+    "options": ["Orange", "Red", "Green", "Black"],
+    "correctIndex": 1,
+    "explanation": "Red was introduced in 1962."
+  },
+  {
+    "id": "sp-0597",
+    "title": "Who was the Bills' first head coach?",
+    "options": ["Buster Ramsey", "Lou Saban", "Marv Levy", "Kay Stephenson"],
+    "correctIndex": 0,
+    "explanation": "Buster Ramsey was the first head coach."
+  },
+  {
+    "id": "sp-0598",
+    "title": "Which city is NOT associated with a past or present Bills rival?",
+    "options": ["Miami", "Cleveland", "Dallas", "Chicago"],
+    "correctIndex": 3,
+    "explanation": "Chicago does not feature in Bills' major rivalries."
+  },
+  {
+    "id": "sp-0599",
+    "title": "Which Bills owner was inducted into the Pro Football Hall of Fame?",
+    "options": ["Terry Pegula", "Ralph Wilson", "Van Miller", "Mary Wilson"],
+    "correctIndex": 1,
+    "explanation": "Ralph Wilson is in the Hall of Fame."
+  },
+  {
+    "id": "sp-0600",
+    "title": "What helmet logo did the Bills introduce in 1974?",
+    "options": ["Standing Red Bison", "Charging Blue Bison", "Jumping Buffalo", "Raging Bull"],
+    "correctIndex": 1,
+    "explanation": "The charging blue bison debuted in 1974."
+  },
+  {
+    "id": "sp-0601",
+    "title": "Which famous broadcaster coined 'No one circles the wagons like the Buffalo Bills'?",
+    "options": ["Chris Berman", "Al Michaels", "John Murphy", "Steve Tasker"],
+    "correctIndex": 0,
+    "explanation": "Chris Berman popularized the phrase."
+  },
+  {
+    "id": "sp-0602",
+    "title": "Which player wore number 78 for the Bills and had his number retired?",
+    "options": ["Thurman Thomas", "Andre Reed", "Bruce Smith", "Jim Kelly"],
+    "correctIndex": 2,
+    "explanation": "Bruce Smith wore 78."
+  },
+  {
+    "id": "sp-0603",
+    "title": "Which divisional rival had a record 20-game win streak over the Bills in the 1970s?",
+    "options": ["New England Patriots", "NY Jets", "Miami Dolphins", "Baltimore Colts"],
+    "correctIndex": 2,
+    "explanation": "The Dolphins won 20 consecutive games over Buffalo."
+  },
+  {
+    "id": "sp-0604",
+    "title": "Who took over play-by-play duties on Bills broadcasts after John Murphy’s stroke?",
+    "options": ["Chris Brown", "Steve Tasker", "Eric Wood", "Joe Ferguson"],
+    "correctIndex": 0,
+    "explanation": "Chris Brown became the play-by-play broadcaster."
+  },
+  {
+    "id": "sp-0605",
+    "title": "For what political office did former Bills quarterback Jack Kemp NOT run?",
+    "options": ["Vice President", "U.S. Congressman", "U.S. Senator", "County Executive"],
+    "correctIndex": 2,
+    "explanation": "Jack Kemp never ran for Senate."
+  },
+  {
+    "id": "sp-0606",
+    "title": "Who is NOT in the Bills’ Wall of Fame?",
+    "options": ["Marv Levy", "Thurman Thomas", "Jim Kelly", "Bruce Matthews"],
+    "correctIndex": 3,
+    "explanation": "Bruce Matthews never played for Buffalo."
+  },
+  {
+    "id": "sp-0607",
+    "title": "What unusual tradition do Bills Mafia fans famously participate in?",
+    "options": ["Wing-eating contest", "Jumping through tables", "Painting their faces blue", "Marching with a drumline"],
+    "correctIndex": 1,
+    "explanation": "Fans are known for jumping through folding tables."
+  },
+  {
+    "id": "sp-0608",
+    "title": "In which year did the Bills announce plans for a new stadium to open?",
+    "options": ["2025", "2026", "2024", "2027"],
+    "correctIndex": 1,
+    "explanation": "The new stadium is set for completion in 2026."
+  },
+  {
+    "id": "sp-0609",
+    "title": "What product are Bills fans internationally associated with?",
+    "options": ["Zubaz pants", "Cheesehead hats", "Terrible towels", "Bread helmets"],
+    "correctIndex": 0,
+    "explanation": "Bills fans are known for wearing Zubaz."
   }
 ]
