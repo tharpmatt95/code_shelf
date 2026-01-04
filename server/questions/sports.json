@@ -4561,5 +4561,758 @@
     "options": ["Zubaz pants", "Cheesehead hats", "Terrible towels", "Bread helmets"],
     "correctIndex": 0,
     "explanation": "Bills fans are known for wearing Zubaz."
+  },
+  {
+    "id": "sp-0610",
+    "title": "Where are the Carolina Panthers headquartered?",
+    "options": [
+      "Bank of America Stadium in Charlotte",
+      "Kenan Memorial Stadium in Chapel Hill",
+      "Williams-Brice Stadium in Columbia",
+      "Memorial Stadium in Clemson"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Panthers are headquartered at Bank of America Stadium in Charlotte."
+  },
+  {
+    "id": "sp-0611",
+    "title": "Who was the founding owner of the Carolina Panthers?",
+    "options": [
+      "David Tepper",
+      "Jerry Richardson",
+      "George Shinn",
+      "Mike McCormack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jerry Richardson was the founding owner."
+  },
+  {
+    "id": "sp-0612",
+    "title": "What year did the Carolina Panthers play their first NFL season?",
+    "options": [
+      "1993",
+      "1994",
+      "1995",
+      "1996"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Panthers began play in 1995."
+  },
+  {
+    "id": "sp-0613",
+    "title": "Which division did the Panthers join after the NFL's 2002 expansion?",
+    "options": [
+      "AFC East",
+      "NFC West",
+      "AFC South",
+      "NFC South"
+    ],
+    "correctIndex": 3,
+    "explanation": "After the 2002 realignment, the Panthers were placed in the NFC South."
+  },
+  {
+    "id": "sp-0614",
+    "title": "Who was the Panthers' first ever draft pick?",
+    "options": [
+      "Steve Smith",
+      "Julius Peppers",
+      "Kerry Collins",
+      "Jake Delhomme"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kerry Collins was the Panthers' first pick."
+  },
+  {
+    "id": "sp-0615",
+    "title": "In which South Carolina stadium did the Panthers play their inaugural season home games?",
+    "options": [
+      "Williams-Brice Stadium",
+      "Kenan Memorial Stadium",
+      "Memorial Stadium (Clemson)",
+      "Carter-Finley Stadium"
+    ],
+    "correctIndex": 2,
+    "explanation": "They played at Memorial Stadium in Clemson."
+  },
+  {
+    "id": "sp-0616",
+    "title": "Who was the Panthers' first head coach?",
+    "options": [
+      "John Fox",
+      "Dom Capers",
+      "George Seifert",
+      "Matt Rhule"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dom Capers was the team's first head coach."
+  },
+  {
+    "id": "sp-0617",
+    "title": "Which stadium do the Panthers currently call home?",
+    "options": [
+      "Raymond James Stadium",
+      "Mercedes-Benz Stadium",
+      "Bank of America Stadium",
+      "Nissan Stadium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Their home is Bank of America Stadium."
+  },
+  {
+    "id": "sp-0618",
+    "title": "Who became the Panthers' owner in 2018?",
+    "options": [
+      "Jerry Richardson",
+      "David Tepper",
+      "Tom Glick",
+      "Mark Richardson"
+    ],
+    "correctIndex": 1,
+    "explanation": "David Tepper bought the team in 2018."
+  },
+  {
+    "id": "sp-0619",
+    "title": "In which year did the Panthers reach their first Super Bowl?",
+    "options": [
+      "1995",
+      "1996",
+      "2003",
+      "2015"
+    ],
+    "correctIndex": 2,
+    "explanation": "Their first Super Bowl appearance was after the 2003 season."
+  },
+  {
+    "id": "sp-0620",
+    "title": "Who was the quarterback for the Panthers during their 2015 Super Bowl run?",
+    "options": [
+      "Jake Delhomme",
+      "Kerry Collins",
+      "Teddy Bridgewater",
+      "Cam Newton"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cam Newton led them in 2015."
+  },
+  {
+    "id": "sp-0621",
+    "title": "Which jersey number has been retired by the Panthers?",
+    "options": [
+      "51",
+      "1",
+      "89",
+      "22"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sam Mills' #51 was retired."
+  },
+  {
+    "id": "sp-0622",
+    "title": "What phrase did Sam Mills inspire that became the Panthers' team slogan?",
+    "options": [
+      "Never Settle",
+      "Keep Pounding",
+      "Dominate the Game",
+      "Roar On"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Keep Pounding\" became their slogan."
+  },
+  {
+    "id": "sp-0623",
+    "title": "Where do the Panthers typically hold their annual training camp?",
+    "options": [
+      "Bank of America Stadium",
+      "Wofford College",
+      "Winthrop University",
+      "Kenan Stadium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Training camp is at Wofford College."
+  },
+  {
+    "id": "sp-0624",
+    "title": "What animal is the Panthers' mascot, Sir Purr?",
+    "options": [
+      "Bear",
+      "Panther",
+      "Wolf",
+      "Lion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sir Purr is a panther."
+  },
+  {
+    "id": "sp-0625",
+    "title": "Which year did the Panthers' blue alternate jersey debut?",
+    "options": [
+      "2002",
+      "1995",
+      "2012",
+      "2010"
+    ],
+    "correctIndex": 0,
+    "explanation": "The blue jerseys debuted in 2002."
+  },
+  {
+    "id": "sp-0626",
+    "title": "Who did the Panthers lose to in their first Super Bowl appearance?",
+    "options": [
+      "Green Bay Packers",
+      "Denver Broncos",
+      "New England Patriots",
+      "Seattle Seahawks"
+    ],
+    "correctIndex": 2,
+    "explanation": "They lost to the Patriots in Super Bowl XXXVIII (2003 season)."
+  },
+  {
+    "id": "sp-0627",
+    "title": "What is the name of the Panthers’ drumline?",
+    "options": [
+      "Panthers Beat",
+      "TopCats",
+      "ThunderCats",
+      "PurrCussion"
+    ],
+    "correctIndex": 3,
+    "explanation": "The drumline is called PurrCussion."
+  },
+  {
+    "id": "sp-0628",
+    "title": "Which running back achieved 1,000 rushing and 1,000 receiving yards in one season for the Panthers?",
+    "options": [
+      "DeShaun Foster",
+      "Jonathan Stewart",
+      "Christian McCaffrey",
+      "DeAngelo Williams"
+    ],
+    "correctIndex": 2,
+    "explanation": "Christian McCaffrey accomplished this in 2019."
+  },
+  {
+    "id": "sp-0629",
+    "title": "The Panthers represent which two U.S. states?",
+    "options": [
+      "North Carolina and South Carolina",
+      "Georgia and Tennessee",
+      "Tennessee and Virginia",
+      "South Carolina and Georgia"
+    ],
+    "correctIndex": 0,
+    "explanation": "They are the team for both Carolinas."
+  },
+  {
+    "id": "sp-0630",
+    "title": "Who coached the Panthers to their first playoff appearance?",
+    "options": [
+      "George Seifert",
+      "Dom Capers",
+      "John Fox",
+      "Ron Rivera"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dom Capers coached their first playoff team in 1996."
+  },
+  {
+    "id": "sp-0631",
+    "title": "What is unique about the primary design of the Panthers' logo?",
+    "options": [
+      "It's shaped like a football",
+      "It mimics the outline of the Carolinas",
+      "It contains hidden initials",
+      "It's based on a real panther photo"
+    ],
+    "correctIndex": 1,
+    "explanation": "The design mimics North and South Carolina."
+  },
+  {
+    "id": "sp-0632",
+    "title": "Which former Panther became a TV game analyst for their preseason broadcasts as of 2021?",
+    "options": [
+      "Jake Delhomme",
+      "Samuel Mills",
+      "Steve Smith",
+      "Luke Kuechly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Steve Smith is a preseason analyst."
+  },
+  {
+    "id": "sp-0633",
+    "title": "How many seasons did John Fox coach the Panthers?",
+    "options": [
+      "Three",
+      "Five",
+      "Nine",
+      "Ten"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Fox coached for 9 full seasons (2002–2010), often rounded to ten due to overlap."
+  },
+  {
+    "id": "sp-0634",
+    "title": "What is the name of the Carolina Panthers' cheerleading team?",
+    "options": [
+      "TopCats",
+      "Pantherettes",
+      "Roar Squad",
+      "PurrCussion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their cheerleading squad is the TopCats."
+  },
+  {
+    "id": "sp-0635",
+    "title": "Who did the Panthers defeat for their first ever playoff win?",
+    "options": [
+      "Dallas Cowboys",
+      "Green Bay Packers",
+      "Arizona Cardinals",
+      "New York Giants"
+    ],
+    "correctIndex": 0,
+    "explanation": "Their first playoff win was over the Cowboys in the divisional round."
+  },
+  {
+    "id": "sp-0636",
+    "title": "Which team defeated the Panthers in the 2015 Super Bowl (Super Bowl 50)?",
+    "options": [
+      "Seattle Seahawks",
+      "Denver Broncos",
+      "New England Patriots",
+      "Arizona Cardinals"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Denver Broncos beat Carolina in Super Bowl 50."
+  },
+  {
+    "id": "sp-0637",
+    "title": "In their inaugural season, how many regular season games did the Panthers win?",
+    "options": [
+      "7",
+      "4",
+      "9",
+      "12"
+    ],
+    "correctIndex": 0,
+    "explanation": "They went 7–9 in their first season."
+  },
+  {
+    "id": "sp-0638",
+    "title": "Which year did the Panthers set an all-time best record for an NFL expansion team in its first season?",
+    "options": [
+      "1993",
+      "1995",
+      "1996",
+      "2002"
+    ],
+    "correctIndex": 1,
+    "explanation": "They had the best inaugural record in 1995."
+  },
+  {
+    "id": "sp-0639",
+    "title": "Who did the Panthers select with the second overall pick in the 2002 NFL draft?",
+    "options": [
+      "Cam Newton",
+      "Steve Smith",
+      "Julius Peppers",
+      "Luke Kuechly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Julius Peppers was the 2nd pick in 2002."
+  },
+  {
+    "id": "sp-0640",
+    "title": "What team did the Panthers defeat for their only playoff shutout on the road since 1980?",
+    "options": [
+      "Chicago Bears",
+      "Arizona Cardinals",
+      "New York Giants",
+      "Dallas Cowboys"
+    ],
+    "correctIndex": 2,
+    "explanation": "They blanked the Giants 23-0 in the 2005 playoffs."
+  },
+  {
+    "id": "sp-0641",
+    "title": "What phrase is featured on the Panthers’ post-2012 Nike jersey collar?",
+    "options": [
+      "Roar On",
+      "Panther Pride",
+      "Keep Pounding",
+      "Carolina Strong"
+    ],
+    "correctIndex": 2,
+    "explanation": "The collar says \"Keep Pounding\" in honor of Sam Mills."
+  },
+  {
+    "id": "sp-0642",
+    "title": "What is the maximum number of times in a season the Panthers may wear their blue alternate jersey, according to NFL rules?",
+    "options": [
+      "Once",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "NFL allows blue jerseys up to twice per season."
+  },
+  {
+    "id": "sp-0643",
+    "title": "What was the Panthers’ regular season record in their 2015 Super Bowl run?",
+    "options": [
+      "13–3",
+      "15–1",
+      "12–4",
+      "16–0"
+    ],
+    "correctIndex": 1,
+    "explanation": "They went an NFC-tied record 15–1."
+  },
+  {
+    "id": "sp-0644",
+    "title": "Which defensive end was inducted into the Hall of Fame and played for the Panthers twice (2002–2009, 2017–2018)?",
+    "options": [
+      "Jared Allen",
+      "Charles Johnson",
+      "Julius Peppers",
+      "Mike Rucker"
+    ],
+    "correctIndex": 2,
+    "explanation": "Julius Peppers played two stints with the team."
+  },
+  {
+    "id": "sp-0645",
+    "title": "Which coach led Carolina to three postseason appearances and a Super Bowl?",
+    "options": [
+      "Ron Rivera",
+      "Matt Rhule",
+      "Dom Capers",
+      "John Fox"
+    ],
+    "correctIndex": 3,
+    "explanation": "John Fox led them to one Super Bowl and three playoffs."
+  },
+  {
+    "id": "sp-0646",
+    "title": "Who was the Panthers’ starting quarterback for most of the 2003 season?",
+    "options": [
+      "Cam Newton",
+      "Jake Delhomme",
+      "Chris Weinke",
+      "Kerry Collins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jake Delhomme was QB in 2003."
+  },
+  {
+    "id": "sp-0647",
+    "title": "Which multi-time Carolina Panthers cheerleader squad made NFL history in 2022 for including Justine Lindsay?",
+    "options": [
+      "Pantherettes",
+      "Cheer Cats",
+      "TopCats",
+      "PurrCussion"
+    ],
+    "correctIndex": 2,
+    "explanation": "The TopCats added Justine Lindsay."
+  },
+  {
+    "id": "sp-0648",
+    "title": "Who was interim coach after Ron Rivera’s firing in 2019?",
+    "options": [
+      "Chris Tabor",
+      "Steve Wilks",
+      "Mike McCormack",
+      "Perry Fewell"
+    ],
+    "correctIndex": 3,
+    "explanation": "Perry Fewell was the interim."
+  },
+  {
+    "id": "sp-0649",
+    "title": "What station is the current flagship for Panthers radio broadcasts?",
+    "options": [
+      "WBT",
+      "WSOC",
+      "WRFX",
+      "WCCB"
+    ],
+    "correctIndex": 2,
+    "explanation": "WRFX is the flagship."
+  },
+  {
+    "id": "sp-0651",
+    "title": "Who was the founding head coach of the Cincinnati Bengals?",
+    "options": ["Paul Brown", "Bill Johnson", "Sam Wyche", "Marvin Lewis"],
+    "correctIndex": 0,
+    "explanation": "Paul Brown was the team's founder and first head coach."
+  },
+  {
+    "id": "sp-0652",
+    "title": "What stadium did the Bengals call home before moving to Paycor Stadium?",
+    "options": ["Riverfront Stadium", "Nippert Stadium", "Crosley Field", "Great American Ball Park"],
+    "correctIndex": 0,
+    "explanation": "Riverfront Stadium served as the Bengals' main home before Paycor Stadium."
+  },
+  {
+    "id": "sp-0653",
+    "title": "Who inherited controlling interest in the Bengals after Paul Brown's death?",
+    "options": ["Katie Blackburn", "Mike Brown", "Austin Knowlton", "Duke Tobin"],
+    "correctIndex": 1,
+    "explanation": "Mike Brown, Paul Brown's son, inherited controlling interest in the Bengals."
+  },
+  {
+    "id": "sp-0654",
+    "title": "Which Bengal coached the team to both its 1980s Super Bowl appearances?",
+    "options": ["Marvin Lewis", "Sam Wyche", "Forrest Gregg", "Bill Johnson"],
+    "correctIndex": 2,
+    "explanation": "Forrest Gregg coached the Bengals to Super Bowls XVI and XXIII."
+  },
+  {
+    "id": "sp-0655",
+    "title": "What AFC North rival shares both similar colors and origins with the Bengals?",
+    "options": ["Pittsburgh Steelers", "Cleveland Browns", "Baltimore Ravens", "Indianapolis Colts"],
+    "correctIndex": 1,
+    "explanation": "The Browns and Bengals share origins through Paul Brown and similar colors."
+  },
+  {
+    "id": "sp-0656",
+    "title": "Who won NFL MVP as a Bengals quarterback in 1981?",
+    "options": ["Ken Anderson", "Boomer Esiason", "Carson Palmer", "Andy Dalton"],
+    "correctIndex": 0,
+    "explanation": "Ken Anderson was NFL MVP in 1981."
+  },
+  {
+    "id": "sp-0657",
+    "title": "Which franchise did the Bengals beat to advance to Super Bowl LVI?",
+    "options": ["Kansas City Chiefs", "San Francisco 49ers", "Buffalo Bills", "Baltimore Ravens"],
+    "correctIndex": 0,
+    "explanation": "The Bengals defeated the Chiefs to reach Super Bowl LVI."
+  },
+  {
+    "id": "sp-0658",
+    "title": "Over which team did the Bengals win their first-ever playoff game in 31 years during the 2021 season?",
+    "options": ["Raiders", "Patriots", "Texans", "Titans"],
+    "correctIndex": 0,
+    "explanation": "They beat the Las Vegas Raiders in the Wild Card round."
+  },
+  {
+    "id": "sp-0659",
+    "title": "Who was the Bengals' 'de facto general manager,' making personnel decisions in recent years?",
+    "options": ["Duke Tobin", "Katie Blackburn", "Marvin Lewis", "Mike Brown"],
+    "correctIndex": 0,
+    "explanation": "Duke Tobin acts as the team's unofficial GM."
+  },
+  {
+    "id": "sp-0660",
+    "title": "Which city was never seriously considered for the Bengals' franchise location?",
+    "options": ["Cincinnati", "Louisville", "Columbus", "Lexington"],
+    "correctIndex": 1,
+    "explanation": "The main cities considered were Cincinnati and Columbus."
+  },
+  {
+    "id": "sp-0661",
+    "title": "Which Bengals head coach led the team to five straight playoff appearances (2011–2015)?",
+    "options": ["Sam Wyche", "Marvin Lewis", "Bill Johnson", "Zac Taylor"],
+    "correctIndex": 1,
+    "explanation": "Marvin Lewis led the Bengals during that playoff streak."
+  },
+  {
+    "id": "sp-0662",
+    "title": "Who was the first Bengals quarterback to successfully run Bill Walsh’s West Coast offense?",
+    "options": ["Ken Anderson", "Boomer Esiason", "Virgil Carter", "Andy Dalton"],
+    "correctIndex": 2,
+    "explanation": "Virgil Carter implemented Walsh's passing offense first."
+  },
+  {
+    "id": "sp-0663",
+    "title": "What is the name of the Bengals' tiger mascot?",
+    "options": ["Bengal", "Who Dey", "Tigey", "Stripe"],
+    "correctIndex": 1,
+    "explanation": "Who Dey is the Bengals' official mascot."
+  },
+  {
+    "id": "sp-0664",
+    "title": "Against which team did the Bengals lose both Super Bowls in the 1980s?",
+    "options": ["Dallas Cowboys", "Oakland Raiders", "San Francisco 49ers", "New England Patriots"],
+    "correctIndex": 2,
+    "explanation": "They lost both to the San Francisco 49ers."
+  },
+  {
+    "id": "sp-0665",
+    "title": "Which quarterback did the Bengals draft first overall in 2020?",
+    "options": ["Joe Burrow", "Andy Dalton", "Carson Palmer", "A.J. McCarron"],
+    "correctIndex": 0,
+    "explanation": "Joe Burrow was the 2020 first overall pick."
+  },
+  {
+    "id": "sp-0666",
+    "title": "In what year did the Bengals debut their striped tiger helmet design?",
+    "options": ["1968", "1981", "2004", "1997"],
+    "correctIndex": 1,
+    "explanation": "The tiger-striped helmet debuted in 1981."
+  },
+  {
+    "id": "sp-0667",
+    "title": "Which city was NOT mentioned as within 110 miles of the Bengals' home base?",
+    "options": ["Louisville", "Lexington", "Toledo", "Columbus"],
+    "correctIndex": 2,
+    "explanation": "Toledo is not among the listed cities."
+  },
+  {
+    "id": "sp-0668",
+    "title": "What was the original logo on the Bengals' helmets?",
+    "options": ["Tiger head", "Bengals in black letters", "Stripes", "Orange B"],
+    "correctIndex": 1,
+    "explanation": "They featured 'Bengals' in black letters."
+  },
+  {
+    "id": "sp-0669",
+    "title": "What year did the Bengals play their first season in the NFL?",
+    "options": ["1968", "1970", "1965", "1967"],
+    "correctIndex": 1,
+    "explanation": "The Bengals became part of the NFL after the 1970 merger."
+  },
+  {
+    "id": "sp-0670",
+    "title": "Which Bengals wide receiver was known for colorful touchdown celebrations from 2001–2010?",
+    "options": ["A.J. Green", "Chad Johnson/Ochocinco", "Carl Pickens", "Tee Higgins"],
+    "correctIndex": 1,
+    "explanation": "Chad Johnson, later Ochocinco, was famous for his celebrations."
+  },
+  {
+    "id": "sp-0671",
+    "title": "Which team did the Bengals defeat for their first division sweep in 2009?",
+    "options": ["Cleveland Browns", "Pittsburgh Steelers", "Baltimore Ravens", "All three AFC North teams"],
+    "correctIndex": 3,
+    "explanation": "They swept the entire AFC North in 2009."
+  },
+  {
+    "id": "sp-0672",
+    "title": "Who owns the majority share of the Bengals as of 2023?",
+    "options": ["Paul Brown", "Mike Brown", "Katie Blackburn", "Austin Knowlton estate"],
+    "correctIndex": 1,
+    "explanation": "Mike Brown is the majority owner."
+  },
+  {
+    "id": "sp-0673",
+    "title": "Which important offensive system was popularized by former Bengals assistant Bill Walsh?",
+    "options": ["Zone Read", "West Coast offense", "Wishbone", "Run-and-shoot"],
+    "correctIndex": 1,
+    "explanation": "Bill Walsh developed the West Coast offense in Cincinnati."
+  },
+  {
+    "id": "sp-0674",
+    "title": "Who led the NFL in passing yards for the Bengals in 2024?",
+    "options": ["Ja'Marr Chase", "Jake Browning", "Joe Burrow", "Andy Dalton"],
+    "correctIndex": 2,
+    "explanation": "Joe Burrow led the league in passing yards."
+  },
+  {
+    "id": "sp-0675",
+    "title": "Which Bengal set a franchise record for completion percentage in a season?",
+    "options": ["Ken Anderson", "Joe Burrow", "Andy Dalton", "Boomer Esiason"],
+    "correctIndex": 0,
+    "explanation": "Ken Anderson holds the season completion percentage record."
+  },
+  {
+    "id": "sp-0676",
+    "title": "Who became head coach of the Bengals in 2019?",
+    "options": ["Bill Callahan", "Marvin Lewis", "Zac Taylor", "Hue Jackson"],
+    "correctIndex": 2,
+    "explanation": "Zac Taylor was hired in 2019."
+  },
+  {
+    "id": "sp-0677",
+    "title": "Which Bengals rivalry is known as the 'Battle of Ohio'?",
+    "options": ["Bengals–Colts", "Bengals–Browns", "Bengals–Ravens", "Bengals–Steelers"],
+    "correctIndex": 1,
+    "explanation": "The Bengals vs. Browns is called the Battle of Ohio."
+  },
+  {
+    "id": "sp-0678",
+    "title": "Who was named NFL Coach of the Year for the Bengals 2009 season?",
+    "options": ["Sam Wyche", "Marvin Lewis", "Zac Taylor", "Forrest Gregg"],
+    "correctIndex": 1,
+    "explanation": "Marvin Lewis was awarded in 2009."
+  },
+  {
+    "id": "sp-0679",
+    "title": "Which defensive scheme was invented by Bengals coordinator Dick LeBeau to counter the West Coast offense?",
+    "options": ["Nickel defense", "4–3 defense", "Zone blitz", "Cover 2"],
+    "correctIndex": 2,
+    "explanation": "Dick LeBeau created the zone blitz."
+  },
+  {
+    "id": "sp-0680",
+    "title": "What playoff round did the 2015 Bengals lose in, setting an NFL record for opening-round losses?",
+    "options": ["Divisional", "Conference Championship", "First Round", "Wild Card"],
+    "correctIndex": 3,
+    "explanation": "The Bengals lost five straight Wild Card games."
+  },
+  {
+    "id": "sp-0681",
+    "title": "What year did the Bengals move into what is now called Paycor Stadium?",
+    "options": ["2000", "1997", "2010", "2022"],
+    "correctIndex": 0,
+    "explanation": "The Bengals moved into the stadium in 2000."
+  },
+  {
+    "id": "sp-0682",
+    "title": "Who replaced Andy Dalton as QB when he was injured in the 2015 season?",
+    "options": ["Carson Palmer", "A.J. McCarron", "Joe Burrow", "Jeff Driskel"],
+    "correctIndex": 1,
+    "explanation": "A.J. McCarron started after Dalton's injury."
+  },
+  {
+    "id": "sp-0683",
+    "title": "Who led the league in sacks for the Bengals in 2024?",
+    "options": ["Sam Hubbard", "Trey Hendrickson", "Carlos Dunlap", "Geno Atkins"],
+    "correctIndex": 1,
+    "explanation": "Trey Hendrickson led the league."
+  },
+  {
+    "id": "sp-0684",
+    "title": "Who is the Bengals' official cheerleading squad?",
+    "options": ["The Who Dey Girls", "Bengalettes", "Ben-Gals", "Bengal Cheerleaders"],
+    "correctIndex": 2,
+    "explanation": "The Ben-Gals are the team's cheerleaders."
+  },
+  {
+    "id": "sp-0685",
+    "title": "Which league did the original Cincinnati Bengals teams play in before World War II?",
+    "options": ["National Football League", "American Football League (pre-NFL merger)", "Ohio League", "All-America Football Conference"],
+    "correctIndex": 1,
+    "explanation": "They played in earlier versions of the American Football League."
+  },
+  {
+    "id": "sp-0686",
+    "title": "Which color was ADDED as the secondary color to the Bengals' uniforms in their first season?",
+    "options": ["Orange", "Brown", "Yellow", "Black"],
+    "correctIndex": 3,
+    "explanation": "Black was added as the secondary color."
+  },
+  {
+    "id": "sp-0687",
+    "title": "Who holds the Bengals record for most sacks in a single season as of 2024?",
+    "options": ["Carlos Dunlap", "Sam Hubbard", "Trey Hendrickson", "David Pollack"],
+    "correctIndex": 2,
+    "explanation": "Trey Hendrickson has the single-season sack record."
+  },
+  {
+    "id": "sp-0688",
+    "title": "Which franchise shares its city and former stadium with the Bengals?",
+    "options": ["Reds", "Indians", "Guardians", "Cyclones"],
+    "correctIndex": 0,
+    "explanation": "The Cincinnati Reds shared Riverfront Stadium with the Bengals."
+  },
+  {
+    "id": "sp-0689",
+    "title": "Who was the first Bengals player to win the AFL Rookie of the Year award?",
+    "options": ["Pat McInally", "Paul Robinson", "Lemar Parrish", "Bob Trumpy"],
+    "correctIndex": 1,
+    "explanation": "Paul Robinson won AFL Rookie of the Year in 1968."
   }
 ]
