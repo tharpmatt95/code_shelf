@@ -5314,5 +5314,285 @@
     "options": ["Pat McInally", "Paul Robinson", "Lemar Parrish", "Bob Trumpy"],
     "correctIndex": 1,
     "explanation": "Paul Robinson won AFL Rookie of the Year in 1968."
+  },
+  {
+    "id": "sp-0690",
+    "title": "Which city did the Chicago Bears originally start in before moving to Chicago?",
+    "options": ["Decatur", "Aurora", "Peoria", "Jacksonville"],
+    "correctIndex": 0,
+    "explanation": "The Bears began in Decatur, Illinois as the Decatur Staleys."
+  },
+  {
+    "id": "sp-0691",
+    "title": "What year did the Bears first move their home games to Soldier Field?",
+    "options": ["1955", "1971", "1983", "1967"],
+    "correctIndex": 1,
+    "explanation": "The Bears moved to Soldier Field in 1971."
+  },
+  {
+    "id": "sp-0692",
+    "title": "Who succeeded George Halas as majority owner after his death?",
+    "options": ["Michael McCaskey", "Mike Ditka", "Virginia Halas McCaskey", "Walter Payton"],
+    "correctIndex": 2,
+    "explanation": "His daughter, Virginia Halas McCaskey, became majority owner."
+  },
+  {
+    "id": "sp-0693",
+    "title": "Which team did the Bears defeat 73–0 to set the largest margin of victory in NFL history?",
+    "options": ["New York Giants", "Detroit Lions", "Green Bay Packers", "Washington Redskins"],
+    "correctIndex": 3,
+    "explanation": "The Bears beat Washington 73–0 in the 1940 NFL Championship Game."
+  },
+  {
+    "id": "sp-0694",
+    "title": "Who was the Bears' head coach during their Super Bowl XX victory?",
+    "options": ["Lovie Smith", "Mike Ditka", "Dave Wannstedt", "Matt Nagy"],
+    "correctIndex": 1,
+    "explanation": "Mike Ditka was the head coach during the Super Bowl XX win."
+  },
+  {
+    "id": "sp-0695",
+    "title": "The iconic 'wishbone-C' logo was first introduced in what year?",
+    "options": ["1962", "1950", "1972", "1946"],
+    "correctIndex": 0,
+    "explanation": "The 'wishbone-C' appeared in 1962."
+  },
+  {
+    "id": "sp-0696",
+    "title": "Who owns the largest stake in the Bears as of the 2020s?",
+    "options": ["Pat Ryan", "Andrew McKenna", "The McCaskey Family", "Ralph Brizzolara"],
+    "correctIndex": 2,
+    "explanation": "The team is primarily owned by the McCaskey family."
+  },
+  {
+    "id": "sp-0697",
+    "title": "Which legendary Bears quarterback led the team in the 1940s with four championships?",
+    "options": ["Jim McMahon", "Sid Luckman", "Jay Cutler", "Erik Kramer"],
+    "correctIndex": 1,
+    "explanation": "Sid Luckman was the Bears' quarterback."
+  },
+  {
+    "id": "sp-0698",
+    "title": "Before Soldier Field, where did the Bears play for nearly 50 years?",
+    "options": ["Wrigley Field", "Comiskey Park", "Halas Hall", "Soldier Field"],
+    "correctIndex": 0,
+    "explanation": "The Bears played at Wrigley Field until 1970."
+  },
+  {
+    "id": "sp-0699",
+    "title": "Who did the Bears face in Super Bowl XLI?",
+    "options": ["New England Patriots", "Seattle Seahawks", "Pittsburgh Steelers", "Indianapolis Colts"],
+    "correctIndex": 3,
+    "explanation": "The Bears lost Super Bowl XLI to the Indianapolis Colts."
+  },
+  {
+    "id": "sp-0700",
+    "title": "Which Bears owner played a key role in the NFL's 1970 merger with the AFL?",
+    "options": ["George Halas", "Ed McCaskey", "Virginia Halas McCaskey", "Pat Ryan"],
+    "correctIndex": 0,
+    "explanation": "George Halas was the only living founder during the 1970 merger."
+  },
+  {
+    "id": "sp-0701",
+    "title": "The Bears' rivalry with which team is considered the oldest and most storied in the NFL?",
+    "options": ["Minnesota Vikings", "Green Bay Packers", "Arizona Cardinals", "Detroit Lions"],
+    "correctIndex": 1,
+    "explanation": "The rivalry with the Green Bay Packers is the oldest."
+  },
+  {
+    "id": "sp-0702",
+    "title": "Which Bears player was famous for 'The Super Bowl Shuffle' and set a then-NFL rushing record?",
+    "options": ["Gale Sayers", "Matt Forte", "Walter Payton", "Thomas Jones"],
+    "correctIndex": 2,
+    "explanation": "Walter Payton starred in 'The Super Bowl Shuffle' and set the NFL rush record."
+  },
+  {
+    "id": "sp-0703",
+    "title": "What is the name of the Bears' current official mascot?",
+    "options": ["Rocky", "Bearman", "Staley Da Bear", "Honey Bear"],
+    "correctIndex": 2,
+    "explanation": "Staley Da Bear is the team's official mascot."
+  },
+  {
+    "id": "sp-0704",
+    "title": "Who set the franchise record for most career passing yards with the Bears?",
+    "options": ["Mitch Trubisky", "Erik Kramer", "Jay Cutler", "Sid Luckman"],
+    "correctIndex": 2,
+    "explanation": "Jay Cutler is the Bears' all-time passing yards leader."
+  },
+  {
+    "id": "sp-0705",
+    "title": "Which year did Halas Hall become the team's headquarters in Lake Forest?",
+    "options": ["1977", "1958", "1997", "2001"],
+    "correctIndex": 2,
+    "explanation": "The new Halas Hall opened as the headquarters in 1997."
+  },
+  {
+    "id": "sp-0706",
+    "title": "Who coached the Bears after Mike Ditka, leading them to a playoff berth in 1994?",
+    "options": ["Dick Jauron", "Dave Wannstedt", "Lovie Smith", "Marc Trestman"],
+    "correctIndex": 1,
+    "explanation": "Dave Wannstedt coached the Bears to the playoffs in 1994."
+  },
+  {
+    "id": "sp-0707",
+    "title": "Which Chicago suburb is home to the Bears' headquarters and practice facility?",
+    "options": ["Evanston", "Aurora", "Lake Forest", "Naperville"],
+    "correctIndex": 2,
+    "explanation": "The Bears' headquarters is in Lake Forest."
+  },
+  {
+    "id": "sp-0708",
+    "title": "Who was the Bears' first-round draft pick and starting quarterback in 2024?",
+    "options": ["Justin Fields", "Andy Dalton", "Caleb Williams", "Mitchell Trubisky"],
+    "correctIndex": 2,
+    "explanation": "Caleb Williams was drafted first overall in 2024."
+  },
+  {
+    "id": "sp-0709",
+    "title": "What is the Bears' official secondary logo introduced in 2023?",
+    "options": ["Wishbone C", "Orange bear head", "Bears wordmark", "Staley Da Bear logo"],
+    "correctIndex": 1,
+    "explanation": "The orange bear head became the secondary logo in 2023."
+  },
+  {
+    "id": "sp-0710",
+    "title": "The Chicago Honey Bears were the team's cheerleading squad until which year?",
+    "options": ["1990", "1985", "2000", "1976"],
+    "correctIndex": 1,
+    "explanation": "They were disbanded after 1985."
+  },
+  {
+    "id": "sp-0711",
+    "title": "Which Bears legend was known as 'Sweetness'?",
+    "options": ["Gale Sayers", "Matt Forte", "Walter Payton", "Bronko Nagurski"],
+    "correctIndex": 2,
+    "explanation": "Walter Payton's nickname was 'Sweetness'."
+  },
+  {
+    "id": "sp-0712",
+    "title": "Who was the first Bears head coach to be fired mid-season?",
+    "options": ["Lovie Smith", "Marc Trestman", "Dave Wannstedt", "Matt Eberflus"],
+    "correctIndex": 3,
+    "explanation": "Matt Eberflus was the first mid-season firing in 2024."
+  },
+  {
+    "id": "sp-0713",
+    "title": "The 1985 Bears team was famous for which novelty rap song?",
+    "options": ["Bear Down Chicago Bears", "Ditka Shuffle", "The Super Bowl Shuffle", "Gridiron Groove"],
+    "correctIndex": 2,
+    "explanation": "'The Super Bowl Shuffle' was performed by the 1985 Bears."
+  },
+  {
+    "id": "sp-0714",
+    "title": "Who was the Bears GM who traded for Jay Cutler in 2009?",
+    "options": ["Jerry Angelo", "Ryan Pace", "Phil Emery", "Ted Phillips"],
+    "correctIndex": 0,
+    "explanation": "Jerry Angelo traded for Jay Cutler in 2009."
+  },
+  {
+    "id": "sp-0715",
+    "title": "What record does the Chicago Bears franchise hold in the Pro Football Hall of Fame?",
+    "options": ["Most playoff wins", "Most points scored", "Most enshrinees", "Most stadiums"],
+    "correctIndex": 2,
+    "explanation": "They have the most enshrined primary Hall of Fame members."
+  },
+  {
+    "id": "sp-0716",
+    "title": "Which television network originally aired 'Brian's Song', the movie about Gale Sayers and Brian Piccolo?",
+    "options": ["ABC", "NBC", "CBS", "FOX"],
+    "correctIndex": 0,
+    "explanation": "'Brian's Song' first aired on ABC."
+  },
+  {
+    "id": "sp-0717",
+    "title": "Who was the Bears' primary starting quarterback who helped lead them to a 13–3 record in 2001?",
+    "options": ["Rex Grossman", "Jim Miller", "Erik Kramer", "Jay Cutler"],
+    "correctIndex": 1,
+    "explanation": "Jim Miller started at quarterback for the 2001 team."
+  },
+  {
+    "id": "sp-0718",
+    "title": "What was the Bears' original name before becoming the Chicago Bears?",
+    "options": ["Chicago Staleys", "Chicago Cardinals", "Decatur Staleys", "Chicago Tigers"],
+    "correctIndex": 2,
+    "explanation": "They were originally the Decatur Staleys."
+  },
+  {
+    "id": "sp-0719",
+    "title": "Which Bears running back overtook Jim Brown's NFL career rushing record in 1984?",
+    "options": ["Gale Sayers", "Walter Payton", "Thomas Jones", "Matt Forte"],
+    "correctIndex": 1,
+    "explanation": "Walter Payton broke Jim Brown's record."
+  },
+  {
+    "id": "sp-0720",
+    "title": "What stadium did the Bears briefly use as home in 2002 during Soldier Field's reconstruction?",
+    "options": ["Wrigley Field", "Ryan Field", "Memorial Stadium, Champaign", "Guaranteed Rate Field"],
+    "correctIndex": 2,
+    "explanation": "They played at Memorial Stadium in Champaign in 2002."
+  },
+  {
+    "id": "sp-0721",
+    "title": "Who replaced Lovie Smith as Bears head coach in 2013?",
+    "options": ["Marc Trestman", "John Fox", "Matt Nagy", "Dave Wannstedt"],
+    "correctIndex": 0,
+    "explanation": "Marc Trestman was hired in 2013."
+  },
+  {
+    "id": "sp-0722",
+    "title": "The Bears traded the first overall pick in the 2023 NFL draft to which team?",
+    "options": ["Indianapolis Colts", "Carolina Panthers", "New England Patriots", "Arizona Cardinals"],
+    "correctIndex": 1,
+    "explanation": "They traded it to the Carolina Panthers."
+  },
+  {
+    "id": "sp-0723",
+    "title": "Who was hired as the Bears' head coach in 2025?",
+    "options": ["Ryan Poles", "Matt Eberflus", "Ben Johnson", "George McCaskey"],
+    "correctIndex": 2,
+    "explanation": "Ben Johnson became head coach in 2025."
+  },
+  {
+    "id": "sp-0724",
+    "title": "Which sponsor was the first to be the Bears' presenting sponsor in 2004?",
+    "options": ["Dr Pepper Snapple Group", "BankOne", "Miller Brewing Company", "United Airlines"],
+    "correctIndex": 1,
+    "explanation": "BankOne was the first presenting sponsor."
+  },
+  {
+    "id": "sp-0725",
+    "title": "Who was the Bears' chairman that succeeded Michael McCaskey in 2011?",
+    "options": ["Ed McCaskey", "Ryan Poles", "George McCaskey", "Pat Ryan"],
+    "correctIndex": 2,
+    "explanation": "George McCaskey became chairman in 2011."
+  },
+  {
+    "id": "sp-0726",
+    "title": "In which year did the Bears last win an NFL Championship before the 1985 Super Bowl run?",
+    "options": ["1977", "1963", "1946", "1956"],
+    "correctIndex": 1,
+    "explanation": "They won the NFL Championship in 1963."
+  },
+  {
+    "id": "sp-0727",
+    "title": "How many uniform numbers have the Bears retired, the most in the NFL?",
+    "options": ["10", "12", "14", "23"],
+    "correctIndex": 2,
+    "explanation": "The Bears have retired 14 numbers."
+  },
+  {
+    "id": "sp-0728",
+    "title": "Which of these rivals has NEVER met the Bears in a playoff game?",
+    "options": ["New York Giants", "Green Bay Packers", "Arizona Cardinals", "San Francisco 49ers"],
+    "correctIndex": 2,
+    "explanation": "Arizona Cardinals have never played them in the playoffs."
+  },
+  {
+    "id": "sp-0729",
+    "title": "Who was the Bears' all-time scoring leader until Robbie Gould surpassed him?",
+    "options": ["Walter Payton", "Gale Sayers", "Kevin Butler", "Matt Forte"],
+    "correctIndex": 2,
+    "explanation": "Kevin Butler was surpassed by Robbie Gould."
   }
 ]
