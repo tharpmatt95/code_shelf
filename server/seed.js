@@ -21,7 +21,7 @@ const db = mongoose.connection;
 // -------------------------------------------------------------
 // Cleanup unwanted collections
 // -------------------------------------------------------------
-const keep = new Set(["users", "python", "movies", "aws", "sports"]);
+const keep = new Set(["users", "python", "movies", "aws", "sports", "engineering"]);
 const collections = await db.db.listCollections().toArray();
 
 for (const col of collections) {
@@ -79,6 +79,15 @@ const Sports = mongoose.model(
 );
 
 // -------------------------------------------------------------
+// Engineering model (collection: "engineering")
+// -------------------------------------------------------------
+const Engineering = mongoose.model(
+  "Engineering",
+  questionSchema,
+  "engineering"
+);
+
+// -------------------------------------------------------------
 // Helper: insert only missing items
 // -------------------------------------------------------------
 async function insertMissing(Model, jsonData) {
@@ -128,6 +137,13 @@ await insertMissing(AWS, awsData);
 const sportsFile = join(__dirname, "questions", "sports.json");
 const sportsData = JSON.parse(readFileSync(sportsFile, "utf-8"));
 await insertMissing(Sports, sportsData);
+
+// -------------------------------------------------------------
+// Seed Engineering
+// -------------------------------------------------------------
+const engineeringFile = join(__dirname, "questions", "engineering.json");
+const engineeringData = JSON.parse(readFileSync(engineeringFile, "utf-8"));
+await insertMissing(Engineering, engineeringData);
 
 // -------------------------------------------------------------
 process.exit(0);

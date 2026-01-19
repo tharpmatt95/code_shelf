@@ -51,9 +51,13 @@ onMounted(async () => {
             {{ user.correctAWS.length }}
           </el-descriptions-item>
 
-          <!-- ADDED: SPORTS COUNT -->
           <el-descriptions-item label="Sports Correct">
             {{ user.correctSports.length }}
+          </el-descriptions-item>
+
+          <!-- ADDED: ENGINEERING COUNT -->
+          <el-descriptions-item label="Engineering Correct">
+            {{ user.correctEngineering.length }}
           </el-descriptions-item>
 
           <el-descriptions-item label="Joined">
@@ -163,7 +167,7 @@ onMounted(async () => {
             </template>
           </el-tab-pane>
 
-          <!-- ADDED: SPORTS TAB -->
+          <!-- SPORTS TAB -->
           <el-tab-pane label="Sports">
             <template v-if="user.correctSports.length === 0">
               <el-empty description="No sports questions yet" />
@@ -172,6 +176,36 @@ onMounted(async () => {
             <template v-else>
               <el-collapse accordion>
                 <el-collapse-item v-for="q in user.correctSports" :key="q._id" :title="q.title">
+                  <div class="item-block">
+                    <strong>Options:</strong>
+                    <ul class="options-list">
+                      <li v-for="(opt, i) in q.options" :key="i">
+                        <span :class="{ correct: i === q.correctIndex }">
+                          {{ opt }}
+                          <span v-if="i === q.correctIndex">(correct)</span>
+                        </span>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="item-block">
+                    <strong>Explanation:</strong>
+                    <p>{{ q.explanation }}</p>
+                  </div>
+                </el-collapse-item>
+              </el-collapse>
+            </template>
+          </el-tab-pane>
+
+          <!-- ADDED: ENGINEERING TAB -->
+          <el-tab-pane label="Engineering">
+            <template v-if="user.correctEngineering.length === 0">
+              <el-empty description="No engineering questions yet" />
+            </template>
+
+            <template v-else>
+              <el-collapse accordion>
+                <el-collapse-item v-for="q in user.correctEngineering" :key="q._id" :title="q.title">
                   <div class="item-block">
                     <strong>Options:</strong>
                     <ul class="options-list">

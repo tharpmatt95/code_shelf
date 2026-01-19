@@ -1,6 +1,7 @@
 When adding a new section:
 
 * Update UserPage.vue to add a new `<el-descriptions-item label="Section Correct">`
+* Add new <el-tab-panelabel=""> on UserPage.vue
 * Update router.js to have both a new import and a new route
 * Add a new el-menu-item to App.vue
 * Add new section to keep = new Set() on seed.js

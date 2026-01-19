@@ -10,6 +10,7 @@
         router
         :default-active="$route.path"
       >
+      <el-menu-item index="/engineering">Engineering</el-menu-item>  
       <el-menu-item index="/sports">Sports</el-menu-item>
       <el-menu-item index="/movies">Entertainment</el-menu-item>  
       <el-menu-item index="/aws">AWS</el-menu-item>

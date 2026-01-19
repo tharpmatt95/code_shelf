@@ -55,8 +55,11 @@ const AWS = mongoose.model('AWS', questionSchema, 'aws')
 // Sports (collection: "sports")
 const Sports = mongoose.model('Sports', questionSchema, 'sports')
 
+// Engineering (collection: "engineering")
+const Engineering = mongoose.model('Engineering', questionSchema, 'engineering')
+
 // --------------------------------------------------
-// User Schema (refs Python + Movies + AWS + Sports)
+// User Schema (refs Python + Movies + AWS + Sports + Engineering)
 // --------------------------------------------------
 const userSchema = new mongoose.Schema({
   email: { type: String, unique: true },
@@ -76,6 +79,11 @@ const userSchema = new mongoose.Schema({
 
   correctSports: [
     { type: mongoose.Schema.Types.ObjectId, ref: 'Sports' }
+  ],
+
+  // ADDED: correctEngineering schema
+  correctEngineering: [
+    { type: mongoose.Schema.Types.ObjectId, ref: 'Engineering' }
   ],
 
   createdAt: { type: Date, default: Date.now },
@@ -126,7 +134,11 @@ app.post('/auth/signup', async (req, res) => {
     }
 
     const passwordHash = await bcrypt.hash(password, 10)
-    const user = await User.create({ email, passwordHash })
+    const user = await User.create({
+      email,
+      passwordHash,
+      correctEngineering: []
+    })
 
     const token = createJwt(user._id)
     res.cookie('session', token, { httpOnly: true, sameSite: 'lax' })
@@ -174,6 +186,8 @@ app.get('/auth/me', requireAuth, async (req, res) => {
     .populate('correctMovies')
     .populate('correctAWS')
     .populate('correctSports')
+    // ADDED: populate correctEngineering
+    .populate('correctEngineering')
 
   res.json({
     email: user.email,
@@ -181,6 +195,7 @@ app.get('/auth/me', requireAuth, async (req, res) => {
     correctMovies: user.correctMovies,
     correctAWS: user.correctAWS,
     correctSports: user.correctSports,
+    correctEngineering: user.correctEngineering,
     createdAt: user.createdAt,
     lastLoginAt: user.lastLoginAt
   })
@@ -300,6 +315,36 @@ app.post('/api/sports/mark-correct', requireAuth, async (req, res) => {
 
   if (!req.user.correctSports.includes(sportsId)) {
     req.user.correctSports.push(sportsId)
+    await req.user.save()
+  }
+
+  res.json({ success: true })
+})
+
+// --------------------------------------------------
+// ENGINEERING QUIZ ROUTES
+// --------------------------------------------------
+app.get('/api/engineering', async (_, res) => {
+  const items = await Engineering.find().lean()
+  res.json(items)
+})
+
+app.get('/api/engineering/new', requireAuth, async (req, res) => {
+  const items = await Engineering.find({
+    _id: { $nin: req.user.correctEngineering }
+  }).lean()
+
+  res.json(items)
+})
+
+app.post('/api/engineering/mark-correct', requireAuth, async (req, res) => {
+  const { engineeringId } = req.body
+  if (!engineeringId) {
+    return res.status(400).json({ error: 'engineeringId required' })
+  }
+
+  if (!req.user.correctEngineering.includes(engineeringId)) {
+    req.user.correctEngineering.push(engineeringId)
     await req.user.save()
   }
 

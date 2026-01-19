@@ -5,6 +5,7 @@ import AWSQuiz from './components/AWSQuiz.vue'
 import PythonQuiz from './components/PythonQuiz.vue'
 import MovieQuiz from './components/MovieQuiz.vue'
 import SportsQuiz from './components/SportsQuiz.vue'
+import EngineeringQuiz from './components/EngineeringQuiz.vue'
 import AuthBox from './components/AuthBox.vue'
 import UserPage from './components/UserPage.vue'
 import AboutPage from './components/AboutPage.vue'
@@ -29,6 +30,11 @@ const routes = [
     path: '/python',
     name: 'Python',
     component: PythonQuiz
+  },
+  {
+    path: '/engineering',
+    name: 'Engineering',
+    component: EngineeringQuiz
   },
   {
     path: '/login',
