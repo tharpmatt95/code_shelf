@@ -14377,5 +14377,285 @@
     ],
     "correctIndex": 0,
     "explanation": "Splay occurs due to moisture boiling into steam in the melt."
+  },
+  {
+    "id": "eng-1201",
+    "title": "What is the primary purpose of a reducing agent in smelting?",
+    "options": ["To remove oxygen from the ore", "To increase temperature", "To separate slag", "To lower melting point"],
+    "correctIndex": 0,
+    "explanation": "A reducing agent chemically removes oxygen from the metal ore, leaving the metal behind."
+  },
+  {
+    "id": "eng-1202",
+    "title": "Sulfide ores are usually converted to which compound during roasting?",
+    "options": ["Carbonates", "Oxides", "Hydroxides", "Silicates"],
+    "correctIndex": 1,
+    "explanation": "Roasting typically converts sulfides to oxides, which are easier to reduce."
+  },
+  {
+    "id": "eng-1203",
+    "title": "What is a major function of flux in smelting processes?",
+    "options": ["Generating heat", "Forming slag to remove impurities", "Providing fuel", "Emitting sulfur dioxide"],
+    "correctIndex": 1,
+    "explanation": "Flux chemically combines with impurities to form slag."
+  },
+  {
+    "id": "eng-1204",
+    "title": "In traditional smelting, which gas is primarily used as a reducing agent?",
+    "options": ["Helium", "Ozone", "Carbon monoxide", "Sulfur dioxide"],
+    "correctIndex": 2,
+    "explanation": "Carbon monoxide is the main reducing agent in smelting, removing oxygen from ores."
+  },
+  {
+    "id": "eng-1205",
+    "title": "Which metal was NOT regularly smelted in antiquity due to its occurrence as a native metal?",
+    "options": ["Gold", "Copper", "Lead", "Silver"],
+    "correctIndex": 0,
+    "explanation": "Gold is found as a native metal and did not require smelting for ancient use."
+  },
+  {
+    "id": "eng-1206",
+    "title": "Why are blast furnaces preferred for large-scale iron production?",
+    "options": ["They operate at low pressure", "They continuously produce pig iron efficiently", "They use lead as a reducing agent", "They only require air cooling"],
+    "correctIndex": 1,
+    "explanation": "Blast furnaces allow for the continuous, efficient production of pig iron."
+  },
+  {
+    "id": "eng-1207",
+    "title": "What is the name for the spongy mass of iron produced in a bloomery?",
+    "options": ["Pig iron", "Matte", "Bloom", "Slag"],
+    "correctIndex": 2,
+    "explanation": "Bloom is the porous mass of iron obtained from a bloomery."
+  },
+  {
+    "id": "eng-1208",
+    "title": "Which process is used to produce highly pure copper cathodes from anode copper?",
+    "options": ["Roasting", "Electrorefining", "Carbothermal reduction", "Flash smelting"],
+    "correctIndex": 1,
+    "explanation": "Electrorefining purifies anode copper to obtain cathodes of 99.99% purity."
+  },
+  {
+    "id": "eng-1209",
+    "title": "What happens to sulfur during the roasting stage of sulfide ores?",
+    "options": ["It is reduced to elemental sulfur", "It is oxidized to sulfur dioxide gas", "It forms calcium sulfate", "It combines with the flux"],
+    "correctIndex": 1,
+    "explanation": "Sulfur is oxidized and released as SO2 gas during roasting."
+  },
+  {
+    "id": "eng-1210",
+    "title": "Which environmental impact is most closely associated with sulfur dioxide emissions from smelters?",
+    "options": ["Desertification", "Frost damage", "Acid rain formation", "Fungal blooms"],
+    "correctIndex": 2,
+    "explanation": "Sulfur dioxide released from smelters leads to acid rain."
+  },
+  {
+    "id": "eng-1211",
+    "title": "Why do early smelting processes often require a flux such as limestone?",
+    "options": ["To provide reducing agents", "To remove gaseous impurities", "To bind with gangue and form slag", "To increase the melting point"],
+    "correctIndex": 2,
+    "explanation": "Fluxes react with impurities (gangue) to create slag for removal."
+  },
+  {
+    "id": "eng-1212",
+    "title": "Which furnace type was specifically used to keep the ore separate from the fuel?",
+    "options": ["Induction furnace", "Blast furnace", "Reverberatory furnace", "Electric arc furnace"],
+    "correctIndex": 2,
+    "explanation": "Reverberatory furnaces keep the charge separate from the fuel, allowing better control."
+  },
+  {
+    "id": "eng-1213",
+    "title": "What kind of smelter is directly linked to a particular mine and usually located nearby?",
+    "options": ["Custom smelter", "Integrated smelter", "Blast smelter", "Open hearth smelter"],
+    "correctIndex": 1,
+    "explanation": "Integrated smelters are built next to and dedicated to a specific mine."
+  },
+  {
+    "id": "eng-1214",
+    "title": "What does the flux do after the reduction step in smelting?",
+    "options": ["Acts as a cooling agent", "Prevents oxidation of hot metal", "Increases gas emissions", "Refines the matte"],
+    "correctIndex": 1,
+    "explanation": "Flux/slag provides a protective cover on hot metal to prevent oxidation."
+  },
+  {
+    "id": "eng-1215",
+    "title": "What is the immediate product of a modern copper smelter, prior to electrorefining?",
+    "options": ["Cathode copper", "Anode copper", "Pig iron", "Copper matte"],
+    "correctIndex": 1,
+    "explanation": "Modern copper smelters produce anode copper before refining."
+  },
+  {
+    "id": "eng-1216",
+    "title": "What is the major waste product of smelting that contains most impurities?",
+    "options": ["Slag", "Matte", "Flux", "Dross"],
+    "correctIndex": 0,
+    "explanation": "Slag is the waste product containing most of the impurities from smelting."
+  },
+  {
+    "id": "eng-1217",
+    "title": "Why is roasting usually performed under oxidizing conditions?",
+    "options": ["To convert metals to hydroxides", "To convert sulfides or carbonates to oxides", "To prevent the formation of matte", "To lower the melting point significantly"],
+    "correctIndex": 1,
+    "explanation": "Roasting oxidizes the ore, converting unwanted sulfides/carbonates to oxides for easier reduction."
+  },
+  {
+    "id": "eng-1218",
+    "title": "Which harmful heavy metal is commonly released by copper smelters?",
+    "options": ["Sodium", "Arsenic", "Potassium", "Barium"],
+    "correctIndex": 1,
+    "explanation": "Copper smelting commonly emits arsenic, a significant environmental concern."
+  },
+  {
+    "id": "eng-1219",
+    "title": "Which stage of the smelting process is responsible for the final extraction of the metal in elemental form?",
+    "options": ["Crushing", "Roasting", "Reduction", "Refining"],
+    "correctIndex": 2,
+    "explanation": "Reduction is where the metal oxide loses oxygen and turns into free metal."
+  },
+  {
+    "id": "eng-1220",
+    "title": "Why is limestone added as a flux in ironmaking?",
+    "options": ["To reduce carbon content", "To remove silica and form slag", "To enhance oxidation", "To catalyze fuel combustion"],
+    "correctIndex": 1,
+    "explanation": "Limestone reacts with silica to form slag, purifying the iron."
+  },
+  {
+    "id": "eng-1221",
+    "title": "What type of furnace accounted for over 50% of copper smelting by the 20th century?",
+    "options": ["Reverberatory furnace", "Flash smelter", "Blast furnace", "Open hearth furnace"],
+    "correctIndex": 1,
+    "explanation": "Flash smelters became dominant for their efficiency."
+  },
+  {
+    "id": "eng-1222",
+    "title": "What is the main reason smelting of tin or lead could have occurred by accident?",
+    "options": ["Ore was abundant", "Wood fires could reach their low melting points", "Ancient people understood chemistry", "Rivers provided fluxes"],
+    "correctIndex": 1,
+    "explanation": "Tin and lead ores melt at temperatures achievable in wood fires, making accidental smelting possible."
+  },
+  {
+    "id": "eng-1223",
+    "title": "Which of the following releases hydrogen fluoride and polycyclic compounds?",
+    "options": ["Copper smelter", "Iron refinery", "Aluminum smelter", "Silver smelter"],
+    "correctIndex": 2,
+    "explanation": "Aluminum smelters are notable for these emissions."
+  },
+  {
+    "id": "eng-1224",
+    "title": "Which is not a main pollutant discharged by iron and steel mills?",
+    "options": ["Benzene", "Naphthalene", "Sulfur dioxide", "Cresols"],
+    "correctIndex": 2,
+    "explanation": "Sulfur dioxide is primarily associated with smelting of sulfide ores, not iron mills."
+  },
+  {
+    "id": "eng-1225",
+    "title": "What is a significant occupational health concern for workers in the smelting industry?",
+    "options": ["Enhanced memory", "Respiratory illnesses", "Increased hearing", "Improved vision"],
+    "correctIndex": 1,
+    "explanation": "Workers may develop respiratory illnesses due to exposure to toxic fumes and dust."
+  },
+  {
+    "id": "eng-1226",
+    "title": "What is the term for unwanted rock material separated during smelting?",
+    "options": ["Ore", "Metal", "Gangue", "Matte"],
+    "correctIndex": 2,
+    "explanation": "Gangue refers to non-metallic waste materials in ore."
+  },
+  {
+    "id": "eng-1227",
+    "title": "Which process is necessary to keep the charge and fuel separated in early copper smelting?",
+    "options": ["Bath smelting", "Reverberatory furnace", "Blast furnace", "Converter refining"],
+    "correctIndex": 1,
+    "explanation": "Reverberatory furnaces were designed specifically for this separation."
+  },
+  {
+    "id": "eng-1228",
+    "title": "What is the environmental problem caused by mercury emissions from smelters, such as Flin Flon?",
+    "options": ["Ozone depletion", "Regional soil and water contamination for decades", "Glacier melting", "Water acidification"],
+    "correctIndex": 1,
+    "explanation": "Mercury emissions result in long-standing soil and water contamination."
+  },
+  {
+    "id": "eng-1229",
+    "title": "During reduction, what occurs when carbon monoxide reacts with an iron oxide ore?",
+    "options": ["Iron oxide is converted to CO2 and metallic iron", "Iron oxide melts to slag", "Iron ore sublimes", "Iron absorbs carbon"],
+    "correctIndex": 0,
+    "explanation": "CO removes oxygen to form CO2, leaving behind metallic iron."
+  },
+  {
+    "id": "eng-1230",
+    "title": "Which region independently developed copper smelting, as inferred from archaeological evidence?",
+    "options": ["Europe", "Andean Peru", "Southern Africa", "Southeast Asia"],
+    "correctIndex": 1,
+    "explanation": "Pre-Inca civilizations in Andean Peru independently developed copper smelting."
+  },
+  {
+    "id": "eng-1231",
+    "title": "Reverberatory furnaces were eventually replaced because they were:",
+    "options": ["Too hazardous", "Energy inefficient with poor SO2 capture", "Unable to melt ore", "Only useful for aluminum"],
+    "correctIndex": 1,
+    "explanation": "Lack of SO2 capture and energy inefficiency led to their replacement by more advanced furnaces."
+  },
+  {
+    "id": "eng-1232",
+    "title": "What was a significant impact of the discovery of smelting in human history?",
+    "options": ["Increased agricultural yields", "Division of history into Stone, Bronze, and Iron Ages", "Development of writing systems", "Rise of seafaring technologies"],
+    "correctIndex": 1,
+    "explanation": "Smelting enabled the Bronze and Iron Ages, key markers in human societal advancement."
+  },
+  {
+    "id": "eng-1233",
+    "title": "What is the core function of a custom smelter?",
+    "options": ["Refining metals for the same company", "Processing ores from different mines", "Processing only sulfide ores", "Extracting fuel from waste"],
+    "correctIndex": 1,
+    "explanation": "Custom smelters treat ore concentrates from a variety of sources."
+  },
+  {
+    "id": "eng-1234",
+    "title": "What pollutant is uniquely associated with aluminum smelters, as listed in the text?",
+    "options": ["Sulfur dioxide", "Carbonyl sulfide", "Arsenic trioxide", "Selenium"],
+    "correctIndex": 1,
+    "explanation": "Aluminum smelters emit carbonyl sulfide among other pollutants."
+  },
+  {
+    "id": "eng-1235",
+    "title": "What major advance made continuous large-scale steelmaking possible?",
+    "options": ["Open hearth process", "Blast furnace", "Puddling process", "Electrorefining"],
+    "correctIndex": 1,
+    "explanation": "Blast furnaces enabled large-scale, continuous steel production."
+  },
+  {
+    "id": "eng-1236",
+    "title": "Which process is directly responsible for the metallic iron's first appearance in a blast furnace?",
+    "options": ["Roasting", "Reduction", "Electrolysis", "Refining"],
+    "correctIndex": 1,
+    "explanation": "The reduction stage in a blast furnace releases elemental iron."
+  },
+  {
+    "id": "eng-1237",
+    "title": "What is a key function of slag after metal reduction?",
+    "options": ["Providing carbon source", "Protecting hot metal from oxidation", "Absorbing SO2 gas", "Cooling the furnace fast"],
+    "correctIndex": 1,
+    "explanation": "Slag forms a surface cover to prevent oxygen from reaching the hot metal."
+  },
+  {
+    "id": "eng-1238",
+    "title": "Which method best removes dissolved metals from wastewater in a smelter?",
+    "options": ["Filtration with sand", "Chemical precipitation and filtration", "Ozonation", "Mechanical skimming"],
+    "correctIndex": 1,
+    "explanation": "Chemical precipitation followed by filtration is effective for dissolved metals."
+  },
+  {
+    "id": "eng-1239",
+    "title": "What is the primary pollutant from roasting sulfide ores?",
+    "options": ["Carbon monoxide", "Sulfur dioxide", "Nitrogen oxides", "Methane"],
+    "correctIndex": 1,
+    "explanation": "Sulfur dioxide is the main pollutant from sulfide ore roasting."
+  },
+  {
+    "id": "eng-1240",
+    "title": "Which of the following is NOT a smelting technology mentioned for modern copper production?",
+    "options": ["Noranda furnace", "Isasmelt furnace", "Corex process", "SKS technology"],
+    "correctIndex": 2,
+    "explanation": "Corex is used for ironmaking, not copper."
   }
 ]
