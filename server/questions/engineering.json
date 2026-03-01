@@ -14657,5 +14657,1286 @@
     "options": ["Noranda furnace", "Isasmelt furnace", "Corex process", "SKS technology"],
     "correctIndex": 2,
     "explanation": "Corex is used for ironmaking, not copper."
+  },
+  {
+    "id": "eng-1241",
+    "title": "Which property is most responsible for the versatility of plastics?",
+    "options": ["Transparency", "Plasticity", "Magnetism", "Conductivity"],
+    "correctIndex": 1,
+    "explanation": "Plasticity allows plastics to be molded into a wide variety of shapes."
+  },
+  {
+    "id": "eng-1242",
+    "title": "What is the primary feedstock for most plastics produced today?",
+    "options": ["Cotton", "Petroleum and natural gas", "Coal", "Corn starch"],
+    "correctIndex": 1,
+    "explanation": "Most plastics are derived from petrochemical sources such as petroleum and natural gas."
+  },
+  {
+    "id": "eng-1243",
+    "title": "Which sector is the largest consumer of plastics worldwide?",
+    "options": ["Construction", "Automotive", "Packaging", "Electronics"],
+    "correctIndex": 2,
+    "explanation": "Packaging accounts for about 40% of global plastic use."
+  },
+  {
+    "id": "eng-1244",
+    "title": "Approximately what percentage of all discarded plastic has been recycled globally?",
+    "options": ["Under 10%", "About 30%", "About 50%", "More than 90%"],
+    "correctIndex": 0,
+    "explanation": "Less than 10% of all discarded plastic has been recycled."
+  },
+  {
+    "id": "eng-1245",
+    "title": "What is Bakelite famous for in plastics history?",
+    "options": ["First biodegradable plastic", "First fully synthetic plastic", "First plastic made from plants", "First recyclable plastic"],
+    "correctIndex": 1,
+    "explanation": "Bakelite, invented in 1907, was the first fully synthetic plastic."
+  },
+  {
+    "id": "eng-1246",
+    "title": "Thermoplastics can be described as plastics that:",
+    "options": ["Can be repeatedly melted and shaped", "Harden only once", "Are always biodegradable", "Are made from glass"],
+    "correctIndex": 0,
+    "explanation": "Thermoplastics do not undergo chemical change when heated and can be remolded."
+  },
+  {
+    "id": "eng-1247",
+    "title": "Which of these is a common thermosetting polymer?",
+    "options": ["Polyethylene", "Epoxy resin", "Polypropylene", "Polystyrene"],
+    "correctIndex": 1,
+    "explanation": "Epoxy resin is an example of a thermosetting polymer, which hardens permanently after being shaped once."
+  },
+  {
+    "id": "eng-1248",
+    "title": "About what proportion of modern vehicles (by volume) is made of plastic?",
+    "options": ["Less than 10%", "About 12–17%", "About 50%", "About 75%"],
+    "correctIndex": 2,
+    "explanation": "Around 50% of the volume of modern cars is made of plastic, though it represents a smaller percentage of the weight."
+  },
+  {
+    "id": "eng-1249",
+    "title": "Which plastic is primarily used in piping and plumbing due to its strength?",
+    "options": ["Polystyrene", "Polyethylene", "Polyvinyl chloride (PVC)", "Polypropylene"],
+    "correctIndex": 2,
+    "explanation": "PVC is widely used in construction applications such as pipes because of its durability."
+  },
+  {
+    "id": "eng-1250",
+    "title": "Dozens of plastics are now produced, but the term 'plastics' was coined by:",
+    "options": ["Leo Baekeland", "Hermann Staudinger", "Reginald Gibson", "Giulio Natta"],
+    "correctIndex": 0,
+    "explanation": "Leo Baekeland coined the term 'plastics' after inventing Bakelite."
+  },
+  {
+    "id": "eng-1251",
+    "title": "The word 'plastic' derives from an Ancient Greek term meaning:",
+    "options": ["Colorful", "Shiny", "Capable of being molded", "Cheap"],
+    "correctIndex": 2,
+    "explanation": "It comes from 'plastikos,' meaning 'capable of being shaped or molded.'"
+  },
+  {
+    "id": "eng-1252",
+    "title": "What are the repeating units in a polymer chain called?",
+    "options": ["Molecules", "Atoms", "Monomers", "Fibers"],
+    "correctIndex": 2,
+    "explanation": "Monomers are the repeating units in a polymer chain."
+  },
+  {
+    "id": "eng-1253",
+    "title": "Which of these plastics is NOT considered a commodity polymer?",
+    "options": ["Polyethylene", "Polystyrene", "Polyvinyl chloride", "Polyether ether ketone (PEEK)"],
+    "correctIndex": 3,
+    "explanation": "PEEK is a high-performance plastic, not a commodity plastic."
+  },
+  {
+    "id": "eng-1254",
+    "title": "What is primarily responsible for the environmental persistence of plastics?",
+    "options": ["High biodegradability", "Slow decomposition rate", "Magnetic properties", "High electrical conductivity"],
+    "correctIndex": 1,
+    "explanation": "Plastics persist in the environment due to their slow rate of decomposition."
+  },
+  {
+    "id": "eng-1255",
+    "title": "Which code system is typically used to identify common commodity plastics?",
+    "options": ["Polymer Safety Codes", "Resin Identification Codes (RICs)", "Material Grade Numbers", "Color Index"],
+    "correctIndex": 1,
+    "explanation": "RICs are widely used to help sort plastics for recycling."
+  },
+  {
+    "id": "eng-1256",
+    "title": "Among the following, which is a widely used engineering plastic?",
+    "options": ["Polycarbonate (PC)", "Polyethylene (PE)", "Polystyrene (PS)", "Polyvinyl chloride (PVC)"],
+    "correctIndex": 0,
+    "explanation": "Polycarbonate is noted for its strength and use in demanding engineering applications."
+  },
+  {
+    "id": "eng-1257",
+    "title": "Which plastic is best known for use in body armor and aerospace due to its strength?",
+    "options": ["PET", "Aramid (e.g., Kevlar)", "PVC", "Polypropylene"],
+    "correctIndex": 1,
+    "explanation": "Aramids like Kevlar are high-performance fibers used in armor and aerospace."
+  },
+  {
+    "id": "eng-1258",
+    "title": "What is the correct definition of a thermoplastic?",
+    "options": ["A plastic that hardens once and cannot be remelted", "A plastic that can be melted and shaped repeatedly", "A plastic derived only from natural materials", "A plastic that conducts electricity"],
+    "correctIndex": 1,
+    "explanation": "Thermoplastics can be softened by heating and reshaped multiple times."
+  },
+  {
+    "id": "eng-1259",
+    "title": "Which high-volume plastic is mainly used for beverage bottles and food packaging?",
+    "options": ["Polyethylene terephthalate (PET)", "Polycarbonate", "Silicone", "Polyaniline"],
+    "correctIndex": 0,
+    "explanation": "PET is widely used for bottles and packaging."
+  },
+  {
+    "id": "eng-1260",
+    "title": "Which is a main reason why microplastics in marine environments are concerning?",
+    "options": ["They decompose instantly", "They can bioaccumulate in food chains", "They are easily removed from oceans", "They are magnetic"],
+    "correctIndex": 1,
+    "explanation": "Microplastics accumulate in organisms and can move up the food chain."
+  },
+  {
+    "id": "eng-1261",
+    "title": "Among plastic additives, which are primarily used to increase flexibility?",
+    "options": ["Flame retardants", "Plasticizers", "Colorants", "Light stabilizers"],
+    "correctIndex": 1,
+    "explanation": "Plasticizers make plastics more flexible."
+  },
+  {
+    "id": "eng-1262",
+    "title": "Which of these is a typical characteristic of commodity plastics?",
+    "options": ["High cost and specialty uses", "Low cost and mass production", "Conductivity", "Extreme heat resistance"],
+    "correctIndex": 1,
+    "explanation": "Commodity plastics are cheap and produced in large volumes."
+  },
+  {
+    "id": "eng-1263",
+    "title": "How are most plastics recycled worldwide?",
+    "options": ["Chemical recycling", "Mechanical re-melting and molding", "Incineration", "Bacterial digestion"],
+    "correctIndex": 1,
+    "explanation": "Most plastic recycling is mechanical—melting and reshaping used plastic."
+  },
+  {
+    "id": "eng-1264",
+    "title": "Globally, what percentage of all plastics are classified as thermoplastics?",
+    "options": ["About 25%", "About 50%", "About 86%", "About 99%"],
+    "correctIndex": 2,
+    "explanation": "Thermoplastics represent 86% of all plastics produced globally."
+  },
+  {
+    "id": "eng-1265",
+    "title": "Which region currently produces the largest share of global plastic?",
+    "options": ["Europe", "North America", "China", "Middle East"],
+    "correctIndex": 2,
+    "explanation": "China is the largest single producer, accounting for 31% of global production."
+  },
+  {
+    "id": "eng-1266",
+    "title": "Which of the following is a high-performance plastic known for use in nonstick cookware?",
+    "options": ["Polyethylene", "Polytetrafluoroethylene (PTFE)", "Polyester", "Nylon 6"],
+    "correctIndex": 1,
+    "explanation": "PTFE (Teflon) is used for non-stick coatings due to high heat resistance and low friction."
+  },
+  {
+    "id": "eng-1267",
+    "title": "A key difference between thermoplastics and thermosets is that thermosets:",
+    "options": ["Melt as many times as needed", "Can only be shaped once", "Are always transparent", "Always come from plant materials"],
+    "correctIndex": 1,
+    "explanation": "Thermosets permanently harden after being cured and cannot be remelted."
+  },
+  {
+    "id": "eng-1268",
+    "title": "What is the main environmental problem associated with additives in plastics?",
+    "options": ["They improve recyclability", "They can leach out and be toxic", "They make plastics more colorful", "They lower plastic's strength"],
+    "correctIndex": 1,
+    "explanation": "Some additives are toxic and can leach from plastics, sometimes causing health or ecological risks."
+  },
+  {
+    "id": "eng-1269",
+    "title": "Which of the following plastics is most associated with the production of microfibers during washing?",
+    "options": ["Polyethylene", "Acrylic", "Polyvinyl chloride", "Polypropylene"],
+    "correctIndex": 1,
+    "explanation": "Acrylic and polyester fibers are major sources of microplastics from clothing."
+  },
+  {
+    "id": "eng-1270",
+    "title": "What was the world’s first man-made plastic, created from cellulose nitrate?",
+    "options": ["Bakelite", "Parkesine", "Galalith", "Polyester"],
+    "correctIndex": 1,
+    "explanation": "Parkesine was the first man-made plastic and was cellulose nitrate-based."
+  },
+  {
+    "id": "eng-1271",
+    "title": "What kind of plastic is notable for its exceptional dimensional stability and use in electronics and fiber optics?",
+    "options": ["Polyvinyl chloride", "Polypropylene", "Liquid-crystal polymers (LCPs)", "Polyethylene terephthalate"],
+    "correctIndex": 2,
+    "explanation": "Liquid-crystal polymers are prized in miniature electronics for their stability."
+  },
+  {
+    "id": "eng-1272",
+    "title": "What is the backbone of most plastic polymers made from?",
+    "options": ["Oxygen atoms", "Sulfur chains", "Carbon atoms", "Silicon crystals"],
+    "correctIndex": 2,
+    "explanation": "Most plastic polymers feature a chain or backbone of carbon atoms."
+  },
+  {
+    "id": "eng-1273",
+    "title": "Which of the following is an example of a biodegradable plastic?",
+    "options": ["Polyethylene", "Polylactic acid (PLA)", "Polycarbonate", "Polyamide"],
+    "correctIndex": 1,
+    "explanation": "PLAs are biodegradable and derived from renewable resources."
+  },
+  {
+    "id": "eng-1274",
+    "title": "In developed economies, what use constitutes about a third of all plastic consumption?",
+    "options": ["Automotive parts", "Packaging", "Shoes", "Medical devices"],
+    "correctIndex": 1,
+    "explanation": "About one-third of plastic use in developed economies is for packaging."
+  },
+  {
+    "id": "eng-1275",
+    "title": "The majority of plastic that is not reused or recycled ends up as:",
+    "options": ["Metal", "Landfill waste or pollution", "Fuel", "Glass substitute"],
+    "correctIndex": 1,
+    "explanation": "Most unrecycled plastic ends up in landfills or as environmental pollution."
+  },
+  {
+    "id": "eng-1276",
+    "title": "What class of chemical compounds often serves as plasticizers in PVC?",
+    "options": ["Phthalates", "Polysaccharides", "Polyesters", "Amines"],
+    "correctIndex": 0,
+    "explanation": "Phthalates are commonly used as plasticizers to soften PVC."
+  },
+  {
+    "id": "eng-1277",
+    "title": "Which sector after packaging is the single next largest user of plastics globally?",
+    "options": ["Building and construction", "Furniture making", "Automotive", "Textiles"],
+    "correctIndex": 0,
+    "explanation": "Construction is the next largest use globally after packaging."
+  },
+  {
+    "id": "eng-1278",
+    "title": "How do most commodity plastics fare in terms of mechanical strength compared with engineering plastics?",
+    "options": ["They are generally stronger", "They are generally weaker", "They are equal in strength", "They are always reinforced with metal"],
+    "correctIndex": 1,
+    "explanation": "Commodity plastics are less robust than engineering plastics."
+  },
+  {
+    "id": "eng-1279",
+    "title": "What percentage of all plastic additives are plasticizers (by weight globally)?",
+    "options": ["2%", "10%", "34%", "80%"],
+    "correctIndex": 2,
+    "explanation": "Plasticizers make up about 34% of global plastic additive production by weight."
+  },
+  {
+    "id": "eng-1280",
+    "title": "What is the single most produced plastic polymer by volume worldwide?",
+    "options": ["Polypropylene", "Polyethylene (both LDPE and HDPE)", "PET", "PVC"],
+    "correctIndex": 1,
+    "explanation": "Combined LDPE and HDPE production makes polyethylene the most produced worldwide."
+  },
+  {
+    "id": "eng-1288",
+    "title": "FEP is a copolymer of which two monomers?",
+    "options": ["Ethylene and propylene", "Tetrafluoroethylene and hexafluoropropylene", "Vinyl chloride and styrene", "Acrylic and butadiene"],
+    "correctIndex": 1,
+    "explanation": "FEP is made by copolymerizing tetrafluoroethylene and hexafluoropropylene."
+  },
+  {
+    "id": "eng-1289",
+    "title": "Compared to PTFE, FEP can be distinguished by its ability to:",
+    "options": ["Be processed by melt techniques like injection molding", "Resist UV light", "Conduct electricity", "Dissolve in organic solvents"],
+    "correctIndex": 0,
+    "explanation": "FEP is melt-processable using conventional injection molding and screw extrusion, unlike PTFE."
+  },
+  {
+    "id": "eng-1290",
+    "title": "What notable property does FEP share with PTFE?",
+    "options": ["Biodegradability", "Low friction and chemical inertness", "Magnetic susceptibility", "Transparency to X-rays"],
+    "correctIndex": 1,
+    "explanation": "Both FEP and PTFE share low friction and chemical inertness."
+  },
+  {
+    "id": "eng-1291",
+    "title": "Which company invented FEP?",
+    "options": ["BASF", "DuPont", "3M", "Daikin"],
+    "correctIndex": 1,
+    "explanation": "FEP was invented by DuPont and sold under Teflon FEP."
+  },
+  {
+    "id": "eng-1292",
+    "title": "FEP is commonly used as insulating material for which application?",
+    "options": ["Fuel tanks", "Coaxial cables", "Shoe soles", "Beverage bottles"],
+    "correctIndex": 1,
+    "explanation": "FEP is widely used in wiring, especially coaxial cable insulation."
+  },
+  {
+    "id": "eng-1293",
+    "title": "Which property makes FEP a good choice for sample holders in visible-wavelength microscopy?",
+    "options": ["Electrical conductivity", "Refractive index close to water", "Magnetic properties", "High solubility"],
+    "correctIndex": 1,
+    "explanation": "FEP’s refractive index is very close to water, minimizing optical aberrations."
+  },
+  {
+    "id": "eng-1294",
+    "title": "During FEP production, what is commonly used to initiate the free-radical polymerization?",
+    "options": ["UV light", "Peroxydisulfate", "Sulfuric acid", "Heat only"],
+    "correctIndex": 1,
+    "explanation": "Peroxydisulfate is used to generate sulfate radicals for initiating polymerization."
+  },
+  {
+    "id": "eng-1295",
+    "title": "Which additive is often used as a surfactant in the emulsion polymerization of FEP?",
+    "options": ["Polyvinyl alcohol", "Perfluorooctanesulfonic acid (PFOS)", "Sodium chloride", "Polyacrylamide"],
+    "correctIndex": 1,
+    "explanation": "PFOS is used as a surfactant in the emulsion process."
+  },
+  {
+    "id": "eng-1296",
+    "title": "Relative to PTFE and PFA, FEP has a:",
+    "options": ["Higher melting point", "Lower melting point", "Lower flexibility", "Higher tensile strength"],
+    "correctIndex": 1,
+    "explanation": "FEP has a melting point of 260 °C, which is lower than both PTFE and PFA."
+  },
+  {
+    "id": "eng-1297",
+    "title": "Which property is unique about FEP compared to PTFE when exposed to detergents in coatings?",
+    "options": ["Lower solubility", "Greater resistance to detergent attack", "Lower electrical resistance", "Denser crystalline structure"],
+    "correctIndex": 1,
+    "explanation": "FEP is superior to PTFE in coating applications subject to detergents."
+  },
+  {
+    "id": "eng-1298",
+    "title": "FEP is said to have a higher coefficient of:",
+    "options": ["Friction compared to PTFE", "Thermal expansion compared to steel", "Opacity compared to glass", "Biodegradation compared to PLA"],
+    "correctIndex": 0,
+    "explanation": "FEP is softer and has a higher coefficient of dynamic friction than PTFE."
+  },
+  {
+    "id": "eng-1299",
+    "title": "In terms of chemical composition, FEP contains about what percent of hexafluoropropylene?",
+    "options": ["50%", "5%", "20%", "None"],
+    "correctIndex": 1,
+    "explanation": "FEP copolymer contains about 5% hexafluoropropylene."
+  },
+  {
+    "id": "eng-1300",
+    "title": "Why is FEP often used for release films in composite manufacturing?",
+    "options": ["It is highly magnetic", "Adhesives do not easily stick to it", "It is conductive", "It dissolves in solvents"],
+    "correctIndex": 1,
+    "explanation": "FEP is used as a release film since adhesives do not bond to it."
+  },
+  {
+    "id": "eng-1301",
+    "title": "What major advantage does FEP have for use at the bottom of UV resin reservoirs in 3D printing?",
+    "options": ["UV absorption", "Optical transparency and low friction", "Biodegradation", "Color change"],
+    "correctIndex": 1,
+    "explanation": "FEP’s transparency allows UV light to cure resin, and low friction helps the hardened resin to detach."
+  },
+  {
+    "id": "eng-1302",
+    "title": "FEP is less suitable than PTFE for:",
+    "options": ["Wiring insulation", "Repeated folding", "Coatings resistant to detergents", "Optical transparency"],
+    "correctIndex": 1,
+    "explanation": "FEP does not withstand repetitive folding as well as PTFE."
+  },
+  {
+    "id": "eng-1303",
+    "title": "Which of the following fluoropolymers is considered to have the strongest chemical resistance, on par with PTFE?",
+    "options": ["ETFE", "PFA", "FEP", "PVDF"],
+    "correctIndex": 2,
+    "explanation": "FEP is the only widely available fluoropolymer that matches PTFE’s chemical resistance."
+  },
+  {
+    "id": "eng-1304",
+    "title": "In the lab, FEP and PFA are both valued for tubing and vessels because they:",
+    "options": ["Are ferromagnetic", "Resist highly aggressive chemicals", "Melt at room temperature", "Depolymerize in solvents"],
+    "correctIndex": 1,
+    "explanation": "Both resist chemical attack and are used for critical or corrosive processes."
+  },
+  {
+    "id": "eng-1305",
+    "title": "ETFE differs from FEP because it:",
+    "options": ["Resists chemicals better", "Is more like an engineering plastic with higher strength properties", "Is always opaque", "Melts at lower temperatures"],
+    "correctIndex": 1,
+    "explanation": "ETFE is a high strength engineering version with trade-offs in other properties."
+  },
+  {
+    "id": "eng-1306",
+    "title": "Which property of FEP makes it suitable for use as a lining material in the chemical industry?",
+    "options": ["High optical reflectivity", "Extreme flexibility, chemical resistance, and transparency", "Ferromagnetism", "Piezoelectricity"],
+    "correctIndex": 1,
+    "explanation": "Its flexibility, chemical resistance, and transparency make it ideal for vessel liners."
+  },
+  {
+    "id": "eng-1307",
+    "title": "What is the approximate dielectric constant similarity among PTFE, FEP, and PFA?",
+    "options": ["They differ greatly", "Identical", "Only PTFE is non-conductive", "Only FEP is conductive"],
+    "correctIndex": 1,
+    "explanation": "PTFE, FEP, and PFA have almost identical dielectric constants."
+  },
+  {
+    "id": "eng-1308",
+    "title": "What is the common trade name for polytetrafluoroethylene (PTFE)?",
+    "options": ["Nylon", "Teflon", "Kevlar", "Lucite"],
+    "correctIndex": 1,
+    "explanation": "Teflon is the well-known trade name for PTFE."
+  },
+  {
+    "id": "eng-1309",
+    "title": "Which two elements make up the polymer backbone of PTFE?",
+    "options": ["Carbon and oxygen", "Carbon and fluorine", "Carbon and hydrogen", "Silicon and fluorine"],
+    "correctIndex": 1,
+    "explanation": "PTFE is made from carbon and fluorine atoms."
+  },
+  {
+    "id": "eng-1310",
+    "title": "What key property makes PTFE a good non-stick coating?",
+    "options": ["High conductivity", "Low coefficient of friction", "Magnetic properties", "Biodegradability"],
+    "correctIndex": 1,
+    "explanation": "PTFE has one of the lowest coefficients of friction of any solid."
+  },
+  {
+    "id": "eng-1311",
+    "title": "PTFE is widely used in containers and pipework because it is:",
+    "options": ["Highly reactive", "Chemically inert", "Elastic", "Magnetic"],
+    "correctIndex": 1,
+    "explanation": "PTFE is non-reactive due to the strength of the carbon–fluorine bonds."
+  },
+  {
+    "id": "eng-1312",
+    "title": "What compound was historically used in the production of PTFE but discontinued due to environmental and health concerns?",
+    "options": ["Bisphenol A", "Perfluorooctanoic acid (PFOA)", "Benzene", "Lead oxide"],
+    "correctIndex": 1,
+    "explanation": "PFOA was used for decades in PTFE production."
+  },
+  {
+    "id": "eng-1313",
+    "title": "Who accidentally discovered PTFE in 1938?",
+    "options": ["Leo Baekeland", "Roy J. Plunkett", "Hermann Staudinger", "Wallace Carothers"],
+    "correctIndex": 1,
+    "explanation": "Roy J. Plunkett discovered PTFE while working for DuPont."
+  },
+  {
+    "id": "eng-1314",
+    "title": "The first non-stick frying pans were created in France under what brand name?",
+    "options": ["Teflon", "Tefal", "Happy Pan", "Zepel"],
+    "correctIndex": 1,
+    "explanation": "Tefal (from Teflon + aluminium) was the first French brand for PTFE-coated pans."
+  },
+  {
+    "id": "eng-1315",
+    "title": "PTFE makes up what fraction of the total fluoropolymer production?",
+    "options": ["Less than 10%", "About a third", "More than half", "Almost all"],
+    "correctIndex": 2,
+    "explanation": "PTFE occupies more than half of all fluoropolymer production."
+  },
+  {
+    "id": "eng-1316",
+    "title": "What is the glass transition temperature of PTFE?",
+    "options": ["32 °C", "100 °C", "114.85 °C", "327 °C"],
+    "correctIndex": 2,
+    "explanation": "The glass transition temperature is about 114.85 °C."
+  },
+  {
+    "id": "eng-1317",
+    "title": "Why can't a gecko stick to PTFE surfaces?",
+    "options": ["It's sticky", "It's magnetic", "It has low van der Waals attraction", "It's too wet"],
+    "correctIndex": 2,
+    "explanation": "PTFE's molecular surface prevents van der Waals forces strong enough for gecko adhesion."
+  },
+  {
+    "id": "eng-1318",
+    "title": "Which of these is NOT a typical industrial use for PTFE?",
+    "options": ["Slide bearings", "Glassmaking", "Seals and gaskets", "Wire insulation"],
+    "correctIndex": 1,
+    "explanation": "Glassmaking does not typically use PTFE."
+  },
+  {
+    "id": "eng-1319",
+    "title": "Which organization was required by a Consent Order to limit PFAS emissions from its North Carolina facility?",
+    "options": ["Dow Chemical", "Chemours", "3M", "BASF"],
+    "correctIndex": 1,
+    "explanation": "Chemours (DuPont spin-off) was required to stop/discharge PFAS at its Fayetteville Works."
+  },
+  {
+    "id": "eng-1320",
+    "title": "What process is commonly used to polymerize PTFE?",
+    "options": ["Condensation", "Free-radical polymerization", "Electrolysis", "Photopolymerization"],
+    "correctIndex": 1,
+    "explanation": "PTFE is produced by free-radical polymerization of tetrafluoroethylene."
+  },
+  {
+    "id": "eng-1321",
+    "title": "PTFE was first commercialized by which company?",
+    "options": ["Monsanto", "DuPont", "BASF", "AkzoNobel"],
+    "correctIndex": 1,
+    "explanation": "DuPont first patented and trademarked Teflon."
+  },
+  {
+    "id": "eng-1322",
+    "title": "What property makes PTFE suitable as an insulator in high-frequency electronic applications?",
+    "options": ["Very high melting point", "Excellent dielectric properties", "High density", "Transparency to visible light"],
+    "correctIndex": 1,
+    "explanation": "PTFE’s low dielectric constant and loss make it an ideal electronic insulator."
+  },
+  {
+    "id": "eng-1323",
+    "title": "Which of the following is a medical use of PTFE?",
+    "options": ["Bandages", "Graft material in surgery", "Painkiller capsules", "X-ray contrast agents"],
+    "correctIndex": 1,
+    "explanation": "PTFE is used as a graft material and coating on catheters in medicine."
+  },
+  {
+    "id": "eng-1324",
+    "title": "PTFE is best described as which kind of polymer?",
+    "options": ["Thermoset", "Thermoplastic", "Condensation", "Elastomer"],
+    "correctIndex": 1,
+    "explanation": "PTFE is a crystalline thermoplastic polymer."
+  },
+  {
+    "id": "eng-1325",
+    "title": "What is the main decomposition temperature range for PTFE?",
+    "options": ["100–200 °C", "260–350 °C", "400–600 °C", "700–800 °C"],
+    "correctIndex": 1,
+    "explanation": "PTFE begins to decompose at about 260 °C and through 350 °C."
+  },
+  {
+    "id": "eng-1326",
+    "title": "What major feature makes PTFE a popular choice for laboratory containers?",
+    "options": ["High thermal conductivity", "High chemical resistance", "Low cost", "Biodegradability"],
+    "correctIndex": 1,
+    "explanation": "PTFE’s resistance to aggressive chemicals makes it ideal for laboratory use."
+  },
+  {
+    "id": "eng-1327",
+    "title": "Which type of structure in architecture uses PTFE coated membranes?",
+    "options": ["Bridges", "Domes and tensile roof structures", "Dams", "Roads"],
+    "correctIndex": 1,
+    "explanation": "PTFE membranes are used in large tensile architectural structures."
+  },
+  {
+    "id": "eng-1328",
+    "title": "PTFE tube is used in 3D printers primarily because of its:",
+    "options": ["Electrical conductivity", "Low friction", "Heat generation", "Color"],
+    "correctIndex": 1,
+    "explanation": "PTFE tube’s low friction allows for easy movement of filament in Bowden 3D printers."
+  },
+  {
+    "id": "eng-1329",
+    "title": "Which of the following statements is true about PTFE's chemical stability?",
+    "options": ["It is attacked by most acids", "It is only stable at room temperature", "It is inert except to highly reactive metals and fluorinating agents", "It dissolves easily in water"],
+    "correctIndex": 2,
+    "explanation": "Only highly reactive metals and fluorinating agents affect PTFE bonds at high temperature."
+  },
+  {
+    "id": "eng-1330",
+    "title": "Expanded PTFE is the basis for what well-known waterproof breathable membrane?",
+    "options": ["Kevlar", "Mylar", "Gore-Tex", "Lexan"],
+    "correctIndex": 2,
+    "explanation": "Gore-Tex is a membrane material made from expanded PTFE."
+  },
+  {
+    "id": "eng-1331",
+    "title": "Which sector is manufacturing mostly associated with?",
+    "options": ["Secondary", "Primary", "Tertiary", "Quaternary"],
+    "correctIndex": 0,
+    "explanation": "Manufacturing is the essence of the secondary sector."
+  },
+  {
+    "id": "eng-1332",
+    "title": "Who are finished manufactured goods typically sold to for further production?",
+    "options": ["Consumers", "Other manufacturers", "Artists", "Government"],
+    "correctIndex": 1,
+    "explanation": "They are often sold to other manufacturers for integration into more complex products."
+  },
+  {
+    "id": "eng-1333",
+    "title": "Which stage comes after product design in the manufacturing process?",
+    "options": ["Distribution", "Marketing", "Materials specification", "Retail"],
+    "correctIndex": 2,
+    "explanation": "Materials specification follows product design and precedes manufacturing."
+  },
+  {
+    "id": "eng-1334",
+    "title": "Semiconductor and steel manufacturers often use which term for their production process?",
+    "options": ["Processing", "Weaving", "Extraction", "Fabrication"],
+    "correctIndex": 3,
+    "explanation": "They commonly use 'fabrication' instead of 'manufacturing.'"
+  },
+  {
+    "id": "eng-1335",
+    "title": "Stone tools were first created using which material?",
+    "options": ["Flint", "Iron", "Aluminum", "Copper"],
+    "correctIndex": 0,
+    "explanation": "Flint was a common material for early stone tools."
+  },
+  {
+    "id": "eng-1336",
+    "title": "What is a main product of the primary sector?",
+    "options": ["Manufactured goods", "Raw materials", "Retail products", "Advertising"],
+    "correctIndex": 1,
+    "explanation": "The primary sector produces raw materials which manufacturing transforms."
+  },
+  {
+    "id": "eng-1337",
+    "title": "During the Bronze Age, which material was alloyed with copper to make bronze?",
+    "options": ["Zinc", "Lead", "Tin", "Nickel"],
+    "correctIndex": 2,
+    "explanation": "Bronze is copper alloyed with tin."
+  },
+  {
+    "id": "eng-1338",
+    "title": "What machine most greatly increased rag supply for papermaking in Europe?",
+    "options": ["Printing press", "Steam engine", "Loom", "Spinning wheel"],
+    "correctIndex": 3,
+    "explanation": "The spinning wheel led to more rags for papermaking."
+  },
+  {
+    "id": "eng-1339",
+    "title": "The widespread installation of which technology allowed factories to easily operate multiple shifts?",
+    "options": ["Water wheels", "Sewing machines", "Typewriters", "Incandescent light bulbs"],
+    "correctIndex": 3,
+    "explanation": "Incandescent light bulbs enabled true multi-shift work."
+  },
+  {
+    "id": "eng-1340",
+    "title": "Which region first introduced the potter’s wheel?",
+    "options": ["China", "Egypt", "Mesopotamia", "South America"],
+    "correctIndex": 2,
+    "explanation": "The potter’s wheel originated in Mesopotamia."
+  },
+  {
+    "id": "eng-1341",
+    "title": "Which process is central to transforming raw material in manufacturing?",
+    "options": ["Recycling", "Manufacturing", "Storing", "Importing"],
+    "correctIndex": 1,
+    "explanation": "Manufacturing is the central process for transformation."
+  },
+  {
+    "id": "eng-1342",
+    "title": "Which of the following describes how large machines are often transported for plant upgrades?",
+    "options": ["Air freight", "Train", "Heavy haul/rigging", "Pipeline"],
+    "correctIndex": 2,
+    "explanation": "Heavy haul/rigging is required for such specialized logistics."
+  },
+  {
+    "id": "eng-1343",
+    "title": "The Industrial Revolution first took hold in which country?",
+    "options": ["Germany", "France", "Britain", "Italy"],
+    "correctIndex": 2,
+    "explanation": "The Industrial Revolution started in Great Britain."
+  },
+  {
+    "id": "eng-1344",
+    "title": "Which of these was a major driver for rapid industrialization after 1870?",
+    "options": ["Cannon casting", "New steelmaking processes", "Wind power", "Horsepower"],
+    "correctIndex": 1,
+    "explanation": "New steelmaking and mass production processes spurred rapid growth."
+  },
+  {
+    "id": "eng-1345",
+    "title": "What is a common measure of manufacturing nation's competitiveness calculated by UNIDO?",
+    "options": ["Productivity Quotient", "Development Score", "CIP Index", "Wealth Index"],
+    "correctIndex": 2,
+    "explanation": "The Competitive Industrial Performance (CIP) Index is used by the UNIDO."
+  },
+  {
+    "id": "eng-1346",
+    "title": "Which manufacturing strategy focuses on reducing in-system and delivery time?",
+    "options": ["Batch production", "Overproduction", "Just-in-time", "Centralization"],
+    "correctIndex": 2,
+    "explanation": "Just-in-time is a lean approach to manufacturing efficiency."
+  },
+  {
+    "id": "eng-1347",
+    "title": "In which period did hot blast iron smelting come into widespread use in France?",
+    "options": ["14th century", "19th century", "15th century", "18th century"],
+    "correctIndex": 1,
+    "explanation": "Hot blast iron smelting became widespread in the 19th century."
+  },
+  {
+    "id": "eng-1348",
+    "title": "The Industrial Revolution was notable for growth in which type of power?",
+    "options": ["Solar power", "Wind power", "Steam and water power", "Electric power"],
+    "correctIndex": 2,
+    "explanation": "The Industrial Revolution featured increased use of steam and water power."
+  },
+  {
+    "id": "eng-1349",
+    "title": "What effect did electrification have on manufacturing?",
+    "options": ["Increased wages", "Reduced productivity", "Enabled mass production", "Reduced night shifts"],
+    "correctIndex": 2,
+    "explanation": "Electrification enabled modern mass production."
+  },
+  {
+    "id": "eng-1350",
+    "title": "Which country had a manufacturing output of $844.93 billion in 2023?",
+    "options": ["France", "United States", "Germany", "Japan"],
+    "correctIndex": 2,
+    "explanation": "Germany's output was $844.93 billion in 2023."
+  },
+  {
+    "id": "eng-1351",
+    "title": "Henry Ford popularized which manufacturing innovation?",
+    "options": ["Steam engine", "Assembly line", "Conveyor belts", "Electric motors"],
+    "correctIndex": 1,
+    "explanation": "Ford popularized the assembly line in auto manufacturing."
+  },
+  {
+    "id": "eng-1352",
+    "title": "What is one primary goal of the manufacturing industry financially?",
+    "options": ["Reduce profits", "Achieve cost benefits per unit", "Increase environmental costs", "Expand retail chains"],
+    "correctIndex": 1,
+    "explanation": "Cost efficiency is a key driver in manufacturing finance."
+  },
+  {
+    "id": "eng-1353",
+    "title": "Which type of manufacturing involves continuous production of identical parts, such as jar manufacturing?",
+    "options": ["Job production", "Batch production", "Mass production", "Custom production"],
+    "correctIndex": 2,
+    "explanation": "Mass production involves continuous, high-volume output."
+  },
+  {
+    "id": "eng-1354",
+    "title": "Which dimension is NOT a traditional key measure of manufacturing performance?",
+    "options": ["Cost", "Quality", "Innovation", "Advertising"],
+    "correctIndex": 3,
+    "explanation": "Advertising is not one of the five traditional dimensions."
+  },
+  {
+    "id": "eng-1355",
+    "title": "Which ancient civilization exported manufactured papyrus and pottery across the Mediterranean?",
+    "options": ["Mesopotamia", "Egypt", "Greece", "Rome"],
+    "correctIndex": 1,
+    "explanation": "Egypt exported manufactured papyrus and pottery."
+  },
+  {
+    "id": "eng-1356",
+    "title": "Which type of valve is ideal for quick shut-off, requiring only a 90° turn to close?",
+    "options": ["Ball valve", "Needle valve", "Globe valve", "Choke valve"],
+    "correctIndex": 0,
+    "explanation": "Ball valves operate with a simple quarter-turn for full shut-off."
+  },
+  {
+    "id": "eng-1357",
+    "title": "Which valve type is especially used for on–off flow control in large diameter pipes?",
+    "options": ["Piston valve", "Butterfly valve", "Gate valve", "Plug valve"],
+    "correctIndex": 1,
+    "explanation": "Butterfly valves are commonly used for large diameter pipes."
+  },
+  {
+    "id": "eng-1358",
+    "title": "Diaphragm valves are especially used in which industry due to hygienic requirements?",
+    "options": ["Automotive", "Pharmaceutical", "Oil and gas", "Marine"],
+    "correctIndex": 1,
+    "explanation": "Diaphragm valves are favored in pharmaceutical applications."
+  },
+  {
+    "id": "eng-1359",
+    "title": "Which valve is mainly for on–off control and has low pressure drop?",
+    "options": ["Gate valve", "Piston valve", "Pinch valve", "Solenoid valve"],
+    "correctIndex": 0,
+    "explanation": "Gate valves are designed for on–off service with minimal pressure drop."
+  },
+  {
+    "id": "eng-1360",
+    "title": "Which type of valve is known for accurate flow control?",
+    "options": ["Solenoid valve", "Gate valve", "Needle valve", "Check valve"],
+    "correctIndex": 2,
+    "explanation": "Needle valves allow fine adjustment of flow."
+  },
+  {
+    "id": "eng-1361",
+    "title": "Which valve is often used to regulate fluids that carry solids in suspension?",
+    "options": ["Choke valve", "Pinch valve", "Butterfly valve", "Piston valve"],
+    "correctIndex": 3,
+    "explanation": "Piston valves can handle fluids with solids in suspension."
+  },
+  {
+    "id": "eng-1362",
+    "title": "Butterfly valves are particularly suited for which type of control?",
+    "options": ["Temperature control", "Pressure control", "On–off flow control", "Mixing applications"],
+    "correctIndex": 2,
+    "explanation": "They provide efficient on–off flow control in large pipes."
+  },
+  {
+    "id": "eng-1363",
+    "title": "Which valve controls flow by movement of a membrane across the seat?",
+    "options": ["Gate valve", "Diaphragm valve", "Ball valve", "Plug valve"],
+    "correctIndex": 1,
+    "explanation": "The diaphragm valve uses a membrane to regulate flow."
+  },
+  {
+    "id": "eng-1364",
+    "title": "What is the main purpose of a check valve?",
+    "options": ["Regulate temperature", "Allow one-way flow", "Mix fluids", "Increase pressure"],
+    "correctIndex": 1,
+    "explanation": "Check valves permit flow in only one direction."
+  },
+  {
+    "id": "eng-1365",
+    "title": "Which valve is best for regulating the flow of slurries or powders?",
+    "options": ["Needle valve", "Knife valve", "Ball valve", "Plug valve"],
+    "correctIndex": 1,
+    "explanation": "Knife valves are designed to handle slurries or powders."
+  },
+  {
+    "id": "eng-1366",
+    "title": "Which type of valve is electrically actuated for fluid control?",
+    "options": ["Ball valve", "Butterfly valve", "Solenoid valve", "Needle valve"],
+    "correctIndex": 2,
+    "explanation": "Solenoid valves use electrical actuation for control."
+  },
+  {
+    "id": "eng-1367",
+    "title": "A plug valve is typically ____ than a ball valve but introduces some pressure drop.",
+    "options": ["Slimmer", "Larger", "More expensive", "More robust"],
+    "correctIndex": 0,
+    "explanation": "Plug valves are slim but can cause some pressure loss."
+  },
+  {
+    "id": "eng-1368",
+    "title": "Which of these is a common application for a 'ballcock' valve?",
+    "options": ["Automotive brakes", "Cistern water level control", "Oil pipelines", "Air compressors"],
+    "correctIndex": 1,
+    "explanation": "Ballcock valves are commonly used in water cisterns."
+  },
+  {
+    "id": "eng-1369",
+    "title": "A poppet valve is most commonly found in which device?",
+    "options": ["Refrigerators", "Piston engines", "Oil wells", "Fire suppression systems"],
+    "correctIndex": 1,
+    "explanation": "Poppet valves control fuel intake in piston engines."
+  },
+  {
+    "id": "eng-1370",
+    "title": "Which kind of valve prevents backflow at the foot of a suction line?",
+    "options": ["Pressure valve", "Needle valve", "Foot valve", "Check valve"],
+    "correctIndex": 2,
+    "explanation": "Foot valves are a form of check valve fitted at suction lines."
+  },
+  {
+    "id": "eng-1371",
+    "title": "Which of these valves regulates blood flow in organisms?",
+    "options": ["Heart valve", "Gate valve", "Plug valve", "Butterfly valve"],
+    "correctIndex": 0,
+    "explanation": "Heart valves naturally regulate blood flow."
+  },
+  {
+    "id": "eng-1372",
+    "title": "A pulse valve is characterized by which of the following?",
+    "options": ["Slow action", "Regulates solids", "Extremely fast pulsing", "Thermal response"],
+    "correctIndex": 2,
+    "explanation": "Pulse valves are designed for extremely fast opening and closing."
+  },
+  {
+    "id": "eng-1373",
+    "title": "A Tesla valve is unique because it has which feature?",
+    "options": ["No moving parts", "Electric actuation", "High temperature resistance", "Spool mechanism"],
+    "correctIndex": 0,
+    "explanation": "Tesla valves regulate flow without moving parts."
+  },
+  {
+    "id": "eng-1374",
+    "title": "Which valve is often used for extremely tight leakage prevention in aerospace applications?",
+    "options": ["Ball valve", "Fill and drain valve", "Gate valve", "Stopcock"],
+    "correctIndex": 1,
+    "explanation": "Fill and drain valves have exceptionally tight leakage."
+  },
+  {
+    "id": "eng-1375",
+    "title": "Which of these valves automatically activates upon reaching a set pressure?",
+    "options": ["Safety valve", "Plug valve", "Rocker valve", "Slide valve"],
+    "correctIndex": 0,
+    "explanation": "Safety valves open automatically to relieve dangerous pressure."
+  },
+  {
+    "id": "eng-1376",
+    "title": "A bibcock valve is commonly used for which of the following connections?",
+    "options": ["Power cables", "Sprinkler lines", "Flexible hosepipes", "Gas cookers"],
+    "correctIndex": 2,
+    "explanation": "Bibcock valves are found wherever hosepipes are attached."
+  },
+  {
+    "id": "eng-1377",
+    "title": "Which type of valve is specifically designed for thermal safety?",
+    "options": ["Thermal shut off valve", "Solenoid valve", "Check valve", "Plug valve"],
+    "correctIndex": 0,
+    "explanation": "Thermal shut off valves operate upon excessive temperature."
+  },
+  {
+    "id": "eng-1378",
+    "title": "Pinch valves are especially suited for which kind of flow management?",
+    "options": ["Slurry flow regulation", "Gas pressure control", "Thermal expansion", "Pressure-reducing"],
+    "correctIndex": 0,
+    "explanation": "Pinch valves are widely used for regulating slurries."
+  },
+  {
+    "id": "eng-1379",
+    "title": "What valve uses freezing and melting to create a plug for flow management?",
+    "options": ["Trap primer", "Freeze seal or Freeze plug", "Poppet valve", "Plug valve"],
+    "correctIndex": 1,
+    "explanation": "Freeze plug valves freeze liquid to block flow temporarily."
+  },
+  {
+    "id": "eng-1380",
+    "title": "Which of these is a characteristic of a duckbill valve?",
+    "options": ["Spring-loaded", "Two flexible lips", "Spool-controlled", "Requires electrical input"],
+    "correctIndex": 1,
+    "explanation": "Duckbill valves use two flexible lips for one-way flow."
+  },
+  {
+    "id": "eng-1381",
+    "title": "What gives metals their lustrous appearance?",
+    "options": ["Freely moving electrons", "Crystalline grains", "High atomic number", "Large Burgers vectors"],
+    "correctIndex": 0,
+    "explanation": "Freely moving electrons reflect light, making metals shiny."
+  },
+  {
+    "id": "eng-1382",
+    "title": "What is the science of metals called?",
+    "options": ["Geology", "Metallurgy", "Mineralogy", "Chemography"],
+    "correctIndex": 1,
+    "explanation": "The study of metals is known as metallurgy."
+  },
+  {
+    "id": "eng-1383",
+    "title": "Which of these materials is generally NOT considered a metal?",
+    "options": ["Stainless steel", "Copper", "Polymers", "Iron"],
+    "correctIndex": 2,
+    "explanation": "Polymers, like plastics, are nonmetallic materials."
+  },
+  {
+    "id": "eng-1384",
+    "title": "A metal’s ability to be drawn into a wire is called what?",
+    "options": ["Elasticity", "Ductility", "Conductivity", "Resiliency"],
+    "correctIndex": 1,
+    "explanation": "Ductility is a metal’s ability to be drawn into a wire."
+  },
+  {
+    "id": "eng-1385",
+    "title": "Which metal is the least dense?",
+    "options": ["Osmium", "Magnesium", "Lithium", "Aluminium"],
+    "correctIndex": 2,
+    "explanation": "Lithium has the lowest density of elemental metals."
+  },
+  {
+    "id": "eng-1386",
+    "title": "Which property makes metals effective for use in electrical wiring?",
+    "options": ["Hardness", "Thermal conductivity", "Electrical conductivity", "Magnetism"],
+    "correctIndex": 2,
+    "explanation": "Electrical conductivity makes metals ideal for wiring."
+  },
+  {
+    "id": "eng-1387",
+    "title": "What is the most commercially significant light metal?",
+    "options": ["Osmium", "Gold", "Magnesium", "Plutonium"],
+    "correctIndex": 2,
+    "explanation": "Both magnesium and aluminium are important, but magnesium is specifically named in the text."
+  },
+  {
+    "id": "eng-1388",
+    "title": "The body-centered cubic crystal structure is found in which of the following metals?",
+    "options": ["Gold", "Chromium", "Aluminium", "Zinc"],
+    "correctIndex": 1,
+    "explanation": "Chromium, iron, and tungsten have the bcc structure."
+  },
+  {
+    "id": "eng-1389",
+    "title": "At high temperatures, electrons in metals can occupy which energy levels?",
+    "options": ["Lower", "Fermi", "Any slightly higher levels", "Valence bands only"],
+    "correctIndex": 2,
+    "explanation": "They occupy energy levels slightly above the Fermi level."
+  },
+  {
+    "id": "eng-1390",
+    "title": "Which crystal structure is found in aluminium, copper, and gold?",
+    "options": ["Body-centered cubic", "Face-centered cubic", "Hexagonal close-packed", "Diamond cubic"],
+    "correctIndex": 1,
+    "explanation": "Aluminium, copper, and gold have a face-centered cubic structure."
+  },
+  {
+    "id": "eng-1391",
+    "title": "Compared to nonmetals, metals typically have:",
+    "options": ["Lower conductivity", "Lower density", "Higher density", "Amorphous structures"],
+    "correctIndex": 2,
+    "explanation": "Most elemental metals are denser than nonmetals."
+  },
+  {
+    "id": "eng-1392",
+    "title": "Which state of matter is always a metallic conductor?",
+    "options": ["Gas", "Plasma", "Solid", "Liquid"],
+    "correctIndex": 1,
+    "explanation": "Plasma conducts like a metal due to free charged particles."
+  },
+  {
+    "id": "eng-1393",
+    "title": "What is the term for metals created by fusion in stars up to iron?",
+    "options": ["Photolysis", "Stellar nucleosynthesis", "Photosynthesis", "Polymerization"],
+    "correctIndex": 1,
+    "explanation": "Stellar nucleosynthesis creates elements up to iron."
+  },
+  {
+    "id": "eng-1394",
+    "title": "What is a property of refractory metals?",
+    "options": ["Low melting point", "Resistance to heat and wear", "High malleability", "Nonconductivity"],
+    "correctIndex": 1,
+    "explanation": "Refractory metals have high heat and wear resistance."
+  },
+  {
+    "id": "eng-1395",
+    "title": "Copper alloys such as bronze are especially noted for their historical importance in:",
+    "options": ["Agriculture", "Bronze Age", "Plastic Age", "Stone Age"],
+    "correctIndex": 1,
+    "explanation": "The Bronze Age was named for widespread bronze use."
+  },
+  {
+    "id": "eng-1396",
+    "title": "Which metal was discovered in the early 19th century and challenged the idea of metals always being heavy?",
+    "options": ["Sodium", "Copper", "Platinum", "Bismuth"],
+    "correctIndex": 0,
+    "explanation": "Sodium was the first recognized light metal."
+  },
+  {
+    "id": "eng-1397",
+    "title": "A material that is both a ceramic and a good conductor is often called a:",
+    "options": ["Amorphous solid", "Cermet", "Metallic ceramic", "Synthetic polymer"],
+    "correctIndex": 2,
+    "explanation": "Such as transition metal nitrides, called metallic ceramics."
+  },
+  {
+    "id": "eng-1398",
+    "title": "What is the main difference between ‘base’ and ‘noble’ metals?",
+    "options": ["Amount of iron", "Corrosiveness", "Density", "Tensile strength"],
+    "correctIndex": 1,
+    "explanation": "Base metals are easily oxidized; noble metals resist corrosion."
+  },
+  {
+    "id": "eng-1399",
+    "title": "A white metal is typically used for:",
+    "options": ["Structural support", "Jewelry", "Decorative purposes", "Magnet production"],
+    "correctIndex": 2,
+    "explanation": "White metals are usually used for decoration."
+  },
+  {
+    "id": "eng-1400",
+    "title": "Which is an example of a brittle elemental metal?",
+    "options": ["Iron", "Manganese", "Aluminium", "Copper"],
+    "correctIndex": 1,
+    "explanation": "Manganese is listed as a brittle metal."
+  },
+  {
+    "id": "eng-1401",
+    "title": "Magnesium, aluminium, and titanium alloys are valued primarily for their:",
+    "options": ["Cost effectiveness", "High strength-to-weight ratios", "Color", "Magnetism"],
+    "correctIndex": 1,
+    "explanation": "Their strength-to-weight ratio is prized in many industries."
+  },
+  {
+    "id": "eng-1402",
+    "title": "Which process is used to extract iron from its ore?",
+    "options": ["Electrolysis", "Phytomining", "Smelting with carbon", "Hydrometallurgy"],
+    "correctIndex": 2,
+    "explanation": "Iron is commonly obtained by smelting with carbon."
+  },
+  {
+    "id": "eng-1403",
+    "title": "The term 'ferrous' means the metal:",
+    "options": ["Contains nickel", "Is magnetic", "Contains iron", "Is an alloy"],
+    "correctIndex": 2,
+    "explanation": "Ferrous means 'containing iron.'"
+  },
+  {
+    "id": "eng-1404",
+    "title": "Gold is rare in the Earth's crust because it is a:",
+    "options": ["Lithophile", "Chalcophile", "Siderophile", "Petrophile"],
+    "correctIndex": 2,
+    "explanation": "Gold is an iron-loving (siderophile) element, sinking to the core."
+  },
+  {
+    "id": "eng-1405",
+    "title": "At absolute zero, metals:",
+    "options": ["Become insulators", "Stop conducting", "Conduct electricity", "Melt"],
+    "correctIndex": 2,
+    "explanation": "Metals remain conductive at absolute zero."
+  },
+  {
+    "id": "eng-1406",
+    "title": "Which metal was first isolated in India by 1300 AD?",
+    "options": ["Zinc", "Antimony", "Lead", "Silicon"],
+    "correctIndex": 0,
+    "explanation": "Metallic zinc was first isolated in India by 1300 AD."
+  },
+  {
+    "id": "eng-1407",
+    "title": "Which form of iron was historically superior to industrial steel until the late 1800s?",
+    "options": ["Wrought iron", "Meteoric iron", "Pig iron", "Pewter"],
+    "correctIndex": 1,
+    "explanation": "Meteoric iron was considered high-quality for tools and weapons."
+  },
+  {
+    "id": "eng-1408",
+    "title": "The earliest iron-carbon alloy (steel) artifacts were found in which region?",
+    "options": ["Egypt", "Anatolia", "Rome", "China"],
+    "correctIndex": 1,
+    "explanation": "Early steel artifacts were discovered in Anatolia."
+  },
+  {
+    "id": "eng-1409",
+    "title": "What was used as the main non-copper ingredient in bronze after arsenic?",
+    "options": ["Gold", "Silver", "Tin", "Lead"],
+    "correctIndex": 2,
+    "explanation": "Tin became the primary non-copper ingredient in bronze."
+  },
+  {
+    "id": "eng-1410",
+    "title": "Bronze is mainly an alloy of:",
+    "options": ["Copper and iron", "Copper and tin", "Copper and lead", "Copper and silver"],
+    "correctIndex": 1,
+    "explanation": "Bronze is an alloy of copper and tin."
+  },
+  {
+    "id": "eng-1411",
+    "title": "A MAX phase alloy contains which three types of elements?",
+    "options": ["Metal, metalloid, halogen", "Transition metal, Group A element, C/N", "Base metal, oxide, carbon", "Ceramic, polymer, alkali metal"],
+    "correctIndex": 1,
+    "explanation": "MAX phases include a transition metal, an A group element, and carbon or nitrogen."
+  },
+  {
+    "id": "eng-1412",
+    "title": "Which process describes the recycling of spent metals?",
+    "options": ["Pyrolysis", "Electrolysis", "Metal recycling", "Organic extraction"],
+    "correctIndex": 2,
+    "explanation": "Metal recycling is the process of reusing metal materials."
+  },
+  {
+    "id": "eng-1413",
+    "title": "What condition enables gold leaf to transmit green light?",
+    "options": ["High transparency", "Thickness below several micrometres", "Amorphous structure", "Impurities present"],
+    "correctIndex": 1,
+    "explanation": "Gold leaf thinner than a few micrometres transmits green light."
+  },
+  {
+    "id": "eng-1414",
+    "title": "Aristotle classified Earth's substances as either:",
+    "options": ["Metals or minerals", "Solids or liquids", "Bases or acids", "Crystals or glasses"],
+    "correctIndex": 0,
+    "explanation": "He divided Earth's materials into metals and minerals."
+  },
+  {
+    "id": "eng-1415",
+    "title": "Stainless steel alloys require the addition of which element for enhanced corrosion resistance?",
+    "options": ["Zinc", "Tin", "Chromium", "Lead"],
+    "correctIndex": 2,
+    "explanation": "Chromium grants stainless steel its corrosion resistance."
+  },
+  {
+    "id": "eng-1416",
+    "title": "The first known metal discovered based on distinctive appearance and malleability was likely:",
+    "options": ["Iron", "Lead", "Copper", "Bismuth"],
+    "correctIndex": 2,
+    "explanation": "Copper's native form and malleability made it likely the first metal discovered."
+  },
+  {
+    "id": "eng-1417",
+    "title": "Which alloy is noted for giving its name to a prehistoric era?",
+    "options": ["Steel", "Bronze", "Pewter", "Electrum"],
+    "correctIndex": 1,
+    "explanation": "The Bronze Age was named for the widespread use of bronze."
+  },
+  {
+    "id": "eng-1418",
+    "title": "What property is described by the ability of a material to be shaped by hammering or pressing?",
+    "options": ["Ductility", "Malleability", "Strength", "Elasticity"],
+    "correctIndex": 1,
+    "explanation": "Malleability means shaping metals through hammering/pressing."
+  },
+  {
+    "id": "eng-1419",
+    "title": "Who first systematically described metals and mining in the Renaissance?",
+    "options": ["Aristotle", "Vannoccio Biringuccio", "Newton", "Bohr"],
+    "correctIndex": 1,
+    "explanation": "Biringuccio's De la Pirotechnia was the first major text on metallurgy."
+  },
+  {
+    "id": "eng-1420",
+    "title": "Liquid mercury is distinctive among elemental metals because:",
+    "options": ["It is magnetic", "It is ductile", "It is liquid at room temperature", "It is not a conductor"],
+    "correctIndex": 2,
+    "explanation": "Mercury is the only elemental metal liquid at room temperature."
+  },
+  {
+    "id": "eng-1421",
+    "title": "Amorphous or glassy metals are produced by:",
+    "options": ["Slow cooling", "Rapid cooling", "Adding sulfur", "Heat treating"],
+    "correctIndex": 1,
+    "explanation": "Metallic glasses require extremely rapid cooling."
+  },
+  {
+    "id": "eng-1422",
+    "title": "The introduction of the Bessemer process revolutionized the mass production of:",
+    "options": ["Aluminium", "Steel", "Copper", "Titanium"],
+    "correctIndex": 1,
+    "explanation": "The Bessemer process made large-scale cheap steel possible."
+  },
+  {
+    "id": "eng-1423",
+    "title": "What did agricultural and medieval alchemists believe all metals were destined to become?",
+    "options": ["Lead", "Gold", "Iron", "Copper"],
+    "correctIndex": 1,
+    "explanation": "They believed proper combinations would create gold."
+  },
+  {
+    "id": "eng-1424",
+    "title": "A half-metal acts as a conductor for electrons of:",
+    "options": ["All spin orientations", "One spin orientation only", "No electrons", "All except d-electrons"],
+    "correctIndex": 1,
+    "explanation": "Half-metals conduct only one spin state, insulating the other."
+  },
+  {
+    "id": "eng-1425",
+    "title": "In ceramics with metallic conduction, what usually provides conductivity?",
+    "options": ["Ionic movement", "Carbon impurities", "Partially filled states at the Fermi level", "Physical cracks"],
+    "correctIndex": 2,
+    "explanation": "Partial occupation at the Fermi level enables metallic conductivity."
+  },
+  {
+    "id": "eng-1426",
+    "title": "The ratio between thermal and electrical conductivities in metals is described by the:",
+    "options": ["Gay-Lussac law", "Avogadro’s number", "Wiedemann–Franz law", "Boyle's law"],
+    "correctIndex": 2,
+    "explanation": "This law links thermal and electrical conductivity in metals."
+  },
+  {
+    "id": "eng-1427",
+    "title": "Superalloys are notable for their resistance to:",
+    "options": ["Density loss", "Corrosion and high temperature", "Radioactive decay", "Grain growth"],
+    "correctIndex": 1,
+    "explanation": "Superalloys combine high-temperature strength with oxidation resistance."
+  },
+  {
+    "id": "eng-1428",
+    "title": "Which property of certain lightweight metals is prized in aerospace applications?",
+    "options": ["Low melting point", "High density", "High strength-to-weight ratio", "Malleability"],
+    "correctIndex": 2,
+    "explanation": "Aerospace uses alloys with the highest strength-to-weight."
+  },
+  {
+    "id": "eng-1429",
+    "title": "Base metals are easily:",
+    "options": ["Corroded", "Polished", "Drawn into wire", "Heated"],
+    "correctIndex": 0,
+    "explanation": "They are prone to oxidation and corrosion."
+  },
+  {
+    "id": "eng-1430",
+    "title": "Which alloying element is crucial for stainless steel’s rust resistance?",
+    "options": ["Chromium", "Nickel", "Carbon", "Copper"],
+    "correctIndex": 0,
+    "explanation": "Stainless steel requires sufficient chromium."
   }
 ]
