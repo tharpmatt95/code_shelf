@@ -998,1446 +998,1219 @@
       "correctIndex": 1,
       "explanation": "TPE bushings resist deformation better than typical rubber bushings."
       },
-    {
-      "id": "eng-0081",
-      "title": "What is the main purpose of catheter ablation?",
-      "options": [
-        "To destroy faulty electrical pathways in the heart",
-        "To replace damaged heart tissue",
-        "To improve blood flow through blocked arteries",
-        "To repair heart valves"
-      ],
-      "correctIndex": 0,
-      "explanation": "Catheter ablation targets and destroys areas in the heart causing abnormal electrical signals."
-    },
-    {
-      "id": "eng-0082",
-      "title": "Which energy sources are most commonly used for catheter ablation?",
-      "options": [
-        "Ultrasound and laser",
-        "Radiofrequency and cryoablation",
-        "Static electricity and microwave",
-        "Chemical ablation and ultrasound"
-      ],
-      "correctIndex": 1,
-      "explanation": "Radiofrequency and cryoablation are the primary energy sources for catheter ablation."
-    },
-    {
-      "id": "eng-0083",
-      "title": "What type of arrhythmia can be specifically treated by pulmonary vein isolation?",
-      "options": [
-        "Ventricular fibrillation",
-        "Atrial fibrillation",
-        "Wolff-Parkinson-White syndrome",
-        "Sinus tachycardia"
-      ],
-      "correctIndex": 1,
-      "explanation": "Pulmonary vein isolation is particularly used to treat atrial fibrillation."
-    },
-    {
-      "id": "eng-0084",
-      "title": "Which statement about Wolff-Parkinson-White syndrome treatment with ablation is correct?",
-      "options": [
-        "It has shown limited effectiveness in clinical studies",
-        "Success rates are as high as 95%",
-        "It is only recommended after multiple failed drug therapies",
-        "It cannot be treated by catheter ablation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ablation has success rates as high as 95% for WPW syndrome."
-    },
-    {
-      "id": "eng-0085",
-      "title": "For supraventricular tachycardia (SVT), what is the approximate range for success after a single catheter ablation procedure?",
-      "options": [
-        "20% to 30%",
-        "50% to 60%",
-        "91% to 96%",
-        "99% to 100%"
-      ],
-      "correctIndex": 2,
-      "explanation": "Single procedure success is between 91% and 96%."
-    },
-    {
-      "id": "eng-0086",
-      "title": "Why might older patients with chronic atrial fibrillation have lower ablation success rates?",
-      "options": [
-        "They have more pulmonary veins",
-        "Their heart has often undergone atrial remodeling",
-        "They cannot tolerate anesthesia",
-        "They are more likely to have valve disease"
-      ],
-      "correctIndex": 1,
-      "explanation": "Atrial remodeling in older patients makes ablation less effective."
-    },
-    {
-      "id": "eng-0087",
-      "title": "What is a possible complication of catheter ablation?",
-      "options": [
-        "Hypoglycemia",
-        "Blood clots",
-        "Liver failure",
-        "Renal stones"
-      ],
-      "correctIndex": 1,
-      "explanation": "Blood clots can form and potentially lead to embolism."
-    },
-    {
-      "id": "eng-0088",
-      "title": "What is the function of electrodes at the tip of cardiac catheters during ablation?",
-      "options": [
-        "To deliver magnetic fields",
-        "To monitor and map electrical signals",
-        "To inject medications",
-        "To take heart muscle biopsies"
-      ],
-      "correctIndex": 1,
-      "explanation": "Electrodes measure the heart's electrical activity to identify arrhythmia sources."
-    },
-    {
-      "id": "eng-0089",
-      "title": "Which vein is NOT commonly used for advancing catheters during ablation?",
-      "options": [
-        "Internal jugular vein",
-        "Femoral vein",
-        "Subclavian vein",
-        "Radial vein"
-      ],
-      "correctIndex": 3,
-      "explanation": "The radial vein is not typically used; the others are common access sites."
-    },
-    {
-      "id": "eng-0090",
-      "title": "What distinguishes electroporation from other ablation techniques?",
-      "options": [
-        "It freezes the tissue",
-        "It kills tissue using high-voltage electrical pulses with better selectivity",
-        "It uses chemical irritants",
-        "It applies constant mechanical pressure"
-      ],
-      "correctIndex": 1,
-      "explanation": "Electroporation forms irreversible pores, selectively killing cardiac muscle cells."
-    },
-    {
-      "id": "eng-0091",
-      "title": "After completion of a catheter ablation, the patient is not allowed to move for several hours primarily to:",
-      "options": [
-        "Reduce the risk of blood vessel damage and bleeding",
-        "Allow the ablated tissue to heal",
-        "Prevent infection at the heart",
-        "Give anesthesia time to wear off"
-      ],
-      "correctIndex": 0,
-      "explanation": "Movement could lead to bleeding from the catheter insertion site."
-    },
-    {
-      "id": "eng-0092",
-      "title": "Which cardiac procedure is sometimes performed when standard catheter ablation fails?",
-      "options": [
-        "Pulmonary vein stenting",
-        "Epicardial ablation",
-        "Pacemaker implantation",
-        "Left atrial appendage closure"
-      ],
-      "correctIndex": 1,
-      "explanation": "Epicardial ablation is an option if endocardial ablation is unsuccessful."
-    },
-    {
-      "id": "eng-0093",
-      "title": "During epicardial ablation, access to the pericardial space is achieved via:",
-      "options": [
-        "Transesophageal puncture",
-        "Subxiphoid approach below the breastbone",
-        "Left atrial appendage",
-        "Femoral artery"
-      ],
-      "correctIndex": 1,
-      "explanation": "The subxiphoid region provides the safest route to the pericardial space."
-    },
-    {
-      "id": "eng-0094",
-      "title": "The 'blanking period' after catheter ablation refers to:",
-      "options": [
-        "The time required for anesthesia recovery",
-        "The first three months post-ablation when arrhythmia recurrence does not indicate procedure failure",
-        "A medication-free interval before antiarrhythmic therapy is restarted",
-        "The immediate 24 hours following surgery"
-      ],
-      "correctIndex": 1,
-      "explanation": "The blanking period is three months where early recurrences do not count as failure."
-    },
-    {
-      "id": "eng-0095",
-      "title": "Why is the blanking period sometimes considered too long?",
-      "options": [
-        "It does not allow for proper tissue healing",
-        "Most arrhythmia recurrences occur within the first month",
-        "Patients must remain hospitalized",
-        "It restricts physical activity for too long"
-      ],
-      "correctIndex": 1,
-      "explanation": "Research suggests most early recurrences happen within the first month, not three months."
-    },
-    {
-      "id": "eng-0096",
-      "title": "What is the likelihood of recurrence during the nine months following the blanking period?",
-      "options": [
-        "1% to 5%",
-        "25% to 40%",
-        "50% to 60%",
-        "80% to 90%"
-      ],
-      "correctIndex": 1,
-      "explanation": "Recurrence rates can range from 25% to 40% post-blanking period."
-    },
-    {
-      "id": "eng-0097",
-      "title": "After ablation, how many patients typically continue on antiarrhythmic medications?",
-      "options": [
-        "5% to 10%",
-        "10% to 20%",
-        "30% to 40%",
-        "60% to 70%"
-      ],
-      "correctIndex": 2,
-      "explanation": "About 30-40% of patients require continued medication after ablation."
-    },
-    {
-      "id": "eng-0098",
-      "title": "Which best describes the general safety profile of catheter ablation?",
-      "options": [
-        "It is highly risky with a complication rate above 50%",
-        "It is considered safe and minimally invasive",
-        "It is recommended only as a last resort",
-        "It is safer than all medical therapies"
-      ],
-      "correctIndex": 1,
-      "explanation": "The procedure is generally safe and minimally invasive."
-    },
-    {
-      "id": "eng-0099",
-      "title": "Which of the following is NOT a potential complication of catheter ablation?",
-      "options": [
-        "Pericardial tamponade",
-        "Blood vessel damage",
-        "Chronic kidney disease",
-        "Bleeding at the insertion site"
-      ],
-      "correctIndex": 2,
-      "explanation": "Chronic kidney disease is not a listed complication of ablation."
-    },
-    {
-      "id": "eng-0100",
-      "title": "Which arrhythmia is abbreviated ERAT in the medical literature?",
-      "options": [
-        "Early recurrence of atrial arrhythmias after ablation",
-        "Extrasystolic recurrent atrial tachycardia",
-        "Essential right atrial tachycardia",
-        "Endocardial repolarization alteration tachycardia"
-      ],
-      "correctIndex": 0,
-      "explanation": "ERAT stands for early recurrence of atrial arrhythmias post-ablation."
-    },
-    {
-      "id": "eng-0101",
-      "title": "How are ablation catheters typically delivered to the heart?",
-      "options": [
-        "Via the trachea",
-        "Through a blood vessel, such as the femoral vein",
-        "Through the esophagus",
-        "By open-heart surgery"
-      ],
-      "correctIndex": 1,
-      "explanation": "Catheters are inserted through veins like the femoral vein and advanced to the heart."
-    },
-    {
-      "id": "eng-0102",
-      "title": "Which statement about early recurrences of atrial arrhythmias (ERAT) after ablation is true?",
-      "options": [
-        "They always indicate procedure failure",
-        "They are temporary and often resolve without intervention",
-        "They indicate immediate need for surgery",
-        "They are caused by structural heart disease only"
-      ],
-      "correctIndex": 1,
-      "explanation": "ERAT is often transient and does not necessarily mean the ablation failed."
-    },
-    {
-      "id": "eng-0103",
-      "title": "What is the main risk if large amounts of fluid accumulate around the heart after ablation?",
-      "options": [
-        "Myocardial infarction",
-        "Pericardial effusion",
-        "Cardiac tamponade",
-        "Stroke"
-      ],
-      "correctIndex": 2,
-      "explanation": "Cardiac tamponade is a dangerous accumulation of fluid around the heart."
-    },
-    {
-      "id": "eng-0104",
-      "title": "Which best describes the use of antiarrhythmic drugs after ablation?",
-      "options": [
-        "They are never used post-ablation",
-        "They are sometimes used to prevent early recurrences",
-        "All patients must use them for life",
-        "They replace the need for ablation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Antiarrhythmics are often used short-term post-ablation to prevent early recurrences."
-    },
-    {
-      "id": "eng-0105",
-      "title": "What is a recognized benefit of catheter ablation for atrial fibrillation?",
-      "options": [
-        "Eliminates the risk of all future arrhythmias",
-        "Improves quality of life and mental health outcomes",
-        "Removes the need for any medical follow-up",
-        "Guarantees lifelong sinus rhythm after one procedure"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ablation can improve quality of life and mental health outcomes."
-    },
-    {
-      "id": "eng-0106",
-      "title": "What success rate was reported for ablation of premature ventricular contraction in a 2018 study?",
-      "options": [
-        "44.1%",
-        "62.7%",
-        "94.1%",
-        "99.9%"
-      ],
-      "correctIndex": 2,
-      "explanation": "Efficacy of cardiac ablation for premature ventricular contraction was 94.1%."
-    },
-    {
-      "id": "eng-0107",
-      "title": "Which technique is stated to be more effective at preventing recurrent atrial arrhythmias, but is technically more difficult?",
-      "options": [
-        "Unipolar radiofrequency ablation",
-        "Bipolar radiofrequency ablation",
-        "Open-heart surgical resection",
-        "External electrical cardioversion"
-      ],
-      "correctIndex": 1,
-      "explanation": "Bipolar ablation is more effective, but harder to perform."
-    },
-    {
-      "id": "eng-0108",
-      "title": "In the context of catheter ablation, what is the most common outcome regarding tissue edema?",
-      "options": [
-        "It increases progressively over months",
-        "It persists permanently",
-        "It disappears within a month",
-        "It leads to chronic swelling"
-      ],
-      "correctIndex": 2,
-      "explanation": "Tissue edema after ablation usually resolves in one month."
-    },
-    {
-      "id": "eng-0109",
-      "title": "Which of the following is NOT a usual step in epicardial ablation?",
-      "options": [
-        "Needle puncture of pericardial space",
-        "Insertion of a wire and then a plastic tube",
-        "Catheter insertion through the subxiphoid region",
-        "Direct heart muscle biopsy"
-      ],
-      "correctIndex": 3,
-      "explanation": "Direct biopsy is not a standard part of epicardial ablation technique."
-    },
-    {
-      "id": "eng-0110",
-      "title": "Why is movement minimized after a catheter ablation procedure?",
-      "options": [
-        "To prevent damage to the pulmonary veins",
-        "To reduce bleeding from the catheter insertion site",
-        "To allow electrical pathways to heal",
-        "To enhance the effects of anesthesia"
-      ],
-      "correctIndex": 1,
-      "explanation": "Minimizing movement prevents bleeding at the puncture site."
-    },
-    {
-      "id": "eng-0111",
-      "title": "What is the typical complication rate for cardiac ablation procedures according to studies?",
-      "options": [
-        "0.5%",
-        "3%",
-        "6%",
-        "12%"
-      ],
-      "correctIndex": 2,
-      "explanation": "Overall complication rates are about 6%."
-    },
-    {
-      "id": "eng-0112",
-      "title": "Which of these is a potential benefit of pulmonary vein isolation for atrial fibrillation patients?",
-      "options": [
-        "Permanent elimination of coronary artery disease",
-        "Higher quality of life at 12 months post-treatment",
-        "Prevention of pericardial effusion",
-        "Reduced heart valve regurgitation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Pulmonary vein isolation is more effective than drug therapy for improving quality of life at 12 months."
-    },
-    {
-      "id": "eng-0113",
-      "title": "Catheter ablation is often performed in which hospital setting?",
-      "options": [
-        "Emergency room",
-        "Catheterization lab (cath lab)",
-        "Operating room",
-        "Outpatient clinic"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ablation procedures are usually done in the cath lab."
-    },
-    {
-      "id": "eng-0114",
-      "title": "What leads to the need for multiple ablation procedures in atrial fibrillation patients?",
-      "options": [
-        "Poor anesthesia",
-        "Progressive atrial remodeling making correction more difficult",
-        "Too small catheters",
-        "Lack of access to medications"
-      ],
-      "correctIndex": 1,
-      "explanation": "Atrial remodeling in longstanding AF often requires multiple procedures for success."
-    },
-    {
-      "id": "eng-0115",
-      "title": "What has been reported regarding relapse after ERAT?",
-      "options": [
-        "None of the patients relapse",
-        "Half of patients with symptomatic ERAT will relapse",
-        "All patients relapse after one year",
-        "Relapse occurs only in patients with diabetes"
-      ],
-      "correctIndex": 1,
-      "explanation": "Half of symptomatic ERAT cases will relapse."
-    },
-    {
-      "id": "eng-0116",
-      "title": "What type of lesion is created by original DC impulse ablation?",
-      "options": [
-        "A thermal lesion",
-        "A chemical burn",
-        "An electrical burn in the conduction system",
-        "A mechanical tear"
-      ],
-      "correctIndex": 2,
-      "explanation": "The DC impulse creates an electrical lesion but was abandoned due to complications."
-    },
-    {
-      "id": "eng-0117",
-      "title": "What main factor affects recurrence rates after the blanking period?",
-      "options": [
-        "Obesity and severity of AF before ablation",
-        "Patient gender",
-        "Height and weight only",
-        "Left ventricular ejection fraction"
-      ],
-      "correctIndex": 0,
-      "explanation": "Obesity and prior AF severity influence post-blanking recurrence rates."
-    },
-    {
-      "id": "eng-0118",
-      "title": "Ablation is considered most effective in which group of atrial fibrillation patients?",
-      "options": [
-        "Patients over 70",
-        "Young patients with paroxysmal AF",
-        "Patients with significant heart failure",
-        "Elderly patients with chronic atrial fibrillation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Paroxysmal, younger AF patients have the best ablation outcomes."
-    },
-    {
-      "id": "eng-0119",
-      "title": "What is the main use of ablation in arrhythmia management?",
-      "options": [
-        "Permanent pacemaker implantation",
-        "Modification or destruction of problematic cardiac tissue",
-        "Reduction of cholesterol levels",
-        "Opening blocked arteries"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ablation modifies or destroys the tissue causing arrhythmias."
-    },
-    {
-      "id": "eng-0120",
-      "title": "Which of the following can sometimes be left in place after epicardial ablation to prevent fluid buildup?",
-      "options": [
-        "A rubber band",
-        "A metal stent",
-        "A small plastic tube",
-        "A pressure cuff"
-      ],
-      "correctIndex": 2,
-      "explanation": "A small plastic tube (drain) may be used to remove pericardial fluid."
-    },
-    {
-      "id": "eng-0121",
-      "title": "What is the primary goal of electroanatomic mapping in cardiac electrophysiology?",
-      "options": [
-        "To create a 3D map of the heart and guide catheter placement",
-        "To perform open-heart surgery",
-        "To replace heart valves by surgical means",
-        "To measure heart rate only"
-      ],
-      "correctIndex": 0,
-      "explanation": "Electroanatomic mapping aims to reconstruct the heart's 3D model to guide catheters and reduce fluoroscopy."
-    },
-    {
-      "id": "eng-0122",
-      "title": "What technology does Carto primarily use for catheter localization?",
-      "options": [
-        "Impedance-based tracking only",
-        "Low-intensity magnetic fields and tri-axial inductors",
-        "Sound waves",
-        "Chemical markers"
-      ],
-      "correctIndex": 1,
-      "explanation": "Carto uses low-intensity magnetic fields and tri-axial inductors at the catheter tip."
-    },
-    {
-      "id": "eng-0123",
-      "title": "What technique used by EnSite maps catheter position?",
-      "options": [
-        "Radioactive tracing",
-        "Magnetic sensing only",
-        "Induced electric fields and impedance measurements",
-        "Fiber optic sensors"
-      ],
-      "correctIndex": 2,
-      "explanation": "EnSite uses induced electric fields (in 3 axes) and impedance to localize catheters."
-    },
-    {
-      "id": "eng-0124",
-      "title": "Which system utilizes both impedance and magnetic fields for mapping?",
-      "options": [
-        "EnSite",
-        "Carto",
-        "Rhythmia",
-        "Pacemaker"
-      ],
-      "correctIndex": 2,
-      "explanation": "Rhythmia employs both impedance and magnetic field techniques for accurate catheter mapping."
-    },
-    {
-      "id": "eng-0125",
-      "title": "Which is NOT one of the three main types of data generated by mapping systems?",
-      "options": [
-        "Electrical geometry maps",
-        "Voltage maps",
-        "Timing (LAT) maps",
-        "Geometry of the heart chamber"
-      ],
-      "correctIndex": 0,
-      "explanation": "The main types are geometry, voltage, and timing (LAT) maps; 'electrical geometry' is not a standard type."
-    },
-    {
-      "id": "eng-0126",
-      "title": "What is a key advantage of using electroanatomic mapping during ablation?",
-      "options": [
-        "It eliminates the need for general anesthesia",
-        "It reduces the need for fluoroscopy and thus radiation exposure",
-        "It shortens the catheter",
-        "It increases the cost of the operation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Real-time visualization reduces reliance on fluoroscopy and decreases radiation exposure."
-    },
-    {
-      "id": "eng-0127",
-      "title": "Which mapping system is developed by Boston Scientific?",
-      "options": [
-        "Biosense-Webster CARTO",
-        "EnSite Precision",
-        "Rhythmia (also known as Opal)",
-        "St. Jude EP"
-      ],
-      "correctIndex": 2,
-      "explanation": "Rhythmia, now also called Opal, is developed by Boston Scientific."
-    },
-    {
-      "id": "eng-0128",
-      "title": "Which system allows speedy mapping with better accuracy for treating rhythm disturbances?",
-      "options": [
-        "EnSite Precision",
-        "Pacemaker",
-        "Cardioversion device",
-        "Physiological monitor"
-      ],
-      "correctIndex": 0,
-      "explanation": "EnSite Precision, by Abbott, enables fast and accurate heart mapping."
-    },
-    {
-      "id": "eng-0129",
-      "title": "Which company produces the Carto mapping system?",
-      "options": [
-        "Medtronic",
-        "Biosense-Webster, a subsidiary of Johnson & Johnson",
-        "Boston Scientific",
-        "Philips"
-      ],
-      "correctIndex": 1,
-      "explanation": "Carto is developed by Biosense-Webster, part of J&J."
-    },
-    {
-      "id": "eng-0130",
-      "title": "Which of the following statements is TRUE regarding the navigation of the Carto system?",
-      "options": [
-        "It requires the patient to remain awake",
-        "It calculates catheter tip position and orientation using magnetic sources",
-        "It can only calculate position if the catheter is moving",
-        "It uses ultrasound exclusively"
-      ],
-      "correctIndex": 1,
-      "explanation": "Carto's system calculates both position and orientation via calibrated magnetic fields."
-    },
-    {
-      "id": "eng-0131",
-      "title": "Which professional is recognized as the father of interventional cardiology?",
-      "options": [
-        "Andreas Gruentzig",
-        "Charles Dotter",
-        "William Harvey",
-        "René Laennec"
-      ],
-      "correctIndex": 0,
-      "explanation": "Andreas Gruentzig is considered the father of interventional cardiology."
-    },
-    {
-      "id": "eng-0132",
-      "title": "What is the primary purpose of interventional cardiology procedures?",
-      "options": [
-        "To treat only congenital defects",
-        "Catheter-based treatment of structural heart diseases",
-        "To perform heart transplantation",
-        "Open chest surgery"
-      ],
-      "correctIndex": 1,
-      "explanation": "Interventional cardiology focuses on catheter-based structural heart disease treatments."
-    },
-    {
-      "id": "eng-0133",
-      "title": "Which artery is MOST commonly used for catheterization in interventional cardiology?",
-      "options": [
-        "Carotid artery",
-        "Femoral artery",
-        "Pulmonary artery",
-        "Brachial artery"
-      ],
-      "correctIndex": 1,
-      "explanation": "The femoral artery is traditionally the main access site."
-    },
-    {
-      "id": "eng-0134",
-      "title": "Which access site is gaining popularity due to patient comfort and rapid mobilization post-procedure?",
-      "options": [
-        "Femoral artery",
-        "Jugular vein",
-        "Radial artery",
-        "Subclavian artery"
-      ],
-      "correctIndex": 2,
-      "explanation": "Radial artery access enables quicker patient mobilization."
-    },
-    {
-      "id": "eng-0135",
-      "title": "A potential complication unique to the radial approach is:",
-      "options": [
-        "Major bleeding",
-        "Arterial spasm and pain",
-        "Heartblock",
-        "Valve rupture"
-      ],
-      "correctIndex": 1,
-      "explanation": "Radial access may result in arterial spasm and discomfort."
-    },
-    {
-      "id": "eng-0136",
-      "title": "What defines 'pin-hole surgery' in interventional cardiology?",
-      "options": [
-        "Use of robotic assistance",
-        "Making a small hole in an artery for device delivery",
-        "Laser ablation of nerves",
-        "Removal of the entire heart"
-      ],
-      "correctIndex": 1,
-      "explanation": "'Pin-hole surgery' refers to using very small arterial access for interventions."
-    },
-    {
-      "id": "eng-0137",
-      "title": "What is the principal benefit of interventional as opposed to open-heart procedures?",
-      "options": [
-        "More blood loss",
-        "Avoidance of scars, pain, and long recovery",
-        "Additional large incisions",
-        "Permanent implant requirement"
-      ],
-      "correctIndex": 1,
-      "explanation": "Interventional procedures avoid large incisions, reduce pain, and speed recovery."
-    },
-    {
-      "id": "eng-0138",
-      "title": "Percutaneous coronary intervention (PCI) is also known as:",
-      "options": [
-        "Coronary angioplasty",
-        "Valve replacement",
-        "Coronary artery bypass surgery",
-        "Transcatheter pacemaker insertion"
-      ],
-      "correctIndex": 0,
-      "explanation": "PCI refers to coronary angioplasty."
-    },
-    {
-      "id": "eng-0139",
-      "title": "What is the role of a balloon catheter during PCI?",
-      "options": [
-        "To measure temperature",
-        "To inflate within the artery and relieve narrowing",
-        "To monitor blood oxygen",
-        "To deliver medication only"
-      ],
-      "correctIndex": 1,
-      "explanation": "A balloon is inflated to dilate the narrowed artery."
-    },
-    {
-      "id": "eng-0140",
-      "title": "Which device may be deployed during PCI to help keep blood vessels open?",
-      "options": [
-        "Pacemaker",
-        "Stent",
-        "Valve prosthesis",
-        "Defibrillator"
-      ],
-      "correctIndex": 1,
-      "explanation": "A stent can be placed during angioplasty to maintain vessel patency."
-    },
-    {
-      "id": "eng-0141",
-      "title": "What is the preferred treatment for acute myocardial infarction?",
-      "options": [
-        "Primary angioplasty",
-        "Long-term medication only",
-        "Cardiac transplantation",
-        "Pacemaker insertion"
-      ],
-      "correctIndex": 0,
-      "explanation": "Primary angioplasty is currently the gold standard."
-    },
-    {
-      "id": "eng-0142",
-      "title": "Complete revascularization has been shown to be superior to culprit-only vessel PCI in what way?",
-      "options": [
-        "Reducing hospital costs",
-        "Reducing major adverse cardiac events and all-cause mortality",
-        "Speeding up the procedure",
-        "Decreasing the amount of anesthesia needed"
-      ],
-      "correctIndex": 1,
-      "explanation": "Complete revascularization reduces adverse events and mortality rates."
-    },
-    {
-      "id": "eng-0143",
-      "title": "Percutaneous valve replacement is an alternative to what procedure?",
-      "options": [
-        "Mitral balloon commissurotomy",
-        "Open-heart valve replacement surgery",
-        "Pharmacological therapy",
-        "Heart transplantation"
-      ],
-      "correctIndex": 1,
-      "explanation": "It's performed instead of open-heart replacement."
-    },
-    {
-      "id": "eng-0144",
-      "title": "The TAVI procedure is related to what type of valve?",
-      "options": [
-        "Mitral",
-        "Aortic",
-        "Tricuspid",
-        "Pulmonary"
-      ],
-      "correctIndex": 1,
-      "explanation": "TAVI stands for transcatheter aortic valve implantation."
-    },
-    {
-      "id": "eng-0145",
-      "title": "For percutaneous mitral valve repair, which device is used?",
-      "options": [
-        "Pacemaker",
-        "Stent",
-        "MitraClip",
-        "Catheter tip sensor"
-      ],
-      "correctIndex": 2,
-      "explanation": "MitraClip is a device for percutaneous mitral repair."
-    },
-    {
-      "id": "eng-0146",
-      "title": "Coronary thrombectomy is performed to:",
-      "options": [
-        "Ablate cardiac tissue",
-        "Remove blood clots from coronary arteries",
-        "Patch ventricular defects",
-        "Measure electrical activity"
-      ],
-      "correctIndex": 1,
-      "explanation": "Coronary thrombectomy is the removal of thrombosis (clots) from coronaries."
-    },
-    {
-      "id": "eng-0147",
-      "title": "Open heart surgeries are performed by whom?",
-      "options": [
-        "Cardiothoracic surgeons",
-        "Interventional radiologists",
-        "Emergency medical technicians",
-        "Nurses"
-      ],
-      "correctIndex": 0,
-      "explanation": "Cardiothoracic surgeons are trained for open-heart surgeries."
-    },
-    {
-      "id": "eng-0148",
-      "title": "Which statement BEST describes education required for interventional cardiology in the US?",
-      "options": [
-        "Four years of post-medical school training",
-        "At least seven to nine years of post-graduate education",
-        "Direct clinical internship only",
-        "Primary care residency"
-      ],
-      "correctIndex": 1,
-      "explanation": "It requires a minimum of 7–9 years of postgraduate medical training."
-    },
-    {
-      "id": "eng-0149",
-      "title": "A typical pathway for a structural heart intervention specialist requires training in which order?",
-      "options": [
-        "Medical school, cardiology fellowship, structural heart intervention fellowship",
-        "Undergraduate, medical school, internal medicine, cardiology fellowship, interventional, then structural heart fellowship",
-        "Technical school only",
-        "Surgical residency, only"
-      ],
-      "correctIndex": 1,
-      "explanation": "A typical sequence includes undergrad, med school, internal med, cardiology, interventional, and structural fellowships."
-    },
-    {
-      "id": "eng-0150",
-      "title": "Which access site provides easiest control of post-procedural bleeding, according to the text?",
-      "options": [
-        "Brachial",
-        "Radial artery",
-        "Femoral artery",
-        "Subclavian"
-      ],
-      "correctIndex": 1,
-      "explanation": "Radial artery access offers easy bleeding control after the procedure."
-    },
-    {
-      "id": "eng-0151",
-      "title": "Which is NOT an advantage of the radial approach?",
-      "options": [
-        "Inability to use large catheters",
-        "Immediate ability to walk after procedure",
-        "Easy bleeding control",
-        "Near absence of severe sequelae with normal Allen test"
-      ],
-      "correctIndex": 0,
-      "explanation": "Large catheters cannot be used via radial, which is a disadvantage."
-    },
-    {
-      "id": "eng-0152",
-      "title": "What is a geometry map in electroanatomic mapping?",
-      "options": [
-        "A heat distribution map",
-        "A 3D structural representation of the heart chamber",
-        "A map of vascular occlusions",
-        "A genetic risk map"
-      ],
-      "correctIndex": 1,
-      "explanation": "Geometry maps represent the 3D spatial structure of heart chambers."
-    },
-    {
-      "id": "eng-0153",
-      "title": "What does a voltage map in cardiac mapping illustrate?",
-      "options": [
-        "Heart rate changes",
-        "Differences in the amplitude of electrical signals",
-        "Blood flow",
-        "Oxygen saturation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Voltage maps display variations in electrical signal amplitude across the heart."
-    },
-    {
-      "id": "eng-0154",
-      "title": "A timing or LAT map provides what kind of data?",
-      "options": [
-        "Structural appearance",
-        "Relative timing of electrogram recordings at various locations",
-        "Pharmacologic response",
-        "Stent expansion profile"
-      ],
-      "correctIndex": 1,
-      "explanation": "It indicates the local activation times across different heart regions."
-    },
-    {
-      "id": "eng-0155",
-      "title": "Which of the following is a use of percutaneous valve REPLACEMENT?",
-      "options": [
-        "Treating narrowed valves non-surgically",
-        "Measuring blood pressure",
-        "Fixing rhythm disturbances only",
-        "Removing clots"
-      ],
-      "correctIndex": 0,
-      "explanation": "Percutaneous valve replacement provides a non-surgical option for treating stenotic valves."
-    },
-    {
-      "id": "eng-0156",
-      "title": "Which of these is TRUE about percutaneous valve REPAIR?",
-      "options": [
-        "Requires full open-heart surgery",
-        "Can be performed using devices like MitraClip",
-        "Can only be done on aortic valves",
-        "Is only theoretical"
-      ],
-      "correctIndex": 1,
-      "explanation": "Devices like MitraClip are used for percutaneous mitral valve repair."
-    },
-    {
-      "id": "eng-0157",
-      "title": "Who developed angioplasty before Gruentzig’s widespread adaptation?",
-      "options": [
-        "Charles Dotter",
-        "Andreas Gruentzig",
-        "William Harvey",
-        "Walter Lillehei"
-      ],
-      "correctIndex": 0,
-      "explanation": "Charles Dotter, an interventional radiologist, first developed angioplasty."
-    },
-    {
-      "id": "eng-0158",
-      "title": "Which advantage is associated with interventional cardiology procedures?",
-      "options": [
-        "Long post-op recovery",
-        "Larger incisions",
-        "Reduced scarring and pain",
-        "Higher risk of infection"
-      ],
-      "correctIndex": 2,
-      "explanation": "Reduced scarring and pain is a significant advantage."
-    },
-    {
-      "id": "eng-0159",
-      "title": "Which system operates with static, calibrated, and computer-controlled magnetic fields?",
-      "options": [
-        "EnSite",
-        "Carto",
-        "Rhythmia",
-        "HeartMate"
-      ],
-      "correctIndex": 1,
-      "explanation": "Carto uses static, computer-calibrated magnetic fields for mapping."
-    },
-    {
-      "id": "eng-0160",
-      "title": "Which intervention involves closure of a patient’s ductus arteriosus?",
-      "options": [
-        "Electroanatomic mapping",
-        "Coronary angioplasty",
-        "Congenital heart defect correction",
-        "Ultrasound imaging"
-      ],
-      "correctIndex": 2,
-      "explanation": "Percutaneous methods can correct congenital issues like patent ductus arteriosus."
-    },
-    {
-      "id": "eng-0161",
-      "title": "What is a primary advantage of using robotic systems in minimally invasive surgery?",
-      "options": [
-        "Enhanced precision and dexterity for the surgeon",
-        "Reduced training requirements for staff",
-        "Lower equipment costs compared to traditional surgery",
-        "Ability to perform surgery without any human involvement"
-      ],
-      "correctIndex": 0,
-      "explanation": "Robotics overcome limitations of human hands, improving precision and dexterity during minimally invasive surgeries."
-    },
-    {
-      "id": "eng-0162",
-      "title": "What feature distinguishes a telemanipulator system in robotic surgery?",
-      "options": [
-        "Performs surgery autonomously using AI",
-        "Allows the surgeon to remotely control surgical instruments in real time",
-        "Requires only pre-programmed instructions",
-        "Removes the need for a surgical assistant"
-      ],
-      "correctIndex": 1,
-      "explanation": "A telemanipulator enables real-time remote control by the surgeon."
-    },
-    {
-      "id": "eng-0163",
-      "title": "The main advantage of computer-controlled surgical systems is:",
-      "options": [
-        "They can be operated entirely by nurses",
-        "They allow strategies such as remote surgery and potential AI assistance",
-        "They eliminate the need for sterilization",
-        "They are less expensive than manual procedures"
-      ],
-      "correctIndex": 1,
-      "explanation": "Computer-controlled systems potentially allow remote and AI-assisted surgeries."
-    },
-    {
-      "id": "eng-0164",
-      "title": "What was the world’s first robot to assist in surgery?",
-      "options": [
-        "PROBOT",
-        "AESOP",
-        "Arthrobot",
-        "ZEUS"
-      ],
-      "correctIndex": 2,
-      "explanation": "Arthrobot, developed in Vancouver in 1983, was the first surgical robot."
-    },
-    {
-      "id": "eng-0165",
-      "title": "What key role did the Unimation Puma 200 robotic arm perform in 1985?",
-      "options": [
-        "Laser eye surgery",
-        "Orthopedic leg positioning",
-        "Needle orientation for brain biopsy under CT guidance",
-        "Heart transplant"
-      ],
-      "correctIndex": 2,
-      "explanation": "It oriented needles for brain biopsies with CT guidance."
-    },
-    {
-      "id": "eng-0166",
-      "title": "Which robotic system is known for enabling telerobotics or telepresence surgery?",
-      "options": [
-        "da Vinci Surgical System",
-        "PROBOT",
-        "MiroSurge",
-        "ZEUS"
-      ],
-      "correctIndex": 3,
-      "explanation": "ZEUS was known for telepresence surgery, where procedures are done remotely."
-    },
-    {
-      "id": "eng-0167",
-      "title": "What is the function of the AESOP robotic system in surgery?",
-      "options": [
-        "Autonomous suture tying",
-        "Holding and positioning a laparoscopic camera under surgeon control",
-        "Directly performing incisions",
-        "Monitoring patient vitals"
-      ],
-      "correctIndex": 1,
-      "explanation": "AESOP was designed to hold and position the laparoscopic camera."
-    },
-    {
-      "id": "eng-0168",
-      "title": "Which surgical procedure was first completed remotely with the ZEUS surgical system?",
-      "options": [
-        "Mitral valve repair",
-        "Cholecystectomy (Lindbergh Operation)",
-        "Pancreatectomy",
-        "Knee replacement"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Lindbergh Operation, a cholecystectomy, was performed remotely using ZEUS."
-    },
-    {
-      "id": "eng-0169",
-      "title": "Compared to ZEUS, what key feature does the da Vinci robotic system offer?",
-      "options": [
-        "7 degrees of freedom",
-        "Voice command input",
-        "Ability to mimic the human wrist",
-        "Fully autonomous operation"
-      ],
-      "correctIndex": 2,
-      "explanation": "The da Vinci can mimic the human wrist, enhancing movement range."
-    },
-    {
-      "id": "eng-0170",
-      "title": "Which system allows surgeons to perform complex surgical procedures with high accuracy and control?",
-      "options": [
-        "ROBOdoc",
-        "PROBOT",
-        "da Vinci Surgical System",
-        "MUSA"
-      ],
-      "correctIndex": 2,
-      "explanation": "The da Vinci Surgical System is renowned for high accuracy and control."
-    },
-    {
-      "id": "eng-0171",
-      "title": "What was the main purpose of ROBODOC in orthopedic surgery?",
-      "options": [
-        "Performing automated sutures",
-        "Assisting with hip replacements by milling femoral bone",
-        "Holding surgical lights",
-        "Administering medications"
-      ],
-      "correctIndex": 1,
-      "explanation": "ROBODOC was designed to mill out bone for precise hip implant fitting."
-    },
-    {
-      "id": "eng-0172",
-      "title": "In robotic surgery, what is a major benefit of using stereoscopic vision for the surgeon?",
-      "options": [
-        "Faster data processing",
-        "Three-dimensional, high-precision view of the surgical field",
-        "Reduced need for anesthesia",
-        "Lower blood loss"
-      ],
-      "correctIndex": 1,
-      "explanation": "Stereoscopic vision provides a 3D perspective, improving surgical accuracy."
-    },
-    {
-      "id": "eng-0173",
-      "title": "Which feature does NOT currently characterize most clinical robotic surgical systems?",
-      "options": [
-        "Lack of force (haptic) feedback",
-        "Ability to filter hand tremors",
-        "Fully autonomous operation without surgeon input",
-        "Magnified three-dimensional views"
-      ],
-      "correctIndex": 2,
-      "explanation": "Most robotic systems are not fully autonomous; they are surgeon-controlled."
-    },
-    {
-      "id": "eng-0174",
-      "title": "What is the main drawback of robotic surgery mentioned regarding training?",
-      "options": [
-        "No need for human staff",
-        "Minimal learning curve for surgeons",
-        "Intensive learning phase, requiring 150–250 procedures before proficiency",
-        "It costs less to operate than traditional surgery"
-      ],
-      "correctIndex": 2,
-      "explanation": "Robotic systems require intensive training and many practice cases."
-    },
-    {
-      "id": "eng-0175",
-      "title": "Which robotic system has been specifically developed for supermicrosurgical tasks in plastic and reconstructive surgery?",
-      "options": [
-        "MiroSurge",
-        "MUSA",
-        "Versius",
-        "PROBOT"
-      ],
-      "correctIndex": 1,
-      "explanation": "MUSA was developed for microsurgery and supermicrosurgery."
-    },
-    {
-      "id": "eng-0176",
-      "title": "What is a unique advantage of robotic-assisted heart surgery systems?",
-      "options": [
-        "Completely eliminates risk of complications",
-        "Allows surgery to be performed remotely and minimally invasively",
-        "Requires no surgeon training",
-        "Provides instant patient recovery"
-      ],
-      "correctIndex": 1,
-      "explanation": "Robotic heart surgery can be minimally invasive and may even be performed remotely."
-    },
-    {
-      "id": "eng-0177",
-      "title": "In robotic ENT (Ear, Nose, Throat) surgery, one main benefit of robot-assisted cochlear implantation is:",
-      "options": [
-        "Completely eliminates human surgical staff",
-        "Improved accuracy leading to fewer mistakes in electrode insertion",
-        "No need for post-surgical rehab",
-        "Eliminates the requirement for imaging"
-      ],
-      "correctIndex": 1,
-      "explanation": "Robots provide greater accuracy with fewer insertion errors."
-    },
-    {
-      "id": "eng-0178",
-      "title": "What was the significance of the 2017 autonomous dental implant procedure in China?",
-      "options": [
-        "It was the first dental robot to be FDA approved",
-        "It was the world's first successful autonomous dental surgery without human intervention",
-        "It was performed using 3D printing technology only",
-        "It resulted in a failed implant"
-      ],
-      "correctIndex": 1,
-      "explanation": "The 2017 case in China was a breakthrough as an autonomous dental procedure."
-    },
-    {
-      "id": "eng-0179",
-      "title": "Which industry was NOT an early supporter of Computer Motion, the creators of AESOP?",
-      "options": [
-        "NASA",
-        "Space industry",
-        "Automotive industry",
-        "Government agencies"
-      ],
-      "correctIndex": 2,
-      "explanation": "NASA, government agencies, and space industry were involved; automotive industry was not mentioned."
-    },
-    {
-      "id": "eng-0180",
-      "title": "Which robotic system allows force feedback during surgical procedures?",
-      "options": [
-        "AESOP",
-        "Versius",
-        "Sofie surgical system",
-        "Senhance robotic system"
-      ],
-      "correctIndex": 3,
-      "explanation": "Senhance system by Asensus Surgical introduced haptic feedback."
-    },
-    {
-      "id": "eng-0181",
-      "title": "Compared to open or laparoscopic procedures, robotic surgery typically results in:",
-      "options": [
-        "Longer recovery time",
-        "Shorter duration under anesthesia",
-        "Reduced blood loss and quicker healing",
-        "Increased surgical scars"
-      ],
-      "correctIndex": 2,
-      "explanation": "Robotic surgery often means less blood loss and quicker recovery."
-    },
-    {
-      "id": "eng-0182",
-      "title": "For which pediatric surgery is robotic assistance most commonly used?",
-      "options": [
-        "Appendectomy",
-        "Pyeloplasty",
-        "Gallbladder removal",
-        "Liver transplant"
-      ],
-      "correctIndex": 1,
-      "explanation": "Pyeloplasty is the most common robotic-assisted pediatric procedure."
-    },
-    {
-      "id": "eng-0183",
-      "title": "What is a common criticism regarding the use of robotic surgery for benign gynecologic procedures in the U.S.?",
-      "options": [
-        "It is much less expensive than conventional approaches",
-        "There is little difference in complication rate but greater cost",
-        "Patients have a higher survival rate",
-        "It is the only FDA-approved method"
-      ],
-      "correctIndex": 1,
-      "explanation": "Robotic gynecologic surgery is more costly with little difference in complication rates."
-    },
-    {
-      "id": "eng-0184",
-      "title": "Which factor has limited wider adoption of robotic spine surgery as of 2014?",
-      "options": [
-        "High number of randomized clinical trials",
-        "Lack of proven safety over other approaches",
-        "No benefit in screw placement",
-        "Universal insurance coverage"
-      ],
-      "correctIndex": 1,
-      "explanation": "There were too few randomized clinical trials to judge relative safety."
-    },
-    {
-      "id": "eng-0185",
-      "title": "What is a long-term concern regarding robot-assisted surgery systems?",
-      "options": [
-        "Shortage of patients",
-        "Mechanical failure of the system or instruments",
-        "Absolute elimination of need for anesthesia",
-        "Fully replacing all surgeons"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mechanical failures, though rare, are an ongoing concern."
-    },
-    {
-      "id": "eng-0186",
-      "title": "Which is a notable characteristic of the Versius Surgical System?",
-      "options": [
-        "Large, fixed unit for single positioning",
-        "Independent, modular arms and flexible setup",
-        "Designed only for seated surgeons",
-        "Specifically for neurosurgical procedures"
-      ],
-      "correctIndex": 1,
-      "explanation": "Versius features modular independent arms and flexible configuration."
-    },
-    {
-      "id": "eng-0187",
-      "title": "What is a limitation of current single-quadrant robotic surgery systems?",
-      "options": [
-        "They cannot be used for abdominal surgery",
-        "Only trained nurses may operate them",
-        "They are mainly useful for procedures in one abdominal region at a time",
-        "They require preoperative imaging"
-      ],
-      "correctIndex": 2,
-      "explanation": "Most current systems are limited to single-quadrant procedures."
-    },
-    {
-      "id": "eng-0188",
-      "title": "Which surgical specialty experienced the first fully robotic lung transplantation?",
-      "options": [
-        "Cardiology",
-        "General Surgery",
-        "Thoracic Surgery",
-        "Orthopedics"
-      ],
-      "correctIndex": 2,
-      "explanation": "Robotic lung transplantation is part of thoracic surgery."
-    },
-    {
-      "id": "eng-0189",
-      "title": "How does robotic technology especially benefit pediatric surgery?",
-      "options": [
-        "Reduces the need for surgeons",
-        "Allows clearer viewing and better instrument control in small spaces",
-        "Offers only basic functions",
-        "Requires no anesthesia"
-      ],
-      "correctIndex": 1,
-      "explanation": "Smaller patients limit viewing; robotic systems enhance visualization and precision."
-    },
-    {
-      "id": "eng-0190",
-      "title": "What is a distinctive feature of robotic hernia surgery compared to laparoscopic methods?",
-      "options": [
-        "Fewer degrees of articulation",
-        "Only suitable for minor repairs",
-        "Allows complex reconstructions traditionally limited to open surgery",
-        "Requires only one surgical assistant"
-      ],
-      "correctIndex": 2,
-      "explanation": "The robotic approach allows for repairs traditionally only done via open surgery."
-    },
-    {
-      "id": "eng-0191",
-      "title": "What enables the robotic system to minimize naturally occurring hand tremors in surgery?",
-      "options": [
-        "Manual override by the assistant",
-        "Built-in tremor-filtering software",
-        "No human involvement",
-        "Increased incision size"
-      ],
-      "correctIndex": 1,
-      "explanation": "The robotic system electronically filters out hand tremors."
-    },
-    {
-      "id": "eng-0192",
-      "title": "What is a frequent patient motivation for choosing robot-assisted procedures?",
-      "options": [
-        "Expectation of improved outcomes and less pain",
-        "Lower surgical cost",
-        "Longer hospital stay",
-        "Limited procedures available"
-      ],
-      "correctIndex": 0,
-      "explanation": "Patients hope for improved recovery and less morbidity/pain."
-    },
-    {
-      "id": "eng-0193",
-      "title": "Which robotic platform is specifically designed for natural orifice transluminal endoscopic surgery (NOTES) in gynecology?",
-      "options": [
-        "Sofie",
-        "Hominis robotic system by Momentis Surgical",
-        "Versius",
-        "AESOP"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hominis is designed for NOTES via natural orifices in gynecology."
-    },
-    {
-      "id": "eng-0194",
-      "title": "What characterizes the PRECEYES Surgical System in ophthalmology?",
-      "options": [
-        "Autonomous operation without surgeon input",
-        "Telemanipulated by a surgeon for increased precision",
-        "Only suitable for dental surgery",
-        "Requires FDA approval for use"
-      ],
-      "correctIndex": 1,
-      "explanation": "PRECEYES is telemanipulated for retinal surgeries with high precision."
-    },
-    {
-      "id": "eng-0195",
-      "title": "A key challenge still to be addressed in robot-assisted cochlear implantation is:",
-      "options": [
-        "Improved navigation accuracy",
-        "Safety, time, efficiency, and cost",
-        "Total elimination of patient discomfort",
-        "Replacing surgeon’s expertise"
-      ],
-      "correctIndex": 1,
-      "explanation": "Challenges include safety, efficiency, cost, and procedure time."
-    },
-    {
-      "id": "eng-0196",
-      "title": "What is a benefit of using Mazor X in spinal surgeries?",
-      "options": [
-        "It allows surgery without templates",
-        "Improves accuracy in pedicle screw placement using templating imaging",
-        "Used exclusively for knee replacements",
-        "Eliminates all possibility of complications"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mazor X uses imaging to improve pedicle screw placement accuracy."
-    },
-    {
-      "id": "eng-0197",
-      "title": "Which statement best describes the public perception issue regarding dental robotics?",
-      "options": [
-        "Dental robotics are universally accepted",
-        "There is increased curiosity and concern over shifting from traditional to robotic dental procedures",
-        "All countries ban autonomous dental robots",
-        "Robotic procedures are only used in oral cancer cases"
-      ],
-      "correctIndex": 1,
-      "explanation": "There is a mix of curiosity and concern as robotics become more prevalent in dentistry."
-    },
-    {
-      "id": "eng-0198",
-      "title": "Why is identifying culpability difficult in robot-assisted surgery?",
-      "options": [
-        "Lack of documentation",
-        "Unclear distinction between surgeon and robotic system responsibility",
-        "Surgeons are never present",
-        "No regulations exist"
-      ],
-      "correctIndex": 1,
-      "explanation": "It is often unclear if errors are due to the surgeon or the technology."
-    },
-    {
-      "id": "eng-0199",
-      "title": "Which is an example of a minimally invasive approach enabled by the da Vinci Xi system?",
-      "options": [
-        "Open gastric bypass",
-        "Lung and mediastinal mass resection with 3D visualization",
-        "Hand carving for hip replacement",
-        "Open cholecystectomy"
-      ],
-      "correctIndex": 1,
-      "explanation": "The da Vinci Xi enables 3D visualized, minimally invasive thoracic surgery."
-    },
-    {
-      "id": "eng-0200",
-      "title": "What is the primary purpose of digital dental 3D modeling in robot-assisted dentistry?",
-      "options": [
-        "To improve aesthetic appearance only",
-        "To create accurate guides for drilling and restoration",
-        "To eliminate the need for dentists",
-        "To train patients in robotic technology"
-      ],
-      "correctIndex": 1,
-      "explanation": "Digital models provide accurate guides for surgical planning and restoration."
-    },
+      {
+    "id": "eng-0081",
+    "title": "What is the key ingredient in most commercial glass production?",
+    "options": ["Quartz sand (silica)", "Copper oxide", "Sodium chloride", "Alumina"],
+    "correctIndex": 0,
+    "explanation": "Quartz sand is the main raw material for glass."
+  },
+  {
+    "id": "eng-0082",
+    "title": "Which type of glass has excellent resistance to thermal shock and is used in laboratory glassware?",
+    "options": ["Lead glass", "Borosilicate glass", "Soda–lime glass", "Acrylic glass"],
+    "correctIndex": 1,
+    "explanation": "Borosilicate glass is known for its low thermal expansion."
+  },
+  {
+    "id": "eng-0083",
+    "title": "What is the typical structure of glass at the atomic level?",
+    "options": ["Polycrystalline", "Single crystal", "Amorphous", "Layered"],
+    "correctIndex": 2,
+    "explanation": "Glass is an amorphous solid."
+  },
+  {
+    "id": "eng-0084",
+    "title": "Which form of glass is created through natural volcanic activity?",
+    "options": ["Fulgurite", "Pyroceram", "Moldavite", "Obsidian"],
+    "correctIndex": 3,
+    "explanation": "Obsidian forms from quickly cooled lava."
+  },
+  {
+    "id": "eng-0085",
+    "title": "Which glass type is used primarily for insulation in construction?",
+    "options": ["Container glass", "Glass wool", "Aluminosilicate", "Borosilicate"],
+    "correctIndex": 1,
+    "explanation": "Glass wool is used for thermal and sound insulation."
+  },
+  {
+    "id": "eng-0086",
+    "title": "Lead glass is NOT commonly used for which application?",
+    "options": ["Cut crystal", "Radiation shielding", "Glass containers", "Optical lenses"],
+    "correctIndex": 2,
+    "explanation": "Lead glass is not typically used for food/drink containers."
+  },
+  {
+    "id": "eng-0087",
+    "title": "Which of the following is a colored glass additive that produces deep blue shades?",
+    "options": ["Manganese oxide", "Copper oxide", "Chromium(III) oxide", "Cobalt oxide"],
+    "correctIndex": 3,
+    "explanation": "Cobalt oxide produces a deep blue color."
+  },
+  {
+    "id": "eng-0088",
+    "title": "The float glass process is primarily used to make glass for:",
+    "options": ["Lighting tubes", "Windows and mirrors", "Fiberglass mats", "Cookware"],
+    "correctIndex": 1,
+    "explanation": "Float glass yields distortion-free flat glass for windows and mirrors."
+  },
+  {
+    "id": "eng-0089",
+    "title": "What is the most common application of glass-ceramics?",
+    "options": ["Spectacle lenses", "Cooktop surfaces", "Glass bottles", "Artistic beads"],
+    "correctIndex": 1,
+    "explanation": "Glass-ceramics are widely used for modern cooktops due to their thermal properties."
+  },
+  {
+    "id": "eng-0090",
+    "title": "What property of glass makes it ideal for bottles and jars?",
+    "options": ["High refractive index", "Chemical inertness", "Porosity", "Flexibility"],
+    "correctIndex": 1,
+    "explanation": "Chemical inertness ensures glass doesn't react with most foodstuffs."
+  },
+  {
+    "id": "eng-0091",
+    "title": "A glass with a high amount of what is more prone to corrosion?",
+    "options": ["Alkali metals", "Silica", "Chromium(III) oxide", "Manganese dioxide"],
+    "correctIndex": 0,
+    "explanation": "Alkali metals make glass more susceptible to water attack and corrosion."
+  },
+  {
+    "id": "eng-0092",
+    "title": "Which process prevents crystallization of glass during manufacture?",
+    "options": ["Slow cooling", "Melt quenching", "Surface etching", "Sintering"],
+    "correctIndex": 1,
+    "explanation": "Rapid melt quenching keeps glass amorphous."
+  },
+  {
+    "id": "eng-0093",
+    "title": "Which glass has the highest silica content?",
+    "options": ["Fused quartz", "Borosilicate", "Soda–lime", "Lead glass"],
+    "correctIndex": 0,
+    "explanation": "Fused quartz is nearly pure SiO2."
+  },
+  {
+    "id": "eng-0094",
+    "title": "What is Edeowie glass suggested to be the result of?",
+    "options": ["Metalworking slag", "Quenching in ceramics", "Desert lightning strikes", "Blowing processes"],
+    "correctIndex": 2,
+    "explanation": "One theory is that Edeowie glass comes from lightning or impact."
+  },
+  {
+    "id": "eng-0095",
+    "title": "Which compound is added to glass to create yellow or yellow-brown colors?",
+    "options": ["Cobalt oxide", "Lead oxide", "Iron(III) oxide", "Chromium(III) oxide"],
+    "correctIndex": 2,
+    "explanation": "Iron(III) oxide produces yellow or yellow-brown glass."
+  },
+  {
+    "id": "eng-0096",
+    "title": "What is the most common type of glass used for beverage bottles?",
+    "options": ["Lead crystal", "Soda–lime glass", "Pyrex", "Acrylic glass"],
+    "correctIndex": 1,
+    "explanation": "Soda–lime glass is standard for bottles and jars."
+  },
+  {
+    "id": "eng-0097",
+    "title": "Which of the following is NOT a feature of glass?",
+    "options": ["Chemical inertness", "Easy melting", "Conducts electricity well", "Transparency"],
+    "correctIndex": 2,
+    "explanation": "Glass is not a good conductor of electricity."
+  },
+  {
+    "id": "eng-0098",
+    "title": "Which type of glass is preferred for insulating electronic components?",
+    "options": ["Acrylic glass", "Lead glass", "Fluoride silicate glass", "Container glass"],
+    "correctIndex": 2,
+    "explanation": "Fluoride silicate glasses are used for insulation."
+  },
+  {
+    "id": "eng-0099",
+    "title": "The term 'float glass' refers to glass that has been:",
+    "options": ["Tempered for strength", "Reheated for clarity", "Formed on a bed of molten tin", "Molded by hand"],
+    "correctIndex": 2,
+    "explanation": "Float glass is created by floating molten glass on tin for flatness."
+  },
+  {
+    "id": "eng-0100",
+    "title": "Glass-ceramics achieve near-zero thermal expansion due to:",
+    "options": ["Toughening", "Surface etching", "Balancing crystalline and glassy phases", "Adding methyl groups"],
+    "correctIndex": 2,
+    "explanation": "The mixed crystalline-glassy structure can achieve near-zero CTE."
+  },
+  {
+    "id": "eng-0101",
+    "title": "The colored flash in old Roman glassware was often produced by:",
+    "options": ["Paint", "Thin layers of metallic oxides", "Gilding", "Plastic film"],
+    "correctIndex": 1,
+    "explanation": "Metallic oxides were used to create colored effects."
+  },
+  {
+    "id": "eng-0102",
+    "title": "Which glass is formed when lightning strikes sand?",
+    "options": ["Obsidian", "Pyroceram", "Fulgurite", "Moldavite"],
+    "correctIndex": 2,
+    "explanation": "Fulgurites form as glass tubes from high-energy strikes."
+  },
+  {
+    "id": "eng-0103",
+    "title": "Which archaeological glass object originated from meteorite impact?",
+    "options": ["Trinitite", "Fulgurite", "Libyan desert glass", "Obsidian"],
+    "correctIndex": 2,
+    "explanation": "Libyan desert glass comes from meteorite impacts."
+  },
+  {
+    "id": "eng-0105",
+    "title": "Which innovation made large, distortion-free glass panes common in modern buildings?",
+    "options": ["Float glass process", "Hand grinding", "Annealing ovens", "Sintering"],
+    "correctIndex": 0,
+    "explanation": "The float glass process enabled the production of consistently flat and clear glass."
+  },
+  {
+    "id": "eng-0106",
+    "title": "What metal has traditionally been used to form the bath in the float glass process?",
+    "options": ["Mercury", "Lead", "Tin", "Silver"],
+    "correctIndex": 2,
+    "explanation": "Molten tin supports the glass ribbon in the float glass process."
+  },
+  {
+    "id": "eng-0107",
+    "title": "Which element is added to glass to protect against ultraviolet light?",
+    "options": ["Sodium", "Potassium", "Cerium", "Iron"],
+    "correctIndex": 2,
+    "explanation": "Cerium compounds are sometimes added for UV-absorbing glass."
+  },
+  {
+    "id": "eng-0108",
+    "title": "Glass can be made by rapid cooling of which of the following?",
+    "options": ["Mixtures of salts", "Molecular liquids", "Metals", "All of these"],
+    "correctIndex": 3,
+    "explanation": "Solids with glass-forming ability include salts, liquids, and metals."
+  },
+  {
+    "id": "eng-0109",
+    "title": "Which of these is a modern example of chemically strengthened glass?",
+    "options": ["Pyrex", "Trinitite", "Laminated glass", "Gorilla Glass"],
+    "correctIndex": 3,
+    "explanation": "Gorilla Glass is a modern, widely used chemically strengthened glass."
+  },
+  {
+    "id": "eng-0110",
+    "title": "The 'ring' sound of cut lead glass is primarily due to its:",
+    "options": ["Color", "Elasticity and density", "High viscosity", "Chemical purity"],
+    "correctIndex": 1,
+    "explanation": "Lead glass's 'ring' is a result of its unique elasticity and density."
+  },
+  {
+    "id": "eng-0111",
+    "title": "A key use of barium in glass composition is to:",
+    "options": ["Increase refractive index", "Make glass transparent", "Reduce melting point", "Add flexibility"],
+    "correctIndex": 0,
+    "explanation": "Barium oxide is added to increase refractive index in specialty glasses."
+  },
+  {
+    "id": "eng-0112",
+    "title": "What is a chief use of glass wool?",
+    "options": ["Tableware", "Insulation for buildings", "Food packaging", "Gemstone imitation"],
+    "correctIndex": 1,
+    "explanation": "Glass wool is used for insulation in construction."
+  },
+  {
+    "id": "eng-0113",
+    "title": "Which type of glass is almost pure SiO2?",
+    "options": ["Lead glass", "Borosilicate glass", "Fused quartz", "Fiberglass"],
+    "correctIndex": 2,
+    "explanation": "Fused quartz is nearly pure silicon dioxide."
+  },
+  {
+    "id": "eng-0114",
+    "title": "Glass coloring can be achieved by:",
+    "options": ["Adding metal oxides", "Blowing air", "Cooling rapidly", "Using organic solvents"],
+    "correctIndex": 0,
+    "explanation": "Metal oxides/ions produce various glass colors."
+  },
+  {
+    "id": "eng-0115",
+    "title": "Which substance is used mainly for self-cleaning glass coatings?",
+    "options": ["Titanium dioxide", "Calcium carbonate", "Lead oxide", "Chromium glass"],
+    "correctIndex": 0,
+    "explanation": "Titanium dioxide creates photocatalytic self-cleaning surfaces."
+  },
+  {
+    "id": "eng-0116",
+    "title": "Which is a common use for laminated glass?",
+    "options": ["Optical fibers", "Window panes in cars", "Glass wool insulation", "Solar panel cutouts"],
+    "correctIndex": 1,
+    "explanation": "Laminated glass is standard for vehicle windshields."
+  },
+  {
+    "id": "eng-0117",
+    "title": "CD-RW and DVD-RW technologies rely on which type of glass?",
+    "options": ["Obsidian", "Chalcogenide glass", "Borosilicate glass", "Pyroceram"],
+    "correctIndex": 1,
+    "explanation": "Chalcogenide glasses are phase-change materials in rewritable media."
+  },
+  {
+    "id": "eng-0118",
+    "title": "When colored, which of the following oxides gives glass a deep purple shade?",
+    "options": ["Iron(III) oxide", "Cobalt oxide", "Chromium(III) oxide", "Manganese dioxide"],
+    "correctIndex": 3,
+    "explanation": "Manganese dioxide provides a purple color and neutralizes green tint."
+  },
+  {
+    "id": "eng-0119",
+    "title": "What technology was first invented to mass-produce distortion-free flat glass?",
+    "options": ["Annealing", "Laminating", "Float process", "Grinding"],
+    "correctIndex": 2,
+    "explanation": "The float glass process revolutionized the production of flat glass."
+  },
+  {
+    "id": "eng-0120",
+    "title": "A glass that exhibits no long-range order but has local short-range order is called:",
+    "options": ["Polycrystalline", "Liquid", "Glass ceramic", "Amorphous"],
+    "correctIndex": 3,
+    "explanation": "Glass is classified as an amorphous solid."
+  },
+  {
+    "id": "eng-0121",
+    "title": "Which glass transition fact is true?",
+    "options": ["Glass has a first-order phase transition", "Glass flows at room temperature within a human lifetime", "Glass has a glass transition not fitting classical phase transitions", "Glass is always crystalline at room temperature"],
+    "correctIndex": 2,
+    "explanation": "Glass transition is not a classic equilibrium phase transformation."
+  },
+  {
+    "id": "eng-0122",
+    "title": "Which historical glassmaking center lent its name to the modern word 'glass'?",
+    "options": ["Chartres", "Trier", "Murano", "Saint-Denis"],
+    "correctIndex": 1,
+    "explanation": "'Glass' comes from the late Latin term 'glesum,' originating in Trier."
+  },
+  {
+    "id": "eng-0123",
+    "title": "Which manufactured glass is renowned for its resemblance to natural crystal?",
+    "options": ["Float glass", "Cristallo", "Fulgurite", "Fiberglass"],
+    "correctIndex": 1,
+    "explanation": "Cristallo from Murano was prized for its clarity and resemblance to crystal."
+  },
+  {
+    "id": "eng-0124",
+    "title": "The brilliant sparkle of cut lead glass comes from which property?",
+    "options": ["Magnetism", "Solubility", "High refractive index", "Alkali resistance"],
+    "correctIndex": 2,
+    "explanation": "Lead increases the glass's refractive index, producing extra brilliance."
+  },
+  {
+    "id": "eng-0125",
+    "title": "What is the main function of a pipe fitting or adapter?",
+    "options": [
+      "To connect, adapt, or regulate sections of pipe or tube",
+      "To insulate a pipe",
+      "To reinforce a pipe structurally",
+      "To conduct electricity along a pipe system"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fittings and adapters connect, adapt, or regulate pipe sections in a system."
+  },
+  {
+    "id": "eng-0126",
+    "title": "Which organization is responsible for standards such as B36.10M and B31.3 in piping?",
+    "options": [
+      "AWS",
+      "ASME",
+      "API",
+      "NFPA"
+    ],
+    "correctIndex": 1,
+    "explanation": "ASME is the American Society of Mechanical Engineers, publisher of piping codes and standards."
+  },
+  {
+    "id": "eng-0127",
+    "title": "A fitting that connects a threaded pipe to a non-threaded pipe is called:",
+    "options": [
+      "Union",
+      "Reducer",
+      "Adapter",
+      "Elbow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adapters are used to join pipes of different connection types, such as threaded to non-threaded."
+  },
+  {
+    "id": "eng-0128",
+    "title": "What is the main purpose of a gasket in a piping system?",
+    "options": [
+      "To reduce pipe weight",
+      "To create a mechanical seal between flanges",
+      "To buffer temperature changes",
+      "To allow electrical conductivity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gaskets are ring-shaped seals inserted between flanges to prevent leaks."
+  },
+  {
+    "id": "eng-0129",
+    "title": "Reducers, bushings, and adapters all serve the purpose of:",
+    "options": [
+      "Joining pipes at right angles",
+      "Changing pipe diameter or connecting dissimilar parts",
+      "Blocking the flow of fluid",
+      "Mixing two fluids"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reducers, bushings, and adapters connect pipes of different sizes or types."
+  },
+  {
+    "id": "eng-0130",
+    "title": "A 90-degree elbow in plumbing creates what kind of turn?",
+    "options": [
+      "A straight extension",
+      "A gradual slope",
+      "A right-angle bend",
+      "A T-junction"
+    ],
+    "correctIndex": 2,
+    "explanation": "A 90-degree elbow makes a right-angle turn in piping."
+  },
+  {
+    "id": "eng-0131",
+    "title": "What is the key function of a union fitting compared to a coupling?",
+    "options": [
+      "Allows for easy future disconnection",
+      "Only connects pipes of the same diameter",
+      "Prevents corrosion",
+      "Acts as a valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unions allow pipes to be disconnected without cutting or rotating the pipe."
+  },
+  {
+    "id": "eng-0132",
+    "title": "Which fitting is often used between pipes to prevent direct contact of dissimilar metals?",
+    "options": [
+      "Reducer",
+      "Dielectric union",
+      "Nipple",
+      "Elbow"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dielectric union prevents galvanic corrosion between different metals."
+  },
+  {
+    "id": "eng-0133",
+    "title": "A nipple is best described as:",
+    "options": [
+      "A threaded short pipe used to connect two fittings",
+      "A curved pipe for direction change",
+      "A flexible pipe for vibration absorption",
+      "A metal sealing ring"
+    ],
+    "correctIndex": 0,
+    "explanation": "A nipple is a short, usually threaded pipe used for connections."
+  },
+  {
+    "id": "eng-0134",
+    "title": "A tee fitting is used to:",
+    "options": [
+      "Combine or divide fluid flow",
+      "Connect flexible hoses",
+      "Seal the end of a pipe",
+      "Adjust pipe diameter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tees combine or divide flow in pipe systems."
+  },
+  {
+    "id": "eng-0135",
+    "title": "Which fitting allows for flow from one pipe to branch into three other directions?",
+    "options": [
+      "Elbow",
+      "Cross",
+      "Reducer",
+      "Tee"
+    ],
+    "correctIndex": 1,
+    "explanation": "A cross connects one inlet and three outlets, or vice versa."
+  },
+  {
+    "id": "eng-0136",
+    "title": "Which of the following is used to temporarily or permanently seal the end of a pipe?",
+    "options": [
+      "Nipple",
+      "Bushing",
+      "Plug or Cap",
+      "Elbow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plugs and caps are used to close the end of piping."
+  },
+  {
+    "id": "eng-0137",
+    "title": "Which connection type uses tapered cone-shaped barbs to secure flexible hose?",
+    "options": [
+      "Barb/Hose barb fitting",
+      "Compression fitting",
+      "Union",
+      "Reducer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hose barbs use ridges to grip flexible hose."
+  },
+  {
+    "id": "eng-0138",
+    "title": "Which valve type is typically used to fully open or close flow and is not meant for throttling?",
+    "options": [
+      "Gate or ball valve",
+      "Needle valve",
+      "Globe valve",
+      "Check valve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gate and ball valves are used as isolation valves: either fully open or closed."
+  },
+  {
+    "id": "eng-0139",
+    "title": "A sanitary tee should NOT be used to:",
+    "options": [
+      "Join a horizontal drain to a vertical drain",
+      "Connect two vertical drains",
+      "Direct the outlet of a trap arm",
+      "Allow vent connection"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sanitary tees should not be used to join vertical to horizontal drains."
+  },
+  {
+    "id": "eng-0140",
+    "title": "In DWV systems, why are long-radius elbows (sweep elbows) preferred?",
+    "options": [
+      "They reduce flow resistance and limit solid deposits",
+      "They save space",
+      "They are less expensive",
+      "They increase turbulence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Long-radius bends minimize clogs and promote smooth flow."
+  },
+  {
+    "id": "eng-0141",
+    "title": "A closet flange is specially designed for connecting:",
+    "options": [
+      "A toilet to a floor drain",
+      "A radiator to a pipe",
+      "A hose to a wall outlet",
+      "A gas line to an appliance"
+    ],
+    "correctIndex": 0,
+    "explanation": "A closet flange connects a toilet to the drainage system at the floor."
+  },
+  {
+    "id": "eng-0142",
+    "title": "What is the function of a clean-out fitting?",
+    "options": [
+      "Provides access to a drain for clearing blockages",
+      "Mixes two fluid streams",
+      "Reduces pipe diameter",
+      "Prevents reverse flow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Clean-outs allow access to clear or rod out clogged piping."
+  },
+  {
+    "id": "eng-0143",
+    "title": "What safety concern is important for both welding and soldering in plumbing?",
+    "options": [
+      "Ventilation to remove fumes",
+      "Ensuring tight threads",
+      "Painting joints",
+      "Adding a gasket"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proper ventilation is essential to avoid inhaling hazardous fumes."
+  },
+  {
+    "id": "eng-0144",
+    "title": "Which connection method is specifically quick and suitable for use on wet pipes?",
+    "options": [
+      "Pressed/crimped fittings",
+      "Threaded fittings",
+      "Solvent welding",
+      "Flanged joints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pressed and crimped connections can be made quickly, even on wet tubing."
+  },
+  {
+    "id": "eng-0145",
+    "title": "What is the primary function of a resistor in an electronic circuit?",
+    "options": [
+      "Supply power",
+      "Store charge",
+      "Switch current on and off",
+      "Implement electrical resistance"
+    ],
+    "correctIndex": 3,
+    "explanation": "A resistor implements electrical resistance in a circuit."
+  },
+  {
+    "id": "eng-0146",
+    "title": "The unit used to measure electrical resistance is the:",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Farad",
+      "Ohm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "id": "eng-0147",
+    "title": "What electrical law is used to calculate the current through a resistor?",
+    "options": [
+      "Kirchhoff's Law",
+      "Faraday's Law",
+      "Maxwell's Equations",
+      "Ohm's Law"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ohm's Law relates voltage, current, and resistance."
+  },
+  {
+    "id": "eng-0148",
+    "title": "A variable resistor that is used to adjust circuit elements like a volume control is called a:",
+    "options": [
+      "Thermistor",
+      "Zener diode",
+      "Battery",
+      "Potentiometer"
+    ],
+    "correctIndex": 3,
+    "explanation": "A potentiometer can adjust circuit parameters such as volume."
+  },
+  {
+    "id": "eng-0149",
+    "title": "When several resistors are connected in parallel, the total equivalent resistance is:",
+    "options": [
+      "Greater than the largest resistor",
+      "Equal to the sum of all resistances",
+      "Exactly equal to the average",
+      "Less than the smallest resistor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parallel-coupled resistors always result in less total resistance than the smallest individual resistor."
+  },
+  {
+    "id": "eng-0150",
+    "title": "What happens if a resistor's power rating is exceeded?",
+    "options": [
+      "The circuit increases in voltage",
+      "The resistor works more efficiently",
+      "The resistor's resistance increases linearly",
+      "It may overheat, burn out, or cause fire"
+    ],
+    "correctIndex": 3,
+    "explanation": "Exceeding a resistor's rating can destroy it and damage the circuit."
+  },
+  {
+    "id": "eng-0151",
+    "title": "A pull-up resistor is typically connected to:",
+    "options": [
+      "Ground",
+      "A negative voltage",
+      "A capacitor",
+      "A high logic voltage or power supply"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pull-up resistors ensure a default high logic voltage when not driven."
+  },
+  {
+    "id": "eng-0152",
+    "title": "Which resistor type is known for very high stability and precision?",
+    "options": [
+      "Carbon composition",
+      "Thick film",
+      "Wire wound",
+      "Metal foil"
+    ],
+    "correctIndex": 3,
+    "explanation": "Metal foil resistors offer the highest precision and long-term stability."
+  },
+  {
+    "id": "eng-0153",
+    "title": "If a 300-ohm resistor is attached across a 12V battery, what current flows through it?",
+    "options": [
+      "0.36 A",
+      "3.6 A",
+      "36 A",
+      "0.04 A"
+    ],
+    "correctIndex": 3,
+    "explanation": "I = V/R = 12 / 300 = 0.04 Amperes."
+  },
+  {
+    "id": "eng-0154",
+    "title": "What is the result of installing a resistor with a much higher rating than needed?",
+    "options": [
+      "Short circuit the circuit",
+      "Device will not work",
+      "The voltage will drop to zero",
+      "Generally no harm; only physically larger"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oversized resistors work fine, they are just physically larger and cost more."
+  },
+  {
+    "id": "eng-0155",
+    "title": "Special resistors that change value due to environmental factors include:",
+    "options": [
+      "Carbon film resistors only",
+      "Wire-wound resistors only",
+      "Metal foil resistors only",
+      "Thermistors, photoresistors, and strain gauges"
+    ],
+    "correctIndex": 3,
+    "explanation": "These are examples of resistors whose values change with temperature, light, or strain."
+  },
+  {
+    "id": "eng-0156",
+    "title": "Resistors with alternating winding direction to minimize inductance are called:",
+    "options": [
+      "Carbon film",
+      "Thick film",
+      "Thin film",
+      "Ayrton–Perry winding"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ayrton–Perry winding reduces the coil inductance of wirewound resistors."
+  },
+  {
+    "id": "eng-0157",
+    "title": "In the series circuit pictured, if R1 = 100Ω and R2 = 200Ω, the total resistance is:",
+    "options": [
+      "50Ω",
+      "200Ω",
+      "100Ω",
+      "300Ω"
+    ],
+    "correctIndex": 3,
+    "explanation": "Resistors in series simply add: 100 + 200 = 300Ω."
+  },
+  {
+    "id": "eng-0158",
+    "title": "What is the primary risk when using surface-mount resistors in sulfur-rich environments?",
+    "options": [
+      "Short circuit",
+      "Magnetization",
+      "Too much capacitance",
+      "Open circuit due to silver sulfide formation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sulfur can react with silver, making the resistor open circuit."
+  },
+  {
+    "id": "eng-0159",
+    "title": "A potentiometer is most often used as a:",
+    "options": [
+      "Resistor divider for power supplies",
+      "Fixed resistor for inductive loads",
+      "Signal rectifier",
+      "User-adjustable voltage or signal level control"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pots are typically used to adjust signal levels such as audio volume."
+  },
+  {
+    "id": "eng-0160",
+    "title": "How is the color code usually read on four-band axial resistors?",
+    "options": [
+      "Multiplier, value, tolerance, band",
+      "Tolerance, value, multiplier, band",
+      "Multiplier, tolerance, band, value",
+      "Value (two bands), multiplier (third), tolerance (fourth)"
+    ],
+    "correctIndex": 3,
+    "explanation": "First two: value, third: multiplier, fourth: tolerance."
+  },
+  {
+    "id": "eng-0161",
+    "title": "Which resistor property is important in low-noise amplifier circuits?",
+    "options": [
+      "Physical length",
+      "Resistor color code",
+      "Amount of lead tinning",
+      "Low equivalent noise"
+    ],
+    "correctIndex": 3,
+    "explanation": "Low noise resistors are preferable in sensitive circuits."
+  },
+  {
+    "id": "eng-0162",
+    "title": "What marking might you find on a surface mount resistor with resistance less than 1 ohm?",
+    "options": [
+      "A number with a K",
+      "No color codes",
+      "A three-digit code like 473",
+      "A code with the letter R for decimal, e.g., 4R7"
+    ],
+    "correctIndex": 3,
+    "explanation": "R indicates the decimal in surface mount resistor markings below 10Ω."
+  },
+  {
+    "id": "eng-0163",
+    "title": "A resistor has the EIA-96 code '47D'. What is its value?",
+    "options": [
+      "4.7 Ω",
+      "16.2 kΩ",
+      "1 kΩ",
+      "30.1 kΩ"
+    ],
+    "correctIndex": 3,
+    "explanation": "EIA-96: 47 = 301; D = x1000, so 301 × 100 = 30.1 kΩ."
+  },
+  {
+    "id": "eng-0164",
+    "title": "A resistor connected as a 'pull-down' is usually attached between:",
+    "options": [
+      "Power and signal input",
+      "Output and input",
+      "Signal and positive voltage supply",
+      "The signal line and ground"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pull-down resistors hold signals low (to ground) when not driven."
+  },
+  {
+    "id": "eng-0165",
+    "title": "In circuit design, what does the specification determine?",
+    "options": [
+      "The location of the factory",
+      "Which engineer will design the circuit",
+      "Which PCB software to use",
+      "The functionality the finished design must provide"
+    ],
+    "correctIndex": 3,
+    "explanation": "The specification defines what the customer wants the finished circuit to achieve."
+  },
+  {
+    "id": "eng-0166",
+    "title": "During the traditional circuit design process, simulations are performed to:",
+    "options": [
+      "Reduce materials cost",
+      "Test the durability of packaging material",
+      "Assign engineers to the project",
+      "Verify the correctness of the designed circuit"
+    ],
+    "correctIndex": 3,
+    "explanation": "Simulations help check if the design will meet the intended purpose and function."
+  },
+  {
+    "id": "eng-0167",
+    "title": "What is a major benefit of dividing a complex circuit into blocks in the design process?",
+    "options": [
+      "It reduces the schematic size",
+      "It avoids needing a simulation",
+      "It makes it easier for teams to work on smaller tasks sequentially or in parallel",
+      "It reduces the component count"
+    ],
+    "correctIndex": 2,
+    "explanation": "Block design allows division of labor and simplifies handling of complex circuits."
+  },
+  {
+    "id": "eng-0168",
+    "title": "Which of the following is typically true as a circuit design progresses?",
+    "options": [
+      "The original specification is never changed",
+      "Simulations are ignored after the first draft",
+      "Specifications may be tightened or expanded",
+      "Prototyping is always skipped"
+    ],
+    "correctIndex": 2,
+    "explanation": "Specifications are often updated as the design progresses or to meet customer needs."
+  },
+  {
+    "id": "eng-0169",
+    "title": "Which activity is usually performed after building and testing a prototype?",
+    "options": [
+      "Changing the customer's needs",
+      "Selecting the country of sale",
+      "Skipping simulation",
+      "Approving final manufacturing drawings"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prototypes are built and tested before final approval for production."
+  },
+  {
+    "id": "eng-0170",
+    "title": "Why is 'design creep' considered a risk in the circuit design process?",
+    "options": [
+      "It always makes circuits smaller",
+      "It can lead to circuits being over- or under-designed",
+      "It avoids adding test cases",
+      "It prevents teamwork"
+    ],
+    "correctIndex": 1,
+    "explanation": "Design creep may result in circuits with too much or too little functionality."
+  },
+  {
+    "id": "eng-0171",
+    "title": "Standardized component values are used in design primarily to:",
+    "options": [
+      "Make calculations easier",
+      "Increase the cost of designs",
+      "Ensure components can be sourced from suppliers",
+      "Reduce the temperature range of the device"
+    ],
+    "correctIndex": 2,
+    "explanation": "Choosing standard values ensures parts are available for manufacturing."
+  },
+  {
+    "id": "eng-0172",
+    "title": "Which stage involves physical layout and planning of electrical connections?",
+    "options": [
+      "Customer liaising",
+      "Specification drafting",
+      "Material selection",
+      "Creating artwork for PCB or IC production"
+    ],
+    "correctIndex": 3,
+    "explanation": "PCB or IC artwork is created after deciding component selection and placement."
+  },
+  {
+    "id": "eng-0173",
+    "title": "What is the role of verification in circuit design?",
+    "options": [
+      "Producing 3D-printed enclosures",
+      "Building the first production unit",
+      "Selecting suppliers",
+      "Proving that each design stage will achieve its specifications"
+    ],
+    "correctIndex": 3,
+    "explanation": "Verification checks, via simulation or calculation, that designs meet functional goals."
+  },
+  {
+    "id": "eng-0174",
+    "title": "Why is prototyping essential in designing electrical circuits?",
+    "options": [
+      "It eliminates the need for documentation",
+      "It increases material costs",
+      "It helps find errors through real-world testing before mass production",
+      "It is legally required in all countries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prototyping uncovers faults and validates the design before final release."
+  },
+  {
+    "id": "eng-0175",
+    "title": "What consequence can releasing a circuit without proper prototyping and testing have?",
+    "options": [
+      "Better power efficiency",
+      "Popularity among users",
+      "More creative design options",
+      "Potential hazards like fire or burns"
+    ],
+    "correctIndex": 3,
+    "explanation": "Skipping prototyping risks dangerous faults, including fire and injury."
+  },
+  {
+    "id": "eng-0176",
+    "title": "Which factor does NOT typically influence the cost of designed circuits?",
+    "options": [
+      "Component complexity and count",
+      "Design details and novelty",
+      "Type of software documentation produced",
+      "Hours of skilled engineering labor"
+    ],
+    "correctIndex": 2,
+    "explanation": "The complexity and skill needed are more cost-determining than the type of documentation."
+  },
+  {
+    "id": "eng-0177",
+    "title": "What is a key advantage of using additive manufacturing to create PCBs?",
+    "options": [
+      "PCBs cannot be made with this method",
+      "It increases waste",
+      "It requires subtractive etching chemicals",
+      "It can reduce production waste and cost"
+    ],
+    "correctIndex": 3,
+    "explanation": "Additive manufacturing can cut costs and eliminate chemical waste."
+  },
+  {
+    "id": "eng-0178",
+    "title": "Growing transistor counts in circuits over years is described by:",
+    "options": [
+      "Ohm's Law",
+      "Coulomb's Law",
+      "Kirchhoff's Law",
+      "Moore's Law"
+    ],
+    "correctIndex": 3,
+    "explanation": "Moore's Law describes the trend of increasing transistor counts in integrated circuits."
+  },
+  {
+    "id": "eng-0179",
+    "title": "In integrated circuit design automation, what is circuit design usually the step between?",
+    "options": [
+      "Simulation and cost estimation",
+      "PCB and verification",
+      "Schematic and soldering",
+      "Logic design and physical design"
+    ],
+    "correctIndex": 3,
+    "explanation": "In IC design, circuit design comes after logic design and before physical layout."
+  },
+  {
+    "id": "eng-0180",
+    "title": "Which of these is NOT typically stated in a good initial circuit specification?",
+    "options": [
+      "What signals the circuit must receive and output",
+      "Available power supplies",
+      "The engineer's favorite color",
+      "Physical and environmental constraints like size or temperature"
+    ],
+    "correctIndex": 2,
+    "explanation": "Technical and physical requirements are included, but not personal traits."
+  },
+  {
+    "id": "eng-0181",
+    "title": "What step is most likely to involve mathematical modeling and feasibility research?",
+    "options": [
+      "Final documentation",
+      "Logic diagram drawing",
+      "Block-level circuit planning",
+      "Post-production service"
+    ],
+    "correctIndex": 2,
+    "explanation": "Feasibility research is done while developing detailed block-level plans."
+  },
+  {
+    "id": "eng-0182",
+    "title": "Which software is commonly used for circuit simulation or layout?",
+    "options": [
+      "AutoCAD",
+      "SolidWorks",
+      "Word Processor",
+      "SPICE"
+    ],
+    "correctIndex": 3,
+    "explanation": "SPICE and similar tools are widely used for simulating and analyzing circuits."
+  },
+  {
+    "id": "eng-0183",
+    "title": "Which document is critical for regulatory approval in commercial circuit design in the EU?",
+    "options": [
+      "Software user manual",
+      "Electrical invoice",
+      "Company newsletter",
+      "CE Declaration and compliance statement"
+    ],
+    "correctIndex": 3,
+    "explanation": "A CE Declaration is often needed to prove compliance with regulations in the EU."
+  },
+  {
+    "id": "eng-0184",
+    "title": "Prototyping typically involves:",
+    "options": [
+      "Skipping simulation",
+      "Building a physical example for real-world testing",
+      "Routing only power lines",
+      "Only software simulation"
+    ],
+    "correctIndex": 1,
+    "explanation": "A prototype is a physical working model for hands-on testing."
+  },
+  {
+    "id": "eng-0185",
+    "title": "What determines the color of light emitted by an LED?",
+    "options": [
+      "The amount of current flowing through it",
+      "The semiconductor’s band gap energy",
+      "The thickness of its wire leads",
+      "The amount of phosphor coating"
+    ],
+    "correctIndex": 1,
+    "explanation": "The energy required for electrons to cross the band gap of the semiconductor sets the photon energy (color)."
+  },
+  {
+    "id": "eng-0186",
+    "title": "White LEDs are most commonly made by:",
+    "options": [
+      "Coating red LEDs with blue dye",
+      "Running high current through an infrared LED",
+      "Using a blue/UV LED plus a phosphor layer",
+      "Making the housing out of white plastic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most white LEDs use blue (or UV) emitters with a phosphor layer that re-emits white light."
+  },
+  {
+    "id": "eng-0187",
+    "title": "Which of the following is a disadvantage of LEDs over incandescent bulbs?",
+    "options": [
+      "Lower robustness",
+      "Toxic mercury content",
+      "Shorter lifetime",
+      "Electrical limitations to low voltage DC power"
+    ],
+    "correctIndex": 3,
+    "explanation": "LEDs are generally limited to low voltage DC power."
+  },
+  {
+    "id": "eng-0188",
+    "title": "What Nobel Prize-winning invention made bright white LEDs possible?",
+    "options": [
+      "Blue silicon carbide substrate",
+      "Red phosphor layering",
+      "Cadmium-based yellow enhancement",
+      "Blue InGaN/GaN LEDs"
+    ],
+    "correctIndex": 3,
+    "explanation": "The blue LED (InGaN/GaN) enabled efficient white and full-color LEDs."
+  },
+  {
+    "id": "eng-0189",
+    "title": "The luminous efficacy of dichromatic white LEDs is typically:",
+    "options": [
+      "Higher than tetrachromatic LEDs",
+      "Lower than all others",
+      "Equal to all types",
+      "The best among white LEDs, though with the lowest color rendering"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dichromatic white LEDs have high efficacy but lowest color rendering."
+  },
+  {
+    "id": "eng-0190",
+    "title": "Why must high-power LEDs be attached to a heat sink?",
+    "options": [
+      "To block UV radiation",
+      "To prevent electrical shorting",
+      "To increase brightness",
+      "To dissipate heat and prevent failure"
+    ],
+    "correctIndex": 3,
+    "explanation": "High power LEDs overheat and fail quickly if not kept cool."
+  },
+  {
+    "id": "eng-0191",
+    "title": "An LED should always be connected to a current-limiting circuit because:",
+    "options": [
+      "It prevents light from being too bright",
+      "They generate sound instead of light otherwise",
+      "It allows them to operate at high voltage AC",
+      "A small voltage change can cause a large increase in current, risking damage"
+    ],
+    "correctIndex": 3,
+    "explanation": "LED current increases exponentially with voltage and must be limited."
+  },
+  {
+    "id": "eng-0192",
+    "title": "Why do most LEDs only emit light when forward-biased?",
+    "options": [
+      "They contain moving mechanical parts",
+      "They don’t have a filament",
+      "Electroluminescent recombination only occurs under forward bias",
+      "They use alternating DC and AC simultaneously"
+    ],
+    "correctIndex": 2,
+    "explanation": "Electrons recombine with holes and emit photons only when forward-biased."
+  },
+  {
+    "id": "eng-0193",
+    "title": "RGB LEDs can create millions of colors by:",
+    "options": [
+      "Switching between purple and yellow",
+      "Increasing their size",
+      "Rotating their lens",
+      "Mixing the red, green, and blue emissions electronically"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mixing various intensities of red, green, and blue produces a wide color gamut."
+  },
+  {
+    "id": "eng-0194",
+    "title": "Which material is commonly used as the yellow phosphor in white LEDs?",
+    "options": [
+      "Gallium arsenide",
+      "Cadmium sulfide",
+      "Polyethylene",
+      "Cerium-doped YAG"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ce:YAG (cerium-doped yttrium aluminum garnet) is the standard yellow phosphor."
+  },
+  {
+    "id": "eng-0195",
+    "title": "What is a major environmental advantage of LEDs compared to fluorescent lamps?",
+    "options": [
+      "They use more lead",
+      "They release mercury vapor",
+      "They are more fragile",
+      "They contain no mercury"
+    ],
+    "correctIndex": 3,
+    "explanation": "LEDs do not contain mercury, unlike fluorescent lamps."
+  },
+  {
+    "id": "eng-0196",
+    "title": "Typical lifetimes for modern white LEDs may reach:",
+    "options": [
+      "10–100 hours",
+      "1,000–2,000 hours",
+      "3,000–5,000 hours",
+      "35,000–50,000 hours"
+    ],
+    "correctIndex": 3,
+    "explanation": "Modern white LEDs are designed for tens of thousands of hours of use."
+  },
+  {
+    "id": "eng-0197",
+    "title": "What distinguishes a filament LED from conventional LEDs?",
+    "options": [
+      "It uses a tungsten wire",
+      "It requires no current limit resistor",
+      "It operates at high freezer temperatures",
+      "It uses series-connected chips on a rod to emulate incandescent filaments"
+    ],
+    "correctIndex": 3,
+    "explanation": "Filament LEDs arrange many chips in series on a substrate rod."
+  },
+  {
+    "id": "eng-0198",
+    "title": "What is a digital RGB (addressable) LED?",
+    "options": [
+      "An LED that only shows red or green",
+      "An LED controlled only by a switch",
+      "A standard tri-color LED",
+      "An LED with built-in control electronics allowing independent color setting"
+    ],
+    "correctIndex": 3,
+    "explanation": "Addressable LEDs like WS2812 have onboard control, enabling chain control."
+  },
+  {
+    "id": "eng-0199",
+    "title": "A 'cool-white' LED typically exhibits a spectral gap at what wavelength?",
+    "options": [
+      "610 nm",
+      "4000 nm",
+      "720 nm",
+      "500 nm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cool-white LEDs typically have a dip at around 500 nm in the spectrum."
+  },
+  {
+    "id": "eng-0200",
+    "title": "Why are LEDs well suited to frequent on-off cycling?",
+    "options": [
+      "They are filled with neon gas",
+      "They only work on DC",
+      "They glow only at high temperature",
+      "They are not affected by rapid switching or frequent cycling"
+    ],
+    "correctIndex": 3,
+    "explanation": "LEDs are not damaged by frequent on-off cycles unlike many other lamps."
+  },
     {
       "id": "eng-0201",
       "title": "What distinguishes CSST from FAC tubing?",
@@ -2919,966 +2692,6 @@
       "explanation": "Avoid placing CSST where objects could pierce it."
     },
     {
-      "id": "eng-0241",
-      "title": "What is the process of inserting a catheter called?",
-      "options": [
-        "Catheterization",
-        "Catheterometry",
-        "Catheterography",
-        "Catheter induction"
-      ],
-      "correctIndex": 0,
-      "explanation": "The process of inserting a catheter is called catheterization."
-    },
-    {
-      "id": "eng-0242",
-      "title": "Which material is commonly used for implantable catheters due to its inertness?",
-      "options": [
-        "Latex",
-        "Silicone",
-        "Polyurethane",
-        "Polyethylene terephthalate"
-      ],
-      "correctIndex": 1,
-      "explanation": "Silicone is commonly used for implantable catheters because it is inert and unreactive."
-    },
-    {
-      "id": "eng-0243",
-      "title": "A catheter left in the body for a long time is commonly called a(n):",
-      "options": [
-        "Temporary catheter",
-        "Extravascular catheter",
-        "Indwelling catheter",
-        "Diagnostic catheter"
-      ],
-      "correctIndex": 2,
-      "explanation": "Indwelling catheter refers to one left in the body temporarily or permanently."
-    },
-    {
-      "id": "eng-0244",
-      "title": "The earliest flexible catheter was invented by which historical figure?",
-      "options": [
-        "Werner Forssman",
-        "Francesco Roncelli-Pardino",
-        "Benjamin Franklin",
-        "David S. Sheridan"
-      ],
-      "correctIndex": 2,
-      "explanation": "Benjamin Franklin invented the flexible catheter in 1752."
-    },
-    {
-      "id": "eng-0245",
-      "title": "Which of the following is NOT a primary indication for indwelling urinary catheter use?",
-      "options": [
-        "Monitoring urine output in critically ill patients",
-        "Providing relief for urinary retention",
-        "Convenience of hospital staff",
-        "Assisting patients after urethral surgeries"
-      ],
-      "correctIndex": 2,
-      "explanation": "Indwelling catheters should not be used merely for convenience."
-    },
-    {
-      "id": "eng-0246",
-      "title": "Catheters used in angioplasty that have small blades to cut through stenosis are called:",
-      "options": [
-        "Diagnostic catheters",
-        "Cutting balloon catheters",
-        "Plain balloon catheters",
-        "Pigtail catheters"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cutting balloon catheters have small blades to help with resistant stenosis."
-    },
-    {
-      "id": "eng-0247",
-      "title": "Which historical procedure did Claude Bernard pioneer with catheters in 1844?",
-      "options": [
-        "Central venous catheterization in humans",
-        "Cardiac catheterization in a horse",
-        "Urinary catheterization in infants",
-        "Use of silicone catheters"
-      ],
-      "correctIndex": 1,
-      "explanation": "He performed cardiac catheterization in a horse in 1844."
-    },
-    {
-      "id": "eng-0248",
-      "title": "Guiding catheters usually contain which innermost material for lubrication?",
-      "options": [
-        "Polyurethane",
-        "Polyimide",
-        "Polytetrafluoroethylene (PTFE)",
-        "Latex"
-      ],
-      "correctIndex": 2,
-      "explanation": "PTFE is used for its lubricious properties."
-    },
-    {
-      "id": "eng-0249",
-      "title": "Which of the following best describes a 'three-way' urinary catheter?",
-      "options": [
-        "It has two lumens for urine flow",
-        "It has one lumen and one valve",
-        "It has three lumens for irrigation, drainage, and balloon inflation",
-        "It is made only of glass"
-      ],
-      "correctIndex": 2,
-      "explanation": "A three-way catheter has lumens for irrigation, drainage, and balloon inflation."
-    },
-    {
-      "id": "eng-0250",
-      "title": "What color is commonly associated with a 22 French unit urinary catheter?",
-      "options": [
-        "Pink",
-        "Yellow",
-        "Purple",
-        "Blue"
-      ],
-      "correctIndex": 2,
-      "explanation": "Purple is typically associated with 22 Fr catheters."
-    },
-    {
-      "id": "eng-0251",
-      "title": "What is the most common hospital-acquired infection in the US due to catheters?",
-      "options": [
-        "Catheter-associated urinary tract infection",
-        "Catheter-related bloodstream infection",
-        "Surgical site infection",
-        "Ventilator-associated pneumonia"
-      ],
-      "correctIndex": 0,
-      "explanation": "Catheter-associated UTI is the most common hospital-acquired infection."
-    },
-    {
-      "id": "eng-0252",
-      "title": "Which of the following patients typically should NOT receive an indwelling urinary catheter?",
-      "options": [
-        "Patient undergoing urethral surgery",
-        "Patient with stable urination ability",
-        "Patient with acute urinary retention",
-        "Patient in critical care needing output monitoring"
-      ],
-      "correctIndex": 1,
-      "explanation": "Stable patients who can urinate should not receive an indwelling catheter."
-    },
-    {
-      "id": "eng-0253",
-      "title": "Urethral trauma is what type of contraindication to urinary catheter placement?",
-      "options": [
-        "Relative",
-        "Absolute",
-        "Probable",
-        "None"
-      ],
-      "correctIndex": 1,
-      "explanation": "Urethral trauma is the only absolute contraindication."
-    },
-    {
-      "id": "eng-0254",
-      "title": "Which design feature of the Foley catheter prevents it from slipping out of the bladder?",
-      "options": [
-        "Curved tip",
-        "Inflatable balloon",
-        "Reinforced walls",
-        "Lubricious coating"
-      ],
-      "correctIndex": 1,
-      "explanation": "The inflatable balloon anchors the catheter within the bladder."
-    },
-    {
-      "id": "eng-0255",
-      "title": "A pigtail catheter is used primarily for:",
-      "options": [
-        "Delivering a large volume of contrast during imaging",
-        "Cutting through arterial blockages",
-        "Sampling cerebrospinal fluid",
-        "Measuring intracranial pressure"
-      ],
-      "correctIndex": 0,
-      "explanation": "Pigtail catheters deliver large volumes of contrast for imaging."
-    },
-    {
-      "id": "eng-0256",
-      "title": "The Seldinger technique is often used to:",
-      "options": [
-        "Measure urinary output",
-        "Administer chemotherapy",
-        "Gain access to blood vessels with a catheter",
-        "Deliver subcutaneous medication"
-      ],
-      "correctIndex": 2,
-      "explanation": "It's a standard technique for vascular access with catheters."
-    },
-    {
-      "id": "eng-0257",
-      "title": "Which catheter tip is designed to navigate an enlarged prostate more easily?",
-      "options": [
-        "Standard straight tip",
-        "Coudé tip",
-        "Council tip",
-        "Three-way tip"
-      ],
-      "correctIndex": 1,
-      "explanation": "Coudé catheters have a bent tip for easier navigation."
-    },
-    {
-      "id": "eng-0258",
-      "title": "What is a major risk of Teflon (PTFE) catheters in interventional use?",
-      "options": [
-        "Latex allergy",
-        "High risk of thrombus formation",
-        "Bacterial colonization",
-        "High cost"
-      ],
-      "correctIndex": 1,
-      "explanation": "Teflon catheters have a higher risk of thrombus formation."
-    },
-    {
-      "id": "eng-0259",
-      "title": "A 'permcath' refers to a catheter that is:",
-      "options": [
-        "Always disposable",
-        "Permanently inserted",
-        "Used for dialysis only",
-        "Coated with hydrogel"
-      ],
-      "correctIndex": 1,
-      "explanation": "Permcath is a term for a permanently inserted catheter."
-    },
-    {
-      "id": "eng-0260",
-      "title": "Which of the following historical events MOST contributed to the mass production of disposable catheters?",
-      "options": [
-        "American Civil War",
-        "World War II",
-        "US moon landing",
-        "Discovery of X-rays"
-      ],
-      "correctIndex": 1,
-      "explanation": "World War II disrupted the supply of French cotton catheters, spurring innovation."
-    },
-    {
-      "id": "eng-0261",
-      "title": "In cases of severe epistaxis, a Foley catheter may be used to:",
-      "options": [
-        "Dilate the esophagus",
-        "Stop blood flow through the femoral artery",
-        "Block blood from flowing down the nasal passage",
-        "Irrigate the bladder"
-      ],
-      "correctIndex": 2,
-      "explanation": "Foley catheters can block nasal passages to control nosebleeds."
-    },
-    {
-      "id": "eng-0262",
-      "title": "A major disadvantage of reusing red rubber catheters is:",
-      "options": [
-        "High cost",
-        "Risk of infection and disease transmission",
-        "Limited flexibility",
-        "Decreased urine flow"
-      ],
-      "correctIndex": 1,
-      "explanation": "Reusable rubber catheters have a high risk of infection."
-    },
-    {
-      "id": "eng-0263",
-      "title": "In the context of urine drainage, what is the primary advantage of a suprapubic catheter over a standard Foley catheter?",
-      "options": [
-        "Shorter insertion time",
-        "Bypasses the damaged urethra",
-        "Increases urine output",
-        "Easier self-catheterization"
-      ],
-      "correctIndex": 1,
-      "explanation": "Suprapubic catheters are used when the urethra is damaged."
-    },
-    {
-      "id": "eng-0264",
-      "title": "Which catheter coating is intended to reduce friction during insertion?",
-      "options": [
-        "Gold",
-        "Silicon elastomer",
-        "Lubricious (hydrogel or PTFE) coating",
-        "Latex"
-      ],
-      "correctIndex": 2,
-      "explanation": "Lubricious coatings help with easier, less traumatic insertion."
-    },
-    {
-      "id": "eng-0265",
-      "title": "Which invention is David S. Sheridan best known for in the context of catheters?",
-      "options": [
-        "Braided cotton catheter",
-        "Modern disposable plastic catheter",
-        "Metal multi-jointed catheter",
-        "Three-way urinary catheter"
-      ],
-      "correctIndex": 1,
-      "explanation": "He invented the modern disposable plastic catheter."
-    },
-    {
-      "id": "eng-0266",
-      "title": "Permcath, originally a trademarked name, refers to which of the following?",
-      "options": [
-        "A short-term diagnostic catheter",
-        "A permanently inserted catheter for dialysis or other uses",
-        "A temporary nasal catheter",
-        "A research probe for lipophilic compounds"
-      ],
-      "correctIndex": 1,
-      "explanation": "Permcath is used for permanent or long-term insertion, often for dialysis."
-    },
-    {
-      "id": "eng-0267",
-      "title": "Which historical figure performed the first recorded central venous catheterization?",
-      "options": [
-        "David S. Sheridan",
-        "Werner Forssman",
-        "Claude Bernard",
-        "Frederic Foley"
-      ],
-      "correctIndex": 1,
-      "explanation": "Werner Forssman performed the first central venous catheterization in 1929."
-    },
-    {
-      "id": "eng-0268",
-      "title": "Angiography imaging through catheters often utilizes what material as a contrast agent?",
-      "options": [
-        "Radioactive iodine",
-        "Saline",
-        "Radiocontrast agent",
-        "Silver nitrate"
-      ],
-      "correctIndex": 2,
-      "explanation": "Radiocontrast agents are commonly injected for imaging."
-    },
-    {
-      "id": "eng-0269",
-      "title": "Which risk increases with both the size and duration of a catheter left in the body?",
-      "options": [
-        "Osmotic imbalance",
-        "Risk of thrombus formation",
-        "Electrolyte depletion",
-        "Blood glucose instability"
-      ],
-      "correctIndex": 1,
-      "explanation": "Thrombus formation risk increases with catheter size and duration."
-    },
-    {
-      "id": "eng-0270",
-      "title": "A micro-3D-printed endovascular device is especially suited for which unique purpose?",
-      "options": [
-        "Delivering antibiotics directly to organs",
-        "Harvesting endothelial cells for transcriptomic analysis",
-        "Opening stubborn stenosed arteries",
-        "Flushing the bladder"
-      ],
-      "correctIndex": 1,
-      "explanation": "Such devices are designed for harvesting endothelial cells for detailed analysis."
-    },
-    {
-      "id": "eng-0271",
-      "title": "A balloon-tipped catheter used to ripen the cervix in labor induces dilation by:",
-      "options": [
-        "Delivering anesthetic medication",
-        "Applying direct pressure to mimic baby's head",
-        "Infusing blood",
-        "Releasing hormones"
-      ],
-      "correctIndex": 1,
-      "explanation": "The inflated balloon applies pressure similar to the baby's head, causing dilation."
-    },
-    {
-      "id": "eng-0272",
-      "title": "End-stage kidney disease patients needing constant blood flow access most likely have:",
-      "options": [
-        "A cardiac catheter",
-        "A Palindrome catheter",
-        "A suprapubic catheter",
-        "A Cobra catheter"
-      ],
-      "correctIndex": 1,
-      "explanation": "Palindrome catheters are frequently used for dialysis in such patients."
-    },
-    {
-      "id": "eng-0273",
-      "title": "Which of the following is a major disadvantage of long-term Foley catheter use?",
-      "options": [
-        "Dehydration",
-        "Biofilm formation leading to obstruction",
-        "Reduced urine clarity",
-        "Increased urethral flexibility"
-      ],
-      "correctIndex": 1,
-      "explanation": "Biofilm on catheters can cause blockage and infection."
-    },
-    {
-      "id": "eng-0274",
-      "title": "Which is a potential complication when a Foley catheter's balloon is inflated prematurely?",
-      "options": [
-        "Rupture of the bladder",
-        "Occlusion of the renal artery",
-        "Urethral damage or bleeding",
-        "Urine crystal formation"
-      ],
-      "correctIndex": 2,
-      "explanation": "Premature inflation of the balloon can cause damage or rupture of the urethra."
-    },
-    {
-      "id": "eng-0275",
-      "title": "What can happen if a patient forcibly removes a Foley catheter with the balloon still inflated?",
-      "options": [
-        "Rapid urine drainage",
-        "Immediate healing",
-        "Major complications or even death",
-        "Deflation of the balloon"
-      ],
-      "correctIndex": 2,
-      "explanation": "This can cause severe injury, complications, or even death."
-    },
-    {
-      "id": "eng-0276",
-      "title": "Which type of catheter is designed primarily for selective entry into the celiac trunk?",
-      "options": [
-        "Newton catheter",
-        "Yashiro catheter",
-        "Cobra catheter",
-        "Deployment catheter"
-      ],
-      "correctIndex": 1,
-      "explanation": "Yashiro catheters are selective and hydrophilic, designed for celiac trunk entry."
-    },
-    {
-      "id": "eng-0277",
-      "title": "When is a retrograde urethrogram indicated before urinary catheter insertion?",
-      "options": [
-        "Presence of urethral trauma indications",
-        "Any patient with fever",
-        "Routine catheterizations",
-        "Pediatric patients only"
-      ],
-      "correctIndex": 0,
-      "explanation": "It is required when trauma is suspected (e.g. blood at the meatus)."
-    },
-    {
-      "id": "eng-0278",
-      "title": "Which feature distinguishes a Councill tip urinary catheter?",
-      "options": [
-        "Rigid construction",
-        "A 45-degree bend at the tip",
-        "A small hole allowing passage over a guidewire",
-        "Color-coded balloon"
-      ],
-      "correctIndex": 2,
-      "explanation": "It has a hole at the tip for introduction over a guidewire."
-    },
-    {
-      "id": "eng-0279",
-      "title": "A common size for a urinary catheter for an average adult male is:",
-      "options": [
-        "8 Fr",
-        "10 Fr",
-        "12–14 Fr",
-        "18 Fr"
-      ],
-      "correctIndex": 2,
-      "explanation": "Typical sizes for adult males are between 12 and 14 French units."
-    },
-    {
-      "id": "eng-0280",
-      "title": "What is the function of the extra lumen in a three-way Foley catheter?",
-      "options": [
-        "Infuse anesthetics",
-        "Inflate the balloon",
-        "Allow removal of blood clots by irrigation",
-        "Monitor temperature"
-      ],
-      "correctIndex": 2,
-      "explanation": "The third lumen allows for irrigation, for example after bladder surgery."
-    },
-    {
-      "id": "eng-0281",
-      "title": "What is the main purpose of performing a biopsy?",
-      "options": [
-        "To extract sample cells or tissues for examination",
-        "To treat cancer directly",
-        "To replace damaged tissue",
-        "To repair broken bones"
-      ],
-      "correctIndex": 0,
-      "explanation": "A biopsy extracts tissue or cells for examination to determine the presence or extent of a disease."
-    },
-    {
-      "id": "eng-0282",
-      "title": "Which medical professional is NOT commonly responsible for performing biopsies?",
-      "options": [
-        "Interventional radiologist",
-        "Pathologist",
-        "Surgeon",
-        "Interventional cardiologist"
-      ],
-      "correctIndex": 1,
-      "explanation": "A pathologist examines the biopsy specimen but does not typically perform the biopsy itself."
-    },
-    {
-      "id": "eng-0283",
-      "title": "What is an excisional biopsy?",
-      "options": [
-        "A procedure to refine diagnosis using only imaging",
-        "Removal of a sample with a needle",
-        "Removal of an entire lump or suspicious area",
-        "A surface-level skin scraping"
-      ],
-      "correctIndex": 2,
-      "explanation": "An excisional biopsy removes the entire lump or suspicious tissue area."
-    },
-    {
-      "id": "eng-0284",
-      "title": "Which step follows the extraction of tissue in a typical biopsy procedure?",
-      "options": [
-        "Freezing the tissue",
-        "Chemical digestion",
-        "Fixing, dehydrating, embedding, sectioning, staining, mounting",
-        "Immediate release of results"
-      ],
-      "correctIndex": 2,
-      "explanation": "Samples are fixed, dehydrated, embedded, sectioned, stained, and mounted before examination."
-    },
-    {
-      "id": "eng-0285",
-      "title": "What term is used for a biopsy that samples only a part of a lesion or tumor?",
-      "options": [
-        "Excisional biopsy",
-        "Resection",
-        "Incisional or core biopsy",
-        "Enucleation"
-      ],
-      "correctIndex": 2,
-      "explanation": "Incisional or core biopsies take only part of the abnormal tissue."
-    },
-    {
-      "id": "eng-0286",
-      "title": "What is a needle aspiration biopsy?",
-      "options": [
-        "A type of core biopsy",
-        "Total removal of the lesion",
-        "Removal of fluid or cells with a needle without preserving tissue architecture",
-        "Removal of bone tissue only"
-      ],
-      "correctIndex": 2,
-      "explanation": "Needle aspiration biopsies remove cells using a needle, without preserving tissue architecture."
-    },
-    {
-      "id": "eng-0287",
-      "title": "For which condition are biopsies most commonly performed?",
-      "options": [
-        "Cancerous or inflammatory conditions",
-        "Bone fractures",
-        "Nutritional deficiencies",
-        "Tendon ruptures"
-      ],
-      "correctIndex": 0,
-      "explanation": "Biopsies are most commonly used for cancer or inflammation."
-    },
-    {
-      "id": "eng-0288",
-      "title": "Which physician developed one of the earliest diagnostic biopsies?",
-      "options": [
-        "Hippocrates",
-        "Abulcasis",
-        "Ernest Besnier",
-        "Galen"
-      ],
-      "correctIndex": 1,
-      "explanation": "Abulcasis developed early diagnostic biopsy techniques."
-    },
-    {
-      "id": "eng-0289",
-      "title": "The etymology of the word 'biopsy' expresses which meaning?",
-      "options": [
-        "Stone removal",
-        "Microscopic analysis",
-        "A sight of life",
-        "Excisional surgery"
-      ],
-      "correctIndex": 2,
-      "explanation": "'Biopsy' reflects the Greek words for 'life' and 'sight'."
-    },
-    {
-      "id": "eng-0290",
-      "title": "Who introduced the term 'biopsy' to the medical community?",
-      "options": [
-        "Andreas Vesalius",
-        "Louis Pasteur",
-        "Abulcasis",
-        "Ernest Besnier"
-      ],
-      "correctIndex": 3,
-      "explanation": "The French dermatologist Ernest Besnier introduced the term."
-    },
-    {
-      "id": "eng-0291",
-      "title": "What does 'clear margins' mean in context of cancer biopsy results?",
-      "options": [
-        "No disease was found at the edges of the excised tissue",
-        "Cancer is present at the core of the mass",
-        "The specimen was unsuitable for analysis",
-        "Margins were not examined microscopically"
-      ],
-      "correctIndex": 0,
-      "explanation": "'Clear margins' indicate no disease was found at the specimen's borders."
-    },
-    {
-      "id": "eng-0292",
-      "title": "Why might a wider excision be needed after an initial biopsy?",
-      "options": [
-        "If the lesion was benign",
-        "If diagnosis is unclear",
-        "If 'positive margins' are found, meaning disease is present at the specimen's edges",
-        "If a wedge of tissue was already removed"
-      ],
-      "correctIndex": 2,
-      "explanation": "Positive margins may mean further tissue removal is necessary."
-    },
-    {
-      "id": "eng-0293",
-      "title": "Which method uses a smaller diameter needle to collect individual cells and clusters?",
-      "options": [
-        "Excisional biopsy",
-        "Wedge biopsy",
-        "Fine needle aspiration biopsy",
-        "Core needle biopsy"
-      ],
-      "correctIndex": 2,
-      "explanation": "Fine needle aspiration uses a small needle to collect cells."
-    },
-    {
-      "id": "eng-0294",
-      "title": "What is the difference between a biopsy and a resection?",
-      "options": [
-        "A biopsy is always surgical; resection is not",
-        "A resection removes a larger excisional specimen, often to eradicate known lesions",
-        "Biopsy always includes the surrounding margin, while resection never does",
-        "There is no difference"
-      ],
-      "correctIndex": 1,
-      "explanation": "Resection typically aims to remove a known lesion entirely."
-    },
-    {
-      "id": "eng-0295",
-      "title": "Liquid biopsies are mainly used as an alternative to:",
-      "options": [
-        "Traditional tissue biopsies for monitoring cancer treatment",
-        "X-ray imaging",
-        "Antibiotic therapy",
-        "Radiation treatments"
-      ],
-      "correctIndex": 0,
-      "explanation": "Liquid biopsies are a non-invasive alternative for cancer monitoring."
-    },
-    {
-      "id": "eng-0296",
-      "title": "How do circulating tumor DNA (cfDNA) tests differ from circulating tumor cell (CTC) assays?",
-      "options": [
-        "cfDNA tests have lower sensitivity",
-        "cfDNA tests are more invasive",
-        "There is approximately 100 times more cell-free DNA than DNA in circulating tumor cells",
-        "CTCs tests cannot be performed on blood samples"
-      ],
-      "correctIndex": 2,
-      "explanation": "cfDNA is more abundant than DNA within CTCs and can provide more information."
-    },
-    {
-      "id": "eng-0297",
-      "title": "In a 2014 study, analyzing blood for tumor DNA detected cancer in over 80% of which patients?",
-      "options": [
-        "Patients with a vitamin deficiency",
-        "Patients with metastatic cancers",
-        "Patients with acute trauma",
-        "Patients with autoimmune diseases"
-      ],
-      "correctIndex": 1,
-      "explanation": "Over 80% of metastatic cancer patients had detectable tumor DNA."
-    },
-    {
-      "id": "eng-0298",
-      "title": "Which field is NOT a primary use for biopsy specimens?",
-      "options": [
-        "Cancer diagnosis",
-        "Metabolic disease assessment",
-        "Routine vaccination",
-        "Evaluation of inflammatory bowel disease"
-      ],
-      "correctIndex": 2,
-      "explanation": "Routine vaccination does not involve biopsies."
-    },
-    {
-      "id": "eng-0299",
-      "title": "For what condition is a temporal artery biopsy often performed?",
-      "options": [
-        "Crohn's disease",
-        "Suspected vasculitis",
-        "Amyloidosis",
-        "Metabolic syndrome"
-      ],
-      "correctIndex": 1,
-      "explanation": "Temporal artery biopsy is done for suspected vasculitis."
-    },
-    {
-      "id": "eng-0300",
-      "title": "What role does immunofluorescence play in kidney biopsies?",
-      "options": [
-        "It helps identify viral infections exclusively",
-        "It is vital in diagnosing crescentic glomerulonephritis",
-        "It is only used to find tumors",
-        "It is not used in renal biopsy analysis"
-      ],
-      "correctIndex": 1,
-      "explanation": "Immunofluorescence is important for diagnosing crescentic glomerulonephritis."
-    },
-    {
-      "id": "eng-0301",
-      "title": "What is the purpose of a testicular biopsy in fertility analysis?",
-      "options": [
-        "To measure hormone levels",
-        "To evaluate sperm production when hormone levels are normal but sperm quality is low",
-        "To perform genetic testing exclusively",
-        "To reduce inflammation"
-      ],
-      "correctIndex": 1,
-      "explanation": "A testicular biopsy helps evaluate the cause of male infertility."
-    },
-    {
-      "id": "eng-0302",
-      "title": "What distinguishes a bone biopsy from a bone marrow biopsy?",
-      "options": [
-        "Only bone biopsy involves removing blood",
-        "Bone biopsy samples outer bone layers; bone marrow biopsy samples innermost bone",
-        "Bone marrow biopsy is less invasive",
-        "Bone biopsy is used only for fractures"
-      ],
-      "correctIndex": 1,
-      "explanation": "Bone biopsy samples the outer layers; bone marrow biopsies access the innermost bone."
-    },
-    {
-      "id": "eng-0303",
-      "title": "What instrument has replaced the open-biopsy and fine-needle aspiration for bone biopsies?",
-      "options": [
-        "Scalpel",
-        "Jamshidi needle",
-        "Endoscope",
-        "Flexible tube"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Jamshidi needle is now commonly used for bone biopsies."
-    },
-    {
-      "id": "eng-0304",
-      "title": "In breast cancer diagnosis, which biopsy method is NOT typically used?",
-      "options": [
-        "Fine needle aspirate",
-        "Core needle biopsy",
-        "Blood smear",
-        "Surgical removal"
-      ],
-      "correctIndex": 2,
-      "explanation": "Blood smears are not used for breast histological diagnosis."
-    },
-    {
-      "id": "eng-0305",
-      "title": "Which statement is correct about gastrointestinal biopsy?",
-      "options": [
-        "It is only possible via open surgery",
-        "Flexible endoscopy enables access to both upper and lower GI tract for biopsy",
-        "It cannot be performed on the colon",
-        "It does not require any instruments"
-      ],
-      "correctIndex": 1,
-      "explanation": "Flexible endoscopy allows biopsies along the GI tract."
-    },
-    {
-      "id": "eng-0306",
-      "title": "The double-balloon ‘push-pull’ technique allows visualization and biopsy of:",
-      "options": [
-        "Only the esophagus",
-        "Only the colon",
-        "The entire gastrointestinal tract",
-        "Only the liver"
-      ],
-      "correctIndex": 2,
-      "explanation": "This advanced technique enables access to the whole GI tract."
-    },
-    {
-      "id": "eng-0307",
-      "title": "Which is a common use of liver biopsy in hepatitis?",
-      "options": [
-        "To diagnose hepatitis",
-        "To detect viral DNA",
-        "To determine response to therapy and progression of fibrosis",
-        "To avoid using antiviral medications"
-      ],
-      "correctIndex": 2,
-      "explanation": "Liver biopsy in hepatitis helps assess inflammation and fibrosis progression."
-    },
-    {
-      "id": "eng-0308",
-      "title": "Which statement about prostate biopsy is accurate?",
-      "options": [
-        "Core biopsy is never performed on the prostate",
-        "Transrectal, transperineal, and transurethral approaches are used",
-        "Prostate biopsy is universal for all men over 40",
-        "It is only performed under general anesthesia"
-      ],
-      "correctIndex": 1,
-      "explanation": "All three approaches are standard in prostate biopsy."
-    },
-    {
-      "id": "eng-0309",
-      "title": "Which is NOT a form of nervous system biopsy?",
-      "options": [
-        "Brain biopsy",
-        "Nerve biopsy",
-        "Spinal tap",
-        "Meningeal biopsy"
-      ],
-      "correctIndex": 2,
-      "explanation": "Spinal tap is not a biopsy but a cerebrospinal fluid extraction."
-    },
-    {
-      "id": "eng-0310",
-      "title": "Which of the following is examined in a urogenital system biopsy?",
-      "options": [
-        "Liver tissue",
-        "Renal, endometrial, or cervical tissue",
-        "Pulmonary tissue",
-        "Skeletal muscle tissue"
-      ],
-      "correctIndex": 1,
-      "explanation": "Renal, endometrial, or cervical tissue are common biopsy sites in the urogenital system."
-    },
-    {
-      "id": "eng-0311",
-      "title": "Which of the following is a correct sequence for laboratory processing of a tissue biopsy?",
-      "options": [
-        "Freezing, cloning, plating",
-        "Staining, digesting, refrigerating",
-        "Fixation, dehydration, embedding, sectioning, staining, mounting",
-        "Sterilizing, boiling, cooling"
-      ],
-      "correctIndex": 2,
-      "explanation": "This is the typical sequence for biopsy preparation for microscopic examination."
-    },
-    {
-      "id": "eng-0312",
-      "title": "After pathological examination, who typically receives the biopsy report?",
-      "options": [
-        "The patient directly",
-        "The operating surgeon or physician",
-        "The hospital board",
-        "Family nurse practitioner"
-      ],
-      "correctIndex": 1,
-      "explanation": "The doctor who ordered/performed the biopsy typically receives the results."
-    },
-    {
-      "id": "eng-0313",
-      "title": "What is the main advantage of a liquid biopsy?",
-      "options": [
-        "It can be repeated frequently and is non-invasive",
-        "It provides more accurate histological architecture",
-        "It does not require blood samples",
-        "It detects only benign tumors"
-      ],
-      "correctIndex": 0,
-      "explanation": "Liquid biopsies can be repeated frequently and are less invasive."
-    },
-    {
-      "id": "eng-0314",
-      "title": "Why are biopsies of transplanted organs performed?",
-      "options": [
-        "To assess strictly hormonal balance",
-        "To determine rejection or recurrence of disease",
-        "To diagnose anemia",
-        "To monitor cholesterol levels"
-      ],
-      "correctIndex": 1,
-      "explanation": "Transplanted organ biopsies check for rejection or disease recurrence."
-    },
-    {
-      "id": "eng-0315",
-      "title": "Which technology has made full visualization of the small intestine possible for biopsy?",
-      "options": [
-        "X-ray imaging",
-        "Double-balloon endoscopy",
-        "Open abdominal surgery",
-        "Blood testing"
-      ],
-      "correctIndex": 1,
-      "explanation": "Double-balloon endoscopy allows entire small intestine evaluation."
-    },
-    {
-      "id": "eng-0316",
-      "title": "When might a wider surgical excision be necessary after a biopsy?",
-      "options": [
-        "Specimen is benign",
-        "Positive or involved margins are present",
-        "Pathologist declines case",
-        "Patient is allergic to anesthetic"
-      ],
-      "correctIndex": 1,
-      "explanation": "Positive/affected margins may indicate the need for further excision."
-    },
-    {
-      "id": "eng-0317",
-      "title": "Early biopsies for thyroid nodules were performed using what tool?",
-      "options": [
-        "Scalpel",
-        "Jamshidi needle",
-        "Fine needle",
-        "Endoscope"
-      ],
-      "correctIndex": 2,
-      "explanation": "Abulcasis used a needle for early thyroid biopsies."
-    },
-    {
-      "id": "eng-0318",
-      "title": "Which diagnosis relies heavily on biopsy and fluorescence microscopy?",
-      "options": [
-        "Crescentic glomerulonephritis",
-        "Osteoporosis",
-        "Appendicitis",
-        "Viral hepatitis"
-      ],
-      "correctIndex": 0,
-      "explanation": "Diagnosis of crescentic glomerulonephritis uses biopsy and immunofluorescence."
-    },
-    {
-      "id": "eng-0319",
-      "title": "Which is one key benefit of analyzing cell-free circulating tumor DNA (cfDNA) from blood?",
-      "options": [
-        "It is always more accurate than tissue biopsy",
-        "It provides information on the dynamics of tumor progression and treatment effectiveness",
-        "It only identifies the location of the tumor",
-        "It removes the need for any other tests"
-      ],
-      "correctIndex": 1,
-      "explanation": "cfDNA analysis can monitor tumor dynamics and treatment."
-    },
-    {
-      "id": "eng-0320",
-      "title": "Which of the following statements is TRUE about excisional biopsies?",
-      "options": [
-        "They are the same as needle aspiration biopsies",
-        "They attempt to remove the entire lesion",
-        "They never require fixation or staining",
-        "They can only be performed on bones"
-      ],
-      "correctIndex": 1,
-      "explanation": "Excisional biopsies aim to remove an entire lump or suspicious area."
-    },
-    {
       "id": "eng-0321",
       "title": "What is the main feature that distinguishes Nitinol from most metals?",
       "options": [
@@ -3927,18 +2740,6 @@
       "explanation": "The high-temperature phase of Nitinol is called austenite."
     },
     {
-      "id": "eng-0325",
-      "title": "What is a common use of transseptal puncture in cardiology?",
-      "options": [
-        "Obtaining a left atrial access for atrial fibrillation ablation",
-        "Diagnosing heart murmurs",
-        "Stenting coronary arteries",
-        "Measuring pulmonary artery pressure"
-      ],
-      "correctIndex": 0,
-      "explanation": "TSP is primarily used to gain access to the left atrium, essential for procedures like AF ablation."
-    },
-    {
       "id": "eng-0326",
       "title": "Superelasticity in Nitinol refers to:",
       "options": [
@@ -3949,18 +2750,6 @@
       ],
       "correctIndex": 1,
       "explanation": "Superelasticity is the ability to recover shape instantly after deformation at temperatures above the transformation temperature."
-    },
-    {
-      "id": "eng-0327",
-      "title": "What significant complication is TSP designed to avoid through use of imaging?",
-      "options": [
-        "Aortic puncture",
-        "Mitral regurgitation",
-        "Heart block",
-        "Coronary artery spasm"
-      ],
-      "correctIndex": 0,
-      "explanation": "Imaging helps avoid accidental puncture of the aorta during the procedure."
     },
     {
       "id": "eng-0328",
@@ -3997,18 +2786,6 @@
       ],
       "correctIndex": 2,
       "explanation": "Electropolishing produces a thinner, less crack-prone oxide layer, enhancing fatigue life."
-    },
-    {
-      "id": "eng-0331",
-      "title": "Which anatomical site is the preferred target for TSP?",
-      "options": [
-        "Coronary sinus",
-        "Fossa ovalis",
-        "Mitral valve",
-        "Left ventricular outflow tract"
-      ],
-      "correctIndex": 1,
-      "explanation": "The fossa ovalis is the safest and most accessible point for transseptal puncture."
     },
     {
       "id": "eng-0332",
